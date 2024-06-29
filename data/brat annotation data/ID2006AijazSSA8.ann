@@ -1,0 +1,9 @@
+T1	Con 0 24	Tracking a specific node
+T2	AP 28 38	monitoring
+T3	Con 83 98	violate privacy
+T4	Con 147 174	Network node can be tracked
+T5	Con 179 203	messages can be observed
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T4	
+R4	hasImpact Arg1:T2 Arg2:T5	

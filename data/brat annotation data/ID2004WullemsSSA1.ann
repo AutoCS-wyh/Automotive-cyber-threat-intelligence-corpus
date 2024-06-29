@@ -1,0 +1,12 @@
+T1	AP 0 24	Denial of service attack
+T2	Com 28 54	WLAN communication channel
+T3	Com 94 115	IEEE 802.11 protocols
+T4	AV 184 188	PLME
+T5	AV 191 218	PHY Layer Management Entity
+T6	Con 343 367	Data flows are prevented
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T6	
+R3	based-on Arg1:T1 Arg2:T4	
+R4	based-on Arg1:T1 Arg2:T5	
+R5	hasInterface Arg1:T2 Arg2:T4	
+R6	hasInterface Arg1:T2 Arg2:T5	

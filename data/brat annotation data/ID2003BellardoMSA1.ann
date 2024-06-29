@@ -1,0 +1,49 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 29	WLAN communication
+T3	AP 31 41	Monitoring
+T4	Com 90 103	MAC addresses
+T5	Vul 146 179	Denial-of-Service-Vulnerabilities
+T6	Com 187 202	802.11 Protocol
+T7	AP 204 227	Deauthentication attack
+T8	AP 310 318	spoofing
+T9	Com 322 344	authentication message
+T10	AP 364 387	Deauthentication Attack
+T11	AP 389 399	Monitoring
+T12	Com 448 461	MAC addresses
+T13	AP 582 590	Spoofing
+T14	Com 610 628	MAC layer services
+T15	AP 639 647	Spoofing
+T16	Com 655 679	Deauthentication message
+T17	AP 692 702	DoS attack
+T18	AP 723 731	Spoofing
+T19	Com 739 758	Association Message
+T20	AP 760 768	Spoofing
+T21	Com 772 788	Polling messages
+T22	AP 790 798	Spoofing
+T23	Com 802 815	TIM Embassies
+T24	Con 817 852	Clients can be erroneously awakened
+T25	Con 1113 1143	Blocking communication channel
+T26	AP 1149 1177	Virtual Carrier Sense Attack
+T27	AP 1263 1291	Virtual carrier sense attack
+T28	AP 1365 1373	Spoofing
+T29	Com 1393 1411	MAC layer services
+T30	AP 1422 1430	Spoofing
+T31	Com 1438 1462	Deauthentication message
+T32	AP 1475 1485	DoS attack
+T33	AP 1506 1514	Spoofing
+T34	Com 1522 1541	Association Message
+T35	AP 1543 1551	Spoofing
+T36	Com 1555 1571	Polling messages
+T37	AP 1573 1581	Spoofing
+T38	Com 1585 1598	TIM Embassies
+T39	Con 1600 1635	Clients can be erroneously awakened
+T40	Con 1752 1782	Valid clients can be prevented
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasVulnerability Arg1:T6 Arg2:T5	
+R3	targets Arg1:T8 Arg2:T9	
+R4	targets Arg1:T13 Arg2:T14	
+R5	hasImpact Arg1:T22 Arg2:T24	
+R6	hasImpact Arg1:T26 Arg2:T25	
+R7	targets Arg1:T28 Arg2:T29	
+R8	hasImpact Arg1:T37 Arg2:T39	
+R9	hasImpact Arg1:T37 Arg2:T40	

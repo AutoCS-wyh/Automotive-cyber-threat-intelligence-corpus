@@ -1,0 +1,8 @@
+T1	Com 11 21	identifier
+T2	AP 135 167	Bypassing cryptographic measures
+T3	Con 190 211	monitor an identifier
+T4	Con 315 338	send malicious messages
+T5	Con 342 364	compromize the network
+R1	hasImpact Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T4	
+R3	hasImpact Arg1:T2 Arg2:T5	

@@ -1,0 +1,6 @@
+T1	AP 0 34	Linking a person and an identifier
+T2	Con 94 109	violate privacy
+T3	Con 191 210	Privacy is violated
+T4	AP 216 255	link between a person and an identifier
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T4 Arg2:T3	

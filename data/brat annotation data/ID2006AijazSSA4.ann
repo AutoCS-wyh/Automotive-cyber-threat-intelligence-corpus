@@ -1,0 +1,9 @@
+T1	Con 0 17	Manipulating a ca
+T2	AP 22 55	setting component to service mode
+T3	AP 76 86	manipulate
+T4	Com 90 109	On-Board-Unit input
+T5	AP 111 144	Setting component to service mode
+T6	Con 158 188	test functions can be executed
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T5 Arg2:T6	

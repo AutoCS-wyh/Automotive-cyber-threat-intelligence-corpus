@@ -1,0 +1,9 @@
+T1	Con 0 37	Manipulating of traffic light devices
+T2	AP 41 49	spoofing
+T3	Tool 72 83	MIRT device
+T4	Tool 101 105	MIRT
+T5	AP 123 131	Spoofing
+T6	Con 151 160	Accidents
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	uses Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T5 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	Con 0 14	Gaining access
+T2	AP 29 64	Challenge Forward Prediction Attack
+T3	AP 66 101	Challenge Forward Prediction Attack
+T4	AP 170 205	Challenge Forward Prediction Attack
+R1	hasImpact Arg1:T2 Arg2:T1	

@@ -1,0 +1,12 @@
+T1	Con 0 17	Denial of service
+T2	Com 21 39	WLAN communication
+T3	AP 43 58	jamming attacks
+T4	Com 90 95	email
+T5	Com 97 109	web browsing
+T6	Com 111 124	file transfer
+T7	Com 129 143	telnet traffic
+T8	AP 271 293	Trivial Jamming Attack
+T9	Con 361 381	cannot send any data
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T8 Arg2:T9	

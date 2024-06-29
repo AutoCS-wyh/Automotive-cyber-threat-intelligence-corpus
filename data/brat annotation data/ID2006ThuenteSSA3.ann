@@ -1,0 +1,10 @@
+T1	AP 13 39	Intelligent Jamming Attack
+T2	Con 43 62	disrupt the network
+T3	Com 94 99	email
+T4	Com 101 113	web browsing
+T5	Com 115 128	file transfer
+T6	Com 133 147	telnet traffic
+T7	AP 276 302	Intelligent Jamming Attack
+T8	Con 370 390	cannot send any data
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T7 Arg2:T8	

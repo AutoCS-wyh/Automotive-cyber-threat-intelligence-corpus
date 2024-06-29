@@ -1,0 +1,11 @@
+T1	AP 0 12	Manipulating
+T2	Com 21 28	sensors
+T3	AP 49 59	manipulate
+T4	Com 63 82	On-Board-Unit input
+T5	AP 84 96	Manipulating
+T6	Com 97 110	sensor inputs
+T7	Con 112 141	Sensor inputs are manipulated
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T5 Arg2:T7	

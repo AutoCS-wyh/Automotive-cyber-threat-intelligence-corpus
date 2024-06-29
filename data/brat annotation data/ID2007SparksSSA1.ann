@@ -1,0 +1,6 @@
+T1	Con 0 24	Bypassing TPM protection
+T2	AP 38 54	software attacks
+T3	AP 56 71	Software attack
+T4	Con 309 340	TPM measurement can be bypassed
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T3 Arg2:T4	

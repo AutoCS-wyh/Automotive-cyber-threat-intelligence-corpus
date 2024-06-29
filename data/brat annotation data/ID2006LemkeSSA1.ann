@@ -1,0 +1,6 @@
+T1	Con 0 25	Extraction of secret keys
+T2	AP 39 59	side channel attacks
+T3	AP 61 76	Timing analysis
+T4	Con 342 368	Secret Keys were extracted
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T3 Arg2:T4	

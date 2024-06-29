@@ -1,0 +1,6 @@
+T1	AP 0 19	Side Channel Attack
+T2	AP 28 43	Template Attack
+T3	AP 45 61	Template Attacks
+T4	Con 160 186	Secret Keys were extracted
+R1	hasImpact Arg1:T1 Arg2:T4	
+R2	hasImpact Arg1:T3 Arg2:T4	

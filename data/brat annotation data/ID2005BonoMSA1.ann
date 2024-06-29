@@ -1,0 +1,22 @@
+T1	AP 0 19	Reverse engineering
+T2	Com 27 47	cryptographic cipher
+T3	Com 53 64	RFID device
+T4	AP 66 85	Reverse engineering
+T5	Com 93 99	cipher
+T6	Com 101 107	Cipher
+T7	Com 143 146	Key
+T8	Con 190 214	vehicle could be started
+T9	AP 237 256	Cracking secret key
+T10	AP 258 270	Key Cracking
+T11	Com 272 275	Key
+T12	AP 356 367	Brute Force
+T13	Con 371 391	Key could be cracked
+T14	Con 393 406	Vehicle theft
+R1	targets Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T8	
+R5	hasImpact Arg1:T10 Arg2:T13	
+R6	hasImpact Arg1:T10 Arg2:T14	
+R7	hasImpact Arg1:T12 Arg2:T13	
+R8	hasImpact Arg1:T12 Arg2:T14	

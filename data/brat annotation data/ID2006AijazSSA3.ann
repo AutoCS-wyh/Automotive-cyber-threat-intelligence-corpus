@@ -1,0 +1,7 @@
+T1	Con 0 18	Manipulating a car
+T2	AP 22 48	replacing an On-Board Unit
+T3	AP 69 79	manipulate
+T4	Com 83 102	On-Board-Unit input
+T5	AP 104 127	Replacing On-Board Unit
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	

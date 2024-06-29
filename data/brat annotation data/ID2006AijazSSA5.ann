@@ -1,0 +1,9 @@
+T1	Con 0 18	Manipulating a car
+T2	AP 22 46	executing malicious code
+T3	AP 67 77	manipulate
+T4	Com 81 100	On-Board-Unit input
+T5	AP 102 129	Execution of malicious code
+T6	Con 131 161	Malicious code can be executed
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T5 Arg2:T6	

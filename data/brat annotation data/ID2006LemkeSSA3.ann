@@ -1,0 +1,6 @@
+T1	AP 0 19	Side Channel Attack
+T2	AP 28 55	Differential Power Analysis
+T3	AP 57 84	Differential Power Analysis
+T4	Con 291 317	Secret Keys were extracted
+R1	hasImpact Arg1:T1 Arg2:T4	
+R2	hasImpact Arg1:T3 Arg2:T4	

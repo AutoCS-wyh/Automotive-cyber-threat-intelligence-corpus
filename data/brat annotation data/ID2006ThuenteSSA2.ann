@@ -1,0 +1,10 @@
+T1	AP 0 30	Simple Periodic Jamming Attack
+T2	Con 34 53	disrupt the network
+T3	Com 85 90	email
+T4	Com 92 104	web browsing
+T5	Com 106 119	file transfer
+T6	Com 124 138	telnet traffic
+T7	AP 266 296	Simple Periodic Jamming Attack
+T8	Con 364 384	cannot send any data
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T7 Arg2:T8	

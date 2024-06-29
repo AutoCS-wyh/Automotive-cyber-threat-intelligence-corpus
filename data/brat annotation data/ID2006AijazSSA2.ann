@@ -1,0 +1,9 @@
+T1	Con 0 18	Manipulating a car
+T2	AP 22 56	compromizing component connections
+T3	AP 77 87	manipulate
+T4	Com 91 110	On-Board-Unit input
+T5	AP 112 135	Manipulating connection
+T6	Con 156 191	Component connection is compromized
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T5 Arg2:T6	
