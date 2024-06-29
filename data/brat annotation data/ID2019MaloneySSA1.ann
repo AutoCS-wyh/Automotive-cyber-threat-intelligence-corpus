@@ -1,0 +1,15 @@
+T1	Tool 13 26	hidden dongle
+T2	AP 36 48	manipulation
+T3	Com 66 81	odometer values
+T4	AP 83 88	Spoof
+T5	Com 89 104	odometer values
+T6	Tool 110 125	hardware dongle
+T7	Tool 127 140	Hidden dongle
+T8	Con 141 165	reduces odometer mileage
+T9	Com 174 177	CAN
+R1	uses Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	uses Arg1:T4 Arg2:T6	
+R5	uses Arg1:T4 Arg2:T7	
+R6	hasImpact Arg1:T4 Arg2:T8	

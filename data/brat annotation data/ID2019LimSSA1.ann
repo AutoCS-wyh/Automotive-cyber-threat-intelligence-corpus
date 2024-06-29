@@ -1,0 +1,11 @@
+T1	Con 0 9	Unlocking
+T2	Con 14 32	starting a vehicle
+T3	AP 34 42	Spoofing
+T4	Com 43 51	car keys
+T5	Tool 57 71	key programmer
+T6	Con 73 82	Car theft
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	hasImpact Arg1:T3 Arg2:T2	
+R3	targets Arg1:T3 Arg2:T4	
+R4	uses Arg1:T3 Arg2:T5	
+R5	hasImpact Arg1:T3 Arg2:T6	

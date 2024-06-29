@@ -1,0 +1,15 @@
+T1	AP 0 12	Manipulation
+T2	Com 16 29	AUTOPILOT ECU
+T3	Com 30 38	Firmware
+T4	Com 52 66	WebKit Browser
+T6	Com 118 138	remote mobile device
+T7	Com 146 159	cantx service
+T8	Com 163 176	Autopilot ECU
+T9	AP 178 187	Tampering
+T10	Com 197 213	DSCM CAN message
+T11	Con 217 246	control the electric steering
+R1	targets Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T7 Arg2:T8	
+R4	targets Arg1:T9 Arg2:T10	
+R5	hasImpact Arg1:T9 Arg2:T11	

@@ -1,0 +1,9 @@
+T1	AP 0 12	Relay attack
+T2	Com 16 36	keyless entry system
+T3	Com 67 83	wireless network
+T4	Con 97 106	Car theft
+T5	Con 110 119	break-ins
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	

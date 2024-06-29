@@ -1,0 +1,8 @@
+T2	Tool 47 66	custom Arduino tool
+T3	AP 68 88	Sniffing CAN traffic
+T5	Com 169 176	CAN bus
+T6	AP 178 199	CAN message injection
+R1	uses Arg1:T3 Arg2:T2	
+R2	uses Arg1:T6 Arg2:T2	
+R3	targets Arg1:T3 Arg2:T5	
+R4	targets Arg1:T6 Arg2:T5	

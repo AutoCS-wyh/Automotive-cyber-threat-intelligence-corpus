@@ -1,0 +1,22 @@
+T1	Tool 0 18	Custom Android app
+T2	Tool 26 33	Arduino
+T3	AP 45 68	send malicious messages
+T4	AV 78 85	CAN bus
+T5	Con 89 113	control vehicle features
+T6	Com 119 122	ESP
+T7	Com 126 139	hazard lights
+T8	AP 141 146	Spoof
+T9	AP 147 165	reverse engineered
+T10	Com 166 173	CAN Bus
+T11	Con 183 211	Control lights of car system
+T12	Tool 216 227	Android app
+R1	uses Arg1:T3 Arg2:T1	
+R2	uses Arg1:T3 Arg2:T2	
+R4	hasImpact Arg1:T3 Arg2:T5	
+R5	targets Arg1:T3 Arg2:T6	
+R6	targets Arg1:T3 Arg2:T7	
+R3	based-on Arg1:T3 Arg2:T4	
+R7	targets Arg1:T8 Arg2:T10	
+R8	targets Arg1:T9 Arg2:T10	
+R9	hasImpact Arg1:T8 Arg2:T11	
+R10	uses Arg1:T8 Arg2:T12	

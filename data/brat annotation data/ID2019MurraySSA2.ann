@@ -1,0 +1,10 @@
+T1	Con 0 32	Influencing the driving behavior
+T2	AP 57 88	manipulating navigation signals
+T3	AP 90 98	Spoofing
+T4	Com 105 117	GNSS signals
+T5	Con 140 161	Vehicle missed a turn
+T6	Con 166 186	drove of the streets
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T5	
+R4	hasImpact Arg1:T3 Arg2:T6	

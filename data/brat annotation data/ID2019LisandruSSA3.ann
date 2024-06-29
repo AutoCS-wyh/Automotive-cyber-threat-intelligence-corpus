@@ -1,0 +1,11 @@
+T1	AP 0 27	Modifying vehicle functions
+T2	Com 33 49	seatbelt warning
+T3	Veh 55 67	Dacia Duster
+T4	Tool 81 109	CAN programming tool DDT4ALL
+T5	Con 111 127	Enable functions
+T6	Con 186 203	Adjust media skin
+R1	targets Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	uses Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	

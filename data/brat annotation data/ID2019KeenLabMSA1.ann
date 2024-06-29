@@ -1,0 +1,41 @@
+T1	Veh 40 55	Tesla's Model X
+T2	Veh 60 67	Model S
+T3	Com 68 81	Wi-Fi modules
+T4	AP 97 119	buffer overflow attack
+T5	AP 121 138	Reverse engineers
+T6	Com 153 159	kernel
+T7	Com 163 167	chip
+T8	Com 194 202	firmware
+T9	Com 234 242	Firmware
+T10	Com 254 274	interrupt controller
+T11	Con 339 352	Heap overflow
+T12	Con 357 372	DoS of firmware
+T13	AP 244 253	Overwrite
+T14	AP 374 391	Inject shell code
+T15	Com 397 407	DMA buffer
+T16	Con 432 446	Code execution
+T17	Com 450 460	wi-fi chip
+T18	AP 485 493	tampered
+T19	Com 544 561	Linux host system
+T20	Con 563 577	Stack overflow
+T21	Con 579 599	shell code execution
+T22	Con 603 606	DoS
+T23	Com 610 627	Linux host system
+T24	AP 629 648	Injected shell code
+T25	AP 649 656	tampers
+T26	Con 699 719	Remote telnet access
+R1	consists-of Arg1:T3 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	targets Arg1:T4 Arg2:T3	
+R4	targets Arg1:T5 Arg2:T8	
+R5	targets Arg1:T13 Arg2:T10	
+R7	hasImpact Arg1:T13 Arg2:T11	
+R8	hasImpact Arg1:T13 Arg2:T12	
+R9	targets Arg1:T14 Arg2:T15	
+R10	hasImpact Arg1:T14 Arg2:T16	
+R11	hasImpact Arg1:T18 Arg2:T20	
+R12	hasImpact Arg1:T18 Arg2:T21	
+R13	hasImpact Arg1:T18 Arg2:T22	
+R14	hasImpact Arg1:T24 Arg2:T26	
+R15	hasImpact Arg1:T25 Arg2:T26	
+R6	consists-of Arg1:T8 Arg2:T3	

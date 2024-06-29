@@ -1,0 +1,8 @@
+T1	AP 0 12	Relay attack
+T2	Com 17 36	eyless entry system
+T3	AP 54 66	Relay attack
+T4	Com 70 87	keyless go system
+T5	Con 89 98	Car theft
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T5	

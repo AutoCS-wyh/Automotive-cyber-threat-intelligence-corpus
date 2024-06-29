@@ -1,0 +1,10 @@
+T1	Veh 35 40	Skoda
+T2	Com 41 55	mobile app API
+T3	AP 120 140	Reroute HTTP traffic
+T4	Con 144 168	access unauthorized data
+T5	Con 170 207	Obtain any car's vehicleHealthReports
+T6	Con 214 255	get access to vehicleHealthReport details
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T5	
+R4	hasImpact Arg1:T3 Arg2:T6	

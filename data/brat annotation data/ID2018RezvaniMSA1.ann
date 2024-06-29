@@ -1,0 +1,19 @@
+T1	AP 0 8	Spoofing
+T2	Com 33 41	ethernet
+T3	Com 57 68	rear camera
+T4	Con 72 100	start and stop video streams
+T5	Com 140 151	rear camera
+T6	Con 153 189	Unauthorized start/stop video stream
+T7	Tool 206 224	False video stream
+T8	AP 232 240	injected
+T9	Com 248 252	ADAS
+T10	Com 253 261	camera's
+T11	Com 262 270	ethernet
+T12	AP 283 315	Injecting malicious video stream
+R1	targets Arg1:T1 Arg2:T3	
+R2	hasImpact Arg1:T1 Arg2:T4	
+R3	hasImpact Arg1:T1 Arg2:T6	
+R4	uses Arg1:T8 Arg2:T7	
+R6	consists-of Arg1:T10 Arg2:T9	
+R5	targets Arg1:T8 Arg2:T9	
+R7	targets Arg1:T12 Arg2:T9	

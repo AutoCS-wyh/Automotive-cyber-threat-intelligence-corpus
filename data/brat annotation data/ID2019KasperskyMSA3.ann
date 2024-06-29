@@ -1,0 +1,9 @@
+T1	Com 45 61	third party tool
+T2	Com 67 77	OBD Dongle
+T3	Com 79 92	alarm systems
+T4	Com 145 163	Smart Alarm system
+T5	Com 169 184	user smartphone
+T6	Con 186 223	Access to Security System application
+T7	AP 239 247	Spoofing
+T8	Con 283 308	Vehicle doors were opened
+R1	hasImpact Arg1:T7 Arg2:T8	

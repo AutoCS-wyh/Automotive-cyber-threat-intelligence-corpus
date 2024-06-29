@@ -1,0 +1,17 @@
+T1	Com 45 61	third party tool
+T2	Com 67 77	OBD Dongle
+T3	Com 79 92	alarm systems
+T4	Com 146 159	mobile device
+T5	Com 165 175	OBD-dongle
+T6	Com 193 206	mobile device
+T7	Com 211 221	OBD-Dongle
+T8	Tool 260 276	malicious device
+T9	Com 282 292	OBD-dongle
+T10	Tool 294 310	Malicious device
+T11	Con 311 322	gets access
+T12	Com 330 340	OBD-Dongle
+T15	Con 399 403	read
+T13	Com 446 453	CAN bus
+T14	Com 466 469	OBD
+T16	Vul 231 247	without password
+R1	hasVulnerability Arg1:T7 Arg2:T16	

@@ -1,0 +1,13 @@
+T1	Com 0 7	Key fob
+T2	AP 8 23	spoofing attack
+T3	Con 24 35	unlocks car
+T4	AP 48 51	jam
+T5	Com 52 59	key fob
+T6	AP 71 77	Replay
+T7	Com 78 85	key fob
+T8	Con 94 105	Unlock cars
+R1	targets Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	targets Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T6 Arg2:T8	

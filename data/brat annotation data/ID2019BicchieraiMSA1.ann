@@ -1,0 +1,16 @@
+T1	Com 10 26	GPS tracking app
+T2	Con 47 82	disable a vehicle's engine remotely
+T3	AP 84 103	Reverse engineering
+T4	Com 104 132	GPS tracking device software
+T5	AP 201 214	Brute forcing
+T6	Con 238 265	User accounts were acquired
+T7	Con 267 290	Extraction of user data
+T8	Con 396 431	Deactivation of the vehicle engines
+T9	Com 446 449	app
+R1	targets Arg1:T3 Arg2:T4	
+R2	targets Arg1:T3 Arg2:T1	
+R3	hasImpact Arg1:T3 Arg2:T2	
+R4	hasImpact Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T5 Arg2:T7	
+R6	hasImpact Arg1:T3 Arg2:T8	
+R7	hasImpact Arg1:T5 Arg2:T8	

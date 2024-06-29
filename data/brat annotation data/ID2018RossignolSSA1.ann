@@ -1,0 +1,11 @@
+T1	AP 0 22	Monitoring CAN traffic
+T2	Veh 28 40	Cadillac ELR
+T3	AV 49 57	OBD port
+T4	Com 73 80	CAN-Bus
+T5	AV 85 93	OBD port
+T6	Com 174 177	GPS
+R1	based-on Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T4 Arg2:T2	
+R3	targets Arg1:T1 Arg2:T4	
+R4	hasInterface Arg1:T4 Arg2:T5	
+R5	consists-of Arg1:T6 Arg2:T2	

@@ -1,0 +1,9 @@
+T1	Com 12 17	LiDAR
+T2	Com 24 59	autonomous driving detection system
+T3	Tool 69 89	adversarial examples
+T4	AP 100 129	white box LiDAR-Adv algorithm
+T5	Con 131 154	Road objects are hidden
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	uses Arg1:T4 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T2	
+R4	hasImpact Arg1:T4 Arg2:T5	

@@ -1,0 +1,5 @@
+T2	Con 25 44	add functionalities
+T3	AP 61 79	Replay CAN signals
+T4	Con 81 100	Adding new features
+R1	hasImpact Arg1:T3 Arg2:T2	
+R2	hasImpact Arg1:T3 Arg2:T4	

@@ -1,0 +1,6 @@
+T1	Com 0 30	Vgate iCar 2 WiFi OBD2 Dongles
+T2	Con 81 114	control safety-critical functions
+T3	Com 149 172	OBD Dongle WLAN network
+T4	Com 194 211	OBD Dongle's WLAN
+T5	Com 264 274	OBD Dongle
+T6	Com 298 302	WLAN

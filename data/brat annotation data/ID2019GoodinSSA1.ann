@@ -1,0 +1,12 @@
+T1	Con 0 19	Tracking and access
+T2	Veh 43 52	Ford cars
+T3	Vul 83 110	improper account management
+T4	Com 118 137	FordPass mobile app
+T5	Com 159 169	mobile app
+T6	Con 190 207	Location tracking
+T7	Con 209 229	start/stop of engine
+R1	hasVulnerability Arg1:T4 Arg2:T3	
+R2	hasImpact Arg1:T3 Arg2:T1	
+R3	consists-of Arg1:T4 Arg2:T2	
+R4	hasImpact Arg1:T3 Arg2:T6	
+R5	hasImpact Arg1:T3 Arg2:T7	

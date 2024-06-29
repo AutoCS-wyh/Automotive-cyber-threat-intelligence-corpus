@@ -1,0 +1,13 @@
+T1	Con 0 13	Vehicle theft
+T2	AP 17 24	jamming
+T3	Com 31 35	GPRS
+T4	Con 48 62	getting access
+T5	Com 79 91	magnetic key
+T6	AP 93 100	Jamming
+T7	Com 101 105	GPRS
+T8	Con 114 152	Vehicle's security system was disabled
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T4	
+R4	targets Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T6 Arg2:T8	

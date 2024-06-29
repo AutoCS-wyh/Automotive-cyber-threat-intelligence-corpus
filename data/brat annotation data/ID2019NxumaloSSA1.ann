@@ -1,0 +1,11 @@
+T1	AP 0 18	Social engineering
+T2	Con 54 69	system upgrades
+T3	Con 97 115	steal the vehicles
+T4	Com 244 248	keys
+T5	Con 250 259	Car theft
+T6	Con 261 266	fraud
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	targets Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	

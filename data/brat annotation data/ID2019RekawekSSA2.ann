@@ -1,0 +1,13 @@
+T1	Veh 35 40	Skoda
+T2	Com 41 55	mobile app API
+T3	Com 61 94	health report generation function
+T4	AP 116 140	denial of service attack
+T5	AP 142 145	Jam
+T6	Com 146 158	HTTP request
+T7	Con 190 227	Globally block vehicle health reports
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	targets Arg1:T4 Arg2:T3	
+R4	targets Arg1:T5 Arg2:T6	
+R5	consists-of Arg1:T6 Arg2:T3	
+R6	hasImpact Arg1:T5 Arg2:T7	

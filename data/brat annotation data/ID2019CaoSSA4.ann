@@ -1,0 +1,6 @@
+T1	Com 12 17	LiDAR
+T2	Com 24 59	autonomous driving detection system
+T3	Tool 69 89	adversarial examples
+T4	Tool 106 124	adversarial object
+T5	Con 214 226	misdetection
+R1	consists-of Arg1:T1 Arg2:T2	

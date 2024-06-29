@@ -1,0 +1,8 @@
+T1	Com 44 63	third party devices
+T2	Com 98 106	Firmware
+T3	Com 123 140	OBD-Dongle device
+T4	Com 171 179	firmware
+T5	AP 201 233	arbitrary code could be injected
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T4 Arg2:T3	
+R3	targets Arg1:T5 Arg2:T4	

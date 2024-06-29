@@ -1,0 +1,14 @@
+T1	Con 0 28	Displaying false information
+T2	Com 32 49	Infotainment unit
+T3	Veh 53 66	Telsa Model 3
+T4	Con 76 99	firmware code execution
+T5	Vul 114 132	render process bug
+T6	Com 136 155	infotainment system
+T7	Con 157 182	Display a crafted message
+T8	Com 212 231	infotainment system
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	hasVulnerability Arg1:T6 Arg2:T5	
+R3	hasImpact Arg1:T5 Arg2:T1	
+R4	hasImpact Arg1:T5 Arg2:T4	
+R5	consists-of Arg1:T6 Arg2:T3	
+R6	hasImpact Arg1:T5 Arg2:T7	

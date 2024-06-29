@@ -1,0 +1,8 @@
+T1	AP 0 27	Cross-Site-Scripting attack
+T2	Con 43 68	manipulate a Tesla's data
+T3	Com 172 179	website
+T4	Ide 184 191	Tesla's
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	related-to Arg1:T3 Arg2:T4	
+T5	Com 287 309	over the air functions

@@ -1,0 +1,9 @@
+T1	Com 72 91	Infotainment system
+T2	Veh 97 111	Chevrolet Volt
+T3	AP 113 132	Reverse engineering
+T4	Com 136 152	Infotainment ECU
+T5	Con 154 174	Data breach/ Privacy
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	consists-of Arg1:T4 Arg2:T2	
+R4	hasImpact Arg1:T3 Arg2:T5	

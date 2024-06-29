@@ -1,0 +1,30 @@
+T1	AP 0 24	Man-in-the-Middle Attack
+T2	Com 28 34	AutoPi
+T3	Com 35 40	Wi-Fi
+T4	Com 72 78	AutoPi
+T5	Com 79 89	OBD Dongle
+T6	Com 106 118	Cloud server
+T7	AP 126 137	intercepted
+T8	Com 50 63	Communication
+T9	AP 215 232	Man-in-the-Middle
+T10	Com 236 252	remote interface
+T11	Com 272 282	OBD-Dongle
+T12	Com 309 317	firmware
+T13	Com 330 334	WiFi
+T14	Com 358 374	internal network
+T15	Com 382 392	OBD-Dongle
+T16	Com 395 403	Firewall
+T17	AP 406 430	Man-in-the-Middle attack
+T18	Com 434 458	AutoPi remote connection
+T19	Con 460 474	Access to data
+T20	Com 499 512	AutoPi cloud.
+T21	Com 528 536	firmware
+T22	Con 538 555	Denial-of Service
+R1	targets Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T5 Arg2:T4	
+R4	targets Arg1:T7 Arg2:T8	
+R5	targets Arg1:T9 Arg2:T10	
+R6	consists-of Arg1:T14 Arg2:T15	
+R7	targets Arg1:T17 Arg2:T18	
+R8	hasImpact Arg1:T17 Arg2:T19	

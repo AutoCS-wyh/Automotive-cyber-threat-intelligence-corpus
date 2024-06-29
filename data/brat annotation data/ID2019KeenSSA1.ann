@@ -1,0 +1,16 @@
+T1	Tool 0 20	Adversarial examples
+T2	Com 45 63	Autowiper function
+T3	Veh 69 74	Tesla
+T4	Tool 84 104	adverserial pictures
+T5	AP 108 115	trigger
+T6	AP 33 40	trigger
+T7	Com 116 126	autowipers
+T8	Com 137 155	Autowiper function
+T9	Con 156 198	doesn't correct rain or moisture correctly
+R1	uses Arg1:T6 Arg2:T1	
+R2	targets Arg1:T6 Arg2:T2	
+R3	consists-of Arg1:T2 Arg2:T3	
+R4	uses Arg1:T5 Arg2:T4	
+R5	targets Arg1:T5 Arg2:T7	
+R6	targets Arg1:T5 Arg2:T8	
+R7	hasImpact Arg1:T5 Arg2:T9	

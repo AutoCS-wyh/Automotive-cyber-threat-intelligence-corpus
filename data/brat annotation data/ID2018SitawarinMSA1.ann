@@ -1,0 +1,17 @@
+T1	AP 0 22	Altering traffic signs
+T2	Con 26 62	mislead autonomous vehicle functions
+R1	hasImpact Arg1:T1 Arg2:T2	
+T3	AP 64 95	Adversarial Traffic Sign Attack
+T4	AP 195 220	Virtual white box attacks
+T5	AP 241 273	Adversarial Traffic Sign Attacks
+T6	AP 312 337	Virtual black box attacks
+T7	AP 430 461	Adversarial Traffic Sign Attack
+T8	AP 471 482	logo attack
+T9	AP 492 510	custom sign attack
+T10	AP 533 564	Adversarial traffic sign attack
+T11	AP 574 585	logo attack
+T12	AP 621 639	custom sign attack
+T13	AP 649 671	Altering traffic signs
+T14	Tool 677 696	lenticular printing
+T15	AP 708 734	Lenticular Printing Attack
+R2	uses Arg1:T13 Arg2:T14	

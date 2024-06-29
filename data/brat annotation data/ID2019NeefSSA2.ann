@@ -1,0 +1,8 @@
+T1	Con 0 25	Influencing LiDAR sensors
+T2	AP 29 44	throwing powder
+T3	Com 61 73	LiDAR sensor
+T4	Com 75 87	LiDAR sensor
+T5	Con 130 134	stop
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T5	

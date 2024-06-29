@@ -1,0 +1,10 @@
+T1	Com 45 61	third party tool
+T2	Com 67 77	OBD Dongle
+T3	Com 79 92	alarm systems
+T4	AP 135 148	Eavesdropping
+T5	Com 149 160	TPMS sensor
+T6	Com 167 178	TPMS sensor
+T7	AP 213 244	Sending malicious TPMS signals.
+T8	Con 245 296	False pressure and temperature values are displayed
+R1	targets Arg1:T4 Arg2:T5	
+R2	hasImpact Arg1:T7 Arg2:T8	

@@ -1,0 +1,5 @@
+T1	AP 0 12	Relay attack
+T2	Com 16 36	keyless entry system
+T3	Con 51 69	Vehicle was opened
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	

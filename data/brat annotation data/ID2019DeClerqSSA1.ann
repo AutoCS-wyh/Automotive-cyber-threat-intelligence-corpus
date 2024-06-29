@@ -1,0 +1,13 @@
+T1	Com 0 7	Key fob
+T2	AP 8 16	spoofing
+T3	Veh 43 48	Lexus
+T4	Veh 53 61	Mercedes
+T5	AP 85 98	reprogramming
+T6	Com 181 184	key
+T7	Con 186 195	Car theft
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T1 Arg2:T4	
+R3	targets Arg1:T2 Arg2:T1	
+R4	targets Arg1:T5 Arg2:T1	
+R5	hasImpact Arg1:T2 Arg2:T7	
+R6	hasImpact Arg1:T5 Arg2:T7	

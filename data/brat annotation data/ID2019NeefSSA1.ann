@@ -1,0 +1,10 @@
+T1	Con 0 25	Influencing LiDAR sensors
+T2	AP 29 48	hiding road objects
+T3	Tool 54 69	black trash bag
+T4	Com 84 89	LiDAR
+T5	Con 99 133	Road objects could not be detected
+T6	Com 141 146	LiDAR
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	uses Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	hasImpact Arg1:T2 Arg2:T5	

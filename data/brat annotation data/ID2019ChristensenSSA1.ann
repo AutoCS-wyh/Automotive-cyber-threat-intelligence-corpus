@@ -1,0 +1,14 @@
+T1	Tool 0 28	ELM327 OBD2 Bluetooth device
+T2	AP 40 63	send malicious messages
+T3	AV 68 71	OBD
+T4	Con 75 100	trigger vehicle functions
+T5	AP 102 132	Sending arbitrary CAN messages
+T6	Tool 137 157	OBD-Bluetooth-Dongle
+T7	Com 187 194	CAN-Bus
+T8	Tool 208 228	Bluetooth-OBD-Dongle
+R1	uses Arg1:T2 Arg2:T1	
+R2	based-on Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T4	
+R4	uses Arg1:T5 Arg2:T6	
+R5	uses Arg1:T5 Arg2:T8	
+R6	uses Arg1:T2 Arg2:T6	

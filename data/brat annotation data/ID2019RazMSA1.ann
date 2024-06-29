@@ -1,0 +1,16 @@
+T1	Com 0 31	Tire Pressure Monitoring System
+T2	Com 34 38	TPMS
+T3	AP 55 66	intercepted
+T4	AP 71 78	spoofed
+T5	AP 80 96	Reverse engineer
+T6	Com 97 101	TPMS
+T7	AP 110 116	Replay
+T8	Com 117 128	TPMS signal
+T9	Con 151 169	Driver distraction
+R1	targets Arg1:T3 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	targets Arg1:T4 Arg2:T1	
+R4	targets Arg1:T4 Arg2:T2	
+R5	targets Arg1:T5 Arg2:T6	
+R6	targets Arg1:T7 Arg2:T8	
+R7	hasImpact Arg1:T7 Arg2:T9	

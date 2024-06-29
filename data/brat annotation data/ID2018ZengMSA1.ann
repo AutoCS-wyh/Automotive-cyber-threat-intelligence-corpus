@@ -1,0 +1,15 @@
+T1	AP 25 32	spoofed
+T2	Com 36 50	GPS navigation
+T3	Tool 69 85	malicious device
+T4	Tool 149 160	GPS spoofer
+T5	Com 215 223	cellular
+T6	Com 236 239	GPS
+T7	AP 256 267	manipulated
+T8	AP 317 325	Spoofing
+T9	Con 367 397	changes or route modifications
+T10	Con 410 419	accidents
+R1	targets Arg1:T1 Arg2:T2	
+R2	uses Arg1:T1 Arg2:T3	
+R3	targets Arg1:T7 Arg2:T6	
+R4	hasImpact Arg1:T8 Arg2:T9	
+R5	hasImpact Arg1:T8 Arg2:T10	

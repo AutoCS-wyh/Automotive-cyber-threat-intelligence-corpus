@@ -1,0 +1,15 @@
+T1	Tool 0 14	False stickers
+T2	Com 37 61	lane detection mechanism
+T3	Veh 67 72	Telsa
+T4	Tool 80 88	stickers
+T5	AP 104 111	mislead
+T6	Com 112 136	lane detection algorithm
+T7	Com 147 170	lane detection function
+T8	Con 232 253	into the reverse lane
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	uses Arg1:T5 Arg2:T1	
+R3	uses Arg1:T5 Arg2:T4	
+R4	targets Arg1:T5 Arg2:T2	
+R5	targets Arg1:T5 Arg2:T6	
+R6	targets Arg1:T5 Arg2:T7	
+R7	hasImpact Arg1:T5 Arg2:T8	

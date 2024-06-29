@@ -1,0 +1,24 @@
+T1	Con 0 13	Remote access
+T2	Com 17 34	Multimedia system
+T3	Veh 38 44	Toyota
+T4	Veh 49 54	Lexus
+T5	AP 65 83	brute force attack
+T6	Com 91 105	authentication
+T7	Com 113 139	Telenav Scout GPS Link app
+T8	AP 149 162	Scanning port
+T9	AV 172 180	cellular
+T10	AP 224 244	Changing hash values
+T11	Com 249 263	authentication
+T12	Com 293 315	brute force protection
+T13	Com 317 343	Telenav Scout GPS Link app
+T14	Con 351 370	controlled remotely
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T6	
+R4	consists-of Arg1:T6 Arg2:T7	
+R5	consists-of Arg1:T7 Arg2:T2	
+R6	hasImpact Arg1:T5 Arg2:T1	
+R7	based-on Arg1:T8 Arg2:T9	
+R8	targets Arg1:T10 Arg2:T11	
+R9	consists-of Arg1:T11 Arg2:T12	
+R10	hasImpact Arg1:T5 Arg2:T14	

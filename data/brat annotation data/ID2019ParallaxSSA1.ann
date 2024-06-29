@@ -1,0 +1,15 @@
+T1	AP 0 8	Spoofing
+T2	Com 16 23	key fob
+T3	Com 29 33	Ford
+T4	AP 35 41	Replay
+T5	Com 42 49	key fob
+T6	Com 66 86	rolling code counter
+T7	Com 90 106	body control uni
+T8	Con 109 132	Reset rolling key table
+T9	Con 149 159	unlock car
+R1	targets Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	consists-of Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T4 Arg2:T8	
+R6	hasImpact Arg1:T4 Arg2:T9	

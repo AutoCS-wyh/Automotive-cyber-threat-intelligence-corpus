@@ -1,0 +1,18 @@
+T1	Con 0 12	Manipulating
+T2	Con 17 44	tuning of vehicle functions
+T3	Tool 54 68	OBD-CAN device
+T4	Com 70 77	CAN bus
+T5	AP 92 111	reverse engineering
+T6	AP 113 129	Reverse engineer
+T7	Com 130 137	CAN Bus
+T8	Com 150 163	control panel
+T9	AP 165 171	Replay
+T10	AP 175 193	reverse engineered
+T11	Con 208 238	Control of car's control panel
+R1	targets Arg1:T5 Arg2:T4	
+R2	uses Arg1:T5 Arg2:T3	
+R3	hasImpact Arg1:T5 Arg2:T2	
+R4	hasImpact Arg1:T5 Arg2:T1	
+R5	targets Arg1:T6 Arg2:T7	
+R6	hasImpact Arg1:T9 Arg2:T11	
+R7	hasImpact Arg1:T10 Arg2:T11	

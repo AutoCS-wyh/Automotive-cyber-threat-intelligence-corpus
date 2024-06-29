@@ -1,0 +1,19 @@
+T1	AP 0 21	Sniffing CAN messages
+T2	Com 52 66	cruise control
+T3	AP 68 76	Sniffing
+T4	Com 113 127	Cruise Control
+T5	AP 178 186	Spoofing
+T6	Con 238 248	accelerate
+T7	Con 253 263	decelerate
+T8	AP 277 285	Spoofing
+T9	Con 332 351	Vehicle accelerates
+T10	Com 397 411	cruise control
+T11	AP 419 427	Spoofing
+T12	Con 463 482	Vehicle decelerates
+T13	Com 516 530	cruise control
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T5 Arg2:T7	
+R5	hasImpact Arg1:T8 Arg2:T9	
+R6	hasImpact Arg1:T11 Arg2:T12	
