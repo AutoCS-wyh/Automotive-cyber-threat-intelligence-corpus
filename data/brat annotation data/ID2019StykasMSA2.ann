@@ -1,0 +1,14 @@
+T1	Com 40 57	tracking app APIs
+T2	Con 115 122	tracked
+T3	Con 127 138	immobilized
+T4	AP 155 178	Adding malicious device
+T5	Con 191 213	devices can be deleted
+T6	Con 318 343	access to the mobiel apps
+T7	AP 357 378	Tracking the location
+T8	Con 405 423	Real-Time tracking
+T9	AP 436 469	Deleting theft alert subscription
+T10	Con 507 513	stolen
+R1	hasImpact Arg1:T4 Arg2:T5	
+R2	hasImpact Arg1:T4 Arg2:T6	
+R3	hasImpact Arg1:T7 Arg2:T8	
+R4	hasImpact Arg1:T9 Arg2:T10	

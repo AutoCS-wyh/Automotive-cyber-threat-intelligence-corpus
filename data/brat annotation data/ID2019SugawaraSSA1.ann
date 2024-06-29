@@ -1,0 +1,12 @@
+T1	AP 0 24	Injecting voice commands
+T2	Veh 28 33	Tesla
+T3	Veh 38 42	Ford
+T4	Con 56 62	unlock
+T5	Con 71 85	start the cars
+T6	AP 87 117	Inject modulated laser signals
+T7	Con 145 151	Unlock
+T8	Con 178 190	start engine
+R1	hasImpact Arg1:T1 Arg2:T4	
+R2	hasImpact Arg1:T1 Arg2:T5	
+R3	hasImpact Arg1:T6 Arg2:T7	
+R4	hasImpact Arg1:T6 Arg2:T8	

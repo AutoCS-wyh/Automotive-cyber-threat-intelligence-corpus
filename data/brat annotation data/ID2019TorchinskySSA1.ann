@@ -1,0 +1,8 @@
+T1	AP 0 8	Spoofing
+T2	Com 29 32	GPS
+T3	Con 42 68	display of false positions
+T4	AP 70 78	Spoofing
+T5	Com 79 82	GPS
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	

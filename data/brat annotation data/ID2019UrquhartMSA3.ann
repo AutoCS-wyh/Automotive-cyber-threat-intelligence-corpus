@@ -1,0 +1,12 @@
+T1	Veh 35 57	Skoda Octavia vRS 2017
+T2	AP 91 110	Reverse engineering
+T3	Com 111 129	VW-TP 2.0 protocol
+T4	Com 152 164	internal CAN
+T5	AP 191 199	sniffing
+T6	AP 231 240	Capturing
+T7	AP 307 326	Changing parameters
+T8	Con 349 384	Start/Stop system could be disabled
+R1	targets Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T1	
+R3	consists-of Arg1:T4 Arg2:T1	
+R4	hasImpact Arg1:T7 Arg2:T8	

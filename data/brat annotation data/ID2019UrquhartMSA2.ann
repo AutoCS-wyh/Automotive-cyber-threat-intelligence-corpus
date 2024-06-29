@@ -1,0 +1,15 @@
+T1	Veh 35 57	Skoda Octavia vRS 2017
+T2	AP 91 103	Portscanning
+T3	Com 111 130	Infotainment system
+T4	AP 249 257	Scanning
+T5	Tool 263 273	Metasploit
+T6	Tool 275 286	Meterpreter
+T7	AP 318 326	Scanning
+T8	Tool 332 342	Metasploit
+T9	Com 358 368	Web-Server
+R1	targets Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T1	
+R3	uses Arg1:T4 Arg2:T5	
+R4	targets Arg1:T4 Arg2:T3	
+R5	uses Arg1:T4 Arg2:T6	
+R6	uses Arg1:T7 Arg2:T8	

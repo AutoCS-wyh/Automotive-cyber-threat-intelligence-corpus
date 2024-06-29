@@ -1,0 +1,41 @@
+T1	Veh 0 5	Tesla
+T2	Com 6 13	key fob
+T3	AP 70 83	brute forcing
+T4	Com 88 108	encryption algorithm
+T5	Com 147 154	key fob
+T6	AV 190 217	SPI communication interface
+T7	Com 396 401	DST40
+T8	Com 434 457	cryptographic functions
+T9	AP 476 495	Firmware extraction
+T10	Com 500 507	key fob
+T11	AV 508 512	JTAG
+T12	Com 514 522	Firmware
+T13	AP 538 555	Firmware Analysis
+T14	Com 601 615	crypto ciphers
+T15	Vul 638 664	key length is only 40 bits
+T16	AP 666 683	Protocol Analysis
+T17	Com 687 700	PKES protocol
+T18	Com 705 733	user-triggered key functions
+T19	Com 735 754	Rolling code scheme
+T20	AP 793 800	jamming
+T21	AP 805 818	eavesdropping
+T22	AP 820 831	Brute Force
+T23	Com 835 844	key space
+T24	Com 852 860	key fobs
+T25	Com 861 875	crypto ciphers
+T26	Com 877 880	Key
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T4 Arg2:T2	
+R3	targets Arg1:T3 Arg2:T4	
+R4	hasInterface Arg1:T5 Arg2:T6	
+R5	targets Arg1:T9 Arg2:T10	
+R6	based-on Arg1:T9 Arg2:T11	
+R7	targets Arg1:T13 Arg2:T12	
+R8	hasVulnerability Arg1:T14 Arg2:T15	
+R9	targets Arg1:T16 Arg2:T17	
+R10	targets Arg1:T16 Arg2:T18	
+R11	targets Arg1:T20 Arg2:T19	
+R12	targets Arg1:T21 Arg2:T19	
+R13	targets Arg1:T22 Arg2:T23	
+R14	consists-of Arg1:T23 Arg2:T25	
+R15	consists-of Arg1:T25 Arg2:T24	

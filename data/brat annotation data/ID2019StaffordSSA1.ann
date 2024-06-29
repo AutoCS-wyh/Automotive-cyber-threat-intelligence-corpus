@@ -1,0 +1,13 @@
+T1	Con 0 37	Controlling several vehicle functions
+T2	Veh 43 57	Chevrolet Volt
+T3	Tool 66 85	custom Raspberry Pi
+T4	Tool 92 97	modem
+T5	AP 99 107	Spoofing
+T6	Com 108 115	CAN Bus
+T7	Con 125 163	Control of different vehicle functions
+R1	targets Arg1:T5 Arg2:T6	
+R2	hasImpact Arg1:T5 Arg2:T1	
+R3	consists-of Arg1:T6 Arg2:T2	
+R4	uses Arg1:T5 Arg2:T3	
+R5	uses Arg1:T5 Arg2:T4	
+R6	hasImpact Arg1:T5 Arg2:T7	

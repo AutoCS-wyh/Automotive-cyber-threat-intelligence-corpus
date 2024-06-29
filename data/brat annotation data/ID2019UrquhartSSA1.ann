@@ -1,0 +1,8 @@
+T1	Con 0 28	Activating vehicle functions
+T2	Con 30 41	configuring
+T3	Con 45 74	enabling additional functions
+T4	Veh 80 102	Skoda Octavia vRS 2017
+T5	Con 104 133	Activating reverse mirror dip
+T6	Con 144 169	Enabling high beam assist
+T7	Ide 213 218	Skoda
+R1	related-to Arg1:T4 Arg2:T7	

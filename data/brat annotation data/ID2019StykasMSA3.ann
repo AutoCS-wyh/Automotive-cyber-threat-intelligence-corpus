@@ -1,0 +1,9 @@
+T1	Com 40 57	tracking app APIs
+T2	Con 115 122	tracked
+T3	Con 127 138	immobilized
+T4	AP 155 188	Deleting theft alert subscription
+T5	Con 226 232	stolen
+T6	AP 262 290	Sending immobilizing command
+T7	Con 292 320	Vehicle could not be started
+R1	hasImpact Arg1:T4 Arg2:T5	
+R2	hasImpact Arg1:T6 Arg2:T7	
