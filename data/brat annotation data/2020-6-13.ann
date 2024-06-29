@@ -1,0 +1,11 @@
+T1	Com 25 41	Heads Up Display
+T2	Com 43 46	HUD
+T3	Veh 53 64	C6 Corvette
+T4	Com 90 93	HUD
+T5	Com 172 181	dashboard
+T6	Tool 248 271	Bluetooth OBD-II reader
+T7	Com 364 371	SD card
+T8	Com 384 387	MCU
+T9	Com 429 432	HUD
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T3	

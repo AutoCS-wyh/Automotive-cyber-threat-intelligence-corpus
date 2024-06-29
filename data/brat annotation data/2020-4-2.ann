@@ -1,0 +1,12 @@
+T1	Veh 37 52	Volkswagen Polo
+T2	Com 55 91	infotainment software update process
+T3	Com 168 185	infotainment unit
+T4	Veh 283 293	Ford Focus
+T5	Ide 355 359	Ford
+T6	AP 431 453	intercept the messages
+T7	Veh 475 479	Ford
+T8	Com 488 492	TPMS
+T9	Com 554 571	infotainment unit
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T4 Arg2:T5	
+R3	targets Arg1:T6 Arg2:T8	

@@ -1,0 +1,6 @@
+T1	Veh 12 17	Tesla
+T2	AP 29 64	jailbreaking the vehicles’ software
+T3	Con 77 93	restore features
+T4	Con 252 285	restore the supercharging feature
+R1	hasImpact Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T4	

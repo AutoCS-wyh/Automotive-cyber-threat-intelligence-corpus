@@ -1,0 +1,15 @@
+T1	Com 32 53	remote keyless system
+T2	Veh 57 72	Honda HR-V 2017
+T3	Vul 82 106	sends the same RF signal
+T4	Com 181 188	key fob
+T5	Com 245 248	fob
+T6	AP 294 307	replay attack
+T7	Com 337 340	fob
+T8	Com 406 420	keyless system
+T9	AP 447 461	replay attacks
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	hasVulnerability Arg1:T1 Arg2:T3	
+R3	targets Arg1:T6 Arg2:T3	
+R4	targets Arg1:T6 Arg2:T1	
+R5	targets Arg1:T6 Arg2:T4	
+R6	targets Arg1:T9 Arg2:T8	

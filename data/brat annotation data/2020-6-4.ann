@@ -1,0 +1,20 @@
+T1	Ide 0 5	Honda
+T2	Com 8 16	networks
+T3	Loc 20 26	Europe
+T4	Loc 31 36	Japan
+T5	AP 85 114	Snake Ransomware cyber-attack
+T6	AP 135 145	ransomware
+T7	Tool 147 152	Snake
+T8	Com 175 201	industrial control systems
+T9	Ide 267 272	Honda
+T10	Con 273 291	stopped production
+T11	AP 340 350	ransomware
+R1	related-to Arg1:T2 Arg2:T1	
+R2	located-at Arg1:T1 Arg2:T3	
+R3	located-at Arg1:T1 Arg2:T4	
+R4	targets Arg1:T5 Arg2:T2	
+R5	located-at Arg1:T5 Arg2:T3	
+R6	located-at Arg1:T5 Arg2:T4	
+R7	uses Arg1:T6 Arg2:T7	
+R8	targets Arg1:T6 Arg2:T8	
+R9	hasImpact Arg1:T6 Arg2:T10	

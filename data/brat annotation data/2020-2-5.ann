@@ -1,0 +1,13 @@
+T1	Ide 0 10	Toll Group
+T2	Loc 15 25	Australian
+T3	AP 75 92	ransomware attack
+T4	CoA 116 137	disable their systems
+T5	Con 179 195	impacted several
+T6	AP 337 347	ransomware
+T7	Com 394 401	servers
+T8	Com 413 429	Active Directory
+T9	Com 434 447	corporate VPN
+R1	located-at Arg1:T1 Arg2:T2	
+R2	located-at Arg1:T3 Arg2:T2	
+R3	mitigates Arg1:T4 Arg2:T3	
+R4	hasImpact Arg1:T3 Arg2:T5	

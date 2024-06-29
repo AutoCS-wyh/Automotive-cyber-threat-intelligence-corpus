@@ -1,0 +1,12 @@
+T1	Loc 0 7	Croydon
+T2	Loc 9 15	London
+T3	Con 63 72	car theft
+T4	Tool 85 98	relay devices
+T5	Veh 100 112	BMW vehicles
+T6	Veh 114 126	Ford Fiestas
+T7	Veh 131 136	Focus
+T8	Con 168 181	keyless theft
+T9	Con 281 306	catalytic converter theft
+T10	Con 308 321	vehicle crime
+T11	Con 323 335	metal thefts
+T12	Con 341 351	burglaries

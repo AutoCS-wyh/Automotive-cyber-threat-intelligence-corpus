@@ -1,0 +1,11 @@
+T1	Veh 59 71	Tesla models
+T2	Com 100 117	Autopilot feature
+T3	Veh 166 178	Tesla models
+T4	Com 198 205	gateway
+T5	Com 269 272	CAN
+T6	Com 321 329	firmware
+T7	Com 376 379	CAN
+T8	Ide 400 408	Comma.ai
+R1	consists-of Arg1:T4 Arg2:T3	
+R2	consists-of Arg1:T5 Arg2:T3	
+R3	consists-of Arg1:T2 Arg2:T1	

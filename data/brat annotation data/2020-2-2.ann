@@ -1,0 +1,11 @@
+T1	Com 22 52	Google Maps' navigation system
+T2	Loc 118 124	Berlin
+T3	AP 151 171	tricked the maps app
+T4	Com 309 312	app
+T5	Com 372 375	app
+T6	Con 421 445	create real traffic jams
+T7	Con 474 491	slow down traffic
+R1	targets Arg1:T3 Arg2:T1	
+R2	located-at Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T6	
+R4	hasImpact Arg1:T3 Arg2:T7	

@@ -1,0 +1,5 @@
+T1	Com 29 34	sites
+T2	AP 92 109	phishing campaign
+T3	Con 374 392	downloaded malware
+R1	targets Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	

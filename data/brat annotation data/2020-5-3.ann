@@ -1,0 +1,8 @@
+T1	Ide 0 12	B-H Transfer
+T2	Loc 16 18	US
+T3	AP 59 69	ransomware
+T4	Loc 118 120	US
+T5	Con 136 173	penetrated the company's backup files
+R1	located-at Arg1:T1 Arg2:T2	
+R2	located-at Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T5	

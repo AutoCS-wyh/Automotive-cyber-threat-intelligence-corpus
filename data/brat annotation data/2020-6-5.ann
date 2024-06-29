@@ -1,0 +1,17 @@
+T1	Loc 2 10	Canadian
+T2	Veh 26 31	Tesla
+T3	Com 34 42	software
+T4	Veh 79 84	Tesla
+T5	Com 85 93	software
+T6	Tool 169 178	connector
+T7	Con 184 219	cracks Tesla's 'acceleration boost'
+T8	Veh 255 262	Model 3
+T9	Com 263 273	powertrain
+T10	Veh 457 464	Model 3
+T11	Veh 490 497	Model 3
+T12	Ide 661 666	Tesla
+R1	consists-of Arg1:T3 Arg2:T2	
+R2	consists-of Arg1:T5 Arg2:T4	
+R3	consists-of Arg1:T9 Arg2:T8	
+R4	related-to Arg1:T10 Arg2:T12	
+R5	related-to Arg1:T11 Arg2:T12	

@@ -1,0 +1,13 @@
+T1	Com 39 69	vehicle fine enforcement clamp
+T2	Com 92 108	cellular network
+T3	Com 136 144	SIM card
+T4	Com 161 169	barnacle
+T5	Com 172 175	API
+T6	Con 306 339	control all of the parking clamps
+T7	Con 344 358	leak user data
+T8	Con 410 430	unlock the barnacles
+T9	Com 448 463	payment gateway
+T10	Vul 464 495	didn't validate the credit card
+R1	consists-of Arg1:T9 Arg2:T4	
+R2	hasVulnerability Arg1:T9 Arg2:T10	
+R3	hasImpact Arg1:T10 Arg2:T8	

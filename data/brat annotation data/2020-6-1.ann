@@ -1,0 +1,6 @@
+T1	Com 21 28	website
+T2	Ide 36 42	UzAuto
+T3	Ide 72 85	GM Uzbekistan
+T4	Con 108 129	temporary malfunction
+R1	related-to Arg1:T1 Arg2:T2	
+R2	related-to Arg1:T1 Arg2:T3	

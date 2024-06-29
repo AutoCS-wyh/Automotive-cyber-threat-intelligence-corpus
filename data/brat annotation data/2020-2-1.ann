@@ -1,0 +1,14 @@
+T1	Veh 70 95	Mercedes-Benz E-Class car
+T2	Con 114 137	open its doors remotely
+T3	Con 142 158	start the engine
+T4	AP 222 241	reverse-engineering
+T5	Com 246 273	vehicle's embedded SIM card
+T6	Com 297 313	cellular network
+T7	Com 342 366	Mercedes backend servers
+T8	Com 402 414	Mercedes App
+T9	Loc 524 529	China
+R1	consists-of Arg1:T5 Arg2:T1	
+R2	consists-of Arg1:T6 Arg2:T1	
+R3	targets Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T2	
+R5	hasImpact Arg1:T4 Arg2:T3	

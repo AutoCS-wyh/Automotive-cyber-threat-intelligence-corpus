@@ -1,0 +1,13 @@
+T1	Com 48 65	Car Rental System
+T2	Com 67 73	plugin
+T3	Com 78 87	WordPress
+T4	Vul 89 103	Persistent XSS
+T5	Vul 157 160	XSS
+T6	Con 192 209	session hijacking
+T7	AP 230 248	social engineering
+T8	Con 277 305	disclosure of sensitive data
+T9	AP 307 319	CSRF attacks
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	hasVulnerability Arg1:T1 Arg2:T4	
+R3	hasImpact Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T7 Arg2:T8	

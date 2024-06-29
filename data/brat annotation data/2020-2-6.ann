@@ -1,0 +1,15 @@
+T1	Ide 17 23	McAfee
+T2	Com 45 86	autonomous vehicle’s driver assist system
+T3	AP 90 116	manipulation of the camera
+T5	Veh 373 380	Model S
+T6	Veh 385 392	Model X
+T7	Com 403 417	camera systems
+T8	Ide 430 442	Mobileye Inc
+R1	targets Arg1:T3 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T5	
+R3	consists-of Arg1:T2 Arg2:T6	
+R6	consists-of Arg1:T7 Arg2:T5	
+R7	consists-of Arg1:T7 Arg2:T6	
+R8	related-to Arg1:T7 Arg2:T8	
+T4	Con 298 345	cruise control system automatically accelerated
+R4	hasImpact Arg1:T3 Arg2:T4	

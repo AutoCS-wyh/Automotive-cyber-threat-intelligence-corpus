@@ -1,0 +1,5 @@
+T1	AP 75 95	mimics a keyless fob
+T2	Con 111 117	stolen
+T3	Loc 149 151	UK
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	located-at Arg1:T1 Arg2:T3	

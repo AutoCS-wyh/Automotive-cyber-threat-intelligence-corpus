@@ -1,0 +1,9 @@
+T1	AP 35 47	execute code
+T2	Com 51 65	remote servers
+T3	Com 69 110	fleet management and maintenance software
+T4	Com 112 119	Fleetco
+T5	Con 177 204	create new accident records
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T4	
+R3	targets Arg1:T1 Arg2:T2	
+R4	hasImpact Arg1:T1 Arg2:T5	

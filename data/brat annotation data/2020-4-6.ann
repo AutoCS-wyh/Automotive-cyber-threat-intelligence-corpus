@@ -1,0 +1,15 @@
+T1	AP 12 30	reverse-engineered
+T2	Com 33 36	TCU
+T3	Com 100 110	telematics
+T4	Con 125 157	infiltrate the corporate network
+T5	Con 162 194	gain full control of the network
+T6	Com 239 247	SIM card
+T7	Com 257 260	TCU
+T8	Com 370 373	APN
+T11	Com 429 432	VPN
+T9	Com 444 447	VPN
+T10	Con 548 576	access the corporate network
+T12	Com 601 604	TCU
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T4	
+R3	hasImpact Arg1:T1 Arg2:T5	

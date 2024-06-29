@@ -1,0 +1,7 @@
+T1	Veh 0 7	Tesla’s
+T2	Com 10 45	Traffic Light and Stop Sign Control
+T3	Con 122 131	slow down
+T4	AP 289 311	create malicious signs
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	targets Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T3	

@@ -1,0 +1,12 @@
+T1	Loc 4 9	Texas
+T2	Ide 10 38	Department of Transportation
+T3	Com 41 48	network
+T4	AP 66 76	ransomware
+T5	CoA 161 188	isolated the affected parts
+T6	Con 235 264	some features are unavailable
+R1	located-at Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T2	
+R3	located-at Arg1:T4 Arg2:T1	
+R4	targets Arg1:T4 Arg2:T3	
+R5	mitigates Arg1:T5 Arg2:T4	
+R6	hasImpact Arg1:T4 Arg2:T6	

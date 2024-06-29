@@ -1,0 +1,22 @@
+T1	Com 46 53	MAVLink
+T2	Veh 98 115	unmanned vehicles
+T3	Vul 159 177	lack of encryption
+T4	Con 253 284	access to sensitive information
+T5	AP 288 325	intercepting the unencrypted messages
+T6	Vul 373 403	lacks an authentication system
+T7	AP 467 484	identity spoofing
+T8	AP 486 505	unauthorized access
+T9	AP 507 519	MITM attacks
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	hasVulnerability Arg1:T1 Arg2:T3	
+R3	hasVulnerability Arg1:T1 Arg2:T6	
+R4	hasImpact Arg1:T3 Arg2:T4	
+R5	targets Arg1:T5 Arg2:T1	
+R6	targets Arg1:T5 Arg2:T3	
+R7	hasImpact Arg1:T5 Arg2:T4	
+R8	targets Arg1:T7 Arg2:T1	
+R9	targets Arg1:T7 Arg2:T6	
+R10	targets Arg1:T8 Arg2:T1	
+R11	targets Arg1:T8 Arg2:T6	
+R12	targets Arg1:T9 Arg2:T1	
+R13	targets Arg1:T9 Arg2:T6	

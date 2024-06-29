@@ -1,0 +1,6 @@
+T1	Com 48 89	Project Worlds Official Car Rental System
+T2	AP 278 291	SQL injection
+T5	Con 236 258	modify the information
+T6	Con 353 389	upload and execute an arbitrary file
+R1	targets Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T5	

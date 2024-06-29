@@ -1,0 +1,10 @@
+T1	Ide 0 22	Sheffield City Council
+T2	Com 25 59	automatic number-plate recognition
+T3	Com 61 65	ANPR
+T4	Con 74 101	exposed 8.6 million records
+T5	Com 168 172	ANPR
+T6	Com 173 186	camera system
+T7	Com 189 218	internal management dashboard
+T8	Loc 449 458	Sheffield
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	

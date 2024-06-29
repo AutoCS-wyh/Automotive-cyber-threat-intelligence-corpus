@@ -1,0 +1,12 @@
+T1	Ide 0 7	Renault
+T2	Ide 12 18	Nissan
+T3	AP 33 51	massive ransomware
+T4	AP 57 68	WanaCrypt0r
+T5	Con 82 104	production was stopped
+T6	Loc 127 135	European
+R1	located-at Arg1:T1 Arg2:T6	
+R2	located-at Arg1:T2 Arg2:T6	
+R3	hasImpact Arg1:T3 Arg2:T5	
+R4	located-at Arg1:T3 Arg2:T6	
+R5	hasImpact Arg1:T4 Arg2:T5	
+R6	located-at Arg1:T4 Arg2:T6	

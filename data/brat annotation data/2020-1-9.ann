@@ -1,0 +1,9 @@
+T1	Ide 20 33	Royal Enfield
+T2	Vul 35 59	misconfigured a database
+T3	Con 60 81	revealing information
+T4	Loc 116 121	India
+T5	Con 174 193	information exposed
+R1	located-at Arg1:T1 Arg2:T4	
+R2	related-to Arg1:T2 Arg2:T1	
+R3	hasImpact Arg1:T2 Arg2:T3	
+R4	hasImpact Arg1:T2 Arg2:T5	

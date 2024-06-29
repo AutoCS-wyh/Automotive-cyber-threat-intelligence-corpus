@@ -1,0 +1,15 @@
+T1	Ide 0 7	Tracker
+T2	Loc 11 24	South African
+T3	AP 84 94	ransomware
+T4	Con 96 122	disrupting customer access
+T5	AP 166 176	ransomware
+T6	Con 253 271	service disruption
+T7	Com 310 326	telematic server
+T8	Con 457 487	sensitive data was compromised
+R1	located-at Arg1:T1 Arg2:T2	
+R2	located-at Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T3 Arg2:T6	
+R6	hasImpact Arg1:T3 Arg2:T8	
+R7	hasImpact Arg1:T5 Arg2:T8	

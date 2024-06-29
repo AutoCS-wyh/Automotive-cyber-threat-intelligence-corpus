@@ -1,0 +1,15 @@
+T1	Com 23 40	autonomous pilots
+T2	Ide 45 53	comma.ai
+T3	Com 114 129	Flexray network
+T4	AP 152 168	reverse engineer
+T5	Tool 235 250	FlexRay decoder
+T6	Veh 298 307	Audi Q8’s
+T7	Com 308 324	flexray protocol
+T8	Com 341 344	CAN
+T9	Com 478 489	FlexRay bus
+T10	Com 505 537	Electric power assisted steering
+T11	Com 551 554	CAN
+T12	Com 560 567	FlexRay
+T13	Tool 762 770	joystick
+R1	related-to Arg1:T1 Arg2:T2	
+R2	uses Arg1:T4 Arg2:T5	

@@ -1,0 +1,9 @@
+T1	Loc 15 28	Massachusetts
+T2	Ide 29 45	trucking company
+T3	AP 64 81	ransomware attack
+T4	Tool 89 101	malware Maze
+T5	Con 117 139	system was locked down
+R1	located-at Arg1:T2 Arg2:T1	
+R2	located-at Arg1:T3 Arg2:T1	
+R3	uses Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T3 Arg2:T5	

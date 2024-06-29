@@ -1,0 +1,9 @@
+T1	AP 13 31	reverse engineered
+T2	Com 36 42	memory
+T3	Com 48 65	graphic interface
+T4	Com 75 83	firmware
+T5	Com 90 103	OBD-II reader
+R1	consists-of Arg1:T2 Arg2:T5	
+R2	consists-of Arg1:T3 Arg2:T5	
+R3	consists-of Arg1:T4 Arg2:T5	
+R4	targets Arg1:T1 Arg2:T5	

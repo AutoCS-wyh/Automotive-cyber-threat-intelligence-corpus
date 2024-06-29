@@ -1,0 +1,7 @@
+T1	Ide 0 10	CivicSmart
+T2	AP 120 130	ransomware
+T3	Tool 154 164	Sodinokibi
+T4	Tool 168 173	REvil
+T5	Ide 421 431	CivicSmart
+R1	uses Arg1:T2 Arg2:T3	
+R2	uses Arg1:T2 Arg2:T4	

@@ -1,0 +1,10 @@
+T1	Ide 0 21	RailWorks Corporation
+T2	Loc 30 43	North America
+T3	AP 113 130	ransomware attack
+T4	Con 147 194	exposure of personally identifiable information
+T5	AP 276 286	ransomware
+R1	located-at Arg1:T1 Arg2:T2	
+R2	located-at Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T4	
+R4	located-at Arg1:T5 Arg2:T2	
+R5	hasImpact Arg1:T5 Arg2:T4	

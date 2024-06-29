@@ -1,0 +1,8 @@
+T1	Ide 0 16	Visser Precision
+T2	Ide 41 46	Tesla
+T3	Con 99 133	exposure of confidential documents
+T4	Ide 156 172	Visser Precision
+T5	AP 230 240	ransomware
+T6	Tool 242 254	DoppelPaymer
+R1	hasImpact Arg1:T5 Arg2:T3	
+R2	uses Arg1:T5 Arg2:T6	

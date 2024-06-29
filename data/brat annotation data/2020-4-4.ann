@@ -1,0 +1,10 @@
+T1	Ide 0 12	Aebi Schmidt
+T2	Com 32 39	systems
+T3	AP 54 80	malware-based cyber attack
+T4	Tool 86 93	malware
+T5	Com 103 118	Windows systems
+T6	Con 217 248	switch off the affected systems
+R1	related-to Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	uses Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T3 Arg2:T6	

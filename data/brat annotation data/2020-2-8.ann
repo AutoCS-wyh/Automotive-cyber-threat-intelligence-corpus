@@ -1,0 +1,12 @@
+T1	Com 2 31	custom open source mobile app
+T2	AP 49 81	bypass the access pin and prompt
+T3	Com 94 102	Fordpass
+T4	Con 111 158	remotely control various Ford vehicle functions
+T5	Com 192 207	open source app
+T6	Com 276 291	open source app
+T7	Com 324 338	Fordpass’s API
+T8	Com 353 368	open source app
+T9	Com 638 642	SIRI
+R1	targets Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T4	

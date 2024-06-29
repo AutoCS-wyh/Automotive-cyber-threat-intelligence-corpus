@@ -1,0 +1,17 @@
+T1	Com 0 34	Advanced driver-assistance systems
+T2	AP 65 80	phantom objects
+T3	Com 150 155	ADASs
+T4	Com 160 187	autopilot preception system
+T5	Veh 290 303	Tesla Model X
+T6	Con 316 361	brake suddenly or deviate to a different lane
+T7	Tool 415 455	drone equipped with a portable projector
+T8	Tool 470 488	digital billboards
+R1	consists-of Arg1:T1 Arg2:T5	
+R2	targets Arg1:T2 Arg2:T1	
+R3	consists-of Arg1:T3 Arg2:T5	
+R4	consists-of Arg1:T4 Arg2:T5	
+R5	targets Arg1:T2 Arg2:T3	
+R6	targets Arg1:T2 Arg2:T4	
+R7	hasImpact Arg1:T2 Arg2:T6	
+R8	uses Arg1:T2 Arg2:T7	
+R9	uses Arg1:T2 Arg2:T8	

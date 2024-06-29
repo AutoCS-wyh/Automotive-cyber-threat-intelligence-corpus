@@ -1,0 +1,12 @@
+T1	Ide 4 14	Boyd group
+T2	Loc 148 151	U.S
+T3	Loc 156 162	Canada
+T4	AP 178 195	ransomware attack
+T5	Con 376 410	temporary interruption of business
+R1	located-at Arg1:T1 Arg2:T2	
+R2	located-at Arg1:T1 Arg2:T3	
+R3	located-at Arg1:T4 Arg2:T2	
+R4	located-at Arg1:T4 Arg2:T3	
+T6	Con 417 435	loss of some sales
+R5	hasImpact Arg1:T4 Arg2:T5	
+R6	hasImpact Arg1:T4 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	Loc 11 17	Geneva
+T2	Loc 101 111	Buckingham
+T3	Loc 113 120	England
+T4	AP 152 171	GPS spoofing attack
+R1	located-at Arg1:T4 Arg2:T1	

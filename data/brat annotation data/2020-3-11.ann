@@ -1,0 +1,23 @@
+T1	Veh 43 56	Tesla model 3
+T2	Com 57 64	browser
+T3	Con 90 115	deny some of the services
+T4	AP 155 215	routing the vehicle’s browser traffic to a malicious website
+T5	Con 244 267	disable the speedometer
+T6	Com 269 280	web browser
+T7	Com 282 298	climate controls
+T8	Com 300 312	turn signals
+T9	Com 314 324	navigation
+T10	Com 326 349	autopilot notifications
+T11	Vul 455 482	improper process separation
+T12	Veh 486 499	Tesla model 3
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	targets Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T3	
+R4	hasImpact Arg1:T4 Arg2:T5	
+R5	hasVulnerability Arg1:T2 Arg2:T11	
+R6	targets Arg1:T4 Arg2:T11	
+R7	consists-of Arg1:T6 Arg2:T12	
+R9	consists-of Arg1:T8 Arg2:T12	
+R10	consists-of Arg1:T9 Arg2:T12	
+R11	consists-of Arg1:T10 Arg2:T12	
+R8	consists-of Arg1:T7 Arg2:T12	

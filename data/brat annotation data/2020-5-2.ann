@@ -1,0 +1,4 @@
+T1	Ide 42 55	Mercedes-Benz
+T2	Com 67 76	Instagram
+T3	Veh 106 109	BMW
+R1	related-to Arg1:T2 Arg2:T1	

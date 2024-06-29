@@ -1,0 +1,11 @@
+T1	Ide 63 73	Toll Group
+T2	Com 74 81	systems
+T3	AP 100 117	ransomware attack
+T4	Com 169 176	servers
+T5	CoA 190 215	shut down some IT systems
+T6	Con 260 300	customer applications were taken offline
+R1	related-to Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T6	
+R4	mitigates Arg1:T5 Arg2:T3	
+T7	Com 407 410	PCs

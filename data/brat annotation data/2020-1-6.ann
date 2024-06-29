@@ -1,0 +1,7 @@
+T1	Ide 19 41	Gedia Automotive Group
+T2	Con 62 86	shut down its IT systems
+T3	Tool 175 193	Sodinokibi malware
+T4	Com 283 293	IT systems
+T5	Tool 299 306	malware
+T6	Tool 441 448	Adrecon
+R1	related-to Arg1:T4 Arg2:T1	

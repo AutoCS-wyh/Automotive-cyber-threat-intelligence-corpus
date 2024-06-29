@@ -1,0 +1,7 @@
+T1	AP 19 30	DDoS attack
+T2	Com 68 80	Takeaway.com
+T3	Ide 82 94	Liefrando.de
+T4	Con 148 164	flood of traffic
+R1	targets Arg1:T1 Arg2:T2	
+R2	related-to Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	

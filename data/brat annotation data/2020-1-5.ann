@@ -1,0 +1,14 @@
+T1	Com 2 23	backup MSSQL database
+T2	Loc 31 37	German
+T3	Ide 57 67	Buchbinder
+T4	Com 109 117	database
+T5	Loc 221 228	Germany
+T6	Loc 230 239	Australia
+T7	Loc 241 246	Italy
+T8	Loc 248 256	Slovakia
+T9	Loc 261 268	Hungary
+T10	Con 281 313	exposed the personal information
+T11	Vul 574 606	stored unencrypted in plain text
+R1	related-to Arg1:T1 Arg2:T3	
+R2	located-at Arg1:T3 Arg2:T2	
+T12	Con 463 502	170,000 of the records that got exposed

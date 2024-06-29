@@ -1,0 +1,13 @@
+T1	Loc 4 15	North Texas
+T2	Veh 96 107	Nissan cars
+T3	AP 115 128	relay attacks
+T4	Con 132 148	unlock the doors
+T5	AP 153 168	cloned key fobs
+T6	Con 172 188	start the engine
+T7	Con 370 396	steal about 62 Nissan cars
+R1	located-at Arg1:T3 Arg2:T1	
+R2	hasImpact Arg1:T3 Arg2:T4	
+R3	located-at Arg1:T5 Arg2:T1	
+R4	hasImpact Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T3 Arg2:T7	
+R6	hasImpact Arg1:T5 Arg2:T7	

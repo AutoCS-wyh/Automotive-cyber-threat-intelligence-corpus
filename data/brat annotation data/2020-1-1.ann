@@ -1,0 +1,10 @@
+T1	Veh 4 24	Toyota Tacoma trucks
+T2	Veh 31 55	Toyota 4Runnerwere truck
+T3	Con 61 67	stolen
+T4	Loc 100 108	Cornwall
+T5	Loc 110 116	Canada
+T6	Loc 146 154	Montreal
+T7	AP 187 239	reprogrammed the truck’s keyless push start ignition
+R1	hasImpact Arg1:T7 Arg2:T3	
+R2	located-at Arg1:T7 Arg2:T4	
+R3	located-at Arg1:T7 Arg2:T5	

@@ -1,0 +1,20 @@
+T1	Vul 52 90	Bluetooth code execution vulnerability
+T2	Com 109 126	infotainment unit
+T3	Veh 130 141	Lexus NX300
+T4	Com 186 197	CAN network
+T5	Com 210 214	ECUs
+T6	Com 239 257	infotainment’s CAN
+T7	Com 316 324	firmware
+T8	Com 339 355	microcontrollers
+T9	AV 435 448	Wi-Fi hotspot
+T10	AV 551 556	Wi-FI
+T11	Com 590 602	infotainment
+T12	Veh 620 625	Lexus
+T13	Veh 650 663	Toyota Camrys
+T14	Veh 669 683	Toyota Siennas
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T4 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T3	
+R4	consists-of Arg1:T7 Arg2:T8	
+R5	hasInterface Arg1:T2 Arg2:T9	
+R6	hasInterface Arg1:T2 Arg2:T10	

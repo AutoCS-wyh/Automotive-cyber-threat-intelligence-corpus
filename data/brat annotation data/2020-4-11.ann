@@ -1,0 +1,14 @@
+T1	Com 22 32	OBD dongle
+T2	Com 47 59	serial lines
+T3	Com 72 87	ELM327 OBD chip
+T4	Com 96 110	Bluetooth chip
+T5	Com 142 149	Arduino
+T6	Com 199 208	dashboard
+T7	Com 258 267	ECU units
+T8	Com 308 323	battery voltage
+T9	Com 325 328	RPM
+T10	Com 330 333	MAP
+T11	Com 335 348	Spark advance
+T12	Com 350 368	intake temperature
+T13	Com 370 396	engine coolant temperature
+T14	Com 423 447	throttle position sensor

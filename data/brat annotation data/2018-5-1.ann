@@ -1,0 +1,24 @@
+T1	Vul 47 60	misconfigured
+T2	Com 61 76	back-end server
+T3	Ide 84 90	Calamp
+T4	Con 268 296	track the vehicle's location
+T5	Con 298 320	steal user information
+T6	Con 331 358	cut out the engine remotely
+T7	Com 406 422	Viper SmartStart
+T8	Com 565 577	Calamp modem
+T9	Com 585 604	cloud-based servers
+T10	Com 637 653	Viper mobile app
+T11	Com 709 714	Viper
+T12	Ide 735 741	Calamp
+T14	Con 1002 1031	unlock the driver's side door
+T15	Con 1033 1058	start the engine remotely
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	
+R6	hasImpact Arg1:T1 Arg2:T14	
+R7	hasImpact Arg1:T1 Arg2:T15	
+R8	related-to Arg1:T1 Arg2:T3	
+R9	related-to Arg1:T1 Arg2:T12	
+T13	Com 855 868	Calamp server

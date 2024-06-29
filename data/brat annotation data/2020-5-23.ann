@@ -1,0 +1,10 @@
+T1	Veh 35 39	Uber
+T2	Com 65 75	Portainer,
+T3	Com 135 144	Portainer
+T4	AP 172 198	bypass access restrictions
+T5	Com 206 216	Docker API
+T6	AP 228 240	SSRF attacks
+T7	Vul 271 289	SSRF vulnerability
+T8	Com 330 340	Docker API
+R1	targets Arg1:T4 Arg2:T5	
+R2	targets Arg1:T6 Arg2:T7	

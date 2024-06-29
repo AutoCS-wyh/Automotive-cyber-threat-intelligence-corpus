@@ -1,0 +1,12 @@
+T1	Loc 0 7	Israeli
+T2	Com 25 35	Bubble Dan
+T3	Vul 36 60	misconfigured the server
+T4	Con 104 121	exposing receipts
+T5	AP 174 222	changing the unique payment identifier parameter
+T6	Con 292 320	scrape the receipt PDF files
+R1	hasVulnerability Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T3 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T2	
+R4	targets Arg1:T5 Arg2:T3	
+R5	hasImpact Arg1:T5 Arg2:T6	
+R6	hasImpact Arg1:T3 Arg2:T6	

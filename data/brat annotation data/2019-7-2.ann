@@ -1,0 +1,12 @@
+T1	Ide 37 42	Tesla
+T2	Vul 70 90	cross-site scripting
+T3	Vul 92 95	XSS
+T4	Con 145 191	obtain and possibly modify vehicle information
+T5	Con 208 251	expose some internal Tesla application data
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	hasImpact Arg1:T2 Arg2:T4	
+R4	hasImpact Arg1:T2 Arg2:T5	
+R5	hasImpact Arg1:T3 Arg2:T4	
+R6	hasImpact Arg1:T3 Arg2:T5	
+T6	Com 421 429	firmware

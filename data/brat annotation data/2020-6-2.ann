@@ -1,0 +1,11 @@
+T1	Ide 30 35	Tesla
+T2	Com 38 70	cloud IT service management tool
+T3	Con 87 117	retrieve sensitive information
+T5	AP 344 350	bypass
+T6	AV 391 405	IT service API
+T7	Ide 502 507	Tesla
+T8	Ide 565 570	Tesla
+R1	related-to Arg1:T2 Arg2:T1	
+R3	targets Arg1:T5 Arg2:T2	
+R2	hasImpact Arg1:T5 Arg2:T3	
+R4	based-on Arg1:T5 Arg2:T6	

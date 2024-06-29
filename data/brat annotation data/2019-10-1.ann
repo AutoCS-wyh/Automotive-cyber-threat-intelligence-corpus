@@ -1,0 +1,8 @@
+T1	Com 0 10	Mobile app
+T2	Veh 11 28	Mercedes-Benz car
+T3	Con 90 146	displayed other people’s account and vehicle information
+T4	Veh 148 161	Mercedes-Benz
+T5	Com 173 180	car app
+T6	Com 317 320	app
+T7	Con 326 333	offline
+R1	consists-of Arg1:T1 Arg2:T2	

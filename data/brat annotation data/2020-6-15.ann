@@ -1,0 +1,13 @@
+T1	Veh 26 37	Nissan Leaf
+T2	Com 235 238	ECU
+T3	Com 359 362	LBC
+T4	Com 364 387	Lithium Battery Control
+T5	AP 449 460	MITM attack
+T6	AV 483 490	CAN-bus
+T7	AP 495 503	spoofing
+T8	AV 598 605	CAN-Bus
+T9	Com 639 646	VCM ECU
+R1	based-on Arg1:T5 Arg2:T6	
+R2	targets Arg1:T5 Arg2:T9	
+R3	based-on Arg1:T7 Arg2:T8	
+R4	hasInterface Arg1:T9 Arg2:T8	

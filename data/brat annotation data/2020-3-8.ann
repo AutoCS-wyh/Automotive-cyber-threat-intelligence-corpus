@@ -1,0 +1,12 @@
+T1	Com 23 51	chip-enabled mechanical keys
+T2	Vul 66 95	DST80 cryptographic algorithm
+T3	Con 139 179	crack the secret cryptographic key value
+T4	Com 203 207	fobs
+T5	Com 316 324	key fobs
+T6	Vul 330 351	24 bits of randomness
+T7	AP 434 445	brute force
+R1	hasVulnerability Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T2 Arg2:T3	
+R3	hasVulnerability Arg1:T5 Arg2:T6	
+R4	targets Arg1:T7 Arg2:T6	
+R5	targets Arg1:T7 Arg2:T5	

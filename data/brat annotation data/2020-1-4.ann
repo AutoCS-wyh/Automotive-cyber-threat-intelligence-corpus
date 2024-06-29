@@ -1,0 +1,6 @@
+T1	AP 42 61	re-program the keys
+T2	Veh 67 76	Honda CRV
+T3	Tool 85 97	special tool
+T4	Con 168 185	steal the vehicle
+R1	uses Arg1:T1 Arg2:T3	
+R2	hasImpact Arg1:T1 Arg2:T4	

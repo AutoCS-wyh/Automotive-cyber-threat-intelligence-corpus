@@ -1,0 +1,7 @@
+T1	Tool 18 39	open-sourced hardware
+T2	Tool 44 52	software
+T3	Tool 65 78	OBD-II device
+T4	AP 82 104	intercept CAN messages
+T5	Com 160 174	cellular modem
+T6	Com 199 202	GPS
+R1	uses Arg1:T4 Arg2:T3	

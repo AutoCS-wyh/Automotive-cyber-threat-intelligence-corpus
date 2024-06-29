@@ -1,0 +1,7 @@
+T1	Com 19 24	ARMv7
+T2	Com 43 56	GNU C Library
+T3	Com 115 125	web server
+T4	AV 146 169	vehicle’s Wi-Fi network
+T5	AV 311 334	vehicle’s Wi-Fi network
+T6	Con 412 443	writing to out-of-bounds memory
+T7	Con 460 481	remote code execution
