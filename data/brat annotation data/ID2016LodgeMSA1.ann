@@ -1,0 +1,54 @@
+T1	Com 20 33	mobile device
+T2	Com 56 69	mobile device
+T3	Com 84 96	Wi-Fi router
+T4	Com 138 143	Wi-Fi
+T5	Com 221 238	Handshake Process
+T6	Com 247 258	WLAN router
+T7	Com 263 276	mobile device
+T8	Com 293 307	Pre-Shared-Key
+T9	Com 315 320	Wi-Fi
+T10	AP 335 353	brute force attack
+T11	AP 355 368	Brute Forcing
+T12	Com 373 383	Shared Key
+T13	Com 385 395	Shared Key
+T14	Con 405 412	cracked
+T15	Tool 444 448	GPUs
+T16	AP 450 460	Monitoring
+T17	Com 461 465	WLAN
+T18	AP 478 486	Sniffing
+T19	Com 491 496	Wi-Fi
+T20	Con 509 536	Obtainment of WLAN messages
+T21	AP 538 557	Reverse Engineering
+T22	Com 558 567	Protocol.
+T23	AP 568 587	Reverse Engineering
+T24	Com 595 609	data protocols
+T25	Con 611 627	Information Gain
+T26	Com 631 650	WLAN data protocols
+T27	Con 652 682	Manipulating vehicle functions
+T28	Com 685 701	battery charging
+T29	Com 703 708	alarm
+T30	Com 710 718	lighting
+T31	AP 723 731	spoofing
+T32	Com 751 755	WLAN
+T33	Com 776 791	smart phone app
+T34	Con 861 889	activate different functions
+T35	Com 905 921	Air Conditioning
+T36	Com 923 930	Heating
+T37	Com 932 948	Battery Draining
+T38	Con 950 965	Disabling alarm
+T39	Con 967 984	unlocking the car
+R1	targets Arg1:T10 Arg2:T8	
+R2	consists-of Arg1:T8 Arg2:T9	
+R3	targets Arg1:T11 Arg2:T12	
+R4	targets Arg1:T16 Arg2:T17	
+R5	targets Arg1:T18 Arg2:T19	
+R6	hasImpact Arg1:T18 Arg2:T20	
+R7	targets Arg1:T21 Arg2:T22	
+R8	targets Arg1:T23 Arg2:T24	
+R9	hasImpact Arg1:T23 Arg2:T25	
+R10	hasImpact Arg1:T31 Arg2:T27	
+R11	targets Arg1:T31 Arg2:T32	
+R12	targets Arg1:T31 Arg2:T33	
+R13	hasImpact Arg1:T31 Arg2:T34	
+R14	hasImpact Arg1:T31 Arg2:T38	
+R15	hasImpact Arg1:T31 Arg2:T39	

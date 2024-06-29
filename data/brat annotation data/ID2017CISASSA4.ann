@@ -1,0 +1,6 @@
+T1	AP 0 32	Extracting sensitive information
+T2	Con 67 80	vehicle theft
+T3	AP 82 115	Extraction of sensitive user data
+T4	Con 117 146	Accces on sensitive user data
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T3 Arg2:T4	

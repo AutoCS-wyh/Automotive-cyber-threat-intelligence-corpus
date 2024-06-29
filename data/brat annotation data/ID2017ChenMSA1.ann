@@ -1,0 +1,19 @@
+T1	Con 0 27	Misclassification of images
+T2	AP 32 49	untargeted attack
+T3	Tool 55 75	adversarial examples
+T4	AP 77 94	Untargeted attack
+T5	Con 98 118	misclassify an image
+T6	Com 163 175	Inception-v3
+T7	AP 177 194	untargeted attack
+T8	AP 213 228	targeted attack
+T9	AP 336 351	Targeted Attack
+T10	Com 441 453	Inception-v3
+T11	AP 455 472	untargeted attack
+T12	AP 491 506	targeted attack
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	uses Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T4 Arg2:T5	
+R4	targets Arg1:T7 Arg2:T6	
+R5	targets Arg1:T8 Arg2:T6	
+R6	targets Arg1:T11 Arg2:T10	
+R7	targets Arg1:T12 Arg2:T10	

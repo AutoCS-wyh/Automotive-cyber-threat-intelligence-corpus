@@ -1,0 +1,20 @@
+T1	Con 0 12	Deceleration
+T2	AP 31 40	injecting
+T3	AV 41 44	CAN
+T4	Com 59 79	Pre-Collision System
+T5	Com 84 87	ACC
+T6	AP 89 97	Spoofing
+T7	Con 110 122	disable FFCM
+T8	Com 124 128	SSCM
+T9	Com 133 136	ABS
+T10	Con 141 156	manipulated ACC
+T11	Com 158 162	FFCM
+T12	Com 167 171	SSCM
+T13	Con 183 197	Strong braking
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	based-on Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	targets Arg1:T2 Arg2:T5	
+R5	hasImpact Arg1:T6 Arg2:T7	
+R6	hasImpact Arg1:T6 Arg2:T10	
+R7	hasImpact Arg1:T6 Arg2:T13	

@@ -1,0 +1,5 @@
+T1	Com 152 163	OBD devices
+T2	AP 295 323	Inject arbitrary CAN packets
+T3	Con 325 344	Turn on/off vehicle
+R1	targets Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	

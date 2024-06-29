@@ -1,0 +1,14 @@
+T1	Con 0 26	Obtainment of private data
+T2	AP 47 60	eavesdropping
+T3	Tool 65 78	malicious app
+T4	AP 103 121	social engineering
+T5	Com 155 174	Infotainment System
+T6	AP 199 211	eavesdropped
+T7	Tool 219 232	malicious app
+T9	Com 283 306	Infotainment Microphone
+T10	Com 368 371	GPS
+T11	Con 401 429	private data can be obtained
+R1	uses Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T1	
+R3	uses Arg1:T6 Arg2:T7	
+R4	hasImpact Arg1:T6 Arg2:T11	

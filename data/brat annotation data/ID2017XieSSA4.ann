@@ -1,0 +1,19 @@
+T1	Tool 0 20	Adversarial Examples
+T2	AP 26 52	Dense Adversary Generation
+T3	AP 55 58	DAG
+T4	Com 81 102	semantic segmentation
+T5	Com 107 123	object detection
+T6	AP 125 166	Combination of heterogeneous pertubations
+T7	AP 233 274	Combination of heterogeneous pertubations
+T8	Con 316 335	loss of performance
+R1	uses Arg1:T2 Arg2:T1	
+R2	uses Arg1:T3 Arg2:T1	
+R3	targets Arg1:T2 Arg2:T4	
+R4	targets Arg1:T2 Arg2:T5	
+R5	targets Arg1:T3 Arg2:T4	
+R6	targets Arg1:T3 Arg2:T5	
+R7	targets Arg1:T6 Arg2:T4	
+R8	targets Arg1:T6 Arg2:T5	
+R9	hasImpact Arg1:T7 Arg2:T8	
+R10	hasImpact Arg1:T2 Arg2:T8	
+R11	hasImpact Arg1:T3 Arg2:T8	

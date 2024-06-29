@@ -1,0 +1,21 @@
+T1	Con 0 30	Preventing vehicle from moving
+T2	AP 34 42	spoofing
+T3	AV 43 46	CAN
+T4	Com 62 86	electronic parking brake
+T5	AP 115 123	Spoofing
+T6	Con 136 164	activating the parking brake
+T7	Com 166 179	Parking brake
+T8	Con 180 208	prevents vehicle from moving
+T9	AP 210 240	Sending malicious CAN messages
+T10	Con 244 265	activate bootrom mode
+T11	Com 275 278	EBP
+T12	Com 298 311	Parking brake
+T13	Con 312 340	prevents vehicle from moving
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	based-on Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	hasImpact Arg1:T5 Arg2:T6	
+R5	targets Arg1:T5 Arg2:T7	
+R6	hasImpact Arg1:T5 Arg2:T8	
+R7	hasImpact Arg1:T9 Arg2:T10	
+R8	targets Arg1:T9 Arg2:T11	

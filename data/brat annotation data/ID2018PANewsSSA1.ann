@@ -1,0 +1,11 @@
+T1	AP 0 12	Relay attack
+T2	Com 16 36	keyless entry system
+T3	Tool 60 71	transmitter
+T4	Com 90 97	key fob
+T5	Con 106 115	Car theft
+T6	Con 119 128	break-ins
+R1	targets Arg1:T1 Arg2:T2	
+R2	uses Arg1:T1 Arg2:T3	
+R3	targets Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	

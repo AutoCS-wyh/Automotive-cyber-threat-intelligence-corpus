@@ -1,0 +1,17 @@
+T1	Con 0 13	Vehicle theft
+T2	AP 17 38	capture-replay attack
+T3	Com 48 55	key fob
+T4	Com 89 96	key fob
+T5	Com 162 169	key fob
+T6	AP 187 195	Spoofing
+T7	Tool 196 206	cloned key
+T8	Con 218 224	unlock
+T9	Con 229 246	start the vehicle
+T10	Con 272 278	stolen
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	uses Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T6 Arg2:T8	
+R6	hasImpact Arg1:T6 Arg2:T9	
+R7	hasImpact Arg1:T6 Arg2:T10	

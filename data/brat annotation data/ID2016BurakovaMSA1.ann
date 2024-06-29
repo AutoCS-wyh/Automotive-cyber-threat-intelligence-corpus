@@ -1,0 +1,31 @@
+T1	Con 0 25	Changing displayed values
+T2	Com 55 73	instrument cluster
+T3	AP 127 146	reverse engineering
+T4	Com 151 154	CAN
+T5	AP 172 180	spoofing
+T6	AP 197 205	Spoofing
+T7	Com 209 212	CAN
+T8	Con 223 241	Change the display
+T9	Com 362 374	brake system
+T10	Con 376 401	Controlling vehicle speed
+T11	AP 405 413	spoofing
+T12	Com 420 423	CAN
+T13	AP 434 442	Spoofing
+T14	Com 446 449	CAN
+T15	Con 725 737	Deactivation
+T16	Com 741 753	engine brake
+T17	AP 757 765	spoofing
+T18	AP 804 812	Spoofing
+T19	Con 830 842	Deactivation
+T20	Com 850 861	motor brake
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T5 Arg2:T1	
+R4	targets Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T11 Arg2:T10	
+R6	targets Arg1:T11 Arg2:T12	
+R7	targets Arg1:T13 Arg2:T14	
+R8	hasImpact Arg1:T17 Arg2:T15	
+R9	targets Arg1:T17 Arg2:T16	
+R10	hasImpact Arg1:T18 Arg2:T19	
+R11	targets Arg1:T18 Arg2:T20	

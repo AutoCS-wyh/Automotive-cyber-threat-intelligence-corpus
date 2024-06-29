@@ -1,0 +1,11 @@
+T1	Com 28 64	Temporary Mobile Subscriber Identity
+T2	Com 67 71	TMSI
+T3	Com 76 102	telematics control modules
+T4	Com 105 109	TCUs
+T5	Com 140 176	Temporary Mobile Subscriber Identity
+T6	Com 179 183	TMSI
+T7	Con 186 211	Memory access and control
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T1 Arg2:T4	
+R4	consists-of Arg1:T2 Arg2:T4	

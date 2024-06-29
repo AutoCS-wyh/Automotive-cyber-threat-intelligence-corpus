@@ -1,0 +1,12 @@
+T1	AP 0 19	Reverse Engineering
+T2	Com 20 28	Firmware
+T3	Con 71 80	extracted
+T4	Con 82 111	Activation of diagnostic mode
+T5	AV 220 223	CAN
+T6	AP 227 231	fool
+T7	Com 236 239	ECU
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	based-on Arg1:T6 Arg2:T5	
+R5	targets Arg1:T6 Arg2:T7	

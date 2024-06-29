@@ -1,0 +1,25 @@
+T1	Con 0 31	Deactivation of park assistance
+T2	Com 47 66	park assistance ECU
+T3	Con 72 84	bootrom mode
+T4	Com 118 121	PAM
+T5	Con 127 139	Bootrom Mode
+T6	AV 144 154	Diagnostic
+T7	Com 165 168	ECU
+T8	Con 195 218	Getting Security Access
+T9	Com 261 269	Firmware
+T10	AP 271 291	Erasing the firmware
+T11	AV 296 306	Diagnostic
+T12	Com 345 348	ECU
+T13	Com 358 366	firmware
+T14	Com 421 424	ECU
+T15	AP 502 510	Spoofing
+T16	Com 527 531	ECUs
+T17	AP 593 601	spoofing
+T18	Com 605 620	park assistance
+T19	AP 635 643	Spoofing
+T20	Con 666 685	Steering activation
+R1	based-on Arg1:T10 Arg2:T11	
+R2	consists-of Arg1:T13 Arg2:T12	
+R3	targets Arg1:T15 Arg2:T16	
+R4	targets Arg1:T17 Arg2:T18	
+R5	hasImpact Arg1:T19 Arg2:T20	

@@ -1,0 +1,27 @@
+T1	AP 0 12	Portscanning
+T2	Com 38 42	ECUs
+T3	Com 44 52	services
+T4	Com 57 68	subroutines
+T5	AP 134 146	Portscanning
+T6	Com 150 154	ECUs
+T7	Com 156 164	Services
+T8	Com 169 181	Subfunctions
+T9	Tool 186 205	diagnostic messages
+T10	Com 228 232	ECUs
+T11	Com 234 242	services
+T12	Com 247 258	subroutines
+T13	Con 260 283	Activation of actuators
+T14	Con 298 319	shutdown of injection
+T15	Con 321 348	activation of rodeo routine
+T16	Con 350 380	Reading of vehicle infomration
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	targets Arg1:T1 Arg2:T4	
+R4	targets Arg1:T5 Arg2:T6	
+R5	targets Arg1:T5 Arg2:T7	
+R6	targets Arg1:T5 Arg2:T8	
+R7	uses Arg1:T5 Arg2:T9	
+R8	hasImpact Arg1:T5 Arg2:T13	
+R9	hasImpact Arg1:T5 Arg2:T14	
+R10	hasImpact Arg1:T5 Arg2:T15	
+R11	hasImpact Arg1:T5 Arg2:T16	

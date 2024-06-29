@@ -1,0 +1,17 @@
+T1	Vul 0 27	Improper account management
+T2	Con 37 50	manipulations
+T3	Con 55 71	information gain
+T4	Con 156 168	flash lights
+T5	Con 170 188	start ventialation
+T6	Con 193 211	sees park position
+T7	Con 213 232	Control car systems
+T8	Con 234 253	Data/Privacy breach
+T9	Con 255 272	Location tracking
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	
+R6	hasImpact Arg1:T1 Arg2:T7	
+R7	hasImpact Arg1:T1 Arg2:T8	
+R8	hasImpact Arg1:T1 Arg2:T9	

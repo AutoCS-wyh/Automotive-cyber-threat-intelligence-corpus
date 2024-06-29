@@ -1,0 +1,31 @@
+T1	AP 0 23	Monitoring Data Traffic
+T2	Com 39 44	E-NET
+T3	Com 47 72	internal Ethernet network
+T4	Com 92 95	OBD
+T5	Con 98 119	Information Gathering
+T6	AP 123 143	monitoring data flow
+T7	Con 145 161	Information Gain
+T8	Com 182 207	internal Ethernet network
+T9	AP 209 228	Reverse Engineering
+T10	Com 229 249	Diagnostic Protocols
+T11	AP 251 270	Reverse Engineering
+T12	Com 278 298	diagnostic protocols
+T13	Com 311 318	gateway
+T14	Com 323 332	head unit
+T15	Com 334 350	Information Gain
+T16	Com 359 379	Diganostic Protocols
+T17	Con 381 404	Getting root privileges
+T18	Con 409 427	execution of shell
+T19	Com 459 478	diagnostic protocol
+T20	Con 517 534	host a root shell
+T21	Com 542 550	hu-intel
+T22	Con 552 575	Execution of Root Shell
+T23	Com 583 591	hu-intel
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T6 Arg2:T5	
+R4	hasImpact Arg1:T6 Arg2:T7	
+R5	targets Arg1:T6 Arg2:T8	
+R6	targets Arg1:T9 Arg2:T10	
+R7	targets Arg1:T11 Arg2:T12	
+R8	targets Arg1:T11 Arg2:T15	

@@ -1,0 +1,5 @@
+T1	Vul 0 24	Improper user management
+T2	Con 34 40	access
+T3	Con 45 68	control of vehicle data
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	

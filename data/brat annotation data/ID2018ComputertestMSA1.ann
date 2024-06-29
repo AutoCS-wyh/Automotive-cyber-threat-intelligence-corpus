@@ -1,0 +1,62 @@
+T1	AP 0 8	Portscan
+T2	Com 9 21	Infotainment
+T3	AP 23 31	Portscan
+T4	Com 39 68	Modular Infotainment Platform
+T5	Com 71 74	MIB
+T6	AP 130 151	remote code execution
+T7	Com 172 175	MMX
+T8	Com 206 209	RCC
+T9	AP 211 222	Brute force
+T10	Com 226 244	Password key space
+T11	Com 277 286	key space
+T12	AP 323 334	brute force
+T13	Com 387 401	MIB IVI system
+T14	Con 403 422	Password extraction
+T15	AP 427 438	brute force
+T16	Com 459 464	Radio
+T17	Com 469 485	car control unit
+T18	Com 491 503	Infotainment
+T19	Com 505 508	RCC
+T20	Com 511 520	MIB radio
+T21	Com 525 541	car control unit
+T22	Com 564 567	MMX
+T23	Com 570 588	MIB main processor
+T24	Com 594 602	Ethernet
+T25	Com 605 611	Telnet
+T26	Con 614 627	Access to RCC
+T27	Com 639 643	chip
+T28	Com 648 651	CAN
+T29	Com 667 679	Renesas V850
+T30	Com 701 704	RCC
+T31	Com 740 744	V850
+T32	AP 746 771	Flashing malicious Update
+T33	Com 796 799	MMX
+T34	Com 840 843	CAN
+T35	Com 881 889	Firmware
+T36	Vul 914 927	not encrypted
+T37	Com 942 950	firmware
+T38	Com 992 1004	Renesas V850
+T39	AP 1006 1027	Remote code execution
+T40	Tool 1039 1061	malicious CAN messages
+T41	Com 1095 1098	CAN
+T42	AV 1105 1113	backdoor
+T43	Com 1121 1133	Renesas V850
+T44	Tool 1143 1165	malicious CAN messages
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T3 Arg2:T5	
+R4	targets Arg1:T6 Arg2:T7	
+R5	targets Arg1:T9 Arg2:T10	
+R6	targets Arg1:T12 Arg2:T11	
+R7	hasImpact Arg1:T15 Arg2:T14	
+R8	consists-of Arg1:T16 Arg2:T18	
+R9	consists-of Arg1:T17 Arg2:T18	
+R10	consists-of Arg1:T19 Arg2:T18	
+R11	hasImpact Arg1:T15 Arg2:T26	
+R12	targets Arg1:T32 Arg2:T31	
+R13	targets Arg1:T32 Arg2:T33	
+R14	hasVulnerability Arg1:T35 Arg2:T36	
+R15	uses Arg1:T39 Arg2:T40	
+R16	hasInterface Arg1:T43 Arg2:T42	
+R17	based-on Arg1:T39 Arg2:T42	
+R18	targets Arg1:T39 Arg2:T43	

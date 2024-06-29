@@ -1,0 +1,21 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 14	CAN
+T3	AP 25 34	Capturing
+T4	Com 39 55	CAN data traffic
+T5	AP 85 104	Reverse Engineering
+T6	Com 105 125	Diagnostic Functions
+T7	Con 127 143	Information Gain
+T8	Com 147 167	Diagnostic Functions
+T9	Com 172 181	Protocols
+T10	Con 183 193	Activation
+T11	Com 201 234	chassis rodeo diagnostic function
+T12	AP 238 247	replaying
+T13	AP 281 287	Replay
+T14	Con 319 345	Execution of rodeo routine
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T5 Arg2:T7	
+R5	hasImpact Arg1:T12 Arg2:T10	
+R6	targets Arg1:T12 Arg2:T11	
+R7	hasImpact Arg1:T13 Arg2:T14	

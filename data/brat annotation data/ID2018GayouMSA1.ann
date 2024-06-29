@@ -1,0 +1,25 @@
+T1	Con 0 20	Getting full control
+T2	Com 32 50	StarLink Head Unit
+T3	AP 54 88	flashing malicious firmware update
+T4	AV 93 101	USB port
+T5	Con 130 144	code execution
+T6	Com 206 215	Head Unit
+T7	Com 318 326	firmware
+T8	AP 411 430	Reverse Engineering
+T9	Com 435 455	encryption algorithm
+T10	Com 474 494	nrcryption algorithm
+T11	AP 530 548	Modifying firmware
+T12	AP 553 576	inserting sshd backdoor
+T13	Con 578 601	Malicious firmware file
+T14	AV 661 664	USB
+T15	Con 666 691	Malicious firmware update
+T16	Com 695 704	Head Unit
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	based-on Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T3 Arg2:T5	
+R5	targets Arg1:T8 Arg2:T9	
+R6	hasImpact Arg1:T11 Arg2:T13	
+R7	hasImpact Arg1:T12 Arg2:T13	
+R8	hasImpact Arg1:T11 Arg2:T15	
+R9	hasImpact Arg1:T12 Arg2:T15	

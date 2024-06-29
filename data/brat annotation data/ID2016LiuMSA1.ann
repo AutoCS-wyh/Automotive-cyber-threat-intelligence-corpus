@@ -1,0 +1,24 @@
+T1	Con 0 39	Misleading image classification network
+T2	AP 45 64	non-targeted attack
+T4	AP 124 136	Non-targeted
+T5	AP 138 156	Optimization-based
+T6	AP 222 235	Fast Gradient
+T7	Tool 280 300	Adversarial Examples
+T8	Com 305 313	Clarifai
+T9	Con 421 460	Misleading image classification network
+T10	AP 466 481	targeted attack
+T11	AP 483 491	Targeted
+T12	AP 493 511	Optimization-based
+T13	AP 548 561	Fast Dradient
+T14	Tool 617 637	Adversarial Examples
+T15	Com 642 650	Clarifai
+R1	hasImpact Arg1:T2 Arg2:T1	
+T3	Com 81 109	image classification network
+T16	Com 110 122	Clarifai.com
+R2	targets Arg1:T4 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T16	
+R4	targets Arg1:T5 Arg2:T3	
+R5	targets Arg1:T5 Arg2:T16	
+R6	targets Arg1:T6 Arg2:T3	
+R7	targets Arg1:T6 Arg2:T16	
+R8	hasImpact Arg1:T10 Arg2:T9	

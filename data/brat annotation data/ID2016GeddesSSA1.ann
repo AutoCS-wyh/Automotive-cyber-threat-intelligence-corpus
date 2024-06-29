@@ -1,0 +1,8 @@
+T1	AP 0 26	Blocking door lock signals
+T2	Com 50 63	steal objects
+T3	AP 83 97	Signal jamming
+T4	Com 123 131	key fobs
+T5	Con 200 206	stolen
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T5	

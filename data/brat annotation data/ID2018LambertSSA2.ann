@@ -1,0 +1,7 @@
+T1	Com 8 11	ECU
+T2	Veh 15 28	Tesla Model 3
+T3	Com 83 93	powertrain
+T4	Con 182 201	exposes information
+T5	Com 222 232	powertrain
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T3 Arg2:T2	

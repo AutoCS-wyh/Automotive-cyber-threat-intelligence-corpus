@@ -1,0 +1,16 @@
+T1	Ide 0 10	Volkswagen
+T2	Com 11 28	Customer-Link App
+T3	Ide 33 36	HTC
+T4	Com 37 57	Customer-Link Bridge
+T5	Com 118 125	CAN bus
+T6	Vul 139 171	Injecting arbitrary CAN messages
+T7	Com 181 198	Customer-Link App
+T8	Ide 203 206	HTC
+T9	Com 207 227	Customer-Link Bridge
+T10	Con 276 295	inject CAN messages
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T4 Arg2:T3	
+R3	hasVulnerability Arg1:T7 Arg2:T6	
+R4	related-to Arg1:T9 Arg2:T8	
+R5	hasVulnerability Arg1:T9 Arg2:T6	
+R6	hasImpact Arg1:T6 Arg2:T10	

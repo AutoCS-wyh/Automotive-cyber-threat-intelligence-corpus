@@ -1,0 +1,10 @@
+T1	AP 0 12	Relay attack
+T2	Com 16 36	keyless entry system
+T3	Veh 42 50	Mercedes
+T4	AP 52 64	Relay Attack
+T5	Com 68 88	Keyless Entry System
+T6	Con 102 108	stolen
+R1	targets Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T6	

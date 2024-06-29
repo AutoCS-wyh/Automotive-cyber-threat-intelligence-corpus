@@ -1,0 +1,43 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 20	Bluetooth
+T3	Com 39 49	smartphone
+T4	Tool 55 70	debugging proxy
+T5	Com 91 105	smartphone app
+T6	Com 110 124	telematics ECU
+T7	AP 126 136	Monitoring
+T8	Com 154 174	Personal Information
+T9	Com 179 198	vehicle information
+T10	Con 214 246	Activation of different services
+T11	Con 249 271	Start/Stop of charging
+T12	Com 273 289	air conditioning
+T13	AP 299 307	spoofing
+T14	AP 321 329	Spoofing
+T15	Con 345 374	activate different components
+T16	Con 376 409	Activation of the air conditioner
+T17	Con 411 444	Starting and stopping of charging
+T18	Veh 467 473	Nissan
+T19	Com 492 498	Chrome
+T20	Tool 504 514	Burp Suite
+T21	AP 586 599	brute forcing
+T22	Com 604 633	Vehicle Identification Number
+T23	Com 658 672	smartphone app
+T24	AP 691 704	Brute Forcing
+T25	Com 705 735	Vehicle Identification Numbers
+T26	Com 781 801	Personal Information
+T27	Com 806 825	vehicle information
+T28	Con 841 874	Activation of the air conditioner
+T29	Con 876 909	Starting and stopping of charging
+T30	Veh 932 938	Nissan
+R1	targets Arg1:T1 Arg2:T2	
+R2	uses Arg1:T1 Arg2:T4	
+R3	targets Arg1:T7 Arg2:T8	
+R4	targets Arg1:T7 Arg2:T9	
+R5	hasImpact Arg1:T13 Arg2:T10	
+R6	hasImpact Arg1:T13 Arg2:T11	
+R7	hasImpact Arg1:T14 Arg2:T15	
+R8	hasImpact Arg1:T14 Arg2:T16	
+R9	hasImpact Arg1:T14 Arg2:T17	
+R10	targets Arg1:T21 Arg2:T22	
+R11	targets Arg1:T24 Arg2:T25	
+R12	hasImpact Arg1:T24 Arg2:T28	
+R13	hasImpact Arg1:T24 Arg2:T29	

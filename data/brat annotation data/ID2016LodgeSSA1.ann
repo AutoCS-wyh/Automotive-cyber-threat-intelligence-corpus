@@ -1,0 +1,11 @@
+T1	Con 0 29	Tracking of vehicle locations
+T2	Vul 71 82	unique SSID
+T3	Con 102 130	locate other Outlander PHEVs
+T4	Com 156 172	mobile phone app
+T5	Con 174 193	Switching the light
+T6	Con 206 235	Changing of the charging rate
+T7	Con 237 265	Activation of the vntilation
+T8	Con 279 299	Draining the battery
+T9	Con 301 326	Deactivation of the alarm
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	

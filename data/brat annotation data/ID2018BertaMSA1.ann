@@ -1,0 +1,12 @@
+T1	Com 24 34	OBD device
+T2	Com 54 57	CAN
+T3	Tool 142 164	custom cellular device
+T4	Com 181 188	CAN-Bus
+T5	Tool 247 262	cellular device
+T6	AP 279 309	Sending malicious CAN commands
+T7	AV 314 317	SMS
+T8	Con 319 362	Safety-critical functions can be controlled
+R1	targets Arg1:T6 Arg2:T4	
+R2	uses Arg1:T6 Arg2:T5	
+R3	based-on Arg1:T6 Arg2:T7	
+R4	hasImpact Arg1:T6 Arg2:T8	

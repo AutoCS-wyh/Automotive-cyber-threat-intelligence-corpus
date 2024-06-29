@@ -1,0 +1,20 @@
+T1	AP 0 18	USB Malware attack
+T2	Con 40 60	extract private data
+T3	Com 70 89	Infotainment system
+T4	AP 91 110	Reverse Engineering
+T5	Com 111 123	Infotainment
+T6	Com 153 165	Infotainment
+T7	Tool 179 217	maliciously crafted USB device plugged
+T8	AP 237 243	infect
+T9	Com 248 267	infotainment system
+T10	AP 282 290	Misusing
+T11	Com 291 302	SMS service
+T12	Con 306 325	extract information
+T13	Com 360 379	infotainment system
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	uses Arg1:T8 Arg2:T7	
+R5	targets Arg1:T8 Arg2:T9	
+R6	targets Arg1:T10 Arg2:T11	
+R7	hasImpact Arg1:T10 Arg2:T12	

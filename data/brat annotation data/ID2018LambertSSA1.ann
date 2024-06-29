@@ -1,0 +1,9 @@
+T1	Veh 0 13	Tesla Model 3
+T2	Com 55 74	Infotainment System
+T3	Con 79 101	playing Youtube videos
+T4	Com 113 129	Infotainment ECU
+T5	Con 142 158	run a root shell
+T6	Con 160 174	Running Ubuntu
+T7	Con 179 201	playing YouTube videos
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T4 Arg2:T1	

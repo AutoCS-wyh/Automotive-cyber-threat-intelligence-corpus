@@ -1,0 +1,17 @@
+T1	Veh 13 18	Tesla
+T2	Com 19 22	app
+T3	AP 26 52	reusing authentication key
+T4	Con 54 70	GPS was disabled
+T5	Con 79 97	vehicle was stolen
+T6	Veh 121 126	Tesla
+T7	Con 211 220	Car theft
+T8	Con 224 233	break-ins
+T9	AP 235 246	Disable GPS
+T10	Con 279 290	No tracking
+T11	Con 297 306	Car theft
+T12	Con 310 319	break-ins
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T3 Arg2:T5	
+R5	hasImpact Arg1:T9 Arg2:T10	

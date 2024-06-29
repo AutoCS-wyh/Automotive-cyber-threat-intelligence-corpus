@@ -1,0 +1,14 @@
+T1	Con 0 21	Controlling functions
+T2	Tool 88 98	custom ECU
+T3	Com 139 143	ECUs
+T4	AP 145 154	Replacing
+T6	Com 171 202	Electronic brake control module
+T7	Com 205 209	EBCM
+T8	Tool 212 222	Custom ECU
+T9	Tool 318 328	custom ECU
+T10	Con 412 430	control the brakes
+R1	targets Arg1:T4 Arg2:T6	
+R2	targets Arg1:T4 Arg2:T7	
+R3	hasImpact Arg1:T4 Arg2:T1	
+R4	uses Arg1:T4 Arg2:T2	
+R5	hasImpact Arg1:T4 Arg2:T10	

@@ -1,0 +1,18 @@
+T1	Con 0 29	Extraction of hard coded keys
+T2	AP 45 63	reverse enginering
+T3	Com 68 91	remote gateway firmware
+T4	Com 107 113	Combox
+T5	Com 131 142	Flash Chips
+T6	Com 150 162	Modem Module
+T7	Com 177 181	chip
+T8	Com 185 198	adapter board
+T9	Com 203 208	STM32
+T10	Com 222 230	firmware
+T11	Con 253 279	decoding the emergency SMS
+T12	Tool 291 312	hard-coded data block
+T15	Com 404 412	firmware
+T13	Com 477 490	DES algorithm
+T14	Con 492 513	Decoded Emergency SMS
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T6	

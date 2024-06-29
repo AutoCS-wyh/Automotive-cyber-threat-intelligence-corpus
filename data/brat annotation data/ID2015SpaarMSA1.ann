@@ -1,0 +1,28 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 18	Backend
+T3	Com 48 55	backend
+T4	Com 71 102	Unlocking Communicating Routine
+T5	Con 122 146	Unlocking the door locks
+T6	AP 150 159	replaying
+T7	Com 164 181	unlocking routine
+T8	Com 194 208	smartphone app
+T9	Com 217 230	backend serve
+T10	AP 274 287	replay attack
+T11	Veh 312 315	BMW
+T12	Com 316 326	Remote App
+T13	Com 356 363	backend
+T14	Com 376 381	Modem
+T15	Com 385 401	ECU boots system
+T16	Vul 403 438	Unencrypted data connection request
+T17	Com 455 462	backend
+T18	Com 464 471	Backend
+T19	Con 512 520	unlocked
+T20	Con 522 531	Unlocking
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T6 Arg2:T5	
+R3	targets Arg1:T6 Arg2:T7	
+R4	targets Arg1:T10 Arg2:T12	
+R5	consists-of Arg1:T12 Arg2:T11	
+R6	consists-of Arg1:T14 Arg2:T15	
+R7	hasImpact Arg1:T16 Arg2:T19	
+R8	hasImpact Arg1:T16 Arg2:T20	

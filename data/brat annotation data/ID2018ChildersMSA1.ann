@@ -1,0 +1,17 @@
+T1	Con 0 13	Vehicle theft
+T2	Tool 23 37	RollJam device
+T3	AP 41 46	spoof
+T4	Com 51 58	key fob
+T5	AP 60 67	Jamming
+T6	Com 68 75	Key fob
+T7	AP 191 202	intercepted
+T8	AP 389 395	Replay
+T9	Com 405 412	key fob
+T10	Con 450 466	Car was unlocked
+R1	uses Arg1:T3 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T1	
+R4	targets Arg1:T5 Arg2:T6	
+R5	targets Arg1:T7 Arg2:T6	
+R6	targets Arg1:T8 Arg2:T9	
+R7	hasImpact Arg1:T8 Arg2:T10	

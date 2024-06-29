@@ -1,0 +1,13 @@
+T1	Com 10 30	Deep Neural Networks
+T2	Tool 36 56	Adversarial Examples
+T3	AP 58 71	EAD algorithm
+T4	Tool 77 97	adversarial examples
+T5	Com 108 125	image classifiers
+T6	Com 135 169	deep convolutional neural networks
+T7	Con 171 212	Breaking defended and undefended networks
+R1	targets Arg1:T3 Arg2:T1	
+R2	uses Arg1:T3 Arg2:T2	
+R3	uses Arg1:T3 Arg2:T4	
+R4	targets Arg1:T3 Arg2:T6	
+R5	consists-of Arg1:T6 Arg2:T5	
+R6	hasImpact Arg1:T3 Arg2:T7	

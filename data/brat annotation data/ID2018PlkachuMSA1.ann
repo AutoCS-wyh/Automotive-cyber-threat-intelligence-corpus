@@ -1,0 +1,12 @@
+T1	Con 0 30	Controlling and adapting music
+T2	Com 63 70	CAN bus
+T3	Tool 91 102	Rasperry Pi
+T4	Com 106 109	OBD
+T5	Com 160 163	CAN
+T6	AP 192 199	sniffed
+T7	Com 219 222	CAN
+T8	Com 248 251	CAN
+T9	Con 255 278	control custom features
+T10	Com 291 310	Infotainment system
+R1	targets Arg1:T6 Arg2:T5	
+R2	targets Arg1:T6 Arg2:T7	

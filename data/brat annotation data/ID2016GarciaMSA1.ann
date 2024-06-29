@@ -1,0 +1,23 @@
+T1	Com 12 15	ECU
+T2	Com 20 24	Chip
+T3	Com 42 46	Chip
+T4	Com 55 58	ECU
+T5	Con 60 76	Information Gain
+T6	Com 80 84	Chip
+T7	Com 89 92	ECU
+T8	Com 112 120	Firmware
+T9	Com 132 140	Firmware
+T10	Com 157 174	global master key
+T11	AP 178 197	Reverse Engineering
+T12	Com 205 213	Firmware
+T13	AP 215 234	Reverse Engineering
+T14	Com 242 250	Firmware
+T15	Con 252 274	Reading the Master Key
+T16	AP 276 295	Reverse engineering
+T17	Com 303 326	algorithm for unlocking
+T18	Con 340 357	Unlocking the car
+R1	targets Arg1:T11 Arg2:T12	
+R2	targets Arg1:T13 Arg2:T14	
+R3	hasImpact Arg1:T13 Arg2:T15	
+R4	targets Arg1:T16 Arg2:T17	
+R5	hasImpact Arg1:T16 Arg2:T18	

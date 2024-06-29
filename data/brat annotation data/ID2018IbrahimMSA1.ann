@@ -1,0 +1,21 @@
+T1	Com 10 30	keyless entry system
+T2	AP 34 41	jamming
+T3	AP 46 55	replaying
+T4	Com 56 63	key fob
+T5	AP 73 80	Jamming
+T6	Com 140 147	key fob
+T7	Con 154 163	car theft
+T8	Con 167 176	break-ins
+T9	AP 178 184	Replay
+T10	Con 233 242	Car theft
+T11	Con 246 255	break-ins
+R1	targets Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T1	
+R3	targets Arg1:T2 Arg2:T4	
+R4	targets Arg1:T3 Arg2:T4	
+R5	targets Arg1:T5 Arg2:T6	
+R6	hasImpact Arg1:T5 Arg2:T7	
+R7	hasImpact Arg1:T5 Arg2:T8	
+R8	targets Arg1:T9 Arg2:T6	
+R9	hasImpact Arg1:T9 Arg2:T10	
+R10	hasImpact Arg1:T9 Arg2:T11	

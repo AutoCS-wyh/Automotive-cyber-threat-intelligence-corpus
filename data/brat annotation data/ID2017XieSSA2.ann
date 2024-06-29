@@ -1,0 +1,20 @@
+T1	Tool 0 20	Adversarial Examples
+T2	AP 26 52	Dense Adversary Generation
+T3	AP 55 58	DAG
+T4	Com 81 102	semantic segmentation
+T5	Com 107 123	object detection
+T6	AP 125 147	Cross-Network Transfer
+T7	AP 154 177	Cross-Training Transfer
+T8	AP 218 240	Cross-Network Transfer
+T9	Con 242 259	Performance drops
+R1	uses Arg1:T2 Arg2:T1	
+R2	uses Arg1:T3 Arg2:T1	
+R3	targets Arg1:T2 Arg2:T4	
+R4	targets Arg1:T2 Arg2:T5	
+R5	targets Arg1:T3 Arg2:T4	
+R6	targets Arg1:T3 Arg2:T5	
+R7	targets Arg1:T6 Arg2:T4	
+R8	targets Arg1:T6 Arg2:T5	
+R9	hasImpact Arg1:T8 Arg2:T9	
+R10	hasImpact Arg1:T2 Arg2:T9	
+R11	hasImpact Arg1:T3 Arg2:T9	

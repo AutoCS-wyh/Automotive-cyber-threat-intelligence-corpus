@@ -1,0 +1,27 @@
+T1	Veh 21 26	Tesla
+T2	Com 27 36	Autopilot
+T3	Com 53 60	3G/Wifi
+T4	Com 81 88	Gateway
+T5	Com 102 116	WebKit browser
+T6	AP 151 175	arbitrary code execution
+T7	Com 268 274	Kernel
+T8	Com 286 294	AppArmor
+T9	Com 305 313	Firmware
+T10	Con 315 329	Get Root Shell
+T11	Com 333 336	CID
+T12	Con 380 395	Controll of CID
+T13	Com 419 422	CID
+T14	Com 440 443	APE
+T15	Con 569 583	Get root shell
+T16	Com 591 604	Autopilot ECU
+T17	Com 607 610	APE
+T18	Com 702 710	firmware
+T19	Com 816 829	Autopliot ECU
+T20	Com 832 835	APE
+T21	Con 852 868	root priviledges
+T22	Com 905 908	APE
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T1	
+R3	consists-of Arg1:T4 Arg2:T1	
+R4	targets Arg1:T6 Arg2:T5	
+R5	consists-of Arg1:T11 Arg2:T1	

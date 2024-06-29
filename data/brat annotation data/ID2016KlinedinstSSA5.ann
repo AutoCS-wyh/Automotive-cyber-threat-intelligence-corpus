@@ -1,0 +1,6 @@
+T1	Com 152 163	OBD devices
+T2	AP 307 313	modify
+T3	Com 314 322	firmware
+T4	Con 324 358	Maliciously update remote firmware
+R1	targets Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T4	

@@ -1,0 +1,24 @@
+T1	Con 0 22	Monitoring GSM traffic
+T2	Com 46 49	GSM
+T3	Com 82 104	ConnectedDrive service
+T4	Com 117 124	browser
+T5	Com 150 157	Browser
+T6	Vul 225 246	memory corruption bug
+T7	Com 248 255	Browser
+T8	Con 268 289	Remote Code Execution
+T9	Com 297 304	browser
+T10	Com 312 321	head unit
+T11	Vul 336 346	memory bug
+T12	Con 348 369	Remote code execution
+T13	Com 375 382	browser
+T14	Con 406 421	root privileges
+T15	Com 429 438	head unit
+T16	Con 440 461	Remote Code Execution
+T17	Com 184 191	browser
+R1	hasVulnerability Arg1:T17 Arg2:T6	
+R2	hasImpact Arg1:T6 Arg2:T8	
+R3	consists-of Arg1:T9 Arg2:T10	
+R4	hasVulnerability Arg1:T9 Arg2:T11	
+R5	hasImpact Arg1:T11 Arg2:T14	
+R6	hasImpact Arg1:T11 Arg2:T12	
+R7	consists-of Arg1:T13 Arg2:T15	

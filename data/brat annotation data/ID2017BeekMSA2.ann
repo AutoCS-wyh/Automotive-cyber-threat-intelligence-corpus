@@ -1,0 +1,29 @@
+T1	Com 0 9	Telematic
+T2	Com 14 31	Infotainment unit
+T3	Veh 35 46	Nissan Leaf
+T4	Tool 74 82	honeypot
+T5	Com 91 105	backend server
+T6	AP 109 118	intercept
+T7	AP 158 168	Monitoring
+T8	Com 169 172	USB
+T9	Com 184 193	Telematic
+T10	Con 206 232	Data traffic was monitored
+T11	AP 290 309	Reverse engineering
+T12	Com 310 320	Telematics
+T13	Vul 336 365	Buffer Overflow vulnerability
+T14	Vul 393 422	buffer overflow vulnerability
+T15	Com 424 443	Telematics firmware
+T16	AP 459 478	Reverse engineering
+T17	Com 483 502	Telematics firmware
+T18	Com 550 565	Telematics unit
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T3	
+R4	uses Arg1:T6 Arg2:T4	
+R5	targets Arg1:T7 Arg2:T8	
+R6	targets Arg1:T7 Arg2:T9	
+R7	hasImpact Arg1:T7 Arg2:T10	
+R8	targets Arg1:T11 Arg2:T12	
+R9	hasVulnerability Arg1:T12 Arg2:T13	
+R10	hasVulnerability Arg1:T15 Arg2:T14	
+R11	targets Arg1:T16 Arg2:T17	

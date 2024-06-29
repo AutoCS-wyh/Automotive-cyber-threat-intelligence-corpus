@@ -1,0 +1,22 @@
+T1	AP 0 30	Sending malicious CAN messages
+T2	Con 34 55	activate bootrom mode
+T3	Com 65 68	EBP
+T4	AP 88 118	Sending malicious CAN messages
+T5	Con 122 143	activate bootrom mode
+T6	Con 145 157	Deceleration
+T7	AP 176 184	spoofing
+T8	AV 185 188	CAN
+T9	Com 229 253	electronic parking brake
+T10	AP 255 263	Spoofing
+T11	Com 272 275	EBP
+T12	Com 301 314	parking brake
+T13	Con 316 330	Strong braking
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T7 Arg2:T6	
+R5	based-on Arg1:T7 Arg2:T8	
+R6	targets Arg1:T7 Arg2:T9	
+R7	targets Arg1:T10 Arg2:T11	
+R8	targets Arg1:T10 Arg2:T12	
+R9	hasImpact Arg1:T10 Arg2:T13	

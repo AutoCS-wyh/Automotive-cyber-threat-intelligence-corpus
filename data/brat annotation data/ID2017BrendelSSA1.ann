@@ -1,0 +1,14 @@
+T1	Com 10 37	machine learning algorithms
+T2	Tool 47 73	pertubations of the inputs
+T3	AP 75 90	Boundary Attack
+T4	AP 591 606	Boundary Attack
+T5	Com 620 654	defenses based on gradient-masking
+T6	AP 656 671	Boundary Attack
+T7	Com 713 730	image recognition
+T8	AP 797 812	Boundary Attack
+T9	Con 914 932	wrongly classified
+R1	targets Arg1:T3 Arg2:T1	
+R2	uses Arg1:T3 Arg2:T2	
+R3	targets Arg1:T4 Arg2:T5	
+R4	targets Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T8 Arg2:T9	

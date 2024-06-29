@@ -1,0 +1,27 @@
+T1	AP 0 7	Fooling
+T2	Com 8 33	gradient-based algorithms
+T3	Tool 72 92	adversarial examples
+T4	Tool 129 149	adversarial examples
+T5	AP 175 182	mislead
+T6	Com 183 205	human pose recognition
+T7	Com 207 228	semantic segmentation
+T8	Com 233 251	speech recognition
+T9	Com 253 274	Human Pose Estimation
+T10	AP 276 285	Deception
+T11	Com 363 384	Semantic segmentation
+T12	Con 386 406	Network hallucinates
+T13	Com 423 441	Speech Recognition
+T14	Tool 457 480	adversarial audio files
+T15	Com 492 495	ASR
+R1	targets Arg1:T1 Arg2:T2	
+R2	uses Arg1:T1 Arg2:T3	
+R3	uses Arg1:T5 Arg2:T4	
+R4	targets Arg1:T5 Arg2:T6	
+R5	targets Arg1:T5 Arg2:T7	
+R6	targets Arg1:T5 Arg2:T8	
+R7	targets Arg1:T10 Arg2:T9	
+R8	hasImpact Arg1:T5 Arg2:T12	
+T16	Tool 155 162	Houdini
+R9	uses Arg1:T5 Arg2:T16	
+R10	uses Arg1:T5 Arg2:T14	
+R11	targets Arg1:T5 Arg2:T15	

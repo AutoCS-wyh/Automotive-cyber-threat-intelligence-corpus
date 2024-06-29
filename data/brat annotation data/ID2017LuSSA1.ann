@@ -1,0 +1,22 @@
+T1	Con 0 19	Misleading detector
+T2	Tool 29 49	adversarial examples
+T3	Tool 65 85	adversarial examples
+T4	Com 105 126	stop sign recognition
+T5	Com 131 147	face recognition
+T6	Con 149 172	Misleading the detector
+T7	Com 176 209	traffic sign and face recognition
+T8	Con 236 256	mislead the Detector
+T9	Com 280 291	Faster RCNN
+T10	Com 316 325	YOLO 9000
+T11	AP 452 471	adversarial attacks
+R1	hasImpact Arg1:T11 Arg2:T1	
+R2	uses Arg1:T11 Arg2:T2	
+R3	targets Arg1:T11 Arg2:T4	
+R4	targets Arg1:T11 Arg2:T5	
+R5	hasImpact Arg1:T11 Arg2:T6	
+R6	targets Arg1:T11 Arg2:T9	
+R7	targets Arg1:T11 Arg2:T10	
+R8	consists-of Arg1:T9 Arg2:T4	
+R9	consists-of Arg1:T9 Arg2:T5	
+R10	consists-of Arg1:T10 Arg2:T4	
+R11	consists-of Arg1:T10 Arg2:T5	

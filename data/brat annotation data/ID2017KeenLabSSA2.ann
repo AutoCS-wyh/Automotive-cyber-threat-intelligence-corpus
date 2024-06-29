@@ -1,0 +1,12 @@
+T1	Com 17 26	head unit
+T2	AP 30 38	spoofing
+T3	AV 42 56	diagnostic CAN
+T4	Com 135 150	hu-jacinto chip
+T5	Com 160 171	CAN drivers
+T6	Com 227 232	K-CAN
+T7	Com 249 258	head unit
+T8	Com 306 309	CAN
+R1	targets Arg1:T2 Arg2:T1	
+R2	hasInterface Arg1:T1 Arg2:T3	
+R3	based-on Arg1:T2 Arg2:T3	
+R4	consists-of Arg1:T4 Arg2:T1	

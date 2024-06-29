@@ -1,0 +1,11 @@
+T1	AP 0 14	Malware attack
+T2	Com 18 33	diagnostic tool
+T3	Con 48 75	distribution of the malware
+T4	AP 98 105	Fuzzing
+T5	Com 129 145	diagnostics tool
+T6	Com 155 171	diagnostics tool
+T7	Con 217 241	infect multiple vehicles
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T7	
