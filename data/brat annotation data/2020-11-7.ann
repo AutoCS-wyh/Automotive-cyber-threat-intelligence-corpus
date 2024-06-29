@@ -1,0 +1,39 @@
+T1	Veh 43 56	Tesla Model X
+T2	Com 72 90	keyless entry fobs
+T3	Con 113 119	unlock
+T4	Con 121 126	start
+T5	Con 132 147	steal a vehicle
+T6	Ide 149 154	Tesla
+T7	Veh 168 175	Model X
+T8	Com 176 184	key fobs
+T9	Com 209 217	firmware
+T10	Com 230 239	Bluetooth
+T11	Veh 290 297	Model X
+T12	Vul 303 321	without confirming
+T13	Com 335 343	firmware
+T14	Ide 399 404	Tesla
+T15	Tool 446 472	Tesla Model X hacking tool
+T16	Veh 490 497	Model X
+T17	Com 498 517	body control module
+T18	Com 534 541	key fob
+T19	Com 634 649	Bluetooth radio
+T20	Veh 673 682	Model X's
+T21	Com 683 689	keyfob
+T22	Com 703 711	firmware
+T23	Com 723 742	secure enclave chip
+T24	Com 754 757	fob
+T25	Com 863 872	Bluetooth
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T7 Arg2:T6	
+R3	consists-of Arg1:T8 Arg2:T7	
+R4	consists-of Arg1:T9 Arg2:T8	
+R5	hasVulnerability Arg1:T8 Arg2:T12	
+R6	hasImpact Arg1:T12 Arg2:T3	
+R7	hasImpact Arg1:T12 Arg2:T4	
+R8	hasImpact Arg1:T12 Arg2:T5	
+R9	consists-of Arg1:T17 Arg2:T16	
+R10	consists-of Arg1:T18 Arg2:T16	
+R11	consists-of Arg1:T21 Arg2:T20	
+R12	consists-of Arg1:T22 Arg2:T21	
+R13	consists-of Arg1:T23 Arg2:T24	
+R14	consists-of Arg1:T24 Arg2:T20	

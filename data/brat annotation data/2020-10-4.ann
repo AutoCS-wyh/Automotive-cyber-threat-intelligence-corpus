@@ -1,0 +1,11 @@
+T1	Con 55 63	stealing
+T2	Veh 66 81	Volkswagen Golf
+T3	Loc 114 121	Chicago
+T4	Tool 165 182	electronic device
+T5	AP 186 193	capture
+T6	AP 198 203	relay
+T7	Com 237 244	key fob
+R1	uses Arg1:T5 Arg2:T4	
+R2	uses Arg1:T6 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T7	
+R4	targets Arg1:T6 Arg2:T7	

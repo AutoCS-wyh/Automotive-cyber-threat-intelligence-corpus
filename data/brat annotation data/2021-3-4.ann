@@ -1,0 +1,10 @@
+T1	Ide 0 7	Tracker
+T2	Con 71 77	stolen
+T3	Veh 118 130	Range Rovers
+T4	AP 151 163	relay attack
+T5	Con 183 188	steal
+T6	Veh 211 223	Range Rovers
+T7	Ide 276 283	Tracker
+T8	Veh 323 334	Range Rover
+R1	hasImpact Arg1:T4 Arg2:T5	
+R2	hasImpact Arg1:T4 Arg2:T2	

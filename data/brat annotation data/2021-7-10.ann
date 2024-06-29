@@ -1,0 +1,19 @@
+T1	Veh 4 12	Lexus LX
+T2	Ide 14 34	Toyota Motor Corp.’s
+T3	Loc 92 97	Japan
+T4	Veh 118 121	LXs
+T5	Con 154 160	stolen
+T6	Com 309 320	immobilizer
+T7	Com 330 358	electronic anti-theft system
+T8	AP 373 386	relay attacks
+T9	Com 427 437	smart keys
+T10	Tool 494 505	CAN Invader
+T11	Com 535 558	Controller Area Network
+T12	Com 561 568	CAN bus
+R1	related-to Arg1:T1 Arg2:T2	
+R2	related-to Arg1:T4 Arg2:T2	
+R3	consists-of Arg1:T6 Arg2:T1	
+R4	consists-of Arg1:T7 Arg2:T1	
+R5	consists-of Arg1:T9 Arg2:T1	
+R6	targets Arg1:T8 Arg2:T9	
+R7	hasImpact Arg1:T8 Arg2:T5	

@@ -1,0 +1,11 @@
+T1	Con 157 195	blind autonomous vehicles to obstacles
+T2	Tool 209 222	audio signals
+T3	Com 247 264	image stabilisers
+T4	Tool 336 347	sound waves
+T5	AP 377 383	tamper
+T6	Com 389 416	object detection algorithms
+R1	hasImpact Arg1:T5 Arg2:T1	
+R2	uses Arg1:T5 Arg2:T2	
+R3	targets Arg1:T5 Arg2:T3	
+R4	uses Arg1:T5 Arg2:T4	
+R5	targets Arg1:T5 Arg2:T6	

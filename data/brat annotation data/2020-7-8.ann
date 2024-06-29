@@ -1,0 +1,11 @@
+T1	Veh 38 51	Tesla Model 3
+T2	Com 54 61	NFC tag
+T3	AP 92 104	relay attack
+T4	Con 211 234	open the vehicle's door
+T5	Com 265 277	NFC protocol
+T6	Veh 323 328	Tesla
+T7	Com 331 338	NFC tag
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T4	
+R4	consists-of Arg1:T7 Arg2:T6	

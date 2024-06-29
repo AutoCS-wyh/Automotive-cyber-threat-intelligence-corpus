@@ -1,0 +1,7 @@
+T1	Loc 3 8	Italy
+T2	Veh 14 24	Fiat Panda
+T3	Loc 91 96	Italy
+T4	Con 102 112	car thefts
+T5	Com 147 162	contactless key
+T6	Con 284 297	steal the car
+R1	consists-of Arg1:T5 Arg2:T2	

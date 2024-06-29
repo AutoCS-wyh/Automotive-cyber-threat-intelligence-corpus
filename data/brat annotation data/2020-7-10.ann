@@ -1,0 +1,16 @@
+T1	Con 61 96	jams the Collision Avoidance System
+T2	Com 98 101	CAS
+T3	Veh 106 125	autonomous vehicles
+T4	Con 175 192	cause an accident
+T5	Com 207 232	forward collision warning
+T6	Com 234 237	FCW
+T7	Com 243 271	autonomous emergency braking
+T8	Com 273 276	AEB
+T9	Veh 346 359	Tesla Model 3
+T10	Veh 364 374	Lynk&Co 01
+T11	Com 444 470	collision avoidance system
+T12	Com 471 476	radar
+T13	Veh 519 538	autonomous vehicles
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T11 Arg2:T9	
+R3	consists-of Arg1:T11 Arg2:T10	

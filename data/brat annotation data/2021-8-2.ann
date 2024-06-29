@@ -1,0 +1,16 @@
+T1	Com 61 92	smart electric vehicle chargers
+T2	Com 115 122	Wallbox
+T3	Com 127 137	Project EV
+T4	Con 168 207	remotely switch the chargers on and off
+T5	Con 209 234	remove the owner’s access
+T6	Con 240 273	lock or unlock the charging cable
+T7	Com 305 340	take control of the Wallbox charger
+T8	Con 342 358	gain full access
+T9	Con 364 389	remove the owner's access
+T10	Con 519 548	charge the attacker’s vehicle
+T11	AP 602 626	changing the programming
+T12	Con 668 699	permanently disable the charger
+T13	Con 713 734	attack other chargers
+T14	Con 778 803	infiltrate a home network
+R1	hasImpact Arg1:T11 Arg2:T12	
+R2	hasImpact Arg1:T11 Arg2:T13	

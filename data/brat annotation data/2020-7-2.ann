@@ -1,0 +1,6 @@
+T1	Tool 30 49	malicious encryptor
+T2	Tool 50 59	NetWalker
+T3	Ide 67 81	Trinity Metros
+T4	Loc 85 90	Texas
+T5	Con 130 152	release all their data
+R1	located-at Arg1:T3 Arg2:T4	

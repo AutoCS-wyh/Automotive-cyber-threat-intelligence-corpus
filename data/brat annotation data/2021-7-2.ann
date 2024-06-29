@@ -1,0 +1,13 @@
+T1	Con 48 65	vehicle break-ins
+T2	Loc 88 102	German Village
+T3	AP 238 252	keyless attack
+T4	Tool 279 285	sensor
+T5	Con 311 320	unlocking
+T6	Tool 350 356	sensor
+T7	Com 371 378	key fob
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	located-at Arg1:T3 Arg2:T2	
+R3	uses Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T3 Arg2:T5	
+R5	uses Arg1:T3 Arg2:T6	
+R6	targets Arg1:T3 Arg2:T7	

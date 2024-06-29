@@ -1,0 +1,6 @@
+T1	Tool 13 33	Netwalker ransomware
+T2	Con 67 83	possess the data
+T3	Ide 87 99	Forsee Power
+T4	Com 125 152	lithium-ion battery systems
+T5	Com 157 178	mobility applications
+R1	consists-of Arg1:T4 Arg2:T5	

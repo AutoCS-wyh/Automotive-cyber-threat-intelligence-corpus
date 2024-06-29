@@ -1,0 +1,8 @@
+T1	AP 32 44	DDoS attacks
+T2	AP 49 67	electronic jamming
+T3	AV 338 347	satellite
+T4	AV 349 357	cellular
+T5	AV 359 364	Wi-Fi
+T6	AV 366 375	Bluetooth
+T7	AV 377 380	RDS
+T8	AV 382 403	eSIM-based telematics

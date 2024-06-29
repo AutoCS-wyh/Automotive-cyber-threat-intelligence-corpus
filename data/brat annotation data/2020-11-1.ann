@@ -1,0 +1,11 @@
+T1	Con 18 24	stolen
+T2	Ide 30 45	Twin Auto Sales
+T3	Loc 49 56	Detroit
+T4	Tool 87 107	keyless theft device
+T5	Veh 140 157	Dodge Durango SRT
+T6	Veh 172 195	Jeep Grand Cherokee SRT
+T7	Veh 208 231	Jeep Grand Cherokee SRT
+T8	Veh 244 267	Dodge Charger Scat Pack
+T9	Veh 280 300	Dodge Challenger R/T
+T10	Veh 319 343	Dodge Challenger Hellcat
+R1	located-at Arg1:T2 Arg2:T3	

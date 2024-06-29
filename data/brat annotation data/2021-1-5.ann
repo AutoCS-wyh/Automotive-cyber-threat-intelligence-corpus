@@ -1,0 +1,12 @@
+T1	Com 31 55	Qualcomm Snapdragon chip
+T2	Com 59 63	chip
+T3	Com 88 111	in-vehicle infotainment
+T4	Com 116 126	navigation
+T5	Com 140 152	4G LTE modem
+T6	Vul 201 215	race condition
+T7	Com 338 357	infotainment system
+T8	Com 363 378	Snapdragon chip
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T1 Arg2:T4	
+R3	consists-of Arg1:T1 Arg2:T5	
+R4	hasVulnerability Arg1:T1 Arg2:T6	

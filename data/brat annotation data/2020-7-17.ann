@@ -1,0 +1,6 @@
+T1	Veh 27 42	Mercedes GLS350
+T2	AP 58 71	keyless theft
+T3	Loc 106 112	Newham
+T4	Loc 114 116	UK
+R1	located-at Arg1:T2 Arg2:T3	
+R2	located-at Arg1:T2 Arg2:T4	

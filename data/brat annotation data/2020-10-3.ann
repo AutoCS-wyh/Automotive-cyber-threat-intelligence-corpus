@@ -1,0 +1,24 @@
+T1	AP 8 26	reverse-engineered
+T2	Com 31 38	signals
+T3	Com 43 51	circuits
+T4	Veh 58 60	EV
+T5	Com 67 80	J1772 charger
+T6	Veh 121 123	EV
+T7	Loc 136 149	North America
+T8	Con 169 195	disrupted vehicle charging
+T9	Tool 203 218	spoofing device
+T10	AP 338 355	man in the middle
+T11	AP 358 362	MITM
+T12	AP 376 391	spoofed signals
+T13	Con 443 479	limit the vehicle's rate of charging
+T14	Con 481 507	block the battery charging
+T15	Con 513 536	overcharged the vehicle
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	consists-of Arg1:T2 Arg2:T4	
+R4	consists-of Arg1:T2 Arg2:T5	
+R5	consists-of Arg1:T3 Arg2:T4	
+R6	consists-of Arg1:T3 Arg2:T5	
+R7	hasImpact Arg1:T12 Arg2:T13	
+R8	hasImpact Arg1:T12 Arg2:T14	
+R9	hasImpact Arg1:T12 Arg2:T15	

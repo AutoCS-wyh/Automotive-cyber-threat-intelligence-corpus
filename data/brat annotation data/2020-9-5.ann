@@ -1,0 +1,12 @@
+T1	Loc 19 24	Kenya
+T2	Tool 30 37	jammers
+T3	Con 41 55	steal vehicles
+T4	Com 117 125	key fobs
+T5	AP 135 152	jammed the signal
+T6	AP 272 303	disabled the car’s GPS trackers
+T7	Tool 309 316	jammers
+R1	located-at Arg1:T5 Arg2:T1	
+R2	uses Arg1:T5 Arg2:T2	
+R3	hasImpact Arg1:T5 Arg2:T3	
+R4	targets Arg1:T5 Arg2:T4	
+R5	uses Arg1:T6 Arg2:T7	

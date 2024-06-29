@@ -1,0 +1,9 @@
+T1	Ide 35 39	Vdoo
+T2	Ide 93 100	Realtek
+T3	Com 101 113	Wi-Fi module
+T4	AP 166 172	hijack
+T5	Ide 232 239	Realtek
+T6	Com 240 253	RTL8710C Wi-F
+T7	Com 479 494	RTL8710C module
+R1	related-to Arg1:T3 Arg2:T2	
+R2	related-to Arg1:T6 Arg2:T5	

@@ -1,0 +1,16 @@
+T1	Com 39 63	EVlink charging stations
+T2	Com 75 86	EVlink City
+T3	Com 88 102	EVlink Parking
+T4	Com 108 128	EVlink Smart Wallbox
+T5	Con 207 233	perform unintended actions
+T6	Con 242 269	gaining unauthorized access
+T7	Con 281 327	gaining unauthorized administrative privileges
+T8	Com 347 376	charging station’s web server
+T9	Con 411 437	perform unintended actions
+T10	Con 441 455	access to data
+T11	Tool 461 489	crafted malicious parameters
+T12	Com 511 540	charging station’s web server
+R1	consists-of Arg1:T8 Arg2:T1	
+R2	consists-of Arg1:T8 Arg2:T2	
+R3	consists-of Arg1:T8 Arg2:T3	
+R4	consists-of Arg1:T8 Arg2:T4	

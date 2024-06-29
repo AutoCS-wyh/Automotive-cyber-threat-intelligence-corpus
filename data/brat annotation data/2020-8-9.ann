@@ -1,0 +1,11 @@
+T1	Loc 13 17	Utah
+T2	AP 62 78	hacked odometers
+T3	AP 87 95	tampered
+T4	Com 101 107	analog
+T5	Com 119 136	digital odometers
+T6	Ide 223 273	National Highway Traffic and Safety Administration
+T7	Loc 363 371	American
+R1	targets Arg1:T3 Arg2:T4	
+R2	targets Arg1:T3 Arg2:T5	
+R3	located-at Arg1:T3 Arg2:T1	
+R4	located-at Arg1:T2 Arg2:T1	

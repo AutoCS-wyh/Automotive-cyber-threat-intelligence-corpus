@@ -1,0 +1,22 @@
+T1	Com 29 54	Power Line Communications
+T2	Com 57 60	PLC
+T3	Vul 63 91	signals could be easily read
+T4	Tool 98 113	active antennas
+T5	Veh 152 159	trailer
+T6	Com 261 265	ECUs
+T7	Veh 273 280	trailer
+T8	Com 281 288	PLC bus
+T10	Com 489 492	PLC
+T11	Com 585 599	wireless links
+R1	hasVulnerability Arg1:T1 Arg2:T3	
+R2	hasVulnerability Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T3	
+R4	consists-of Arg1:T1 Arg2:T5	
+R5	consists-of Arg1:T2 Arg2:T5	
+R6	consists-of Arg1:T6 Arg2:T7	
+R7	consists-of Arg1:T8 Arg2:T7	
+T9	Com 298 313	trailer traffic
+T12	Com 328 346	ABS fault messages
+T13	Con 366 397	minimal loss of confidentiality
+R8	consists-of Arg1:T12 Arg2:T9	
+R9	hasImpact Arg1:T3 Arg2:T13	

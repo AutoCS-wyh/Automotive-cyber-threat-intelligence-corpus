@@ -1,0 +1,13 @@
+T1	Com 28 47	infotainment system
+T2	Veh 55 61	Toyota
+T3	Com 92 107	ignition module
+T4	Com 116 128	vehicle's AC
+T5	Com 134 146	infotainment
+T6	Com 223 235	infotainment
+T7	Com 251 265	steering wheel
+T8	Com 310 317	key fob
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T4 Arg2:T2	
+R4	consists-of Arg1:T7 Arg2:T2	
+R5	consists-of Arg1:T8 Arg2:T2	

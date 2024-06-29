@@ -1,0 +1,33 @@
+T1	Ide 61 66	Tesla
+T2	Veh 90 97	Model S
+T3	Veh 102 109	Model X
+T4	Vul 142 166	failing display consoles
+T5	Com 188 207	media control units
+T6	Con 232 256	sever the owner’s access
+T7	Com 276 289	backup camera
+T8	Com 291 307	climate controls
+T9	Ide 313 320	Tesla’s
+T10	Com 321 355	Autopilot driver assistance system
+T11	Ide 414 419	Tesla
+T12	Com 445 463	flash memory chips
+T13	Veh 498 512	Model S sedans
+T14	Veh 527 539	Model X SUVs
+T15	Ide 541 546	Tesla
+T16	Com 591 595	chip
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	consists-of Arg1:T5 Arg2:T2	
+R5	consists-of Arg1:T5 Arg2:T3	
+R6	hasImpact Arg1:T4 Arg2:T6	
+R7	consists-of Arg1:T7 Arg2:T2	
+R8	consists-of Arg1:T8 Arg2:T2	
+R9	consists-of Arg1:T7 Arg2:T3	
+R10	consists-of Arg1:T8 Arg2:T3	
+R11	related-to Arg1:T10 Arg2:T9	
+R12	consists-of Arg1:T10 Arg2:T2	
+R13	consists-of Arg1:T10 Arg2:T3	
+R14	consists-of Arg1:T12 Arg2:T13	
+R15	consists-of Arg1:T12 Arg2:T14	
+R16	related-to Arg1:T13 Arg2:T11	
+R17	related-to Arg1:T14 Arg2:T11	

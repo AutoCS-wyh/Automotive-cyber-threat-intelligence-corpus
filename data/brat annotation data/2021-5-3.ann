@@ -1,0 +1,9 @@
+T1	AP 0 14	Signal jamming
+T2	Con 123 131	stealing
+T3	AP 147 161	remote jamming
+T6	Com 290 302	alarm system
+T7	Con 393 398	steal
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T3 Arg2:T2	
+R3	targets Arg1:T3 Arg2:T6	
+R4	hasImpact Arg1:T3 Arg2:T7	

@@ -1,0 +1,8 @@
+T1	Loc 0 7	Toronto
+T2	Tool 82 96	signal booster
+T3	Con 100 105	steal
+T4	Veh 108 121	Lexus vehicle
+T5	Com 290 301	keyless fob
+T6	Con 379 395	unlocked the car
+T7	Con 405 433	started the vehicle’s engine
+R1	consists-of Arg1:T5 Arg2:T4	

@@ -1,0 +1,24 @@
+T1	Con 76 98	remotely shutdown ECUs
+T2	Veh 182 199	2009 Toyota Prius
+T3	Veh 206 221	2017 Ford Focus
+T4	AP 248 266	disruption attacks
+T5	Tool 303 310	SAM V71
+T6	Tool 315 338	SPC58 evaluation boards
+T7	Com 403 407	ECUs
+T8	Veh 446 456	2017 Focus
+T9	Com 458 472	powertrain ECU
+T10	Veh 490 500	2009 Prius
+T11	Com 502 520	power steering ECU
+T12	Com 707 711	ECUs
+T13	Com 715 739	Electronic Control Units
+T14	Com 784 815	peripheral clock gating feature
+T15	Com 878 882	ECUs
+T16	Com 906 910	ECUs
+T17	Con 1117 1134	shut down any ECU
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	uses Arg1:T4 Arg2:T5	
+R3	uses Arg1:T4 Arg2:T6	
+R4	consists-of Arg1:T9 Arg2:T8	
+R5	consists-of Arg1:T11 Arg2:T10	
+R6	targets Arg1:T4 Arg2:T9	
+R7	targets Arg1:T4 Arg2:T11	

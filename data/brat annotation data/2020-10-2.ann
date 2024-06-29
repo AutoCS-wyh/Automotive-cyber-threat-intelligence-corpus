@@ -1,0 +1,13 @@
+T1	Veh 38 51	Mercedes-Benz
+T2	Veh 56 59	BMW
+T3	Com 62 74	infotainment
+T4	Veh 123 138	Audi A7 2014 MM
+T5	Com 142 161	infotainment system
+T6	Vul 237 274	improper handling of “format strings”
+T7	Com 368 377	Bluetooth
+T8	Con 445 479	crashing the infotainment software
+R1	consists-of Arg1:T3 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T5 Arg2:T4	
+R4	hasVulnerability Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T6 Arg2:T8	

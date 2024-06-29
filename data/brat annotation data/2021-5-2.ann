@@ -1,0 +1,15 @@
+T1	Ide 36 44	Qualcomm
+T2	Com 45 61	Snapdragon chips
+T3	Com 120 135	Snapdragon Auto
+T4	Com 137 160	Snapdragon Consumer IoT
+T5	Com 166 191	Snapdragon Industrial IoT
+T6	Vul 235 251	buffer overflows
+T7	Vul 253 271	denial of services
+T8	Vul 277 328	improper handling of group management action frames
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	related-to Arg1:T5 Arg2:T1	
+R5	hasVulnerability Arg1:T2 Arg2:T6	
+R6	hasVulnerability Arg1:T2 Arg2:T7	
+R7	hasVulnerability Arg1:T2 Arg2:T8	

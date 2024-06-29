@@ -1,0 +1,20 @@
+T1	Ide 27 34	Realtek
+T2	Com 35 44	RTL8195AM
+T3	Com 46 55	RTL8711AM
+T4	Com 57 66	RTL8711AF
+T5	Com 72 81	RTL8710AF
+T6	Vul 93 120	stack-based buffer overflow
+T7	Com 135 146	client code
+T8	Tool 195 221	malformed EAPOL-Key packet
+T9	Com 317 338	WiFi hardware modules
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	related-to Arg1:T5 Arg2:T1	
+R5	hasVulnerability Arg1:T7 Arg2:T6	
+R6	consists-of Arg1:T7 Arg2:T2	
+R7	consists-of Arg1:T7 Arg2:T3	
+R8	consists-of Arg1:T7 Arg2:T4	
+R9	consists-of Arg1:T7 Arg2:T5	
+R10	related-to Arg1:T6 Arg2:T1	
+R11	hasVulnerability Arg1:T9 Arg2:T6	

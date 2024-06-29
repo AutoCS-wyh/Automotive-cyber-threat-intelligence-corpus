@@ -1,0 +1,8 @@
+T1	Com 43 72	Realtek RTL8195A Wi-Fi module
+T2	Com 125 146	Wi-Fi hardware module
+T3	Ide 317 321	Vdoo
+T4	Con 343 354	gain access
+T5	Com 362 374	Wi-Fi module
+T6	Com 383 404	application processor
+T7	Con 430 446	gain root access
+T8	Con 451 472	take complete control

@@ -1,0 +1,13 @@
+T1	Tool 37 66	adversarial projected objects
+T2	AP 73 77	fool
+T3	Com 82 100	autonomous systems
+T4	Veh 104 116	Li Xiang One
+T5	Loc 203 210	Israeli
+T6	AP 228 252	fooled Tesla's autopilot
+T7	Tool 258 274	projected images
+T8	Veh 309 321	Li Xiang One
+R1	uses Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T3 Arg2:T4	
+R4	uses Arg1:T6 Arg2:T7	
+R5	located-at Arg1:T6 Arg2:T5	

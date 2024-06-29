@@ -1,0 +1,7 @@
+T1	Loc 21 28	Grimsby
+T2	Loc 30 32	UK
+T3	Com 147 160	keyless entry
+T4	Veh 161 172	Land Rovers
+T5	Veh 177 189	Range Rovers
+R1	consists-of Arg1:T3 Arg2:T4	
+R2	consists-of Arg1:T3 Arg2:T5	

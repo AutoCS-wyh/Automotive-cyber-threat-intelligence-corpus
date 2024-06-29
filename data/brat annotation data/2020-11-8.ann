@@ -1,0 +1,14 @@
+T1	Veh 62 75	Tesla vehicle
+T2	AP 96 128	infiltrated the cellular network
+T3	AP 187 220	take over the infotainment screen
+T4	Veh 228 233	Tesla
+T5	Con 237 255	access the CAN-BUS
+T6	AP 294 311	wide-scale attack
+T7	Tool 315 336	amplifying the signal
+T8	Com 418 430	Wi-Fi server
+T9	AP 442 472	intercept the network requests
+T10	Veh 481 486	Tesla
+T11	Con 511 541	hacked message to be displayed
+R1	hasImpact Arg1:T3 Arg2:T5	
+R2	uses Arg1:T6 Arg2:T7	
+R3	hasImpact Arg1:T9 Arg2:T11	

@@ -1,0 +1,12 @@
+T1	Con 19 27	stealing
+T2	Veh 30 53	luxury Mercedes vehicle
+T3	Loc 75 77	UK
+T4	Con 148 154	thefts
+T5	Tool 174 188	mobile gadgets
+T6	Loc 295 297	UK
+T7	AP 343 359	relay technology
+R1	located-at Arg1:T7 Arg2:T6	
+R2	uses Arg1:T7 Arg2:T5	
+R3	hasImpact Arg1:T7 Arg2:T4	
+R4	hasImpact Arg1:T7 Arg2:T1	
+R5	located-at Arg1:T7 Arg2:T3	

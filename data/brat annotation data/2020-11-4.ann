@@ -1,0 +1,13 @@
+T1	Con 19 24	stole
+T2	Veh 35 41	Nissan
+T3	Tool 101 113	relay device
+T4	AP 117 133	scan the key fob
+T5	Tool 200 212	aerial relay
+T6	Con 216 233	steal the vehicle
+T7	Loc 267 280	West Midlands
+T8	Loc 282 284	UK
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	uses Arg1:T4 Arg2:T3	
+R3	uses Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T6	
+R5	located-at Arg1:T4 Arg2:T7	

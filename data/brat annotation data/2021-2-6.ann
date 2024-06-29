@@ -1,0 +1,13 @@
+T1	Com 15 36	keyless entry systems
+T2	Com 227 234	key fob
+T3	Tool 240 258	malicious firmware
+T4	Com 264 273	Bluetooth
+T5	Vul 286 311	don’t verify certificates
+T6	Ide 374 379	Tesla
+T7	Ide 424 429	Tesla
+T8	Com 442 454	over-the-air
+T9	Com 457 460	OTA
+T10	CoA 462 467	patch
+R1	targets Arg1:T3 Arg2:T5	
+R2	related-to Arg1:T5 Arg2:T6	
+R3	mitigates Arg1:T10 Arg2:T5	

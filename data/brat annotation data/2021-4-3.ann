@@ -1,0 +1,15 @@
+T1	Con 77 91	hack the doors
+T2	Veh 97 110	Tesla Model X
+T3	Tool 135 147	Wi-Fi dongle
+T4	Con 220 252	control the infotainment systems
+T5	AV 258 263	Wi-Fi
+T6	Com 325 332	ConnMan
+T7	Com 408 427	infotainment system
+T8	Veh 435 440	Tesla
+T9	Con 516 532	unlock the doors
+T10	Con 544 565	change seat positions
+T11	Con 582 590	steering
+T12	Con 595 607	acceleration
+T13	Con 621 645	manipulate drive control
+R1	hasInterface Arg1:T7 Arg2:T5	
+R2	consists-of Arg1:T7 Arg2:T8	

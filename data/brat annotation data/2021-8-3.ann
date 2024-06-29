@@ -1,0 +1,5 @@
+T1	Con 180 193	keyless theft
+T2	AP 251 267	relay technology
+T3	Con 371 377	unlock
+R1	hasImpact Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T1	

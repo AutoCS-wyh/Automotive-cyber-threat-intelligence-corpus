@@ -1,0 +1,16 @@
+T1	Veh 2 23	Mercedes Benz GLC 250
+T2	Con 67 73	stolen
+T3	Loc 102 110	Burnside
+T4	Loc 112 126	Sawbridgeworth
+T5	Tool 164 179	scanning device
+T6	AP 202 223	activate the ignition
+T7	Con 289 311	thefts of keyless cars
+T8	Loc 319 333	Sawbridgeworth
+T9	Loc 338 356	Bishop's Stortford
+T10	Con 374 380	stolen
+R1	uses Arg1:T6 Arg2:T5	
+R2	hasImpact Arg1:T6 Arg2:T2	
+R3	hasImpact Arg1:T6 Arg2:T7	
+R4	located-at Arg1:T6 Arg2:T8	
+R5	located-at Arg1:T6 Arg2:T9	
+R6	hasImpact Arg1:T6 Arg2:T10	

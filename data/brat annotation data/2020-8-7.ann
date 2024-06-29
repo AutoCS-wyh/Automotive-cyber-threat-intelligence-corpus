@@ -1,0 +1,14 @@
+T1	Com 95 103	hardware
+T2	Com 108 116	software
+T3	Com 133 137	ECUs
+T4	Com 290 298	hardware
+T5	Com 488 496	software
+T6	Com 500 502	OS
+T7	Com 510 514	ECU,
+T8	Com 534 542	hardware
+T9	Com 596 599	ECU
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T7	
+R4	consists-of Arg1:T6 Arg2:T7	
+R5	consists-of Arg1:T8 Arg2:T7	

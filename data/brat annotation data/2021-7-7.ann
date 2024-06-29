@@ -1,0 +1,8 @@
+T1	Com 42 57	CAN bus console
+T2	Veh 63 86	Volkswagen Golf vehicle
+T3	Com 111 118	CAN bus
+T4	Com 212 219	CAN bus
+T5	Tool 262 275	ESP32 CanLite
+T6	Com 359 369	ST VN750PC
+T7	Com 389 395	driver
+R1	consists-of Arg1:T1 Arg2:T2	

@@ -1,0 +1,9 @@
+T1	Com 42 54	Android Auto
+T2	Con 78 95	permission bypass
+T3	Vul 106 136	unsafe Android reference token
+T4	Vul 167 209	local information disclosure vulnerability
+T5	Con 224 252	command execution privileges
+R1	hasVulnerability Arg1:T1 Arg2:T3	
+R2	hasImpact Arg1:T3 Arg2:T2	
+R3	hasVulnerability Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T4 Arg2:T5	

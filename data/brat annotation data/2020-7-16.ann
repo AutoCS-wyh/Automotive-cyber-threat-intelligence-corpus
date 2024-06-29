@@ -1,0 +1,13 @@
+T1	Veh 18 26	Mercedes
+T2	Com 28 32	MBUX
+T3	Com 33 52	infotainment system
+T4	Veh 68 81	Mercedes W203
+T5	Tool 93 100	Arduino
+T6	AV 115 122	CAN bus
+T7	Com 137 140	CAN
+T8	Com 169 183	Android tablet
+T9	Com 191 194	USB
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T1	
+R3	hasInterface Arg1:T2 Arg2:T6	
+R4	hasInterface Arg1:T3 Arg2:T6	

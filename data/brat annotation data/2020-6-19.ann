@@ -1,0 +1,13 @@
+T1	AP 71 90	reversed engineered
+T2	Veh 91 94	BMW
+T3	Com 97 112	connected drive
+T4	Tool 128 144	open-sourced app
+T5	Com 223 232	BMW's API
+T6	Com 310 319	BMW's API
+T7	Veh 391 394	BMW
+T8	Con 428 452	activation of headlights
+T9	Con 465 476	unlock/lock
+T10	Tool 498 514	open sourced app
+R1	targets Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T5 Arg2:T2	

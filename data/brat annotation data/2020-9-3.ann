@@ -1,0 +1,13 @@
+T1	Veh 25 36	Nissan Leaf
+T2	Com 39 46	battery
+T3	Tool 81 91	CAN-bridge
+T4	AP 95 116	hack the CAN-messages
+T5	Com 125 143	battery management
+T6	AP 186 215	hacking into the CAN-messages
+T7	Com 228 253	battery management system
+T8	Tool 396 406	CAN-bridge
+R1	consists-of Arg1:T2 Arg2:T1	
+R3	uses Arg1:T4 Arg2:T3	
+R2	targets Arg1:T4 Arg2:T5	
+R4	targets Arg1:T6 Arg2:T7	
+R5	uses Arg1:T6 Arg2:T8	

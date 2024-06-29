@@ -1,0 +1,8 @@
+T1	Ide 21 26	Tesla
+T2	Com 42 45	API
+T3	Con 75 108	control the Tesla Model S vehicle
+T4	Com 130 133	API
+T5	Con 180 208	control the vehicle's motion
+T6	Com 234 237	API
+T7	Con 266 284	unlock the vehicle
+T8	Con 289 319	flash the vehicle's headlights

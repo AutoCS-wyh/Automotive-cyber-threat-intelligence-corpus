@@ -1,0 +1,14 @@
+T1	AP 13 32	reversed engineered
+T2	Veh 48 53	Tesla
+T3	Com 56 63	dashcam
+T4	Com 64 74	hard drive
+T5	Vul 90 138	none of the dashcam recording outputs was signed
+T6	Com 280 289	MP4 video
+T7	Com 305 312	dashcam
+T8	Con 432 454	cost a lot to insurers
+T9	Com 520 527	dashcam
+R1	targets Arg1:T1 Arg2:T4	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T4 Arg2:T3	
+R4	hasVulnerability Arg1:T4 Arg2:T5	
+R5	hasImpact Arg1:T5 Arg2:T8	

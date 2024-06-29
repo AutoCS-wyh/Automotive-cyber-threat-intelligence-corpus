@@ -1,0 +1,12 @@
+T1	Ide 0 4	Ford
+T2	Com 90 94	fobs
+T3	Ide 150 154	Ford
+T4	Com 245 252	car fob
+T5	AP 272 280	tampered
+T6	Con 431 452	keyless car thieves f
+T7	Con 456 483	gaining unauthorized access
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T4 Arg2:T3	
+R3	targets Arg1:T5 Arg2:T4	
+R4	hasImpact Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T5 Arg2:T7	

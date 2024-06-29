@@ -1,0 +1,14 @@
+T1	Con 19 34	sell VPN access
+T2	Loc 73 84	South Korea
+T3	Ide 148 153	FXMSP
+T4	Con 169 190	gained network access
+T5	Vul 207 230	Pulse VPN vulnerability
+T6	Vul 232 246	CVE-2019-11510
+T7	Ide 355 362	Hyundai
+T8	Ide 422 429	Hyundai
+R1	hasImpact Arg1:T5 Arg2:T4	
+R2	hasImpact Arg1:T5 Arg2:T1	
+R3	hasImpact Arg1:T6 Arg2:T4	
+R4	hasImpact Arg1:T6 Arg2:T1	
+R5	related-to Arg1:T5 Arg2:T7	
+R6	related-to Arg1:T6 Arg2:T7	

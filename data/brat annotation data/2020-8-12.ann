@@ -1,0 +1,26 @@
+T1	Ide 49 54	Tesla
+T2	Com 57 78	server-side mechanism
+T3	Ide 89 94	Tesla
+T4	Com 97 104	network
+T5	Com 156 163	servers
+T6	Com 181 191	Mothership
+T7	Com 202 228	Command-and-Control server
+T8	Ide 254 259	Tesla
+T9	Ide 348 353	Tesla
+T10	Com 372 378	server
+T11	AP 383 402	reverse-engineering
+T12	AV 413 427	VPN connection
+T13	Com 439 449	Mothership
+T14	Com 531 541	Mothership
+T15	Veh 589 602	Tesla vehicle
+T16	Con 650 657	control
+T17	Con 662 677	get information
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T4 Arg2:T3	
+R3	related-to Arg1:T6 Arg2:T8	
+R4	related-to Arg1:T7 Arg2:T8	
+R5	related-to Arg1:T10 Arg2:T9	
+R6	based-on Arg1:T11 Arg2:T12	
+R7	targets Arg1:T11 Arg2:T13	
+R8	hasImpact Arg1:T11 Arg2:T16	
+R9	hasImpact Arg1:T11 Arg2:T17	

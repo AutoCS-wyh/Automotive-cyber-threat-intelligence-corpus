@@ -1,0 +1,9 @@
+T1	Loc 3 9	Indian
+T2	Tool 52 63	chip-reader
+T3	Tool 70 84	hacking system
+T4	Con 131 136	steal
+T5	Com 192 196	keys
+T6	AP 208 247	transferred the vehicles' sensor coding
+T7	Com 257 261	keys
+T8	Con 275 299	duplicating the real key
+R1	hasImpact Arg1:T6 Arg2:T8	

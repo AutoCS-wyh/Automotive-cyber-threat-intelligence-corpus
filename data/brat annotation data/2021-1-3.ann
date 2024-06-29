@@ -1,0 +1,18 @@
+T1	Com 33 64	lcn2kai Bosch infotainment unit
+T2	Veh 70 91	Nissan Xterra vehicle
+T3	Com 133 152	infotainment system
+T4	Tool 176 186	USB device
+T5	Con 203 225	gain root shell access
+T6	Ide 263 270	Bosch's
+T7	Com 271 285	infotainment’s
+T8	Ide 317 323	Nissan
+T9	Veh 362 367	Rogue
+T10	Veh 369 375	Sentra
+T11	Veh 377 383	Altima
+T12	Veh 385 393	Frontier
+T13	Ide 412 418	Nissan
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	related-to Arg1:T9 Arg2:T8	
+R3	related-to Arg1:T10 Arg2:T8	
+R4	related-to Arg1:T11 Arg2:T8	
+R5	related-to Arg1:T12 Arg2:T8	

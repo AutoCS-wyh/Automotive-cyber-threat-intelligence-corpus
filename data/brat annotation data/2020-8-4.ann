@@ -1,0 +1,26 @@
+T1	Vul 26 48	information disclosure
+T2	Vul 53 88	remote code execution vulnerability
+T3	Com 94 104	web server
+T4	Ide 129 139	BlackBerry
+T5	Com 140 173	QNX software development platform
+T6	Ide 175 185	Blackberry
+T7	Com 188 191	QNX
+T8	Com 210 230	infotainment systems
+T9	Com 235 262	digital instrument clusters
+T10	Com 272 279	QNX SDP
+T11	Con 407 427	read arbitrary files
+T12	Ide 433 443	Blackberry
+T13	Com 446 453	QNX SDP
+T14	Con 458 483	run arbitrary executables
+T15	Com 493 503	web server
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	hasVulnerability Arg1:T3 Arg2:T2	
+R3	related-to Arg1:T3 Arg2:T4	
+R4	consists-of Arg1:T3 Arg2:T5	
+R5	related-to Arg1:T5 Arg2:T4	
+R6	related-to Arg1:T7 Arg2:T6	
+R7	consists-of Arg1:T7 Arg2:T8	
+R8	consists-of Arg1:T7 Arg2:T9	
+R9	hasImpact Arg1:T1 Arg2:T11	
+R10	related-to Arg1:T13 Arg2:T12	
+R11	hasImpact Arg1:T2 Arg2:T14	

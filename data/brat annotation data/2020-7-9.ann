@@ -1,0 +1,17 @@
+T1	AP 6 25	reverse engineering
+T2	Veh 26 31	Tesla
+T3	Com 87 112	battery management system
+T4	Com 114 117	BMS
+T5	Com 177 180	CAN
+T6	Com 191 194	UDS
+T7	Com 205 213	firmware
+T8	AP 258 274	reverse engineer
+T9	Com 354 357	BMS
+T10	Veh 423 427	P85D
+T11	Com 452 460	firmware
+T12	Com 468 471	BMS
+T13	Com 502 518	security gateway
+T14	Com 586 594	firmware
+R1	targets Arg1:T1 Arg2:T3	
+R2	targets Arg1:T1 Arg2:T4	
+R3	consists-of Arg1:T11 Arg2:T12	

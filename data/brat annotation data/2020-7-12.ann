@@ -1,0 +1,15 @@
+T1	Ide 0 36	National Highways Authority of India
+T2	Ide 38 42	NHAI
+T3	AP 74 91	ransomware attack
+T4	Com 101 113	email server
+T5	Tool 119 129	ransomware
+T6	Com 149 161	NHAI servers
+T7	Con 166 195	released sensitive data files
+T8	Tool 201 211	ransomware
+T9	Con 263 272	data leak
+T10	Con 278 287	data leak
+R1	targets Arg1:T3 Arg2:T4	
+R2	uses Arg1:T3 Arg2:T5	
+R3	targets Arg1:T3 Arg2:T6	
+R4	hasImpact Arg1:T3 Arg2:T7	
+R5	hasImpact Arg1:T3 Arg2:T9	

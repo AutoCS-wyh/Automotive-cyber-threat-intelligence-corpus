@@ -1,0 +1,16 @@
+T1	AP 225 230	relay
+T2	AP 235 248	code grabbing
+T3	Con 303 327	remote control to unlock
+T4	Con 340 356	start the engine
+T5	Tool 374 385	CAN Invader
+T6	Veh 395 401	Toyota
+T7	Veh 406 411	Lexus
+T8	Con 489 495	stolen
+T9	AP 499 522	interrupting the wiring
+T10	Tool 632 643	CAN Invader
+T11	Com 649 658	smart key
+T12	AP 799 811	relay attack
+T13	Con 841 857	unlock a vehicle
+T14	AP 874 898	generate a new smart key
+R1	hasImpact Arg1:T9 Arg2:T8	
+R2	targets Arg1:T12 Arg2:T11	

@@ -1,0 +1,18 @@
+T1	Con 29 35	stolen
+T2	Loc 39 47	Oakville
+T3	Loc 49 55	Canada
+T4	AP 130 135	relay
+T5	AP 139 152	reprogramming
+T6	Con 203 209	stolen
+T7	Con 338 355	electronic thefts
+T8	Con 407 412	stole
+T9	Con 458 463	stole
+T10	Veh 557 571	Lexus vehicles
+T11	Veh 573 586	Toyota models
+T12	Veh 588 599	Land Rovers
+T13	Veh 601 613	Range Rovers
+T14	Veh 619 637	Ford pickup trucks
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	hasImpact Arg1:T5 Arg2:T1	
+R3	located-at Arg1:T4 Arg2:T2	
+R4	located-at Arg1:T5 Arg2:T2	

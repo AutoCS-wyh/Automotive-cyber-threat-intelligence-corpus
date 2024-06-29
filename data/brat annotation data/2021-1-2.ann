@@ -1,0 +1,10 @@
+T1	Loc 0 21	Western Massachusetts
+T2	AP 148 179	capture vehicle key fob signals
+T3	Con 236 251	unlock the cars
+T4	Con 256 261	steal
+T5	Com 357 364	key fob
+T6	Com 382 388	engine
+T7	Con 454 460	stolen
+R1	located-at Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T4	

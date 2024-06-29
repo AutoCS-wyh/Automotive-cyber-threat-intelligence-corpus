@@ -1,0 +1,7 @@
+T1	Com 49 52	NFC
+T2	Com 67 74	key fob
+T3	Tool 87 116	open-sourced Java Card applet
+T4	AP 122 154	emulates Tesla Model 3's key fob
+T5	Com 213 216	NFC
+T6	Com 321 324	NFC
+R1	uses Arg1:T4 Arg2:T3	

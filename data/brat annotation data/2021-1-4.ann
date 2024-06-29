@@ -1,0 +1,10 @@
+T1	Loc 47 61	South St.Louis
+T2	Loc 63 71	Missouri
+T3	Veh 87 100	Chevrolet SUV
+T4	AP 126 152	keyless entry relay attack
+T5	Con 208 225	stole possessions
+T6	Tool 348 361	keyfob reader
+R1	located-at Arg1:T4 Arg2:T1	
+R2	located-at Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T5	
+R4	uses Arg1:T4 Arg2:T6	

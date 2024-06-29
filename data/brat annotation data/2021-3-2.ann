@@ -1,0 +1,12 @@
+T1	Loc 0 14	West Yorkshire
+T2	Loc 16 18	UK
+T3	Con 66 85	keyless cars stolen
+T4	Loc 89 94	Leeds
+T5	Com 121 128	key fob
+T6	AP 129 142	relay attacks
+T7	Veh 151 163	Range Rovers
+T8	Con 208 214	stolen
+R1	consists-of Arg1:T5 Arg2:T7	
+R2	targets Arg1:T6 Arg2:T5	
+R3	hasImpact Arg1:T6 Arg2:T3	
+R4	located-at Arg1:T6 Arg2:T4	

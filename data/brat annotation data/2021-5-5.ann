@@ -1,0 +1,12 @@
+T1	Vul 18 32	CVE-2021-29507
+T2	Com 49 78	diagnostic log and trace tool
+T3	Ide 82 97	GENIVI Alliance
+T4	Com 181 198	operating systems
+T5	Com 203 213	middleware
+T6	AP 328 345	denial of service
+T7	AP 348 351	DoS
+T8	Tool 516 529	crafted input
+T9	AP 563 573	DoS attack
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T2 Arg2:T3	
+R3	uses Arg1:T9 Arg2:T8	

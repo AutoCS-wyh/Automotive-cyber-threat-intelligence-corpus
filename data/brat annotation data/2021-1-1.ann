@@ -1,0 +1,12 @@
+T1	Veh 0 6	Nissan
+T2	Loc 7 22	North America's
+T3	Com 38 49	mobile apps
+T4	Con 73 79	leaked
+T5	Vul 116 132	misconfiguration
+T6	Com 147 168	company’s Git servers
+T7	Veh 275 281	Nissan
+T8	Veh 363 369	Nissan
+T9	Com 370 392	ASIST diagnostics tool
+R1	hasVulnerability Arg1:T6 Arg2:T5	
+R2	hasImpact Arg1:T5 Arg2:T4	
+R3	consists-of Arg1:T3 Arg2:T1	

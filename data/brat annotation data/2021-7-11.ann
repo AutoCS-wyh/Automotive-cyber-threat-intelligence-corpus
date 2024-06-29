@@ -1,0 +1,9 @@
+T1	Con 118 131	vehicle crime
+T2	Con 167 180	keyless theft
+T3	Com 221 233	immobilizers
+T4	Com 238 251	keyless entry
+T5	AP 293 305	relay attack
+R1	hasImpact Arg1:T5 Arg2:T1	
+R2	hasImpact Arg1:T5 Arg2:T2	
+R3	targets Arg1:T5 Arg2:T3	
+R4	targets Arg1:T5 Arg2:T4	

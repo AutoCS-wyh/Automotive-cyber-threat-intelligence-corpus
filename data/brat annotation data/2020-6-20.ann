@@ -1,0 +1,12 @@
+T1	Vul 33 61	code execution vulnerability
+T2	Com 69 89	web-based management
+T3	Ide 93 97	WAGO
+T4	Com 100 135	programmable automation controllers
+T5	Tool 197 238	specially crafted series of HTTP requests
+T6	Con 248 268	local code execution
+T7	Con 282 303	remote code execution
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T2 Arg2:T4	
+R3	related-to Arg1:T4 Arg2:T3	
+R4	hasImpact Arg1:T1 Arg2:T6	
+R5	hasImpact Arg1:T1 Arg2:T7	

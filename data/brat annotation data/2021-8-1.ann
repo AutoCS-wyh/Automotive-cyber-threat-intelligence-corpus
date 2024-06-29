@@ -1,0 +1,14 @@
+T1	Ide 0 11	Shlomo Sixt
+T2	Loc 67 73	Israel
+T3	Vul 148 163	network problem
+T4	Com 178 181	TSP
+T5	Com 183 192	Traffilog
+T6	Com 213 234	vehicles’ immobilizer
+T7	Com 260 271	Traffilog’s
+T8	Con 374 398	vehicles would not start
+R1	related-to Arg1:T4 Arg2:T1	
+R2	related-to Arg1:T5 Arg2:T1	
+R3	hasVulnerability Arg1:T4 Arg2:T3	
+R4	hasVulnerability Arg1:T5 Arg2:T3	
+R5	consists-of Arg1:T6 Arg2:T5	
+R6	hasImpact Arg1:T3 Arg2:T8	
