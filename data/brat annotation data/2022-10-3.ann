@@ -1,0 +1,8 @@
+T1	Vul 25 39	CVE-2022-42430
+T2	Veh 51 64	Tesla model 3
+T3	Con 176 188	execute code
+T4	Con 193 213	gain root privileges
+T5	CoA 240 271	Upgrading to the latest version
+R1	hasImpact Arg1:T1 Arg2:T3	
+R2	hasImpact Arg1:T1 Arg2:T4	
+R3	mitigates Arg1:T5 Arg2:T1	

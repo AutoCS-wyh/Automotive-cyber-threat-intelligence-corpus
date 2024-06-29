@@ -1,0 +1,16 @@
+T1	Com 8 21	keyless entry
+T2	Con 41 47	stolen
+T3	Loc 83 89	Canada
+T4	AP 140 153	relay attacks
+T5	Com 169 181	keyless fobs
+T6	Con 185 190	steal
+T7	Veh 241 257	Dodge Rebel 1500
+T8	Veh 266 284	Dodge Ram Longhorn
+T9	Veh 297 306	Dodge Ram
+R1	hasImpact Arg1:T4 Arg2:T2	
+R2	located-at Arg1:T4 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T6	
+R5	consists-of Arg1:T5 Arg2:T7	
+R6	consists-of Arg1:T5 Arg2:T8	
+R7	consists-of Arg1:T5 Arg2:T9	

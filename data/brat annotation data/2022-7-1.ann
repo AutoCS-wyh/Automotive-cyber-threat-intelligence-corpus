@@ -1,0 +1,12 @@
+T1	Com 25 32	key fob
+T2	Vul 125 136	Rolling-PWN
+T3	Com 227 247	remote keyless entry
+T4	Com 250 253	RKE
+T5	Com 382 392	RKE system
+T6	Vul 649 660	Rolling-PWN
+T7	CoA 679 690	OTA updates
+R1	hasVulnerability Arg1:T1 Arg2:T2	
+R2	hasVulnerability Arg1:T3 Arg2:T2	
+R3	hasVulnerability Arg1:T4 Arg2:T2	
+R4	hasVulnerability Arg1:T5 Arg2:T6	
+R5	mitigates Arg1:T7 Arg2:T6	

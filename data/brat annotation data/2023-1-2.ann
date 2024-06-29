@@ -1,0 +1,9 @@
+T1	Vul 25 39	CVE-2022-38766
+T2	Com 55 76	remote keyless system
+T3	Veh 80 96	Renault ZOE 2021
+T4	AP 174 186	reply attack
+T5	Con 234 242	stealing
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T1	
+R4	hasImpact Arg1:T4 Arg2:T5	

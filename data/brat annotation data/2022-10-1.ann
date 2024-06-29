@@ -1,0 +1,13 @@
+T1	Con 14 24	car thefts
+T2	Loc 37 43	Canada
+T3	Com 143 160	keyless ignitions
+T4	Com 164 177	push-to-start
+T5	Veh 266 274	Lexus RX
+T6	Veh 276 286	Honda CR-V
+T7	Veh 292 303	Honda Civic
+R1	consists-of Arg1:T3 Arg2:T5	
+R2	consists-of Arg1:T3 Arg2:T6	
+R3	consists-of Arg1:T3 Arg2:T7	
+R4	consists-of Arg1:T4 Arg2:T5	
+R5	consists-of Arg1:T4 Arg2:T6	
+R6	consists-of Arg1:T4 Arg2:T7	

@@ -1,0 +1,11 @@
+T1	Vul 25 38	CVE-2022-3093
+T2	Veh 50 63	Tesla model 3
+T3	Con 137 159	execute arbitrary code
+T4	Veh 176 181	Tesla
+T5	Ide 306 311	Tesla
+T6	Veh 336 343	Tesla’s
+T7	CoA 351 374	software update release
+R1	hasImpact Arg1:T1 Arg2:T3	
+R2	related-to Arg1:T1 Arg2:T5	
+R3	related-to Arg1:T2 Arg2:T5	
+R4	mitigates Arg1:T7 Arg2:T1	

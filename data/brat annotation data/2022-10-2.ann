@@ -1,0 +1,6 @@
+T1	Veh 17 29	Ford fiestas
+T2	Con 35 41	stolen
+T3	Com 46 59	keyless entry
+T4	Com 214 225	keyless fob
+R1	consists-of Arg1:T3 Arg2:T1	
+R2	consists-of Arg1:T4 Arg2:T1	

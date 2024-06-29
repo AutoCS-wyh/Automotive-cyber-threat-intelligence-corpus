@@ -1,0 +1,17 @@
+T1	Vul 35 66	memory corruption vulnerability
+T2	Vul 73 87	CVE-2023-21642
+T3	Ide 143 151	Qualcomm
+T4	Com 152 165	QCA574AU chip
+T5	Com 196 216	infotainment systems
+T6	Con 286 303	memory corruption
+T7	Con 322 350	infotainment system crashing
+R1	related-to Arg1:T1 Arg2:T3	
+R2	related-to Arg1:T2 Arg2:T3	
+R3	hasVulnerability Arg1:T4 Arg2:T1	
+R4	hasVulnerability Arg1:T4 Arg2:T2	
+R5	related-to Arg1:T4 Arg2:T3	
+R6	consists-of Arg1:T4 Arg2:T5	
+R7	hasImpact Arg1:T1 Arg2:T6	
+R8	hasImpact Arg1:T1 Arg2:T7	
+R9	hasImpact Arg1:T2 Arg2:T6	
+R10	hasImpact Arg1:T2 Arg2:T7	

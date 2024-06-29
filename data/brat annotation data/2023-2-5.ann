@@ -1,0 +1,19 @@
+T1	Ide 0 7	Hyundai
+T2	Ide 12 15	Kia
+T3	CoA 40 55	software update
+T4	Con 159 168	car theft
+T5	Con 233 247	steal vehicles
+T6	Tool 256 264	USB cord
+T7	Veh 304 307	Kia
+T8	Veh 312 319	Hyundai
+T9	Vul 335 364	without an engine immobilizer
+T10	CoA 370 394	emergency patch software
+T11	AP 649 685	bypass the vehicle’s security system
+T12	Tool 701 709	USB cord
+T13	CoA 747 762	software update
+R1	mitigates Arg1:T10 Arg2:T9	
+R2	uses Arg1:T11 Arg2:T12	
+R3	mitigates Arg1:T10 Arg2:T11	
+R4	mitigates Arg1:T13 Arg2:T11	
+R5	related-to Arg1:T9 Arg2:T1	
+R6	related-to Arg1:T9 Arg2:T2	

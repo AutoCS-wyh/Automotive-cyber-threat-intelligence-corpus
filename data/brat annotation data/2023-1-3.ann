@@ -1,0 +1,7 @@
+T1	Vul 58 72	CVE-2022-32635
+T2	Ide 84 92	MediaTek
+T3	Com 93 107	GPS microchips
+T4	Con 171 201	local escalation of privileges
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T1 Arg2:T4	

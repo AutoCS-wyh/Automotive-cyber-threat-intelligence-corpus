@@ -1,0 +1,8 @@
+T1	Com 36 43	MiCODUS
+T2	Com 55 66	GPS tracker
+T3	Com 72 75	GPS
+T6	Com 288 300	MV720 device
+T7	Con 304 309	track
+T8	Con 313 335	immobilize the vehicle
+T9	Con 349 377	collect tracking information
+T10	Con 383 398	manipulate data

@@ -1,0 +1,5 @@
+T1	Ide 0 3	BMW
+T2	Com 80 92	heated seats
+T3	Veh 178 181	BMW
+T4	Con 301 315	without paying
+R1	consists-of Arg1:T2 Arg2:T3	

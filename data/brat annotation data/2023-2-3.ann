@@ -1,0 +1,13 @@
+T1	Vul 25 39	CVE-2022-33216
+T2	Ide 55 63	Qualcomm
+T3	Com 64 78	QCA6595AU chip
+T4	Com 101 121	infotainment systems
+T5	Con 235 253	denial of services
+T6	Con 258 263	crash
+T7	Com 277 296	infotainment system
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	
+R6	consists-of Arg1:T3 Arg2:T7	

@@ -1,0 +1,19 @@
+T1	Com 9 18	Bluetooth
+T2	AP 75 86	bluejacking
+T3	Veh 130 135	Tesla
+T4	Com 156 165	Bluetooth
+T5	AP 186 197	bluejacking
+T6	Com 211 220	Bluetooth
+T7	AP 228 237	hijacking
+T8	Com 341 350	Bluetooth
+T9	AP 381 389	bluejack
+T10	AP 489 508	bluejacking attacks
+T11	AP 538 549	bluejacking
+T12	Con 578 584	unlock
+T13	Con 589 593	lock
+R1	targets Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T4 Arg2:T3	
+R3	targets Arg1:T5 Arg2:T6	
+R4	targets Arg1:T9 Arg2:T8	
+R5	hasImpact Arg1:T11 Arg2:T12	
+R6	hasImpact Arg1:T11 Arg2:T13	

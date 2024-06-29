@@ -1,0 +1,38 @@
+T1	Veh 0 7	Hyundai
+T2	Veh 12 15	Kia
+T3	Vul 97 127	lack keyless ignition hardware
+T4	Ide 129 136	Hyundai
+T5	CoA 157 169	security kit
+T6	Veh 230 237	Hyundai
+T7	Loc 257 259	US
+T8	Ide 261 268	Hyundai
+T9	Veh 428 435	Hyundai
+T10	Veh 478 484	Accent
+T11	Veh 486 493	Elantra
+T12	Veh 495 505	Elantra GT
+T13	Veh 507 513	Sonata
+T14	Veh 515 523	Veloster
+T15	Veh 525 530	Venue
+T16	Veh 532 536	Kona
+T17	Veh 538 544	Tucson
+T18	Veh 546 554	Santa Fe
+T19	Veh 556 570	Santa Fe Sport
+T20	Veh 572 583	Santa Fe XL
+T21	Veh 588 596	Palisade
+T22	Com 617 626	steel key
+T23	Com 646 664	engine immobilizer
+R1	related-to Arg1:T3 Arg2:T4	
+R2	related-to Arg1:T1 Arg2:T4	
+R3	mitigates Arg1:T5 Arg2:T3	
+R4	related-to Arg1:T10 Arg2:T8	
+R5	related-to Arg1:T11 Arg2:T8	
+R6	related-to Arg1:T12 Arg2:T8	
+R7	related-to Arg1:T13 Arg2:T8	
+R8	related-to Arg1:T14 Arg2:T8	
+R9	related-to Arg1:T15 Arg2:T8	
+R10	related-to Arg1:T16 Arg2:T8	
+R11	related-to Arg1:T17 Arg2:T8	
+R12	related-to Arg1:T18 Arg2:T8	
+R13	related-to Arg1:T19 Arg2:T8	
+R14	related-to Arg1:T20 Arg2:T8	
+R15	related-to Arg1:T21 Arg2:T8	

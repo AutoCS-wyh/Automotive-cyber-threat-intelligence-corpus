@@ -1,0 +1,21 @@
+T1	Veh 36 49	Hyundai loniq
+T2	Com 81 90	head unit
+T3	Com 91 99	firmware
+T4	AP 176 192	reverse engineer
+T5	Tool 214 237	subversive update files
+T6	Com 269 279	root shell
+T7	Com 287 296	head unit
+T8	AP 309 327	reverse engineered
+T9	Com 332 345	app framework
+T10	Com 398 414	dashboard's APIs
+T11	Con 431 453	monitor the car status
+T12	Con 458 487	control the locking mechanism
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T6 Arg2:T7	
+R4	targets Arg1:T8 Arg2:T9	
+R5	hasImpact Arg1:T8 Arg2:T11	
+R6	hasImpact Arg1:T8 Arg2:T12	
+T13	Con 243 261	granted him access
+R7	uses Arg1:T4 Arg2:T5	
+R8	hasImpact Arg1:T4 Arg2:T13	

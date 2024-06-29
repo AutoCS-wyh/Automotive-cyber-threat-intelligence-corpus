@@ -1,0 +1,7 @@
+T1	Vul 25 39	CVE-2022-48363
+T2	Com 48 70	Automotive Grade Linux
+T4	Con 289 307	denial of services
+T5	Con 312 317	crash
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T1 Arg2:T4	
+R3	hasImpact Arg1:T1 Arg2:T5	

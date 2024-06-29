@@ -1,0 +1,8 @@
+T1	AP 47 59	relay attack
+T2	Veh 84 89	Tesla
+T3	Com 135 148	keyless entry
+T4	Ide 233 238	Tesla
+T5	Tool 330 345	relaying device
+R1	targets Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	uses Arg1:T1 Arg2:T5	

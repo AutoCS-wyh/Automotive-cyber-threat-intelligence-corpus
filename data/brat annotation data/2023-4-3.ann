@@ -1,0 +1,17 @@
+T1	Vul 25 39	CVE-2023-29389
+T2	Veh 51 67	Toyota RAV4 2021
+T3	Veh 109 125	Toyota RAV4 2021
+T4	Com 175 179	ECUs
+T5	Com 185 192	CAN bus
+T6	AP 264 278	CAN Injections
+T7	Con 281 309	aking control of the vehicle
+T8	Com 391 398	CAN bus
+T9	Com 417 422	bumpe
+T10	Com 446 465	headlight connector
+R1	targets Arg1:T6 Arg2:T1	
+R2	hasImpact Arg1:T6 Arg2:T7	
+R3	consists-of Arg1:T4 Arg2:T3	
+R4	consists-of Arg1:T5 Arg2:T3	
+R5	consists-of Arg1:T9 Arg2:T3	
+R6	consists-of Arg1:T10 Arg2:T3	
+R7	targets Arg1:T6 Arg2:T5	

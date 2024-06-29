@@ -1,0 +1,26 @@
+T1	Vul 25 39	CVE-2023-26243
+T2	Vul 41 55	CVE-2023-26244
+T3	Vul 57 71	CVE-2023-26246
+T4	Com 73 87	CVE-2023-26245
+T5	Veh 98 113	Hyundai Gen5W_L
+T6	Com 114 144	in-vehicle infotainment system
+T7	Com 202 219	decryption binary
+T8	Com 236 244	firmware
+T9	Vul 258 274	information leak
+T10	Com 311 318	AES key
+T11	Com 323 344	initialization vector
+T12	Com 375 397	AppUpgrade binary file
+T13	Com 424 432	firmware
+T14	AP 462 470	modified
+T15	Con 489 523	bypass the digital signature check
+T16	AP 552 570	install a backdoor
+T17	Com 578 597	infotainment system
+T18	Com 663 668	Wi-Fi
+R1	hasVulnerability Arg1:T6 Arg2:T1	
+R2	hasVulnerability Arg1:T6 Arg2:T2	
+R3	hasVulnerability Arg1:T6 Arg2:T3	
+R4	consists-of Arg1:T6 Arg2:T5	
+R5	hasVulnerability Arg1:T7 Arg2:T9	
+R6	targets Arg1:T14 Arg2:T12	
+R7	hasImpact Arg1:T14 Arg2:T15	
+R8	targets Arg1:T16 Arg2:T17	

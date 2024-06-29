@@ -1,0 +1,13 @@
+T1	Ide 52 55	Kia
+T2	Ide 60 67	Hyundai
+T3	Vul 72 107	not including anti-theft technology
+T4	Con 182 197	vehicles stolen
+T5	Vul 308 335	lack of engine immobilizers
+T6	Ide 402 405	Kia
+T7	Ide 410 417	Hyundai
+R1	related-to Arg1:T3 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T5 Arg2:T4	
+R5	related-to Arg1:T5 Arg2:T6	
+R6	related-to Arg1:T5 Arg2:T7	

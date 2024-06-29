@@ -1,0 +1,89 @@
+T1	Com 55 72	telematic systems
+T2	Com 74 89	automotive APIs
+T3	Com 95 120	supporting infrastructure
+T4	Com 296 307	AT&T system
+T5	Con 370 396	retrieve live geolocations
+T6	Con 402 419	disable SIM cards
+T7	Veh 423 428	Tesla
+T8	Veh 430 436	Subaru
+T9	Veh 438 444	Toyota
+T10	Veh 446 451	Lexus
+T11	Veh 453 457	Ford
+T12	Veh 459 484	Fiat Chrysler Automobiles
+T13	Veh 486 496	Land Rover
+T14	Veh 498 503	Mazda
+T15	Veh 505 510	Volvo
+T16	Veh 512 517	Honda
+T17	Veh 519 522	BMW
+T18	Veh 528 534	Cruise
+T19	Veh 652 655	Kia
+T20	Veh 657 662	Honda
+T21	Veh 664 672	Infiniti
+T22	Veh 674 680	Nissan
+T23	Veh 686 691	Acura
+T24	Con 755 762	locking
+T25	Con 767 776	unlocking
+T26	Con 791 799	starting
+T27	Con 804 823	stopping the engine
+T28	Con 829 859	accessing personal information
+T29	Con 886 913	remotely take over accounts
+T30	Con 918 928	access PII
+T31	Com 1028 1057	mission-critical applications
+T32	Veh 1061 1074	Mercedes-Benz
+T33	Con 1085 1104	execute remote code
+T34	Con 1115 1127	memory leaks
+T35	Veh 1211 1218	Hyundai
+T36	Veh 1223 1230	Genesis
+T37	Ide 1333 1336	BMW
+T38	Ide 1341 1354	Rolls Royce's
+T39	Com 1355 1377	authentication systems
+T40	Con 1402 1433	access to employee applications
+T41	Vul 1472 1494	lack of access control
+T42	Ide 1499 1506	Ferrari
+T43	Con 1517 1523	create
+T44	Con 1525 1531	modify
+T45	Con 1537 1575	delete employee administrator accounts
+T46	Con 1580 1610	modify Ferrari-owned web pages
+T47	Com 1623 1648	content management system
+T48	AP 1682 1697	add HTTP routes
+T49	Com 1705 1716	Ferrari API
+T50	Con 1721 1741	view existing routes
+T51	Con 1766 1787	disclose customer PII
+T52	Ide 1791 1795	Ford
+T53	Con 1879 1906	take over customer accounts
+T54	AP 1911 1931	improper URL parsing
+T55	Con 1955 1977	access victim accounts
+T57	Veh 2010 2017	Reviver
+T56	Con 2030 2056	gain administrative access
+T58	Veh 2138 2145	Porsche
+T59	Con 2163 2188	retrieve vehicle location
+T60	Con 2190 2211	send vehicle commands
+T61	Con 2217 2246	retrieve customer information
+T62	Com 2289 2307	Telematics service
+T63	Veh 2313 2319	Toyota
+T64	Con 2449 2458	disclosed
+T65	Veh 2464 2467	JLR
+T66	Con 2523 2540	discloses the PII
+T67	Com 2564 2572	SiriusXM
+T68	Con 2631 2649	retrieve all files
+R1	consists-of Arg1:T4 Arg2:T7	
+R2	consists-of Arg1:T4 Arg2:T8	
+R3	consists-of Arg1:T4 Arg2:T9	
+R4	consists-of Arg1:T4 Arg2:T10	
+R5	consists-of Arg1:T4 Arg2:T11	
+R6	consists-of Arg1:T4 Arg2:T12	
+R7	consists-of Arg1:T4 Arg2:T13	
+R8	consists-of Arg1:T4 Arg2:T14	
+R9	consists-of Arg1:T4 Arg2:T15	
+R10	consists-of Arg1:T4 Arg2:T16	
+R11	consists-of Arg1:T4 Arg2:T17	
+R12	consists-of Arg1:T4 Arg2:T18	
+R13	consists-of Arg1:T31 Arg2:T32	
+R14	related-to Arg1:T39 Arg2:T37	
+R15	related-to Arg1:T39 Arg2:T38	
+R16	related-to Arg1:T41 Arg2:T42	
+R17	targets Arg1:T48 Arg2:T49	
+R18	hasImpact Arg1:T48 Arg2:T50	
+R19	hasImpact Arg1:T54 Arg2:T53	
+R20	hasImpact Arg1:T54 Arg2:T55	
+R21	consists-of Arg1:T62 Arg2:T58	

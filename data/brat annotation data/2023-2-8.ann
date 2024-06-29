@@ -1,0 +1,11 @@
+T1	AV 25 32	CAN bus
+T2	Con 41 52	gain access
+T3	Con 78 83	steal
+T4	AV 202 209	CAN bus
+T5	Con 223 239	network to crash
+T6	Con 244 269	disabling vehicle systems
+T7	Con 309 320	gain access
+T8	Con 322 334	unlock doors
+T9	Con 336 352	start the engine
+T10	Con 358 363	steal
+T11	Tool 171 189	high-voltage surge

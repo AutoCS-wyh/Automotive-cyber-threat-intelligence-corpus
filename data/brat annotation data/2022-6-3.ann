@@ -1,0 +1,17 @@
+T1	Vul 0 14	CVE-2022-22083
+T2	Ide 30 38	Qualcomm
+T3	Com 39 51	mdm9250 chip
+T4	Com 74 94	infotainment systems
+T5	Com 185 204	Snapdragon platform
+T6	Com 216 231	Snapdragon Auto
+T7	Con 280 298	Denial of services
+T8	Con 303 308	crash
+T9	Com 325 344	infotainment system
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T3 Arg2:T4	
+R4	hasVulnerability Arg1:T5 Arg2:T1	
+R5	hasVulnerability Arg1:T6 Arg2:T1	
+R6	consists-of Arg1:T6 Arg2:T4	
+R7	hasImpact Arg1:T1 Arg2:T7	
+R8	hasImpact Arg1:T1 Arg2:T8	

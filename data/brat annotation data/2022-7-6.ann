@@ -1,0 +1,6 @@
+T1	Con 51 65	open the doors
+T2	Veh 69 74	Tesla
+T3	Com 75 89	charging ports
+T4	Tool 113 125	Flipper Zero
+T5	Com 273 281	key fobs
+R1	consists-of Arg1:T3 Arg2:T2	

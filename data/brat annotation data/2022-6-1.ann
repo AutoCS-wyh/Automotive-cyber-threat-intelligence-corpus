@@ -1,0 +1,14 @@
+T1	Con 67 77	steal cars
+T2	Veh 133 138	Tesla
+T3	Com 139 151	NFC key card
+T4	Ide 292 297	Tesla
+T5	Com 533 541	NFC card
+T6	Com 601 605	keys
+T7	Vul 607 638	with no authentication required
+T8	Com 672 686	in-car display
+T9	Veh 843 848	Tesla
+T10	Com 867 875	NFC card
+R1	consists-of Arg1:T3 Arg2:T2	
+R2	hasVulnerability Arg1:T5 Arg2:T7	
+R3	consists-of Arg1:T10 Arg2:T9	
+R4	related-to Arg1:T5 Arg2:T4	

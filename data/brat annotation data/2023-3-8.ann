@@ -1,0 +1,14 @@
+T1	Con 87 100	vehicle theft
+T2	Veh 115 127	2011-12 Kias
+T3	Veh 132 148	2015-21 Hyundais
+T4	Vul 223 240	lack immobilizers
+T5	Com 256 263	key fob
+T6	Ide 302 305	Kia
+T7	Ide 310 317	Hyundai
+T8	CoA 343 371	anti-theft software upgrades
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	related-to Arg1:T4 Arg2:T6	
+R3	related-to Arg1:T4 Arg2:T7	
+R4	related-to Arg1:T2 Arg2:T6	
+R5	related-to Arg1:T3 Arg2:T7	
+R6	mitigates Arg1:T8 Arg2:T4	

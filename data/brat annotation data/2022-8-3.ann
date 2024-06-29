@@ -1,0 +1,7 @@
+T1	Vul 25 39	CVE-2022-37305
+T2	Veh 59 64	Honda
+T3	Com 164 191	remote keyless entry system
+T4	Con 266 284	permanently unlock
+R1	consists-of Arg1:T3 Arg2:T2	
+R2	hasVulnerability Arg1:T3 Arg2:T1	
+R3	hasImpact Arg1:T1 Arg2:T4	

@@ -1,0 +1,21 @@
+T1	Ide 102 115	Mercedes-Benz
+T2	Veh 161 171	EQS sedans
+T3	Veh 176 190	S-Class sedans
+T4	Vul 222 265	malfunctioning electronic stability program
+T5	Com 268 271	ESP
+T6	Con 308 356	disable various vehicle dynamics control systems
+T7	Con 383 388	crash
+T8	Ide 391 398	VinFast
+T9	Veh 424 436	2023 VF8 EVs
+T10	Vul 446 458	software bug
+T11	Con 478 497	display to go blank
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	consists-of Arg1:T5 Arg2:T2	
+R5	consists-of Arg1:T5 Arg2:T3	
+R6	hasVulnerability Arg1:T5 Arg2:T4	
+R7	hasImpact Arg1:T4 Arg2:T6	
+R8	hasImpact Arg1:T4 Arg2:T7	
+R9	related-to Arg1:T9 Arg2:T8	
+R10	hasImpact Arg1:T10 Arg2:T11	

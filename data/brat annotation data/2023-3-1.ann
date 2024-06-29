@@ -1,0 +1,27 @@
+T1	Com 46 72	EV charging infrastructure
+T2	Com 131 157	Open Charge Point Protocol
+T3	Com 160 164	OCPP
+T4	AP 220 257	distributed denial-of-service attacks
+T5	AP 261 288	steal sensitive information
+T6	Vul 303 326	outdated Linux versions
+T7	Vul 328 348	unnecessary services
+T8	Vul 354 373	inadequate controls
+T9	Com 492 515	charging infrastructure
+T10	Com 547 558	EV chargers
+T11	CoA 598 622	encrypted communications
+T12	CoA 843 884	EV owner authentication and authorization
+T13	Com 914 929	cloud component
+T14	Com 937 960	charging infrastructure
+T15	CoA 966 1001	hardening the actual charging units
+T16	AP 1010 1028	physical tampering
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T1	
+R3	targets Arg1:T4 Arg2:T1	
+R4	targets Arg1:T5 Arg2:T1	
+R5	hasVulnerability Arg1:T1 Arg2:T6	
+R6	hasVulnerability Arg1:T1 Arg2:T7	
+R7	hasVulnerability Arg1:T1 Arg2:T8	
+R8	mitigates Arg1:T12 Arg2:T4	
+R9	mitigates Arg1:T12 Arg2:T5	
+R10	consists-of Arg1:T13 Arg2:T14	
+R11	mitigates Arg1:T15 Arg2:T16	

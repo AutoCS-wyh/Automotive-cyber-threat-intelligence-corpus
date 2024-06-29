@@ -1,0 +1,10 @@
+T1	Con 42 68	gain administrative access
+T2	Ide 72 79	Reviver
+T3	Com 117 139	digital license plates
+T4	Con 192 223	track the physical GPS location
+T5	Ide 231 238	Reviver
+T6	Con 253 277	change a section of text
+T7	Con 367 382	remotely update
+T8	Con 384 389	track
+T9	Con 394 423	delete anyone's REVIVER plate
+R1	related-to Arg1:T3 Arg2:T2	

@@ -1,0 +1,4 @@
+T1	Vul 25 39	CVE-2022-36945
+T2	Veh 59 64	Mazda
+T3	Con 170 188	permanently unlock
+R1	hasImpact Arg1:T1 Arg2:T3	

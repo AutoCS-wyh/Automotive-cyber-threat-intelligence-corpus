@@ -1,0 +1,9 @@
+T1	Tool 18 24	TesMla
+T2	Veh 85 100	Tesla Model 3's
+T3	Com 101 121	keyless entry system
+T4	Con 154 180	gain control over vehicles
+T5	Con 185 197	fully unlock
+T6	Con 199 204	start
+T7	Con 209 214	steal
+T8	Veh 215 222	Model 3
+R1	consists-of Arg1:T3 Arg2:T2	

@@ -1,0 +1,11 @@
+T1	Com 39 53	electric motor
+T2	Ide 61 71	Volkswagen
+T3	Ide 74 76	VW
+T4	Veh 78 99	ID.4 electric vehicle
+T5	Con 203 243	cause the motor to suddenly stop working
+T6	Ide 281 283	VW
+T7	Com 398 419	control unit software
+R1	consists-of Arg1:T1 Arg2:T4	
+R2	related-to Arg1:T4 Arg2:T2	
+R3	related-to Arg1:T4 Arg2:T3	
+R4	consists-of Arg1:T7 Arg2:T4	

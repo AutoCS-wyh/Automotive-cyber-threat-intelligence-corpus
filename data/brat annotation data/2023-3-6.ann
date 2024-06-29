@@ -1,0 +1,17 @@
+T1	Vul 11 42	memory corruption vulnerability
+T2	Vul 52 66	CVE-2022-40515
+T3	Ide 82 90	Qualcomm
+T4	Com 91 103	MDM9250 chip
+T5	Com 126 146	infotainment systems
+T6	Con 256 271	buffer overflow
+T7	Con 276 317	crash of the affected infotainment system
+R1	related-to Arg1:T1 Arg2:T3	
+R2	related-to Arg1:T2 Arg2:T3	
+R3	hasVulnerability Arg1:T4 Arg2:T1	
+R4	hasVulnerability Arg1:T4 Arg2:T2	
+R5	related-to Arg1:T4 Arg2:T3	
+R6	consists-of Arg1:T4 Arg2:T5	
+R7	hasImpact Arg1:T1 Arg2:T6	
+R8	hasImpact Arg1:T1 Arg2:T7	
+R9	hasImpact Arg1:T2 Arg2:T6	
+R10	hasImpact Arg1:T2 Arg2:T7	

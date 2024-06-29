@@ -1,0 +1,8 @@
+T1	Vul 2 33	memory corruption vulnerability
+T2	Vul 43 57	CVE-2022-40539
+T3	Com 69 90	Automotive Android OS
+T4	Con 203 228	affected systems to crash
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	hasVulnerability Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T2 Arg2:T4	

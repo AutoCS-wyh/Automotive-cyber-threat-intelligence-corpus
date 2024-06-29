@@ -1,0 +1,10 @@
+T1	Vul 82 127	not installing adequate anti-theft technology
+T2	Con 178 188	car thefts
+T3	Ide 295 302	Hyundai
+T4	Ide 307 310	Kia
+T5	Con 360 370	car thefts
+T6	Ide 372 379	Hyundai
+T7	Ide 384 387	Kia
+T8	CoA 432 460	anti-theft software upgrades
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	mitigates Arg1:T8 Arg2:T1	

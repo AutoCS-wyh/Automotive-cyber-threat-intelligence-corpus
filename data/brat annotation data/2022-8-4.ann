@@ -1,0 +1,11 @@
+T1	Vul 25 39	CVE-2022-37418
+T2	Veh 59 65	Nissan
+T3	Veh 67 72	Honda
+T4	Veh 77 80	Kia
+T5	Com 180 207	remote keyless entry system
+T6	Con 282 300	permanently unlock
+R1	hasVulnerability Arg1:T5 Arg2:T1	
+R2	consists-of Arg1:T5 Arg2:T2	
+R3	consists-of Arg1:T5 Arg2:T3	
+R4	consists-of Arg1:T5 Arg2:T4	
+R5	hasImpact Arg1:T1 Arg2:T6	

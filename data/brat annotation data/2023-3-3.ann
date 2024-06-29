@@ -1,0 +1,13 @@
+T1	Vul 26 40	CVE-2022-33213
+T2	Ide 56 64	Qualcomm
+T3	Com 65 77	MDM9250 chip
+T4	Com 99 119	infotainment systems
+T5	Con 218 233	buffer overflow
+T6	Con 238 243	crash
+T7	Com 257 276	infotainment system
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T2	
+R3	consists-of Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	hasImpact Arg1:T1 Arg2:T6	
+R6	consists-of Arg1:T3 Arg2:T7	

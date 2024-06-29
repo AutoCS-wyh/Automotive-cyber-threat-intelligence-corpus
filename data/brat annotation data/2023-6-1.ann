@@ -1,0 +1,8 @@
+T1	Veh 14 29	Hyundai Ioniq’s
+T2	Com 30 49	infotainment system
+T3	AP 115 159	configure the infotainment control functions
+T4	Com 270 298	seat belt buckle-up function
+T5	Com 309 331	vehicle steering wheel
+T6	Com 363 368	media
+R1	consists-of Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T2	

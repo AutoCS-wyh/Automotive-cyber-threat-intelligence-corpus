@@ -1,0 +1,7 @@
+T1	Veh 28 41	Toyota’s RAV4
+T2	Com 65 68	ECU
+T3	Con 165 191	hybrid system to shut down
+T4	Con 236 263	leave drivers without power
+T5	Con 268 290	control of the vehicle
+T6	CoA 512 527	software update
+R1	consists-of Arg1:T2 Arg2:T1	
