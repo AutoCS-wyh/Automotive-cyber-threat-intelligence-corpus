@@ -1,0 +1,17 @@
+T1	Ide 39 47	Qualcomm
+T2	Com 48 64	Snapdragon chips
+T3	Com 123 138	Snapdragon Auto
+T4	Com 140 163	Snapdragon Consumer IoT
+T5	Com 169 194	Snapdragon Industrial IoT
+T6	Vul 238 255	integer overflows
+T7	Vul 257 275	memory corruptions
+T8	Vul 277 295	denial of services
+T9	Vul 301 349	improper handling of hypervisor unmap operations
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	related-to Arg1:T5 Arg2:T1	
+R5	hasVulnerability Arg1:T2 Arg2:T6	
+R6	hasVulnerability Arg1:T2 Arg2:T7	
+R7	hasVulnerability Arg1:T2 Arg2:T8	
+R8	hasVulnerability Arg1:T2 Arg2:T9	

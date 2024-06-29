@@ -1,0 +1,15 @@
+T1	Com 134 158	Combined Charging System
+T2	Com 161 164	CCS
+T4	AP 254 264	Brokenwire
+T3	Con 189 196	disrupt
+T5	Con 277 319	interferes with the control communications
+T6	Con 381 399	abort the charging
+T7	AP 537 562	interrupting the charging
+T8	Con 633 649	life-threatening
+T9	AP 691 701	Brokenwire
+R1	targets Arg1:T4 Arg2:T1	
+R2	targets Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T3	
+R4	hasImpact Arg1:T4 Arg2:T5	
+R5	hasImpact Arg1:T4 Arg2:T6	
+R6	hasImpact Arg1:T7 Arg2:T8	

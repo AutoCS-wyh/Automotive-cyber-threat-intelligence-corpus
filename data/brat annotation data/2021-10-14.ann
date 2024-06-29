@@ -1,0 +1,19 @@
+T1	Com 20 48	keyless starting fob systems
+T2	Loc 69 75	Canada
+T3	Tool 91 109	electronic devices
+T4	Con 113 127	enter vehicles
+T5	Con 129 148	start their engines
+T6	Com 322 325	fob
+T7	AP 522 555	amplify the communication signals
+T8	Com 595 598	fob
+T9	Con 660 668	unlocked
+T10	Tool 501 518	special equipment
+R1	targets Arg1:T7 Arg2:T1	
+R2	located-at Arg1:T7 Arg2:T2	
+R3	uses Arg1:T7 Arg2:T3	
+R4	hasImpact Arg1:T7 Arg2:T4	
+R5	hasImpact Arg1:T7 Arg2:T5	
+R6	targets Arg1:T7 Arg2:T6	
+R7	uses Arg1:T7 Arg2:T10	
+R8	targets Arg1:T7 Arg2:T8	
+R9	hasImpact Arg1:T7 Arg2:T9	

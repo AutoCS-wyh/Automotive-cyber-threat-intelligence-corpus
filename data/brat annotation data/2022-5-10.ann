@@ -1,0 +1,27 @@
+T1	Con 119 134	unlock vehicles
+T2	Con 136 166	start their engines wirelessly
+T3	Con 171 190	make away with cars
+T4	Com 240 251	car remotes
+T5	Com 306 321	radio frequency
+T6	Com 324 326	RF
+T7	Com 474 480	unlock
+T8	Com 485 508	start a compromised car
+T9	AP 555 572	Man-in-the-Middle
+T10	AP 575 579	MitM
+T11	AP 613 626	replay attack
+T12	Com 695 709	remote key fob
+T13	Con 776 782	unlock
+R1	hasImpact Arg1:T9 Arg2:T1	
+R2	hasImpact Arg1:T9 Arg2:T2	
+R3	hasImpact Arg1:T9 Arg2:T3	
+R4	targets Arg1:T9 Arg2:T7	
+R5	targets Arg1:T9 Arg2:T8	
+R6	hasImpact Arg1:T11 Arg2:T1	
+R7	hasImpact Arg1:T11 Arg2:T2	
+R8	hasImpact Arg1:T11 Arg2:T3	
+R9	targets Arg1:T11 Arg2:T7	
+R10	targets Arg1:T11 Arg2:T8	
+R11	targets Arg1:T11 Arg2:T12	
+R12	hasImpact Arg1:T11 Arg2:T13	
+R13	targets Arg1:T10 Arg2:T12	
+R14	hasImpact Arg1:T10 Arg2:T13	

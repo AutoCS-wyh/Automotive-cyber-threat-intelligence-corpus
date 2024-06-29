@@ -1,0 +1,14 @@
+T1	Con 88 93	steal
+T2	Com 104 124	key code information
+T3	Con 217 235	steal the vehicles
+T4	AP 341 383	reprogrammed the vehicle’s computer system
+T5	Con 387 414	gain control of the vehicle
+T6	Con 416 430	disable alarms
+T7	Con 436 452	start the engine
+T8	Con 505 520	steal a vehicle
+T9	AP 580 603	reprogramed the vehicle
+T10	Com 641 656	electronic keys
+R1	hasImpact Arg1:T4 Arg2:T5	
+R2	hasImpact Arg1:T4 Arg2:T6	
+R3	hasImpact Arg1:T4 Arg2:T7	
+R4	hasImpact Arg1:T4 Arg2:T8	

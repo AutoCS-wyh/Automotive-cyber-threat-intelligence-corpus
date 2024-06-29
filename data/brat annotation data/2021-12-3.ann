@@ -1,0 +1,9 @@
+T1	Loc 40 42	UK
+T2	Con 104 110	thefts
+T3	Com 255 258	key
+T5	Com 315 329	remote key fob
+T6	AP 353 365	relay attack
+R1	targets Arg1:T6 Arg2:T5	
+R2	targets Arg1:T6 Arg2:T3	
+R3	hasImpact Arg1:T6 Arg2:T2	
+R4	located-at Arg1:T6 Arg2:T1	

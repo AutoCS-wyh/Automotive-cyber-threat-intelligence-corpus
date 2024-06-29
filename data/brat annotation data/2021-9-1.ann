@@ -1,0 +1,14 @@
+T1	Com 50 62	keyless fobs
+T2	Con 185 191	stolen
+T3	Veh 225 242	Range Rover Velar
+T4	Con 253 259	stolen
+T5	Com 272 279	key fob
+T6	Com 314 331	keyless fob entry
+T7	Veh 332 342	Land Rover
+T8	Veh 368 378	Land Rover
+T9	Com 450 453	fob
+T10	Con 500 506	stolen
+T11	Tool 515 527	relay device
+R1	consists-of Arg1:T5 Arg2:T3	
+R2	consists-of Arg1:T6 Arg2:T7	
+R3	consists-of Arg1:T9 Arg2:T8	

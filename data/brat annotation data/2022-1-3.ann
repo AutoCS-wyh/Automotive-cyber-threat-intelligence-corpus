@@ -1,0 +1,9 @@
+T1	Con 11 17	thefts
+T2	Com 35 61	advanced electronic keys h
+T3	Con 197 218	stealing keyless cars
+T4	AP 233 261	hacking the onboard computer
+T5	AP 265 292	intercepting the key signal
+R1	hasImpact Arg1:T4 Arg2:T3	
+R2	hasImpact Arg1:T5 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T2	
+R4	targets Arg1:T5 Arg2:T2	

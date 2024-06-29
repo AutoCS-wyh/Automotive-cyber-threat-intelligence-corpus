@@ -1,0 +1,18 @@
+T1	Con 56 66	car thefts
+T2	AP 116 128	relay attack
+T3	Com 180 193	keyless entry
+T4	Com 198 206	ignition
+T5	Tool 249 270	signal-jamming device
+T6	AP 388 403	copy the signal
+T7	Con 423 429	unlock
+T8	Con 434 447	start the car
+T9	AP 519 541	intercepts the signals
+T10	Com 554 561	key fob
+T11	Con 630 648	steal the contents
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	hasImpact Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T6 Arg2:T8	
+R6	targets Arg1:T9 Arg2:T10	
+R7	hasImpact Arg1:T9 Arg2:T11	

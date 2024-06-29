@@ -1,0 +1,54 @@
+T1	Con 71 81	car thefts
+T2	Veh 137 146	Honda CRV
+T3	Veh 167 177	Honda CRVs
+T4	Con 178 184	stolen
+T5	Con 252 266	vehicle thefts
+T6	Veh 293 296	CRV
+T7	Con 451 457	stolen
+T8	Com 694 715	engine control module
+T9	Com 718 721	ECM
+T10	AP 731 740	reprogram
+T11	Com 747 750	key
+T12	Con 785 798	vehicle theft
+T13	CoA 834 856	radio frequency shield
+T14	CoA 870 881	faraday bag
+T15	AP 895 928	signal amplification relay attack
+T16	AP 931 935	SARA
+T17	Loc 967 973	Ottawa
+T18	Tool 1065 1085	amplification device
+T19	AP 1089 1107	amplify the signal
+T20	Com 1127 1134	key fob
+T21	AP 1179 1186	relayed
+T22	Con 1205 1224	unlocks the vehicle
+T23	CoA 1302 1324	radio frequency shield
+T24	CoA 1331 1342	faraday bag
+T25	Veh 1365 1374	Honda CRV
+T26	Con 1445 1451	stolen
+T27	Com 1499 1512	proximity key
+T28	Com 1526 1529	key
+T29	Veh 1617 1630	Dodge Durango
+T30	Veh 1632 1651	Jeep Grand Cherokee
+T31	Veh 1653 1670	Toyota Highlander
+T32	Veh 1672 1680	Lexus RX
+T33	Veh 1697 1717	Ford F-Series trucks
+R1	consists-of Arg1:T8 Arg2:T3	
+R2	consists-of Arg1:T9 Arg2:T3	
+R3	targets Arg1:T10 Arg2:T8	
+R4	targets Arg1:T10 Arg2:T9	
+R6	consists-of Arg1:T11 Arg2:T3	
+R7	hasImpact Arg1:T10 Arg2:T7	
+R5	uses Arg1:T15 Arg2:T18	
+R9	uses Arg1:T16 Arg2:T18	
+R8	uses Arg1:T19 Arg2:T18	
+R10	targets Arg1:T19 Arg2:T20	
+R11	targets Arg1:T15 Arg2:T20	
+R12	targets Arg1:T16 Arg2:T20	
+R13	hasImpact Arg1:T21 Arg2:T22	
+R14	hasImpact Arg1:T19 Arg2:T22	
+R15	mitigates Arg1:T23 Arg2:T19	
+R16	mitigates Arg1:T24 Arg2:T19	
+R17	consists-of Arg1:T20 Arg2:T29	
+R18	consists-of Arg1:T20 Arg2:T30	
+R19	consists-of Arg1:T20 Arg2:T31	
+R20	consists-of Arg1:T20 Arg2:T32	
+R21	consists-of Arg1:T20 Arg2:T33	

@@ -1,0 +1,7 @@
+T1	Vul 22 42	Cross Site Scripting
+T2	Vul 45 48	XSS
+T3	Vul 54 67	SQL Injection
+T4	Com 83 116	automotive shop management system
+R1	hasVulnerability Arg1:T4 Arg2:T1	
+R2	hasVulnerability Arg1:T4 Arg2:T2	
+R3	hasVulnerability Arg1:T4 Arg2:T3	

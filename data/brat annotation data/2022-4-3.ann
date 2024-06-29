@@ -1,0 +1,13 @@
+T1	Vul 23 37	CVE-2022-28062
+T2	Com 54 82	car rental management system
+T3	Vul 97 132	arbitrary file upload vulnerability
+T4	Com 141 158	Add Car component
+T5	Con 185 202	upload a webshell
+T6	Con 207 229	execute arbitrary code
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	hasVulnerability Arg1:T4 Arg2:T3	
+R3	consists-of Arg1:T4 Arg2:T2	
+R4	hasImpact Arg1:T3 Arg2:T5	
+R5	hasImpact Arg1:T3 Arg2:T6	
+R6	hasImpact Arg1:T1 Arg2:T5	
+R7	hasImpact Arg1:T1 Arg2:T6	

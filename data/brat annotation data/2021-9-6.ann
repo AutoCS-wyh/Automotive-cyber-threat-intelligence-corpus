@@ -1,0 +1,11 @@
+T1	Com 31 64	Vehicle Parking Management System
+T2	Vul 98 129	persistent cross site scripting
+T3	Vul 132 135	XSS
+T4	AP 164 193	execute arbitrary web scripts
+T5	Tool 208 223	crafted payload
+R1	hasVulnerability Arg1:T1 Arg2:T2	
+R2	hasVulnerability Arg1:T1 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T1	
+R4	targets Arg1:T4 Arg2:T2	
+R5	targets Arg1:T4 Arg2:T3	
+R6	uses Arg1:T4 Arg2:T5	

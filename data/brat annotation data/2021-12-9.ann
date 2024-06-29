@@ -1,0 +1,10 @@
+T1	Vul 16 30	CVE-2021-44832
+T2	Com 49 61	Apache Log4j
+T3	AP 200 221	remote code execution
+T4	AP 224 227	RCE
+T5	Vul 317 331	CVE-2021-44228
+T6	Com 432 437	Log4j
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T1	
+R3	targets Arg1:T4 Arg2:T1	
+R4	hasVulnerability Arg1:T2 Arg2:T5	

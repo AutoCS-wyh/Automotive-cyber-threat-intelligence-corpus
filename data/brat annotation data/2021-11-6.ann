@@ -1,0 +1,15 @@
+T1	Veh 20 32	Land Cruiser
+T2	Veh 37 42	Lexus
+T3	Con 48 54	stolen
+T4	Tool 168 179	CAN Invader
+T5	Com 247 270	controller area network
+T6	Com 273 276	CAN
+T7	Tool 345 356	CAN Invader
+T8	Con 466 476	car thefts
+T9	Veh 563 576	Land Cruisers
+T10	Con 582 588	stolen
+T11	Loc 606 617	Konosu City
+R1	consists-of Arg1:T5 Arg2:T1	
+R2	consists-of Arg1:T5 Arg2:T2	
+R3	consists-of Arg1:T6 Arg2:T1	
+R4	consists-of Arg1:T6 Arg2:T2	

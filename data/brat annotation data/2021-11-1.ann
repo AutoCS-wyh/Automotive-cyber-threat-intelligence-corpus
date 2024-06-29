@@ -1,0 +1,18 @@
+T1	Tool 37 56	Arduino Nano 33 BLE
+T2	Com 69 83	steering wheel
+T3	Veh 91 100	BMW M140I
+T4	Com 109 126	turn signal stalk
+T5	Com 145 171	inertial measurement units
+T6	Com 216 225	Bluetooth
+T7	Tool 232 249	Arduino Uno Wi-Fi
+T8	Tool 255 272	Arduino Uno Wi-Fi
+T10	Tool 300 312	Raspberry Pi
+T11	Com 347 353	stereo
+T12	Com 358 367	Bluetooth
+T13	Con 371 385	blare an alarm
+T14	Com 395 409	steering wheel
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T4 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T3	
+R4	consists-of Arg1:T6 Arg2:T3	
+R5	consists-of Arg1:T11 Arg2:T3	

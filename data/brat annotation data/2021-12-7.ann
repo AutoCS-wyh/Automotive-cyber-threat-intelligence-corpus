@@ -1,0 +1,10 @@
+T1	Vul 18 32	CVE-2021-45105
+T2	Com 51 63	Apache Log4j
+T3	Con 185 202	denial of service
+T4	Tool 210 224	crafted string
+T5	Con 310 328	gain better access
+T6	Com 360 369	V2G stack
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T1	
+R4	hasImpact Arg1:T1 Arg2:T5	

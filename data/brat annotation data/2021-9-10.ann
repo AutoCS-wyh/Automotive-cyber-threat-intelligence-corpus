@@ -1,0 +1,14 @@
+T1	Veh 19 47	Dodge Challenger SRT Hellcat
+T2	Con 63 85	break into the vehicle
+T3	AP 120 133	relay attacks
+T4	Com 158 179	keyless entry systems
+T5	AP 183 196	relay attacks
+T6	Com 293 300	keyless
+R1	hasImpact Arg1:T3 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T3 Arg2:T6	
+R4	consists-of Arg1:T4 Arg2:T1	
+R5	consists-of Arg1:T6 Arg2:T1	
+R6	hasImpact Arg1:T5 Arg2:T2	
+R7	targets Arg1:T5 Arg2:T4	
+R8	targets Arg1:T5 Arg2:T6	

@@ -1,0 +1,16 @@
+T1	Com 115 135	Nucleus TCP/IP stack
+T2	AP 223 244	remote code execution
+T3	AP 246 263	denial of service
+T4	AP 269 286	information leaks
+T5	Com 296 316	Nucleus TCP/IP stack
+T6	Com 375 382	Nucleus
+T7	CoA 490 506	released patches
+R1	targets Arg1:T2 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T1	
+R3	targets Arg1:T4 Arg2:T1	
+R4	targets Arg1:T2 Arg2:T5	
+R5	targets Arg1:T3 Arg2:T5	
+R6	targets Arg1:T4 Arg2:T5	
+R7	mitigates Arg1:T7 Arg2:T2	
+R8	mitigates Arg1:T7 Arg2:T3	
+R9	mitigates Arg1:T7 Arg2:T4	

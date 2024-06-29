@@ -1,0 +1,8 @@
+T1	Com 29 38	Teslamate
+T2	Con 62 72	open doors
+T3	Veh 76 81	Tesla
+T4	Con 92 113	start keyless driving
+T5	Con 119 151	interfere with vehicle operation
+T6	Com 207 214	Grafana
+T7	Com 250 259	Tesla API
+R1	consists-of Arg1:T1 Arg2:T3	

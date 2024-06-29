@@ -1,0 +1,17 @@
+T1	Ide 0 10	BlackBerry
+T2	Vul 55 81	QNX BadAlloc vulnerability
+T3	Com 296 299	QNX
+T4	Veh 420 423	BMW
+T5	Veh 425 429	Ford
+T6	Veh 435 445	Volkswagen
+T7	Com 454 457	QNX
+T8	Com 506 532	driver assistance software
+R1	related-to Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T4	
+R3	consists-of Arg1:T3 Arg2:T5	
+R4	consists-of Arg1:T3 Arg2:T6	
+R5	consists-of Arg1:T7 Arg2:T8	
+R6	consists-of Arg1:T8 Arg2:T4	
+R7	consists-of Arg1:T8 Arg2:T5	
+R8	consists-of Arg1:T8 Arg2:T6	
+R9	hasVulnerability Arg1:T3 Arg2:T2	

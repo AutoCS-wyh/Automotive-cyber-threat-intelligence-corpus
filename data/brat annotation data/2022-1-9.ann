@@ -1,0 +1,12 @@
+T1	Com 50 70	third-party software
+T2	Veh 87 100	Tesla vehicle
+T3	Con 249 261	unlock doors
+T4	Con 263 275	open windows
+T5	Con 277 300	start cars without keys
+T6	Con 306 336	disable their security systems
+T7	Con 421 463	turn on the vehicles’ stereo sound systems
+T8	Con 469 491	flash their headlights
+T9	Con 655 689	access more than 25 Tesla vehicles
+T10	Vul 839 884	insecure way of storing sensitive information
+T11	Con 949 976	information could be stolen
+R1	consists-of Arg1:T1 Arg2:T2	

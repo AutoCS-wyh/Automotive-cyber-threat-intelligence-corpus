@@ -1,0 +1,6 @@
+T1	Con 90 98	snatched
+T2	Tool 194 214	relay signal booster
+T3	Veh 233 244	Range Rover
+T4	Com 289 293	keys
+T5	Loc 387 393	Aspull
+R1	consists-of Arg1:T4 Arg2:T3	

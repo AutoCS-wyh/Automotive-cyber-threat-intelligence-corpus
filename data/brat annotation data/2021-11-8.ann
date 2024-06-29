@@ -1,0 +1,25 @@
+T1	Veh 0 4	Ford
+T2	Veh 9 22	Fiat vehicles
+T3	Tool 83 102	cloned keyless fobs
+T4	Veh 163 174	Ford Fiesta
+T5	Veh 179 184	Focus
+T6	Con 205 211	stolen
+T7	Loc 219 221	UK
+T8	Con 353 359	stolen
+T9	AP 377 393	cloning car keys
+T10	Com 420 429	OBD ports
+T11	Tool 543 564	keyless relay devices
+T12	Tool 573 581	skeleton
+T13	Tool 585 596	Tibbie keys
+T14	AP 619 647	cloning wireless key signals
+T15	Loc 713 726	Staffordshire
+T16	Veh 728 736	Fiat 500
+T17	Veh 748 765	Ford Transit vans
+R1	consists-of Arg1:T10 Arg2:T1	
+R2	consists-of Arg1:T10 Arg2:T2	
+R3	consists-of Arg1:T10 Arg2:T4	
+R4	consists-of Arg1:T10 Arg2:T5	
+R5	hasImpact Arg1:T9 Arg2:T8	
+R6	uses Arg1:T14 Arg2:T11	
+R7	uses Arg1:T14 Arg2:T12	
+R8	uses Arg1:T14 Arg2:T13	

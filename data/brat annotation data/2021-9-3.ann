@@ -1,0 +1,15 @@
+T1	Con 33 38	stole
+T2	Veh 41 49	BMW 420i
+T3	Loc 53 65	Neutraubling
+T4	Loc 67 74	Germany
+T5	AP 146 155	tampering
+T6	Com 165 190	keyless entry radio signa
+T7	Tool 251 276	short-range radio system,
+T8	Com 317 332	keyless systems
+R1	hasImpact Arg1:T5 Arg2:T1	
+R2	targets Arg1:T5 Arg2:T6	
+R3	located-at Arg1:T5 Arg2:T3	
+R4	located-at Arg1:T5 Arg2:T4	
+R5	consists-of Arg1:T6 Arg2:T2	
+R6	uses Arg1:T5 Arg2:T7	
+R7	targets Arg1:T5 Arg2:T8	

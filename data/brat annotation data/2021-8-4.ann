@@ -1,0 +1,15 @@
+T1	Con 40 60	vehicles were stolen
+T2	Loc 79 87	Waterloo
+T3	Loc 92 101	Kitchener
+T4	Veh 146 152	Toyota
+T5	Veh 157 171	Lexus vehicles
+T6	Con 254 260	stolen
+T7	Loc 282 290	Waterloo
+T8	Com 297 310	keyless entry
+T9	Com 315 336	push-start technology
+T10	Loc 409 417	Waterloo
+T11	Loc 483 492	Kitchener
+R1	consists-of Arg1:T8 Arg2:T4	
+R2	consists-of Arg1:T8 Arg2:T5	
+R3	consists-of Arg1:T9 Arg2:T4	
+R4	consists-of Arg1:T9 Arg2:T5	

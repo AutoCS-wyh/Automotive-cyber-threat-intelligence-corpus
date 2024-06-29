@@ -1,0 +1,32 @@
+T1	Vul 18 32	CVE-2021-45046
+T2	Com 51 63	Apache Log4j
+T3	Vul 115 138	Log4Shell vulnerability
+T4	Vul 141 155	CVE-2021-44228
+T5	Com 160 172	Apache Log4j
+T6	Com 325 343	Thread Context Map
+T7	Com 346 349	MDC
+T8	AP 354 365	insert data
+T9	Com 445 459	Context Lookup
+T10	Com 465 483	Thread Context Map
+T11	Tool 495 521	craft malicious input data
+T12	Com 530 541	JNDI Lookup
+T13	Con 573 589	information leak
+T14	Con 594 615	remote code execution
+T15	Con 641 661	local code execution
+T16	Con 752 770	gain better access
+T17	Com 802 811	V2G stack
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	hasVulnerability Arg1:T5 Arg2:T3	
+R3	hasVulnerability Arg1:T5 Arg2:T4	
+R4	consists-of Arg1:T6 Arg2:T5	
+R5	consists-of Arg1:T7 Arg2:T5	
+R6	targets Arg1:T8 Arg2:T1	
+R7	targets Arg1:T8 Arg2:T2	
+R8	consists-of Arg1:T9 Arg2:T5	
+R9	consists-of Arg1:T10 Arg2:T5	
+R10	uses Arg1:T8 Arg2:T11	
+R11	consists-of Arg1:T12 Arg2:T5	
+R12	hasImpact Arg1:T8 Arg2:T13	
+R13	hasImpact Arg1:T8 Arg2:T14	
+R14	hasImpact Arg1:T8 Arg2:T15	
+R15	hasImpact Arg1:T1 Arg2:T16	

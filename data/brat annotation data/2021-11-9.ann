@@ -1,0 +1,18 @@
+T1	Veh 2 15	Dodge Charger
+T2	Con 20 26	stolen
+T3	Loc 43 46	USA
+T4	AP 70 84	key fob attack
+T5	Com 121 128	key fob
+T6	Tool 231 241	programmer
+T7	Com 330 338	key fobs
+T8	Com 387 395	key fobs
+T9	Com 416 420	keys
+T10	Com 493 501	key fobs
+T11	Tool 508 526	key fob programmer
+T12	Com 633 640	key fob
+T13	Tool 649 659	programmer
+R1	hasImpact Arg1:T4 Arg2:T2	
+R2	located-at Arg1:T4 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	consists-of Arg1:T5 Arg2:T1	
+R5	uses Arg1:T4 Arg2:T6	

@@ -1,0 +1,24 @@
+T1	Loc 11 17	Norway
+T2	AP 27 40	relay attacks
+T3	Veh 44 49	Tesla
+T4	Com 50 71	passive keyless entry
+T5	Com 76 89	start systems
+T6	Com 141 149	key fobs
+T7	Loc 182 188	Norway
+T8	Ide 190 195	Tesla
+T9	CoA 196 222	released additional layers
+T10	CoA 248 265	upgraded key fobs
+T11	Ide 280 285	Tesla
+T12	Con 373 383	stolen car
+T13	Com 396 412	Tesla mobile app
+R1	located-at Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T4	
+R3	targets Arg1:T2 Arg2:T5	
+R4	consists-of Arg1:T4 Arg2:T3	
+R5	consists-of Arg1:T5 Arg2:T3	
+R6	consists-of Arg1:T6 Arg2:T3	
+R7	targets Arg1:T2 Arg2:T6	
+R8	mitigates Arg1:T9 Arg2:T2	
+R9	mitigates Arg1:T10 Arg2:T2	
+R10	consists-of Arg1:T13 Arg2:T3	
+R11	hasImpact Arg1:T2 Arg2:T12	

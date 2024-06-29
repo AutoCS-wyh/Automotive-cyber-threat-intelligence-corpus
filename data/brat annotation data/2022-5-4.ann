@@ -1,0 +1,28 @@
+T1	Com 4 25	keyless entry systems
+T6	Ide 114 118	Ford
+T2	Com 192 199	key fob
+T3	AP 200 212	relay attack
+T4	Com 218 238	keyless entry system
+T5	Con 396 406	car thefts
+T7	Ide 491 495	Ford
+T8	Com 584 591	key fob
+T9	AP 592 605	relay attacks
+T10	CoA 634 655	authentication system
+T11	Com 705 708	key
+T12	CoA 822 843	authentication system
+T13	Com 911 918	key fob
+T14	Com 1056 1059	key
+T15	Tool 1222 1238	spoofing devices
+T16	Com 1255 1258	key
+T17	AP 1453 1470	man-in-the-middle
+T18	CoA 1562 1565	NFC
+T19	Com 1617 1629	radio signal
+T20	AP 1642 1649	sniffed
+R1	targets Arg1:T3 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T5	
+R4	targets Arg1:T9 Arg2:T8	
+R5	mitigates Arg1:T10 Arg2:T9	
+R6	mitigates Arg1:T12 Arg2:T9	
+R7	mitigates Arg1:T18 Arg2:T17	
+R8	targets Arg1:T20 Arg2:T19	

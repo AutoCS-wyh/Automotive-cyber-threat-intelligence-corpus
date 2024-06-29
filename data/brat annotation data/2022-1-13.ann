@@ -1,0 +1,12 @@
+T1	Con 6 12	stolen
+T2	Veh 13 17	Kias
+T3	Veh 85 88	Kia
+T4	Veh 93 101	Hyundais
+T5	Com 113 125	physical key
+T6	Vul 157 185	missing an anti-theft device
+T7	Com 226 229	key
+T8	Con 281 292	cars stolen
+T9	Veh 347 351	Kias
+T10	Veh 376 384	Hyundais
+T11	Ide 386 389	Kia
+R1	related-to Arg1:T6 Arg2:T11	

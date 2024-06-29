@@ -1,0 +1,23 @@
+T1	Com 40 83	oretnom23 automotive shop management system
+T2	Con 112 137	change the admin password
+T3	Con 139 168	dump all database credentials
+T4	Con 173 190	gain admin access
+T5	Con 195 213	view internal data
+T6	Vul 245 258	XSS injection
+T7	Vul 266 293	SQL Injection Vulnerability
+T8	Vul 299 320	Broken Access Control
+R1	hasVulnerability Arg1:T1 Arg2:T6	
+R2	hasVulnerability Arg1:T1 Arg2:T7	
+R3	hasVulnerability Arg1:T1 Arg2:T8	
+R4	hasImpact Arg1:T6 Arg2:T2	
+R5	hasImpact Arg1:T6 Arg2:T3	
+R6	hasImpact Arg1:T6 Arg2:T4	
+R7	hasImpact Arg1:T6 Arg2:T5	
+R8	hasImpact Arg1:T7 Arg2:T2	
+R9	hasImpact Arg1:T7 Arg2:T3	
+R10	hasImpact Arg1:T7 Arg2:T4	
+R11	hasImpact Arg1:T7 Arg2:T5	
+R12	hasImpact Arg1:T8 Arg2:T2	
+R13	hasImpact Arg1:T8 Arg2:T3	
+R14	hasImpact Arg1:T8 Arg2:T4	
+R15	hasImpact Arg1:T8 Arg2:T5	

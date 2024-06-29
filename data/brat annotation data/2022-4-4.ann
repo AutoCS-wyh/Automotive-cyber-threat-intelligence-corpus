@@ -1,0 +1,14 @@
+T1	Com 50 61	ALAC format
+T2	Com 65 82	Qualcomm chipsets
+T3	Com 118 138	infotainment systems
+T4	Con 197 235	remotely listen to audio conversations
+T5	Com 240 270	view media on affected devices
+T6	AP 355 384	remote code execution attacks
+T7	Com 433 444	Android app
+T8	Con 482 505	escalate its privileges
+T9	Con 510 526	access user data
+R1	consists-of Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	targets Arg1:T6 Arg2:T1	
+R4	hasImpact Arg1:T6 Arg2:T4	
+R5	targets Arg1:T6 Arg2:T5	

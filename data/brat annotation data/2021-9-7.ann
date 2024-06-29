@@ -1,0 +1,15 @@
+T1	Con 60 65	theft
+T2	Veh 74 88	Dodge vehicles
+T3	Loc 96 113	Highland Township
+T4	Veh 164 194	2021 Dodge Durango Hellcat SRT
+T5	Veh 198 219	2021 Dodge Durango GT
+T6	Veh 223 241	2021 Dodge Ram TRX
+T7	Veh 249 279	2017 Dodge Charger Hellcat SRT
+T8	Con 291 297	stolen
+T10	Loc 318 335	Highland Township
+T11	Tool 388 403	computer device
+T12	AP 407 425	reprogram key fobs
+R1	uses Arg1:T12 Arg2:T11	
+R2	hasImpact Arg1:T12 Arg2:T8	
+R3	hasImpact Arg1:T12 Arg2:T1	
+R4	located-at Arg1:T12 Arg2:T3	

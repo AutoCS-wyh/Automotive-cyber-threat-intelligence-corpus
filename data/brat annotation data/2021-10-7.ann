@@ -1,0 +1,17 @@
+T1	Loc 17 27	Birmingham
+T2	Con 44 49	stole
+T3	Veh 52 74	Mercedes C Class Coupe
+T4	Tool 83 103	relay attack station
+T5	Tool 188 200	relay device
+T6	AP 204 222	amplify the signal
+T7	Com 242 245	fob
+T8	Con 255 275	unlocked the vehicle
+T9	Con 280 289	drove off
+R1	located-at Arg1:T6 Arg2:T1	
+R2	hasImpact Arg1:T6 Arg2:T2	
+R3	uses Arg1:T6 Arg2:T4	
+R4	uses Arg1:T6 Arg2:T5	
+R5	targets Arg1:T6 Arg2:T7	
+R6	consists-of Arg1:T7 Arg2:T3	
+R7	hasImpact Arg1:T6 Arg2:T8	
+R8	hasImpact Arg1:T6 Arg2:T9	

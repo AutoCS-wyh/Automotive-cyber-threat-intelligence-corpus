@@ -1,0 +1,31 @@
+T1	Tool 21 50	software-based hacking device
+T2	Con 54 59	steal
+T3	Loc 80 89	New Delhi
+T4	Con 113 119	stolen
+T5	AP 161 168	tricked
+T6	Com 202 206	keys
+T7	Loc 208 217	New Delhi
+T8	Tool 298 306	scanners
+T9	Tool 311 322	GPS jamming
+T10	AP 371 383	relay method
+T11	Con 387 393	unlock
+T12	Con 403 417	steal the cars
+T13	Com 446 450	keys
+T14	AP 460 470	programmed
+T15	Veh 568 588	Maruti Suzuki Brezza
+T16	Veh 590 603	Hyundai Venue
+T17	Veh 605 624	Maruti Suzuki Swift
+T18	Veh 630 643	Hyundai Creta
+R1	targets Arg1:T5 Arg2:T6	
+R2	hasImpact Arg1:T5 Arg2:T4	
+R3	uses Arg1:T5 Arg2:T8	
+R4	uses Arg1:T5 Arg2:T9	
+R5	hasImpact Arg1:T10 Arg2:T11	
+R6	hasImpact Arg1:T10 Arg2:T12	
+R7	targets Arg1:T14 Arg2:T13	
+R8	uses Arg1:T10 Arg2:T8	
+R9	uses Arg1:T10 Arg2:T9	
+R10	consists-of Arg1:T13 Arg2:T15	
+R11	consists-of Arg1:T13 Arg2:T16	
+R12	consists-of Arg1:T13 Arg2:T17	
+R13	consists-of Arg1:T13 Arg2:T18	

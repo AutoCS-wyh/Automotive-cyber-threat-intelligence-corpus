@@ -1,0 +1,24 @@
+T1	Ide 0 7	Siemens
+T2	Com 289 295	Mendix
+T3	Com 297 302	COMOS
+T4	Com 304 313	Simcenter
+T5	Com 315 323	SIMOTICS
+T6	Com 325 330	SINEC
+T7	Com 332 341	RUGGEDCOM
+T8	Com 347 365	SINUMERIK products
+T9	Com 512 521	SINEC INS
+T10	Com 572 579	Node.js
+T11	Com 581 585	cURL
+T12	Com 587 593	SQLite
+T13	Com 595 603	CivetWeb
+T14	Com 609 613	BIND
+T15	Com 681 686	COMOS
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	related-to Arg1:T5 Arg2:T1	
+R5	related-to Arg1:T6 Arg2:T1	
+R6	related-to Arg1:T7 Arg2:T1	
+R7	related-to Arg1:T8 Arg2:T1	
+R8	related-to Arg1:T9 Arg2:T1	
+R9	related-to Arg1:T15 Arg2:T1	

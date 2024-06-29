@@ -1,0 +1,14 @@
+T1	Veh 52 64	modern Honda
+T2	Veh 69 83	Acura vehicles
+T3	AP 114 127	replay attack
+T4	Tool 134 148	cheap hardware
+T5	Veh 213 218	Honda
+T6	Veh 222 227	Acura
+T7	Com 228 234	keyfob
+T8	Vul 285 307	no rolling code system
+T9	AP 353 361	replayed
+R1	uses Arg1:T3 Arg2:T4	
+R2	consists-of Arg1:T7 Arg2:T5	
+R3	consists-of Arg1:T7 Arg2:T6	
+R4	targets Arg1:T3 Arg2:T7	
+R5	targets Arg1:T9 Arg2:T8	

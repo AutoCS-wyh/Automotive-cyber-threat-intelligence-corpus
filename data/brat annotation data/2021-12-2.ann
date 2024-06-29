@@ -1,0 +1,13 @@
+T1	Con 21 41	vehicles were stolen
+T2	Loc 53 59	Canada
+T3	Con 125 136	auto thefts
+T4	Com 263 287	Keyless ignition systems
+T5	Veh 327 337	Honda CR-V
+T6	Loc 377 384	Ontario
+T7	Veh 432 444	Lexus RX 350
+T8	Veh 454 465	Range Rover
+T9	Veh 482 499	Toyota Highlander
+R1	consists-of Arg1:T4 Arg2:T5	
+R2	consists-of Arg1:T4 Arg2:T7	
+R3	consists-of Arg1:T4 Arg2:T8	
+R4	consists-of Arg1:T4 Arg2:T9	

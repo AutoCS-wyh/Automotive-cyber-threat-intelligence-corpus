@@ -1,0 +1,5 @@
+T1	Con 76 97	controlling functions
+T2	Veh 101 105	Ford
+T3	Tool 119 131	FordPass API
+T4	Con 162 193	controlling the vehicle locking
+T5	Con 208 223	engine ignition

@@ -1,0 +1,14 @@
+T1	Veh 101 104	BMW
+T2	Con 109 115	stolen
+T3	Com 138 141	key
+T4	AP 216 247	redirecting the wireless signal
+T5	Com 261 268	key fob
+T6	CoA 445 459	blocking pouch
+T7	CoA 474 487	Faraday pouch
+T8	Com 572 579	key fob
+R1	consists-of Arg1:T3 Arg2:T1	
+R2	targets Arg1:T4 Arg2:T5	
+R3	consists-of Arg1:T5 Arg2:T1	
+R4	hasImpact Arg1:T4 Arg2:T2	
+R5	mitigates Arg1:T6 Arg2:T4	
+R6	mitigates Arg1:T7 Arg2:T4	

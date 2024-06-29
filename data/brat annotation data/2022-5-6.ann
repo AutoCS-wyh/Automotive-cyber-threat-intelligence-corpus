@@ -1,0 +1,19 @@
+T1	Com 119 132	keyless entry
+T2	Com 164 177	keyless start
+T3	Tool 294 307	relay devices
+T4	Con 424 430	stolen
+T5	Com 564 572	key fobs
+T6	AP 604 611	capture
+T7	AP 616 634	amplify the signal
+T8	Com 644 647	fob
+T9	Tool 737 751	hacking device
+T10	Com 808 815	key fob
+T11	Con 869 891	take the car’s content
+R1	uses Arg1:T6 Arg2:T3	
+R2	uses Arg1:T7 Arg2:T3	
+R3	hasImpact Arg1:T6 Arg2:T4	
+R4	hasImpact Arg1:T7 Arg2:T4	
+R5	targets Arg1:T6 Arg2:T8	
+R6	targets Arg1:T7 Arg2:T8	
+R7	hasImpact Arg1:T7 Arg2:T11	
+R8	hasImpact Arg1:T6 Arg2:T11	

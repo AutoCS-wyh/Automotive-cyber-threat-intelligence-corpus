@@ -1,0 +1,19 @@
+T1	Loc 11 17	Canada
+T2	Tool 23 30	AirTags
+T3	Con 34 40	locate
+T4	Con 45 62	steal luxury cars
+T5	Tool 166 173	AirTags
+T6	Con 188 205	steal luxury cars
+T7	Tool 211 218	AirTags
+T8	Con 350 357	tracked
+T9	Con 401 407	stolen
+T10	Tool 481 493	screwdrivers
+T11	Tool 608 625	electronic device
+T12	AP 658 667	reprogram
+T13	Com 710 734	onboard diagnostics port
+T14	Com 737 745	OBD port
+T15	Com 757 766	dashboard
+T16	AP 786 798	reprogrammed
+T17	Com 823 826	key
+T18	Com 875 878	key
+R1	uses Arg1:T12 Arg2:T11	

@@ -1,0 +1,14 @@
+T1	Loc 0 6	Polish
+T2	Com 50 57	CarPlay
+T3	Veh 73 86	Tesla Model 3
+T4	Veh 113 118	Tesla
+T5	Com 135 142	CarPlay
+T6	Com 162 170	software
+T7	Com 179 198	infotainment system
+T8	Com 223 230	CarPlay
+T9	Com 290 309	in-car Raspberry Pi
+T10	Com 336 346	Android OS
+T11	Com 385 399	Raspberry Pi’s
+R1	consists-of Arg1:T6 Arg2:T7	
+R2	consists-of Arg1:T7 Arg2:T4	
+R3	consists-of Arg1:T7 Arg2:T3	

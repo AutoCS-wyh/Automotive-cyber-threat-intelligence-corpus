@@ -1,0 +1,27 @@
+T1	Con 42 53	cars stolen
+T4	Loc 81 87	Canada
+T2	Loc 157 164	Nigeria
+T3	Loc 169 174	Ghana
+T5	Com 229 252	push-to-start ignitions
+T6	Com 323 346	push-to-start ignitions
+T7	Con 386 400	steal vehicles
+T8	Loc 436 444	Canadian
+T9	Con 563 581	steal the vehicles
+T10	AP 597 609	relay attack
+T11	Com 668 675	key fob
+T12	Tool 828 838	lock picks
+T13	Tool 886 904	crucial programmer
+T14	AV 956 976	On-Board Diagnostics
+T15	AV 979 982	OBD
+T16	Com 1062 1077	diagnostic tool
+T18	Com 1214 1236	push-to-start ignition
+T19	Com 1256 1269	physical keys
+T20	AP 1297 1310	clone the key
+R1	hasImpact Arg1:T10 Arg2:T9	
+R2	targets Arg1:T10 Arg2:T11	
+T17	AP 1110 1133	program a blank key fob
+R3	uses Arg1:T17 Arg2:T13	
+R4	based-on Arg1:T17 Arg2:T14	
+R5	based-on Arg1:T17 Arg2:T15	
+R6	located-at Arg1:T10 Arg2:T8	
+R7	targets Arg1:T10 Arg2:T6	

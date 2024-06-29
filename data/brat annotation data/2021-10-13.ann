@@ -1,0 +1,9 @@
+T1	Ide 22 35	Mercedes-Benz
+T2	Com 74 106	critical infrastructure platform
+T3	Ide 111 123	Beijing Benz
+T4	Com 124 145	Automotive API system
+T5	Con 152 158	leaked
+T6	Con 180 191	leaked data
+T7	Con 252 256	leak
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T4 Arg2:T3	

@@ -1,0 +1,8 @@
+T1	Com 29 51	automotive grade Linux
+T2	Vul 151 175	Incorrect Access Control
+T3	Com 179 197	usr/bin/afb-daemon
+T4	Tool 255 272	well-crafted HTTP
+T5	Com 327 345	afb-daemon process
+R1	hasVulnerability Arg1:T3 Arg2:T2	
+R2	consists-of Arg1:T5 Arg2:T1	
+R3	consists-of Arg1:T3 Arg2:T1	

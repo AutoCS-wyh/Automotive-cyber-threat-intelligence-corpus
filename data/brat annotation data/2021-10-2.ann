@@ -1,0 +1,9 @@
+T1	AP 37 55	reverse engineered
+T2	Veh 58 65	Tesla’s
+T3	Com 75 94	data storage system
+T4	Com 335 344	Autopilot
+T5	Veh 478 492	Tesla vehicles
+T6	Com 522 531	Autopilot
+R1	targets Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T4 Arg2:T2	
+R3	consists-of Arg1:T6 Arg2:T5	

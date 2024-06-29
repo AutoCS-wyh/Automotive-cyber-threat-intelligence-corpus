@@ -1,0 +1,27 @@
+T1	Com 81 84	GPS
+T2	Com 217 232	keyless systems
+T3	Con 254 260	stolen
+T4	AP 278 291	relay attacks
+T5	AP 309 336	hijacked the car key signal
+T6	Con 340 355	remotely unlock
+T7	Con 370 386	start the engine
+T8	Veh 489 505	Volkswagen Vento
+T9	Veh 511 516	Jetta
+T10	Veh 525 535	Seat Ibiza
+T11	AP 572 581	tampering
+T12	Com 587 602	keyless systems
+T13	AP 614 627	relay attacks
+T14	AP 629 636	cloning
+T15	AP 642 655	key diversion
+T16	Loc 668 673	Italy
+T17	Veh 739 749	Fiat Panda
+T18	Veh 751 760	Fiat 500X
+T19	Veh 765 776	Toyota RAV4
+T20	Con 797 803	stolen
+R1	hasImpact Arg1:T4 Arg2:T3	
+R2	hasImpact Arg1:T5 Arg2:T6	
+R3	hasImpact Arg1:T5 Arg2:T7	
+R4	targets Arg1:T11 Arg2:T12	
+R5	targets Arg1:T13 Arg2:T12	
+R6	targets Arg1:T14 Arg2:T12	
+R7	targets Arg1:T15 Arg2:T12	

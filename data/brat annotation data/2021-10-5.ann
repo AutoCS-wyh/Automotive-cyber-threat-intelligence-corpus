@@ -1,0 +1,15 @@
+T1	Tool 35 48	relay devices
+T3	Veh 67 71	BMWs
+T4	Veh 76 93	Mercedes vehicles
+T5	Con 112 130	keyless car thefts
+T6	Loc 142 146	UK’s
+T7	Tool 246 258	relay device
+T8	Com 295 298	fob
+T9	Veh 329 340	BMW 320d SE
+T10	Veh 344 360	BMW 520d M Sport
+T11	Veh 364 380	Mercedes GLC 250
+T12	Veh 384 404	Mercedes GLE 250 AMG
+T13	Veh 408 424	Mercedes AMG E63
+T14	Veh 432 448	Mercedes GLC 250
+R1	consists-of Arg1:T8 Arg2:T3	
+R2	consists-of Arg1:T8 Arg2:T4	

@@ -1,0 +1,17 @@
+T1	Con 23 29	stolen
+T2	Loc 33 40	Toronto
+T3	Con 147 157	steal cars
+T4	AP 170 182	relay attack
+T5	Com 226 233	key fob
+T6	Tool 304 321	diagnostic device
+T8	Veh 352 361	Ford F150
+T9	Tool 471 488	diagnostic device
+T11	Com 582 590	key fobs
+T7	AP 325 341	create a new key
+T10	AP 492 512	create a new key fob
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	located-at Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T3	
+R4	targets Arg1:T4 Arg2:T5	
+R5	uses Arg1:T7 Arg2:T6	
+R6	uses Arg1:T10 Arg2:T9	

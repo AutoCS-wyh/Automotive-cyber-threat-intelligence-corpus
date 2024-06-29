@@ -1,0 +1,15 @@
+T1	Ide 35 43	Qualcomm
+T2	Com 44 60	Snapdragon chips
+T3	Com 119 134	Snapdragon Auto
+T4	Com 136 159	Snapdragon Consumer IoT
+T5	Com 165 190	Snapdragon Industrial IoT
+T6	Vul 226 242	integer overflow
+T7	Vul 247 260	heap overflow
+T8	Vul 273 293	improper validations
+R1	related-to Arg1:T2 Arg2:T1	
+R2	related-to Arg1:T3 Arg2:T1	
+R3	related-to Arg1:T4 Arg2:T1	
+R4	related-to Arg1:T5 Arg2:T1	
+R5	hasVulnerability Arg1:T2 Arg2:T6	
+R6	hasVulnerability Arg1:T2 Arg2:T7	
+R7	hasVulnerability Arg1:T2 Arg2:T8	

@@ -1,0 +1,24 @@
+T1	Veh 29 42	Tesla Model 3
+T2	Veh 47 54	Model Y
+T3	Com 91 105	center console
+T4	Tool 179 191	dash cluster
+T5	Tool 219 226	CANdash
+T6	Tool 232 239	CANdash
+T7	AP 268 276	snooping
+T8	Veh 281 288	Tesla’s
+T9	Com 289 296	CAN bus
+T10	Veh 544 549	Tesla
+T11	Com 550 566	Autopilot system
+T12	Com 604 613	CANserver
+T13	Com 618 636	ESP32-based device
+T14	Com 678 685	CAN bus
+T15	Veh 689 694	Tesla
+T16	Com 781 794	Android phone
+T17	Tool 803 810	CANdash
+R1	consists-of Arg1:T3 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	uses Arg1:T7 Arg2:T6	
+R4	targets Arg1:T7 Arg2:T9	
+R5	consists-of Arg1:T9 Arg2:T8	
+R6	consists-of Arg1:T11 Arg2:T10	
+R7	consists-of Arg1:T14 Arg2:T15	

@@ -1,0 +1,9 @@
+T1	Con 102 112	car thefts
+T2	Com 219 228	computers
+T3	AP 276 294	amplify the signal
+T4	Com 300 307	key FOB
+T5	Com 367 391	onboard diagnostics port
+T6	AP 396 417	reprogram the vehicle
+T7	Com 475 478	key
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	hasImpact Arg1:T6 Arg2:T1	

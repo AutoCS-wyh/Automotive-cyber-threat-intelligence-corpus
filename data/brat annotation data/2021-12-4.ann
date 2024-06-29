@@ -1,0 +1,16 @@
+T1	Vul 0 9	Log4Shell
+T2	Com 40 58	Log4j java library
+T3	Com 135 140	Log4j
+T4	Com 230 235	Log4j
+T5	Con 259 281	execute arbitrary code
+T6	Com 285 292	systems
+T7	Com 299 304	Log4j
+T8	Con 421 442	access company assets
+T9	Com 500 523	telematics data servers
+T10	Com 532 555	back-end infrastructure
+T11	Com 560 576	internal servers
+R1	hasVulnerability Arg1:T2 Arg2:T1	
+R2	hasVulnerability Arg1:T3 Arg2:T1	
+R3	hasVulnerability Arg1:T4 Arg2:T1	
+R4	hasImpact Arg1:T1 Arg2:T5	
+R5	consists-of Arg1:T7 Arg2:T6	

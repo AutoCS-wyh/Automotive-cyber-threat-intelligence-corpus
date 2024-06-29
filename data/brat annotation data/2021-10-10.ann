@@ -1,0 +1,15 @@
+T1	Com 36 69	Vehicle Parking Management System
+T2	Vul 103 116	SQL injection
+T3	AP 155 179	time-based SQL injection
+T4	Vul 216 236	cross site scripting
+T5	Vul 239 242	XSS
+T6	Com 266 299	Vehicle Parking Management System
+R1	hasVulnerability Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T2	
+R3	targets Arg1:T3 Arg2:T1	
+R4	hasVulnerability Arg1:T1 Arg2:T4	
+R5	hasVulnerability Arg1:T1 Arg2:T5	
+R6	targets Arg1:T3 Arg2:T6	
+R7	hasVulnerability Arg1:T6 Arg2:T2	
+R8	hasVulnerability Arg1:T6 Arg2:T4	
+R9	hasVulnerability Arg1:T6 Arg2:T5	

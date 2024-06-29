@@ -1,0 +1,10 @@
+T1	Com 29 40	NVIDIA chip
+T2	Com 69 87	Jetson AGX Xavier™
+T3	Com 158 177	IOMMU configuration
+T4	Con 247 274	direct read or write access
+T6	Com 322 329	PCI bus
+T7	Con 362 379	denial of service
+T8	Con 381 395	code execution
+T9	Con 397 421	escalation of privileges
+T10	Con 427 451	impact on data integrity
+T11	Con 456 471	confidentiality

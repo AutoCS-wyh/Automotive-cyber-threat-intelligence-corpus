@@ -1,0 +1,8 @@
+T1	Ide 51 60	Synacktiv
+T2	Veh 90 103	Tesla Model 3
+T3	Com 104 123	Infotainment System
+T4	Con 157 192	take over some of the car’s systems
+T5	Veh 256 269	Tesla Model 3
+T6	Com 270 289	Diagnostic Ethernet
+R1	consists-of Arg1:T3 Arg2:T2	
+R2	consists-of Arg1:T6 Arg2:T5	

@@ -1,0 +1,30 @@
+T1	Com 50 70	Bluetooth Low Energy
+T2	Com 73 76	BLE
+T3	Veh 101 106	Tesla
+T4	Con 133 160	remotely unlocking vehicles
+T5	Ide 162 167	Tesla
+T6	AP 211 234	link-layer relay attack
+T7	Com 238 258	Bluetooth Low Energy
+T8	Com 261 264	BLE
+T9	Com 359 383	proximity authentication
+T10	Com 584 587	BLE
+T11	Veh 670 675	Tesla
+T12	Veh 746 751	Tesla
+T13	Con 778 784	unlock
+T14	Con 786 791	start
+T15	Con 797 808	drive a car
+T16	Com 833 846	keyless entry
+T17	Veh 923 937	Tesla Models 3
+T18	Veh 942 943	Y
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	targets Arg1:T6 Arg2:T7	
+R4	targets Arg1:T6 Arg2:T8	
+R5	hasImpact Arg1:T6 Arg2:T4	
+R6	hasImpact Arg1:T6 Arg2:T13	
+R7	hasImpact Arg1:T6 Arg2:T14	
+R8	hasImpact Arg1:T6 Arg2:T15	
+R9	consists-of Arg1:T1 Arg2:T17	
+R10	consists-of Arg1:T1 Arg2:T18	
+R11	consists-of Arg1:T10 Arg2:T17	
+R12	consists-of Arg1:T10 Arg2:T18	

@@ -1,0 +1,11 @@
+T1	Veh 9 14	Mazda
+T2	Loc 46 49	USA
+T3	Veh 221 226	Mazda
+T4	Com 333 354	infotainment software
+T5	Com 437 458	infotainment software
+T6	Vul 459 475	could not decode
+T7	CoA 537 554	replacing the CMU
+T8	Com 595 614	infotainment system
+R1	consists-of Arg1:T4 Arg2:T3	
+R2	hasVulnerability Arg1:T5 Arg2:T6	
+R3	mitigates Arg1:T7 Arg2:T6	

@@ -1,0 +1,15 @@
+T1	Ide 45 51	NVIDIA
+T2	Vul 68 90	hardware vulnerability
+T3	Con 118 141	gain privileged control
+T4	Veh 164 169	Tesla
+T5	Com 170 186	autopilot system
+T6	AP 220 242	destabilizing hardware
+T7	Con 299 318	unlock a bootloader
+T8	Veh 430 443	Mercedes-Benz
+T9	Com 444 463	infotainment system
+R1	related-to Arg1:T2 Arg2:T1	
+R2	hasImpact Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T4	
+R4	targets Arg1:T6 Arg2:T2	
+R5	hasImpact Arg1:T6 Arg2:T7	
+R6	consists-of Arg1:T9 Arg2:T8	

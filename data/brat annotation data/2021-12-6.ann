@@ -1,0 +1,19 @@
+T1	Com 36 57	Android Automotive OS
+T2	Com 60 64	AAOS
+T3	Vul 107 120	CVE-2021-1038
+T4	Vul 122 135	CVE-2021-1039
+T5	Vul 137 150	CVE-2021-1040
+T6	Tool 182 209	local malicious application
+T7	Con 253 290	gain access to additional permissions
+R1	hasVulnerability Arg1:T1 Arg2:T3	
+R2	hasVulnerability Arg1:T1 Arg2:T4	
+R3	hasVulnerability Arg1:T1 Arg2:T5	
+R4	hasVulnerability Arg1:T2 Arg2:T3	
+R5	hasVulnerability Arg1:T2 Arg2:T4	
+R6	hasVulnerability Arg1:T2 Arg2:T5	
+R7	targets Arg1:T6 Arg2:T3	
+R8	targets Arg1:T6 Arg2:T4	
+R9	targets Arg1:T6 Arg2:T5	
+R10	hasImpact Arg1:T3 Arg2:T7	
+R11	hasImpact Arg1:T4 Arg2:T7	
+R12	hasImpact Arg1:T5 Arg2:T7	

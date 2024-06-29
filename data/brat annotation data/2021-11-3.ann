@@ -1,0 +1,5 @@
+T1	Com 37 53	Intel Processors
+T2	Vul 108 142	enabled testing or debugging modes
+T3	Con 203 229	obtain enhanced privileges
+R1	hasVulnerability Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T2 Arg2:T3	

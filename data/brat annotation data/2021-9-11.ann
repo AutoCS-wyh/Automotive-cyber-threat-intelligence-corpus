@@ -1,0 +1,11 @@
+T1	Com 68 88	keyless entry system
+T2	Con 118 123	theft
+T3	Veh 133 139	Nissan
+T4	Veh 141 151	Ford Focus
+T5	Veh 153 167	Nissan Qashqai
+T6	Veh 173 188	Volkswagen Golf
+T7	Com 295 298	key
+R1	consists-of Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T1 Arg2:T4	
+R3	consists-of Arg1:T1 Arg2:T5	
+R4	consists-of Arg1:T1 Arg2:T6	

@@ -1,0 +1,4 @@
+T1	Ide 19 28	Pod Point
+T2	Com 76 101	electric car charging app
+T3	Con 109 117	exposure
+R1	related-to Arg1:T2 Arg2:T1	
