@@ -1,0 +1,1 @@
+Researchers discovered a LDAP injection vulnerability in Traccar GPS Tracking System. The issue occurs when user input is used in the LDAP search filter. By providing specially crafted input, an attacker can modify the logic of the LDAP query and get admin privileges.

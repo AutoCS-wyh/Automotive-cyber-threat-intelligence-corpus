@@ -1,0 +1,1 @@
+The ransomware operators behind Conti ransomware claimed that they breached the Volkswagen Group. The ransomware operators appeared to have targeted one of the Volkswagen Group franchises based in Salzkotten, Germany. As of August 2020, the data leak contained a combined total of 857 number of workshop services related to invoices and automotive part sales related invoices.

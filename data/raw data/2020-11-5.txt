@@ -1,0 +1,1 @@
+Intel’s security teams identified a potential security vulnerability in the Intel Advanced Driver Assistance Systems Innovation Engine (ADAS IE) firmware that may allow escalation of privilege. With this vulnerability, a hacker could potentially take control of the automated driving elements of the vehicle.

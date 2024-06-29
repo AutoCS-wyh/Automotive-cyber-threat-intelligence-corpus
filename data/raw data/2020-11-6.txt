@@ -1,0 +1,3 @@
+Researchers found a vulnerability in OBDeleven OBD-II which allowed hackers to unlock its premium features free of charge. The OBD-II is controlled via a bluetooth connected app which requires a paid subscription, allowing in-depth access to the ECU for advanced diagnostics and configurations. However, the connection to the ECU was done via the app’s API, regardless of the payment status, and the vulnerability allowed users to use the app directly via the API without making a payment. In addition to the financial damage to the company, the vulnerability opened an entry point for attackers to access the ECU and inject messages.
+
+

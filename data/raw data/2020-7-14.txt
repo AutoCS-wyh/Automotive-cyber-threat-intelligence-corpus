@@ -1,0 +1,1 @@
+ADIF, a Spanish state-owned railway infrastructure management system, was hit by REVil ransomware operators. The hackers claimed to have stolen 800GB of data, including correspondence and contracts. As proof of the attack, the ransomware operators posted a sample of files exfiltrated from the company, and threatened to release confidential data online if a ransom was not paid.

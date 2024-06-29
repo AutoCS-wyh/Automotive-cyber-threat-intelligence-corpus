@@ -1,0 +1,1 @@
+Researchers analyzed Tesla's undocumented API and found unique exploits to control the Tesla Model S vehicle remotely through the API. The researchers demonstrated that they could control the vehicle's motion and steering through the API, and that they were able to unlock the vehicle and flash the vehicle's headlights using the same method.

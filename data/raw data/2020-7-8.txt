@@ -1,0 +1,1 @@
+A researcher found a vulnerability in Tesla Model 3's NFC tag that allowed him to perform a relay attack. By leveraging the signal of a legitimate NFC tag associated with the vehicle, the researcher was able to open the vehicle's door. Due to the limitation of the NFC protocol, this attack required a proximity of 10cm to Tesla's NFC tag.

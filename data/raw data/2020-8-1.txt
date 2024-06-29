@@ -1,0 +1,1 @@
+Hackers are selling a database with information of a million Moscow region drivers for $1,500. The information includes the full name of car owners, their phone numbers, the vehicle’s VIN, the vehicle's registration date, brand, model, and production year. The information in the database is not up-to-date and only includes information from 2019 and earlier.

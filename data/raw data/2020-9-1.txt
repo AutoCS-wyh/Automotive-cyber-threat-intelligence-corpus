@@ -1,0 +1,1 @@
+A hacker modified his Casio F91W to use it as an NFC based vehicle key fob. He used an open-sourced Java Card applet that emulates Tesla Model 3's key fob and relied on prior research that demonstrated how to add NFC capabilities into a Casio F91W. The modification was completely hidden, and the hacker claimed that the NFC communication with the vehicle was stable.

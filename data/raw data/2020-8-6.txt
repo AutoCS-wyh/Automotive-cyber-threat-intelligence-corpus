@@ -1,0 +1,1 @@
+A Chinese Tesla car owner encountered a bug in the Tesla app, causing his vehicle to disappear from the app. Instead, 5 other cars from Europe appeared in the app. He was able to view all of the details on the car and remotely control them as if he owned them.

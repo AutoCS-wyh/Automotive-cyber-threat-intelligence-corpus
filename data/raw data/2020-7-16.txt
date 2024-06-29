@@ -1,0 +1,1 @@
+A hacker made the Mercedes' MBUX infotainment system work on an old Mercedes W203 through an Arduino linked to the CAN bus which decoded CAN frames and sent them to the Android tablet over a USB connection. He was able to display live information on the vehicle’s fuel usage, climate control, and window state.

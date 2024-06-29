@@ -1,0 +1,1 @@
+Researchers discovered a vulnerability in Android Auto settings which allowed permission bypass due to an unsafe Android reference token. The privileges could allow a local information disclosure vulnerability, resulting in command execution privileges. The vulnerability could locally trigger without user interaction.

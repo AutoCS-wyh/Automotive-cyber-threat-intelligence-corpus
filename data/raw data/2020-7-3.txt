@@ -1,0 +1,1 @@
+Egypt-based ride hailing app, SWVL, was hacked in a cyberattack that exposed the personal information of passengers, including emails, names, and phone numbers. If abused, the hackers could sell the information on the dark web or use it to gain access to other accounts that belong to the victims using the password they got from SWVL.

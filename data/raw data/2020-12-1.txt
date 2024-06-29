@@ -1,0 +1,1 @@
+Inchcape, an Australian independent international automotive retailer, with operations in nearly 30 countries, was hit by the Windows Ransomexx ransomware. In the attack, company data was stolen, including administration, customer fulfilment and client information, some of which was then leaked on the dark web.

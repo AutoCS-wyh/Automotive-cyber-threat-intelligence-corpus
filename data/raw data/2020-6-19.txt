@@ -1,0 +1,3 @@
+To get accurate notifications on his vehicle charging status, a hacker reversed engineered BMW's connected drive and created an open-sourced app that actively retrieves real-time charging information from his vehicle using BMW's API. To use the app, users must configure their credentials to authenticate with BMW's API. With some additional development, the app could also allow control of BMW's other connected API features - activation of headlights, horns, and unlock/lock commands through the open sourced app.
+
+

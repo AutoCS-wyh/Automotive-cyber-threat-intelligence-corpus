@@ -1,0 +1,1 @@
+Researchers found an exploitable code execution vulnerability in the web-based management of WAGO's programmable automation controllers, used in the automotive industry. The vulnerability allows a specially crafted series of HTTP requests to cause local code execution resulting in remote code execution.

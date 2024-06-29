@@ -1,0 +1,1 @@
+Toyota revealed that researchers found a buffer overflow vulnerability in the Global TechStream (GTS) diagnostic cable. The vulnerability could allow an attacker to execute arbitrary code or cause a denial of service (DoS) condition.
