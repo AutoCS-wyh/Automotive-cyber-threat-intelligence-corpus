@@ -1,0 +1,17 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 23	CAN messages
+T3	AV 49 52	OBD
+T4	Tool 58 76	USB-to-CAN adapter
+T5	Con 132 168	Internal bus information can be read
+T6	AP 170 200	Sending malicious CAN messages
+T7	AP 202 210	Spoofing
+T8	Com 214 226	CAN messages
+T10	Con 271 298	actuators can be controlled
+R1	targets Arg1:T1 Arg2:T2	
+R2	based-on Arg1:T1 Arg2:T3	
+R3	uses Arg1:T1 Arg2:T4	
+R4	hasInterface Arg1:T2 Arg2:T3	
+R5	hasImpact Arg1:T1 Arg2:T5	
+R6	targets Arg1:T7 Arg2:T8	
+R8	hasImpact Arg1:T6 Arg2:T10	
+R9	hasImpact Arg1:T7 Arg2:T10	

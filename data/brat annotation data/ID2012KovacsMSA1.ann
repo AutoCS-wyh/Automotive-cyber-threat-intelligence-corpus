@@ -1,0 +1,27 @@
+T1	Tool 16 27	GPS tracker
+T2	Con 62 80	track the vehicles
+T3	AP 85 98	copy the keys
+T4	Con 111 125	steal the cars
+T5	AP 127 134	Jamming
+T6	Com 135 151	door lock signal
+T7	Con 153 175	Car doors did not lock
+T8	AP 178 197	Key data extraction
+T9	Con 199 224	Key information available
+T10	Tool 256 275	GPS tracking device
+T11	Con 277 299	Vehicle can be tracked
+T12	AP 301 326	Tracking vehicle location
+T13	Con 328 355	Vehicle location is tracked
+T14	Com 357 360	Key
+T15	AP 364 371	spoofed
+T16	Con 407 415	unlocked
+T17	Con 429 435	stolen
+R1	hasImpact Arg1:T3 Arg2:T4	
+R2	targets Arg1:T5 Arg2:T6	
+R3	hasImpact Arg1:T5 Arg2:T7	
+R4	hasImpact Arg1:T8 Arg2:T9	
+R5	uses Arg1:T12 Arg2:T10	
+R6	hasImpact Arg1:T12 Arg2:T11	
+R7	hasImpact Arg1:T12 Arg2:T13	
+R8	targets Arg1:T15 Arg2:T14	
+R9	hasImpact Arg1:T15 Arg2:T16	
+R10	hasImpact Arg1:T15 Arg2:T17	

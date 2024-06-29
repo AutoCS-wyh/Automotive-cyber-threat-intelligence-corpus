@@ -1,0 +1,27 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 23	Data Traffic
+T3	AP 25 33	Sniffing
+T4	Com 41 62	Bluetooth MAC address
+T5	AP 66 76	monitoring
+T6	Com 81 93	data traffic
+T7	Con 95 130	Obtainment of Bluetooth MAC address
+T8	AP 132 145	Brute Forcing
+T9	Com 146 149	PIN
+T10	AP 151 169	Brute Force Attack
+T11	Con 173 194	get the Bluetooth PIN
+T12	Con 233 260	Obtainment of Bluetooth PIN
+T13	AP 262 289	Execution of malicious code
+T14	Com 309 325	Bluetooth device
+T15	AP 327 353	Sending malicious messages
+T16	AP 355 386	Injection of malicious messages
+T17	Con 388 411	Compromising of vehicle
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T3 Arg2:T7	
+R5	targets Arg1:T8 Arg2:T9	
+R6	hasImpact Arg1:T10 Arg2:T11	
+R7	hasImpact Arg1:T10 Arg2:T12	
+R8	targets Arg1:T13 Arg2:T14	
+R9	hasImpact Arg1:T15 Arg2:T17	
+R10	hasImpact Arg1:T16 Arg2:T17	

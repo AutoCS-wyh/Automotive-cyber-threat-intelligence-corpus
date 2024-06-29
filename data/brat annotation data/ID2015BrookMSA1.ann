@@ -1,0 +1,25 @@
+T1	Com 33 43	OBD dongle
+T2	AP 75 94	Reverse Engineering
+T3	Com 95 103	firmware
+T4	Com 108 116	hardware
+T5	Com 120 130	OBD-Dongle
+T6	Vul 168 188	no digital signature
+T7	Com 192 200	firmware
+T8	Vul 202 216	no secure boot
+T9	Vul 218 248	usage of insecure FTP protocol
+T10	AP 250 269	Reverse Engineering
+T11	Com 270 292	cellular communication
+T12	Com 296 306	OBD-Dongle
+T13	Vul 344 375	no authentication or encryption
+T14	Com 379 401	cellular communication
+R1	targets Arg1:T2 Arg2:T3	
+R2	targets Arg1:T2 Arg2:T4	
+R3	consists-of Arg1:T3 Arg2:T5	
+R4	consists-of Arg1:T4 Arg2:T5	
+R5	hasVulnerability Arg1:T7 Arg2:T6	
+R6	consists-of Arg1:T7 Arg2:T5	
+R7	hasVulnerability Arg1:T5 Arg2:T8	
+R8	hasVulnerability Arg1:T5 Arg2:T9	
+R9	targets Arg1:T10 Arg2:T11	
+R10	consists-of Arg1:T11 Arg2:T12	
+R11	hasVulnerability Arg1:T14 Arg2:T13	

@@ -1,0 +1,22 @@
+T1	AP 0 20	Eavesdropping attack
+T2	Com 28 45	TPM communication
+T3	Tool 65 81	LPC Bus Analyzer
+T4	AP 98 105	monitor
+T5	Com 122 134	data traffic
+T6	Com 147 154	Host PC
+T7	Com 163 166	TPM
+T8	Tool 183 199	LPC Bus Analyzer
+T9	Com 212 214	PC
+T10	Com 223 226	TPM
+T11	AP 228 241	Eavesdropping
+T12	Com 249 261	data traffic
+T13	AP 263 276	Eavesdropping
+T14	AP 281 291	monitoring
+T15	Com 311 328	platforms LPC bus
+R1	targets Arg1:T1 Arg2:T2	
+R2	uses Arg1:T4 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	uses Arg1:T11 Arg2:T8	
+R5	targets Arg1:T11 Arg2:T12	
+R6	targets Arg1:T13 Arg2:T15	
+R7	targets Arg1:T14 Arg2:T15	

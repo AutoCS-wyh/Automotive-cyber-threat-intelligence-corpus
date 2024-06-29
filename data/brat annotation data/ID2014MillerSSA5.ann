@@ -1,0 +1,16 @@
+T1	AP 0 8	Spoofing
+T2	Com 9 12	CAN
+T3	Com 25 42	internal networks
+T4	AP 46 54	spoofing
+T5	AV 68 82	RDS connection
+T6	AP 84 92	Spoofing
+T7	Com 105 108	CAN
+T8	Con 118 144	Wireless access of vehicle
+T9	Com 157 161	ECUs
+T10	Com 185 195	bus system
+T11	Com 220 223	CAN
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	based-on Arg1:T4 Arg2:T5	
+R4	targets Arg1:T6 Arg2:T7	
+R5	hasImpact Arg1:T6 Arg2:T8	

@@ -1,0 +1,22 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 14	CAN
+T3	Com 25 28	CAN
+T4	AP 42 50	captured
+T5	AV 69 72	OBD
+T6	Com 123 126	CAN
+T7	AP 137 143	Replay
+T8	Com 155 158	CAN
+T9	Con 170 206	activate the open door control light
+T10	Com 214 232	instrument cluster
+T11	AP 234 240	Replay
+T12	Com 241 244	CAN
+T13	Com 260 263	bus
+T14	Con 265 295	Display shows open driver door
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T4 Arg2:T3	
+R3	based-on Arg1:T4 Arg2:T5	
+R4	hasInterface Arg1:T3 Arg2:T5	
+R5	targets Arg1:T7 Arg2:T8	
+R6	hasImpact Arg1:T7 Arg2:T9	
+R7	targets Arg1:T11 Arg2:T13	
+R8	hasImpact Arg1:T11 Arg2:T14	

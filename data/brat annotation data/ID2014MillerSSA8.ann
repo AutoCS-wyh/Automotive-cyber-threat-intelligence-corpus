@@ -1,0 +1,16 @@
+T1	Con 0 35	Control over many vehicle functions
+T3	AP 79 87	spoofing
+T4	Com 91 94	CAN
+T2	AP 248 264	Spoofing Attacks
+T5	AP 291 304	CAN Injection
+T6	Com 329 351	Lane Keeping Assistant
+T7	Con 382 411	steering wheel was controlled
+T8	Con 413 436	change of speed display
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T2 Arg2:T6	
+R4	targets Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T2 Arg2:T7	
+R6	hasImpact Arg1:T2 Arg2:T8	
+R7	hasImpact Arg1:T5 Arg2:T7	
+R8	hasImpact Arg1:T5 Arg2:T8	

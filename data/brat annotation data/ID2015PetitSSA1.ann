@@ -1,0 +1,19 @@
+T1	Con 0 8	Blinding
+T2	Com 9 15	camera
+T3	Com 20 25	lidar
+T4	AP 29 41	laser attack
+T5	Con 43 53	Shuttering
+T6	Com 61 67	camera
+T7	AP 71 88	laser irradiation
+T8	Con 116 126	Shuttering
+T9	Com 131 137	camera
+T10	AP 143 154	laser works
+T11	Con 248 266	influence function
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	targets Arg1:T4 Arg2:T2	
+R3	targets Arg1:T4 Arg2:T3	
+R4	hasImpact Arg1:T7 Arg2:T5	
+R5	targets Arg1:T7 Arg2:T6	
+R6	hasImpact Arg1:T10 Arg2:T8	
+R7	targets Arg1:T10 Arg2:T9	
+R8	hasImpact Arg1:T10 Arg2:T11	

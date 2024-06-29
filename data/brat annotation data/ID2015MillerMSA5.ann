@@ -1,0 +1,37 @@
+T1	AP 0 19	Reverse Engineering
+T2	Com 20 36	message protocol
+T3	AP 38 58	Reverser Engineering
+T4	Com 63 79	message protocol
+T5	Com 88 97	OMAP chip
+T6	Com 102 105	SPI
+T7	Con 107 123	Information Gain
+T8	Com 127 143	message protocol
+T9	AP 145 164	Reverse Engineering
+T10	Com 165 173	Firmware
+T11	AP 175 194	Reverse Engineering
+T12	Com 211 224	V850 firmware
+T13	Con 226 242	Information Gain
+T14	Com 246 268	Firmware Functionality
+T15	Con 270 282	Manipulating
+T16	Com 287 302	turning signals
+T17	Com 305 314	oor locks
+T18	Com 323 334	speedometer
+T19	AP 338 346	spoofing
+T20	Tool 359 371	CAN messages
+T21	Com 394 397	SPI
+T22	Com 401 424	V850 firmware functions
+T23	Con 426 449	Activation of actuators
+T24	Com 452 462	Door locks
+T25	Com 464 479	turning signals
+T26	Com 481 492	speedometer
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T3 Arg2:T7	
+R4	targets Arg1:T9 Arg2:T10	
+R5	targets Arg1:T11 Arg2:T12	
+R6	hasImpact Arg1:T11 Arg2:T13	
+R7	hasImpact Arg1:T19 Arg2:T15	
+R8	targets Arg1:T19 Arg2:T16	
+R9	targets Arg1:T19 Arg2:T17	
+R10	targets Arg1:T19 Arg2:T18	
+R11	uses Arg1:T19 Arg2:T20	

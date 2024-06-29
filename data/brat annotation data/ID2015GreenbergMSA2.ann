@@ -1,0 +1,28 @@
+T1	Com 0 12	SMS messages
+T2	Com 37 47	OBD Dongle
+T3	AP 51 78	send malicious CAN commands
+T4	Con 114 142	components can be controlled
+T5	AP 144 163	Reverse Engineering
+T6	Com 164 174	OBD-Dongle
+T7	Vul 212 237	Developer mode is enabled
+T8	Vul 242 262	remote device access
+T9	Vul 280 306	same private key is stored
+T10	Vul 324 341	No authentication
+T11	Com 359 362	SMS
+T12	AP 364 372	Spoofing
+T13	Com 398 405	CAN bus
+T14	Con 409 434	execute vehicle functions
+T15	Con 436 468	Windshield wipers were activated
+T16	Con 470 491	Brakes were activated
+T17	Con 501 509	disabled
+R1	hasImpact Arg1:T3 Arg2:T4	
+R2	targets Arg1:T5 Arg2:T6	
+R3	hasVulnerability Arg1:T6 Arg2:T7	
+R4	hasVulnerability Arg1:T6 Arg2:T8	
+R5	hasVulnerability Arg1:T6 Arg2:T9	
+R6	hasVulnerability Arg1:T6 Arg2:T10	
+R7	targets Arg1:T12 Arg2:T13	
+R8	hasImpact Arg1:T12 Arg2:T14	
+R9	hasImpact Arg1:T12 Arg2:T15	
+R10	hasImpact Arg1:T12 Arg2:T16	
+R11	hasImpact Arg1:T12 Arg2:T17	

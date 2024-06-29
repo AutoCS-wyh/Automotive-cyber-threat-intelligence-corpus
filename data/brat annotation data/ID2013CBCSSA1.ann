@@ -1,0 +1,11 @@
+T1	Tool 6 25	key spoofing device
+T2	Con 29 45	unlock a vehicle
+T3	Con 50 61	steal stuff
+T4	AP 79 87	Spoofing
+T5	Com 88 95	key fob
+T6	Con 109 125	Car was unlocked
+R1	uses Arg1:T4 Arg2:T1	
+R2	hasImpact Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T3	
+R4	targets Arg1:T4 Arg2:T5	
+R5	hasImpact Arg1:T4 Arg2:T6	

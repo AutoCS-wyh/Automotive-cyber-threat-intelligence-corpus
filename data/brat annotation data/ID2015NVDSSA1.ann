@@ -1,0 +1,15 @@
+T1	Vul 0 29	Bluetooth stack vulnerability
+T2	Veh 33 36	BMW
+T3	Com 37 53	Infotainment ECU
+T4	Con 63 68	crash
+T5	Com 72 94	CD/Multimedia software
+T6	Con 96 120	Crashing Bluetooth stack
+T7	Tool 124 148	format string specifiers
+T8	Com 165 185	CD/Multimedia system
+T9	Con 186 193	crashed
+R1	hasVulnerability Arg1:T3 Arg2:T1	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	consists-of Arg1:T5 Arg2:T3	
+R5	hasImpact Arg1:T1 Arg2:T6	
+R6	targets Arg1:T7 Arg2:T1	

@@ -1,0 +1,48 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 23	CAN messages
+T3	AP 25 34	Capturing
+T4	Com 40 56	CAN data traffic
+T5	Com 72 84	CAN messages
+T6	AP 86 116	Sending malicious CAN messages
+T7	AP 118 126	Spoofing
+T8	Con 145 168	open the vehicle window
+T9	Con 206 224	Opening the window
+T10	Com 246 257	window lift
+T11	AP 259 265	Replay
+T12	Com 277 288	CAN message
+T13	Con 301 326	open and close the window
+T14	AP 328 336	Spoofing
+T15	Con 355 383	surpress the blinking lights
+T16	Con 396 430	Turning signal could be suppressed
+T17	Con 432 463	Activation of the control light
+T18	Com 471 489	instrument cluster
+T19	AP 493 501	spoofing
+T20	Com 502 514	CAN messages
+T21	Com 532 542	airbag ECU
+T22	AP 544 552	Spoofing
+T23	Con 571 597	activate the control light
+T24	Com 605 623	instrument cluster
+T25	Com 625 645	Airbag control light
+T26	Com 653 671	instrument cluster
+T27	AP 692 713	Information gathering
+T28	AP 717 726	capturing
+T29	Com 731 742	CAN traffic
+T30	AP 756 764	Spoofing
+T31	Com 768 780	CAN messages
+T32	Com 817 828	Gateway ECU
+T33	AP 844 862	Reverse Engineered
+T34	Com 863 884	Gateway functionality
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	hasImpact Arg1:T7 Arg2:T8	
+R4	hasImpact Arg1:T7 Arg2:T9	
+R5	targets Arg1:T7 Arg2:T10	
+R6	targets Arg1:T11 Arg2:T12	
+R7	hasImpact Arg1:T11 Arg2:T13	
+R8	hasImpact Arg1:T14 Arg2:T15	
+R9	hasImpact Arg1:T14 Arg2:T16	
+R10	hasImpact Arg1:T19 Arg2:T17	
+R11	hasImpact Arg1:T22 Arg2:T23	
+R12	consists-of Arg1:T25 Arg2:T26	
+R13	targets Arg1:T28 Arg2:T29	
+R14	targets Arg1:T33 Arg2:T34	

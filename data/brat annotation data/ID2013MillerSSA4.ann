@@ -1,0 +1,17 @@
+T1	Con 0 12	Deceleration
+T2	AP 48 56	spoofing
+T3	Com 68 85	pre-collision CAN
+T4	Com 105 108	CAN
+T5	AV 113 116	OBD
+T6	AP 118 128	Monitoring
+T7	Com 133 136	CAN
+T8	AP 180 201	Sending false message
+T9	Com 209 212	CAN
+T10	Con 214 226	Deceleration
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	based-on Arg1:T2 Arg2:T5	
+R5	targets Arg1:T6 Arg2:T7	
+R6	targets Arg1:T8 Arg2:T9	
+R7	hasImpact Arg1:T8 Arg2:T10	

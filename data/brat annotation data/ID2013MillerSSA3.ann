@@ -1,0 +1,15 @@
+T1	Con 0 21	Steering intervention
+T2	AP 25 33	spoofing
+T3	Com 45 48	CAN
+T4	Com 64 89	parking assistance system
+T5	Com 101 104	CAN
+T6	AV 109 112	OBD
+T7	AP 127 147	sending CAN messages
+T8	Con 207 216	Collision
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	based-on Arg1:T2 Arg2:T6	
+R5	based-on Arg1:T7 Arg2:T6	
+R6	hasImpact Arg1:T7 Arg2:T8	
+R7	hasImpact Arg1:T2 Arg2:T8	

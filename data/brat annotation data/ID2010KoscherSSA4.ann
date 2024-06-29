@@ -1,0 +1,14 @@
+T1	Con 0 48	Unsafe activation of different vehicle functions
+T2	AP 52 82	sending DeviceControl messages
+T3	Com 96 100	ECUs
+T4	Com 105 108	CAN
+T5	AP 110 140	Sending DeviceControl messages
+T6	AV 145 148	OBD
+T7	Com 156 163	CAN bus
+T8	Con 176 198	activate the functions
+T9	Com 212 216	ECUs
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	based-on Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T5 Arg2:T8	
+R5	targets Arg1:T5 Arg2:T9	

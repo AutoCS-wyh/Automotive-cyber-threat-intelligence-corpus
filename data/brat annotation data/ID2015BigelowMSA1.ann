@@ -1,0 +1,22 @@
+T1	Tool 8 21	custom device
+T2	Com 50 60	door locks
+T3	Com 62 68	lights
+T4	Con 82 101	controlled remotely
+T5	Tool 112 132	custom remote device
+T6	Com 157 164	CAN bus
+T7	Com 197 204	CAN bus
+T8	AP 215 223	Spoofing
+T9	Com 247 254	CAN-bus
+T10	Con 258 283	trigger vehicle functions
+T11	Con 285 313	Triggering windshield wipers
+T12	Con 315 328	unlocking car
+T13	Con 330 342	remote start
+T14	Con 359 373	turning lights
+R1	uses Arg1:T8 Arg2:T5	
+R2	targets Arg1:T8 Arg2:T7	
+R3	targets Arg1:T8 Arg2:T9	
+R4	hasImpact Arg1:T8 Arg2:T10	
+R5	hasImpact Arg1:T8 Arg2:T11	
+R6	hasImpact Arg1:T8 Arg2:T12	
+R7	hasImpact Arg1:T8 Arg2:T13	
+R8	hasImpact Arg1:T8 Arg2:T14	

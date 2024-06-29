@@ -1,0 +1,33 @@
+T1	AP 0 18	Reverse engneering
+T2	Com 26 35	OMAP chip
+T3	Com 43 54	WLAN module
+T4	Con 57 72	nformation Gain
+T5	Com 76 99	OMAP chip Functionality
+T6	Com 119 127	firmware
+T7	Com 144 158	WifiSvc binary
+T8	Com 171 196	key calculation algorithm
+T9	Com 220 245	Key Calculation Algorithm
+T10	AP 247 260	Brute Forcing
+T11	Com 261 274	WLAN Password
+T12	Com 276 284	Password
+T13	AP 300 311	brute force
+T14	AP 341 359	Reverse engneering
+T15	Com 367 376	OMAP chip
+T16	Com 384 395	WLAN module
+T17	AP 400 413	brute forcing
+T18	Com 418 431	WLAN password
+T19	AP 636 649	brute forcing
+T20	Com 659 667	Password
+T21	AP 683 694	brute force
+R1	targets Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	consists-of Arg1:T5 Arg2:T2	
+R5	consists-of Arg1:T7 Arg2:T6	
+R6	consists-of Arg1:T8 Arg2:T7	
+R7	targets Arg1:T10 Arg2:T11	
+R8	targets Arg1:T13 Arg2:T12	
+R9	targets Arg1:T14 Arg2:T15	
+R10	consists-of Arg1:T15 Arg2:T16	
+R11	targets Arg1:T17 Arg2:T18	
+R12	targets Arg1:T21 Arg2:T20	

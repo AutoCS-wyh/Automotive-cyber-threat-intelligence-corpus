@@ -1,0 +1,38 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 14	CAN
+T3	AP 25 33	Capturin
+T4	Com 35 38	CAN
+T5	Com 91 114	security access routine
+T6	Com 131 134	ECU
+T7	Com 150 153	CAN
+T8	AP 164 174	Monitoring
+T9	Com 175 190	Security Access
+T10	AP 253 260	capture
+T11	Com 274 278	keys
+T12	Con 280 312	Obtainment of Seed and Key Pairs
+T13	Con 314 342	Breaking the security access
+T14	AP 346 365	reverse engineering
+T15	Com 370 382	data traffic
+T16	AP 387 406	reverse engineering
+T17	Com 411 436	security access algorithm
+T18	Com 452 470	seed and key pairs
+T19	AP 479 498	reverse engineering
+T20	Com 506 531	security access algorithm
+T21	Con 533 561	Seeds and keys could be read
+T22	Com 563 588	Security access algorithm
+T23	AP 598 616	reverse engineered
+T24	Com 625 635	airbag ECU
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	consists-of Arg1:T5 Arg2:T6	
+R4	targets Arg1:T8 Arg2:T9	
+R5	targets Arg1:T10 Arg2:T11	
+R6	hasImpact Arg1:T10 Arg2:T12	
+R7	hasImpact Arg1:T14 Arg2:T13	
+R8	targets Arg1:T14 Arg2:T15	
+R9	targets Arg1:T16 Arg2:T17	
+R10	hasImpact Arg1:T16 Arg2:T13	
+R11	targets Arg1:T19 Arg2:T20	
+R12	hasImpact Arg1:T19 Arg2:T21	
+R13	targets Arg1:T23 Arg2:T22	
+R14	consists-of Arg1:T22 Arg2:T24	

@@ -1,0 +1,29 @@
+T1	AP 0 19	Reverse Engineering
+T2	Com 20 25	D-Bus
+T3	Com 41 46	D-Bus
+T4	Com 154 163	head unit
+T5	Con 165 181	Information Gain
+T6	Com 185 190	D-Bus
+T7	AP 206 225	Reverse Engineering
+T8	Com 226 240	D-Bus Services
+T9	Com 256 270	D-Bus services
+T10	Con 272 288	Information Gain
+T11	Com 292 306	D-Bus Servcies
+T12	AP 308 331	Shell-command injection
+T13	Com 337 342	D-Bus
+T14	Con 355 371	execute commands
+T15	Com 379 388	head unit
+T16	Con 417 448	Running arbitrary command shell
+T17	AP 450 467	Command Injection
+T18	Con 478 510	Running arbitrary shell commands
+T19	Con 512 530	Executing commands
+T20	Com 538 547	head unit
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T7 Arg2:T8	
+R3	hasImpact Arg1:T7 Arg2:T10	
+R4	hasImpact Arg1:T12 Arg2:T14	
+R7	targets Arg1:T12 Arg2:T15	
+R5	hasImpact Arg1:T12 Arg2:T16	
+R6	hasImpact Arg1:T17 Arg2:T18	
+R8	hasImpact Arg1:T17 Arg2:T19	
+R9	targets Arg1:T17 Arg2:T20	

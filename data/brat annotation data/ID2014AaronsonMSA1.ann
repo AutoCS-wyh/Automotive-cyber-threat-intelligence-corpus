@@ -1,0 +1,18 @@
+T1	Tool 11 26	cellular device
+T2	Com 34 48	telematics ECU
+T3	Con 58 71	remote access
+T4	Com 88 91	CAN
+T5	Con 101 142	Safety-critical systems can be controlled
+T6	Tool 155 165	GSM device
+T7	AP 167 184	Remote connection
+T8	Con 188 203	control the car
+T9	AP 224 232	Spoofing
+T10	Com 276 283	CAN bus
+T11	Con 285 320	Engine and brakes could be disabled
+R1	uses Arg1:T7 Arg2:T1	
+R2	hasImpact Arg1:T7 Arg2:T3	
+R3	hasImpact Arg1:T7 Arg2:T5	
+R4	uses Arg1:T7 Arg2:T6	
+R5	hasImpact Arg1:T7 Arg2:T8	
+R6	targets Arg1:T9 Arg2:T10	
+R7	hasImpact Arg1:T9 Arg2:T11	

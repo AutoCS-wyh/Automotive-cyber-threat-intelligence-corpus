@@ -1,0 +1,6 @@
+T1	Con 0 37	Deactivation of the ECU communication
+T2	Com 43 46	CAN
+T3	Tool 67 86	diagnostic function
+T4	Con 121 152	disabling the CAN communication
+T5	AV 157 160	OBD
+T6	Con 162 188	ECU communication disabled

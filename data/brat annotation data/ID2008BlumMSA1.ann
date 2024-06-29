@@ -1,0 +1,36 @@
+T1	AP 0 31	Sporadic Partial Jamming Attack
+T2	Com 47 51	WAVE
+T3	Com 54 69	Wireless Access
+T4	AP 166 181	jamming attacks
+T5	AP 183 214	Sporadic Partial Jamming Attack
+T6	Com 277 281	WAVE
+T7	Con 352 390	affecting the reception of data pakets
+T8	AP 395 410	jamming attacks
+T9	AP 412 445	Substained Partial Jamming Attack
+T10	Com 461 465	WAVE
+T11	Com 468 483	Wireless Access
+T12	AP 530 562	Sustained Partial Jamming Attack
+T13	Con 709 747	affecting the reception of data pakets
+T14	AP 752 767	jamming attacks
+T15	AP 769 792	Complete Jamming Attack
+T16	Com 808 812	WAVE
+T17	Com 815 830	Wireless Access
+T18	AP 877 900	Complete Jamming Attack
+T19	Com 967 971	WAVE
+T20	Con 1124 1162	affecting the reception of data pakets
+T21	AP 1167 1182	jamming attacks
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T6	
+R4	targets Arg1:T5 Arg2:T6	
+R5	hasImpact Arg1:T5 Arg2:T7	
+R6	hasImpact Arg1:T8 Arg2:T7	
+R7	targets Arg1:T9 Arg2:T10	
+R8	targets Arg1:T9 Arg2:T11	
+R9	hasImpact Arg1:T12 Arg2:T13	
+R10	hasImpact Arg1:T14 Arg2:T13	
+R11	targets Arg1:T15 Arg2:T16	
+R12	targets Arg1:T15 Arg2:T17	
+R13	targets Arg1:T18 Arg2:T19	
+R14	hasImpact Arg1:T18 Arg2:T20	
+R15	hasImpact Arg1:T21 Arg2:T20	

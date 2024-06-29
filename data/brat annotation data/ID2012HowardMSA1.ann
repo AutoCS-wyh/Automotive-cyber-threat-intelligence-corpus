@@ -1,0 +1,20 @@
+T1	Con 0 15	Disabling alarm
+T2	Con 20 33	opening doors
+T3	Con 35 70	Disabling the theft intrusion alarm
+T4	AP 74 82	decoding
+T5	AP 87 109	hacking the door locks
+T6	Con 111 128	Access to the car
+T7	AP 130 155	Extraction of secret keys
+T8	AV 160 163	OBD
+T9	AV 208 211	OBD
+T10	AP 216 237	Information gathering
+T11	AV 242 245	OBD
+T12	Com 267 270	ECU
+T13	Con 274 314	Keys and other information could be read
+R1	hasImpact Arg1:T4 Arg2:T3	
+R2	hasImpact Arg1:T4 Arg2:T1	
+R3	hasImpact Arg1:T5 Arg2:T2	
+R4	hasImpact Arg1:T5 Arg2:T6	
+R5	based-on Arg1:T7 Arg2:T8	
+R6	based-on Arg1:T10 Arg2:T11	
+R7	hasImpact Arg1:T10 Arg2:T13	

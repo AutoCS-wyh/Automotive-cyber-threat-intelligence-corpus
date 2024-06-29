@@ -1,0 +1,67 @@
+T1	Con 0 28	Breaking the security access
+T2	AP 32 51	reverse engineering
+T3	Veh 59 65	Toyota
+T4	Com 66 100	Calibration Update Wizard firmware
+T5	AP 102 121	Reverse Engineering
+T6	Com 129 137	Firmware
+T7	Veh 145 151	Toyota
+T8	Com 152 179	Techstream Utility Software
+T9	Con 181 197	Information Gain
+T10	Con 241 286	Activating or Deactivating the outer lighting
+T11	AP 290 298	spoofing
+T12	Com 301 319	diagnostic message
+T13	Com 332 350	diagnostic command
+T14	Con 375 407	Failure of the vehicle lightning
+T15	Con 409 444	Activating or Deactivating the horn
+T16	AP 448 456	spoofing
+T17	Com 459 477	diagnostic message
+T18	Com 490 508	diagnostic command
+T19	Con 538 545	Failure
+T20	Con 550 572	activation of the horn
+T21	Con 574 606	Activation of the belt tensioner
+T22	AP 610 618	spoofing
+T23	Com 627 645	diagnostic message
+T24	Com 672 690	diagnostic command
+T25	Com 707 726	seat belt tensioner
+T26	Con 728 759	Belt tensioner can be activated
+T27	Con 773 780	Locking
+T28	Con 785 794	unlocking
+T29	AP 813 821	spoofing
+T30	Com 824 846	diagnostic CAN message
+T31	Com 859 877	diagnostic command
+T32	Con 908 940	Doors can be locked and unlocked
+T33	Con 1018 1044	Manupulation of fuel level
+T34	Com 1062 1080	instrument cluster
+T35	AP 1084 1092	spoofing
+T36	Com 1095 1117	diagnostic CAN message
+T37	Com 1130 1148	diagnostic message
+T38	Com 1163 1178	fuel indication
+T39	Com 1186 1204	instrument cluster
+T40	Con 1206 1227	Wrong fuel indication
+T41	Com 1245 1263	instrument cluster
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T4	
+R3	consists-of Arg1:T4 Arg2:T3	
+R4	targets Arg1:T5 Arg2:T6	
+R5	consists-of Arg1:T6 Arg2:T8	
+R6	consists-of Arg1:T8 Arg2:T7	
+R7	hasImpact Arg1:T5 Arg2:T9	
+R8	hasImpact Arg1:T11 Arg2:T10	
+R9	targets Arg1:T11 Arg2:T12	
+R10	hasImpact Arg1:T11 Arg2:T14	
+R11	hasImpact Arg1:T16 Arg2:T15	
+R12	targets Arg1:T16 Arg2:T17	
+R13	hasImpact Arg1:T16 Arg2:T19	
+R14	hasImpact Arg1:T16 Arg2:T20	
+R15	hasImpact Arg1:T22 Arg2:T21	
+R16	targets Arg1:T22 Arg2:T23	
+R17	hasImpact Arg1:T22 Arg2:T26	
+R18	hasImpact Arg1:T29 Arg2:T27	
+R19	hasImpact Arg1:T29 Arg2:T28	
+R20	targets Arg1:T29 Arg2:T30	
+R21	hasImpact Arg1:T29 Arg2:T32	
+R22	hasImpact Arg1:T35 Arg2:T33	
+R23	targets Arg1:T35 Arg2:T34	
+R24	targets Arg1:T35 Arg2:T36	
+R25	consists-of Arg1:T38 Arg2:T39	
+R26	hasImpact Arg1:T35 Arg2:T40	

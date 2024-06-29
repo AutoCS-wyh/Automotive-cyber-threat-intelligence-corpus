@@ -1,0 +1,11 @@
+T1	Con 0 25	Vehicle location tracking
+T2	AP 29 41	intercepting
+T3	Com 46 59	communication
+T4	Com 81 95	roadside units
+T5	Con 97 122	Tracking vehicle location
+T6	AV 132 150	location broadcast
+T7	Con 182 205	location can be tracked
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	hasImpact Arg1:T2 Arg2:T5	
+R4	based-on Arg1:T2 Arg2:T6	

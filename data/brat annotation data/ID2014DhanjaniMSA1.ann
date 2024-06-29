@@ -1,0 +1,23 @@
+T1	AP 0 18	Brute force attack
+T2	Com 22 38	Tesla mobile app
+T3	Con 60 74	track vehicles
+T4	Con 76 95	extract information
+T5	Com 105 108	app
+T6	Con 118 124	unlock
+T7	Vul 145 163	weak user password
+T8	AP 240 251	brute force
+T9	Com 273 284	smart phone
+T10	Con 285 290	track
+T11	Con 294 300	unlock
+T12	Con 321 329	unlocked
+T13	Con 331 374	location and charge status can be monitored
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T6	
+R5	hasVulnerability Arg1:T2 Arg2:T7	
+R6	targets Arg1:T8 Arg2:T7	
+R7	hasImpact Arg1:T8 Arg2:T10	
+R8	hasImpact Arg1:T8 Arg2:T11	
+R9	hasImpact Arg1:T8 Arg2:T12	
+R10	hasImpact Arg1:T8 Arg2:T13	

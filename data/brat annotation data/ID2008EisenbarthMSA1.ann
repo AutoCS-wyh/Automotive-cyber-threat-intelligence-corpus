@@ -1,0 +1,41 @@
+T1	AP 0 18	Analysis of Cipher
+T2	AP 20 42	Analysis of the Cipher
+T3	AP 106 123	Energy measurment
+T4	Com 124 127	ECU
+T5	AP 129 147	Energy measurement
+T6	Com 155 158	ECU
+T7	Con 183 201	Reading Secret Key
+T8	AP 205 220	Hardware Attack
+T9	Com 228 248	code hopping encoder
+T10	AP 250 265	Hardware Attack
+T11	Com 273 293	code hopping encoder
+T12	AP 295 310	Hardware attack
+T13	Con 312 334	Reading the Secret Key
+T14	Com 340 355	DIP package Ics
+T15	Tool 368 380	Power Traces
+T16	Con 383 403	ecret Key Derivation
+T17	AP 407 422	Software Attack
+T18	Com 430 450	code hopping decoder
+T19	AP 452 467	Software Attack
+T20	Com 475 495	code hopping decoder
+T21	AP 534 549	Software attack
+T22	Com 551 575	Key derivation algorithm
+T23	AP 597 614	Denial of Service
+T24	Com 618 624	KeeLoq
+T25	AP 626 643	Denial of Service
+T26	Com 651 661	Keeloq RKE
+T27	AP 663 680	Denial of service
+R1	targets Arg1:T3 Arg2:T4	
+R2	targets Arg1:T5 Arg2:T6	
+R3	hasImpact Arg1:T8 Arg2:T7	
+R4	targets Arg1:T8 Arg2:T9	
+R5	targets Arg1:T10 Arg2:T11	
+R6	hasImpact Arg1:T12 Arg2:T13	
+R7	targets Arg1:T12 Arg2:T14	
+R8	uses Arg1:T12 Arg2:T15	
+R9	hasImpact Arg1:T17 Arg2:T16	
+R10	targets Arg1:T17 Arg2:T18	
+R11	targets Arg1:T19 Arg2:T20	
+R12	targets Arg1:T21 Arg2:T22	
+R13	targets Arg1:T23 Arg2:T24	
+R14	targets Arg1:T25 Arg2:T26	

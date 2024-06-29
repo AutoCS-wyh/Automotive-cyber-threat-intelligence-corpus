@@ -1,0 +1,34 @@
+T1	Con 0 21	Remote Code Execution
+T2	Com 59 71	image parser
+T3	Com 79 88	DAB radio
+T4	Con 90 111	Remote Code execution
+T5	Com 158 170	image parser
+T6	Con 172 193	Remote Code Execution
+T7	Com 221 235	picture parser
+T8	AP 237 250	SQL Injection
+T9	Com 258 267	DAB radio
+T10	AP 304 324	Cross-Site-Scripting
+T11	Com 332 341	DAB radio
+T12	AP 374 394	Cross-Site-Scripting
+T13	AP 396 411	Buffer Overflow
+T14	Com 419 428	DAB radio
+T15	AP 442 457	buffer overflow
+T16	Con 459 471	Deactivation
+T17	Com 476 510	Advanced Driver-Assistance Systems
+T18	Com 513 517	ADAS
+T19	AV 553 558	D-Bus
+T20	Con 560 584	Disabling ADAS functions
+T21	AV 589 592	CAN
+T22	AV 596 601	D-Bus
+T23	Con 603 615	Deactivation
+T24	Com 619 653	Advanced Driver-Assistance Systems
+T25	Com 656 660	ADAS
+T26	AV 676 681	D-Bus
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	targets Arg1:T8 Arg2:T9	
+R3	targets Arg1:T10 Arg2:T11	
+R4	targets Arg1:T13 Arg2:T14	
+R5	hasInterface Arg1:T17 Arg2:T19	
+R6	hasInterface Arg1:T18 Arg2:T19	
+R7	hasInterface Arg1:T24 Arg2:T26	
+R8	hasInterface Arg1:T25 Arg2:T26	

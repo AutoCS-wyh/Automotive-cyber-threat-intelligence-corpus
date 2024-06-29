@@ -1,0 +1,36 @@
+T1	AP 0 21	Information Gathering
+T2	AP 23 44	Information Gathering
+T3	Com 50 70	Device Communication
+T4	Con 72 88	Information Gain
+T5	AP 123 142	Reverse Engineering
+T6	Com 146 159	Communication
+T7	AP 161 180	Reverse Engineering
+T8	Com 188 201	communication
+T9	Com 210 218	PassThru
+T10	Com 223 225	PC
+T11	Vul 245 266	input validation bugs
+T12	Com 296 304	protocol
+T13	Con 331 366	run arbitrary Bourne Shell commands
+T14	AP 371 386	shell-injection
+T15	Con 393 414	compromising the unit
+T16	AP 416 452	Unauthorized Sending of CAN messages
+T17	Com 472 477	Wi-Fi
+T18	Com 492 518	diagnostic PassThru device
+T19	Com 540 543	OBD
+T20	Tool 560 576	malicious binary
+T21	Com 584 599	PassThru device
+T22	AP 605 638	sends pre-programmed CAN messages
+T23	AP 651 677	Sending of any CAN message
+T24	Con 767 796	activate all PassThru devices
+R1	targets Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T6	
+R4	targets Arg1:T7 Arg2:T8	
+R5	hasVulnerability Arg1:T12 Arg2:T11	
+R6	hasImpact Arg1:T11 Arg2:T13	
+R7	targets Arg1:T14 Arg2:T11	
+R8	hasImpact Arg1:T14 Arg2:T13	
+R9	hasImpact Arg1:T14 Arg2:T15	
+R10	targets Arg1:T16 Arg2:T18	
+R11	hasImpact Arg1:T23 Arg2:T24	
+R12	hasImpact Arg1:T22 Arg2:T24	

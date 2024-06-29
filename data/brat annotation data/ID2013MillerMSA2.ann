@@ -1,0 +1,36 @@
+T1	Con 0 38	Extraction of the security access keys
+T2	Com 48 73	Parking Assistance Module
+T3	Com 81 121	Ford Integrated Diagnostic Software tool
+T4	AP 125 144	Reverse Engineering
+T5	Com 152 160	firmware
+T6	AP 162 181	Reverse Engineering
+T7	Com 189 229	Ford Integrated Diagnostic Software tool
+T8	Con 239 253	407 Keys found
+T9	Com 261 264	PAM
+T10	Con 266 303	identification of diagnostic messages
+T11	Con 305 332	Prevent vehicle from moving
+T12	Com 349 355	brakes
+T13	Com 366 388	diagnostic CAN message
+T14	AP 390 398	Spoofing
+T15	Com 402 414	CAN messages
+T16	Con 416 432	Brake activation
+T17	Con 456 475	Bleeding the brakes
+T18	AP 479 487	spoofing
+T19	Com 490 511	diagnotic CAN message
+T20	AP 547 555	Spoofing
+T21	Com 559 571	CAN messages
+T22	Con 573 587	Brake bleeding
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	targets Arg1:T4 Arg2:T5	
+R4	consists-of Arg1:T5 Arg2:T3	
+R5	targets Arg1:T6 Arg2:T7	
+R3	hasImpact Arg1:T6 Arg2:T8	
+R6	hasImpact Arg1:T6 Arg2:T10	
+R7	targets Arg1:T14 Arg2:T15	
+R8	hasImpact Arg1:T14 Arg2:T11	
+R9	targets Arg1:T14 Arg2:T13	
+R10	hasImpact Arg1:T14 Arg2:T16	
+R11	hasImpact Arg1:T18 Arg2:T17	
+R12	targets Arg1:T18 Arg2:T19	
+R13	targets Arg1:T20 Arg2:T21	
+R14	hasImpact Arg1:T20 Arg2:T22	

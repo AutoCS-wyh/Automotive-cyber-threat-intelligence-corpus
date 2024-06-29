@@ -1,0 +1,67 @@
+T1	Com 14 23	head unit
+T2	Tool 29 47	malicious firmware
+T3	Tool 55 64	USB stick
+T4	Com 126 129	USB
+T5	Com 140 143	USB
+T6	Tool 166 189	USB with malicious code
+T7	Com 191 207	Flashed software
+T8	Con 212 234	contain malicious code
+T9	Com 236 250	Root-Passwords
+T10	Con 258 265	changed
+T11	AP 299 311	portscanning
+T12	Com 316 331	default gateway
+T13	Con 333 349	Found open ports
+T14	Con 352 385	Intervention in the communication
+T15	Com 424 433	Port 6667
+T16	Com 437 440	IRC
+T17	Com 443 448	D-Bus
+T18	AP 482 494	portscanning
+T19	Com 499 508	port 6667
+T20	AP 538 550	Vehicle worm
+T21	Com 98 113	Uconnect device
+T22	AP 561 569	Scanning
+T23	Tool 596 609	sprint device
+T24	Tool 614 629	cellular towers
+T25	Com 634 643	Port 6667
+T26	Com 689 705	Uconnect service
+T27	Com 714 719	D-Bus
+T28	Com 764 779	Uconnect system
+T29	AP 781 800	Vehicle worm attack
+T30	Con 867 900	Manipulation of vehicle functions
+T31	Con 903 915	deactivation
+T32	Com 919 934	engine cylinder
+T33	Com 936 951	bleeding brakes
+T34	Com 953 974	steering intervention
+T35	AP 979 987	spoofing
+T36	Tool 991 1014	diagnostic CAN messages
+T37	AP 1047 1055	spoofing
+T38	Tool 1069 1087	diagnostic message
+T39	AP 1089 1097	Spoofing
+T40	Tool 1101 1119	diagnostic command
+T41	Con 1123 1141	activate actuators
+T42	Con 1143 1166	Activation of actuators
+T43	Com 1169 1177	Steering
+T44	Com 1179 1190	kill engine
+T45	Com 1192 1201	no brakes
+T46	Tool 1207 1226	diagnostic messages
+R1	consists-of Arg1:T4 Arg2:T21	
+R2	consists-of Arg1:T7 Arg2:T21	
+R3	targets Arg1:T11 Arg2:T12	
+R4	hasImpact Arg1:T11 Arg2:T13	
+R5	hasImpact Arg1:T11 Arg2:T14	
+R6	targets Arg1:T18 Arg2:T19	
+R7	uses Arg1:T22 Arg2:T23	
+R8	uses Arg1:T22 Arg2:T24	
+R9	hasImpact Arg1:T35 Arg2:T30	
+R10	hasImpact Arg1:T35 Arg2:T31	
+R11	targets Arg1:T35 Arg2:T32	
+R12	targets Arg1:T35 Arg2:T33	
+R13	targets Arg1:T35 Arg2:T34	
+R14	uses Arg1:T35 Arg2:T36	
+R15	uses Arg1:T37 Arg2:T38	
+R16	uses Arg1:T39 Arg2:T40	
+R17	hasImpact Arg1:T39 Arg2:T41	
+R18	hasImpact Arg1:T39 Arg2:T42	
+R19	targets Arg1:T39 Arg2:T43	
+R20	targets Arg1:T39 Arg2:T44	
+R21	targets Arg1:T39 Arg2:T45	

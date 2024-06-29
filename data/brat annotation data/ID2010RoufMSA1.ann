@@ -1,0 +1,45 @@
+T1	Con 0 20	Tracking of vehicles
+T2	Com 39 51	TPMS sensors
+T3	AP 56 65	capturing
+T4	Com 70 79	responses
+T5	Com 100 112	TPMS sensors
+T6	Tool 133 148	signal analyzer
+T7	Tool 153 157	USRP
+T8	Tool 195 212	TPMS trigger tool
+T9	AP 215 223	apturing
+T10	Com 224 250	TPMS sensors transmissions
+T11	AP 252 267	Signal analysis
+T12	Con 353 369	Information Gain
+T13	Com 373 390	Signal Modulation
+T14	Com 395 408	Coding Scheme
+T15	AP 411 421	Monitoring
+T16	Com 422 439	TPMS data traffic
+T17	AP 471 484	Eavesdropping
+T18	Con 591 611	Tracking of vehicles
+T19	Con 622 657	Triggering of tire pressure warning
+T20	AP 684 692	spoofing
+T21	Com 696 709	TPMS messages
+T22	AP 711 719	Spoofing
+T23	AP 830 840	Monitoring
+T24	AP 844 852	spoofing
+T25	Con 877 905	Triggering of warning lights
+T26	Com 942 960	instrument cluster
+T27	AP 962 977	Packet spoofing
+T28	Con 982 995	drain battery
+T29	Con 1031 1042	ECU crashed
+T30	Con 1051 1088	TPMS service was no longer functional
+R1	targets Arg1:T3 Arg2:T4	
+R2	consists-of Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T3 Arg2:T1	
+R4	targets Arg1:T9 Arg2:T10	
+R5	hasImpact Arg1:T11 Arg2:T12	
+R6	targets Arg1:T11 Arg2:T13	
+R7	targets Arg1:T11 Arg2:T14	
+R8	targets Arg1:T15 Arg2:T16	
+R9	targets Arg1:T17 Arg2:T16	
+R10	hasImpact Arg1:T17 Arg2:T18	
+R11	targets Arg1:T20 Arg2:T21	
+R12	hasImpact Arg1:T20 Arg2:T19	
+R13	hasImpact Arg1:T23 Arg2:T25	
+R14	hasImpact Arg1:T24 Arg2:T25	
+R15	hasImpact Arg1:T27 Arg2:T28	

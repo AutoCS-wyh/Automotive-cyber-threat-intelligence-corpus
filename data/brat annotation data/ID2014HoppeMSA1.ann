@@ -1,0 +1,76 @@
+T1	Com 0 8	Firmware
+T2	AP 9 19	Extraction
+T3	Com 29 43	navigation ECU
+T4	Com 44 52	firmware
+T5	Com 71 73	CD
+T6	Com 77 86	ISO image
+T7	AP 92 111	Reverse Engineering
+T8	Com 119 127	firmware
+T9	Con 129 145	Information Gain
+T10	Com 149 157	Firmware
+T11	Com 173 181	Firmware
+T12	AP 182 194	Modification
+T13	Com 196 204	Firmware
+T14	AP 205 217	modification
+T15	Com 230 242	CRC adaption
+T16	AP 248 273	loading modified firmware
+T17	Com 277 280	ECU
+T18	Com 282 290	Firmware
+T19	Com 298 308	navigation
+T20	Con 325 332	changed
+T21	Com 367 377	navigation
+T22	Com 392 408	infotainment CAN
+T23	Con 410 423	manipulations
+T24	AV 432 435	CAN
+T25	AP 450 479	Flashing of modified firmware
+T26	AP 483 502	reverse engineering
+T27	AP 507 519	modification
+T28	Com 536 548	CRC checksum
+T29	Com 557 570	ECUs firmware
+T30	Com 580 594	navigation ECU
+T31	Com 595 603	firmware
+T32	Com 622 624	CD
+T33	Com 628 637	ISO image
+T34	AP 643 662	Reverse Engineering
+T35	Com 670 678	firmware
+T36	Com 680 688	Firmware
+T37	AP 689 701	modification
+T38	Com 714 726	CRC adaption
+T39	AP 732 757	loading modified firmware
+T40	Com 761 764	ECU
+T41	Com 766 774	Firmware
+T42	Com 782 792	navigation
+T43	Con 809 816	changed
+T44	Com 852 862	navigation
+T45	Com 877 893	infotainment CAN
+T46	Con 895 908	manipulations
+T47	AV 917 920	CAN
+R1	targets Arg1:T2 Arg2:T1	
+R2	consists-of Arg1:T4 Arg2:T3	
+R3	consists-of Arg1:T5 Arg2:T3	
+R4	consists-of Arg1:T6 Arg2:T3	
+R5	targets Arg1:T7 Arg2:T4	
+R6	targets Arg1:T7 Arg2:T5	
+R7	targets Arg1:T7 Arg2:T6	
+R8	hasImpact Arg1:T7 Arg2:T9	
+R9	targets Arg1:T12 Arg2:T11	
+R10	targets Arg1:T14 Arg2:T13	
+R11	targets Arg1:T14 Arg2:T15	
+R12	targets Arg1:T16 Arg2:T17	
+R13	consists-of Arg1:T18 Arg2:T19	
+R14	hasImpact Arg1:T14 Arg2:T20	
+R15	hasImpact Arg1:T16 Arg2:T20	
+R16	targets Arg1:T26 Arg2:T29	
+R17	targets Arg1:T27 Arg2:T29	
+R18	consists-of Arg1:T31 Arg2:T30	
+R19	consists-of Arg1:T32 Arg2:T30	
+R20	consists-of Arg1:T33 Arg2:T30	
+R21	targets Arg1:T34 Arg2:T31	
+R22	targets Arg1:T34 Arg2:T32	
+R23	targets Arg1:T34 Arg2:T33	
+R24	targets Arg1:T37 Arg2:T36	
+R25	targets Arg1:T37 Arg2:T38	
+R26	targets Arg1:T39 Arg2:T40	
+R27	consists-of Arg1:T41 Arg2:T42	
+R28	hasImpact Arg1:T37 Arg2:T43	
+R29	hasImpact Arg1:T39 Arg2:T43	

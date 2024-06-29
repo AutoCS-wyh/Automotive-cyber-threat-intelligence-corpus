@@ -1,0 +1,18 @@
+T1	Con 24 44	activate update mode
+T2	Com 59 63	V850
+T3	Com 98 102	V850
+T4	Con 146 167	activate bootrom mode
+T5	Com 178 187	OMAP chip
+T6	Com 221 230	OMAP chip
+T7	Com 251 259	Firmware
+T8	AP 260 272	Modification
+T9	AP 332 344	Modification
+T10	Com 348 360	ECU firmware
+T11	Com 401 417	Infotainment ECU
+T12	Con 456 471	flash malicious
+T13	Con 473 499	Replacing application code
+T14	AP 503 527	uploading malicious code
+T15	Com 544 547	USB
+R1	targets Arg1:T8 Arg2:T7	
+R2	targets Arg1:T9 Arg2:T10	
+R3	hasImpact Arg1:T14 Arg2:T13	

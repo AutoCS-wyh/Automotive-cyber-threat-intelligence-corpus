@@ -1,0 +1,14 @@
+T1	Con 0 19	Getting the RSA key
+T2	AP 23 43	side channel attacks
+T3	Com 47 50	TPM
+T4	AP 52 65	Timing Attack
+T5	Tool 76 79	CRT
+T6	Con 84 98	RSA decryption
+T7	Com 114 117	TPM
+T8	Con 227 241	deduce the key
+T9	Com 267 274	RSA key
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	uses Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T6	
+R5	hasImpact Arg1:T4 Arg2:T8	

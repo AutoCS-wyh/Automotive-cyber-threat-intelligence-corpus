@@ -1,0 +1,20 @@
+T1	AP 0 18	Brute force attack
+T2	Com 22 38	Tesla mobile app
+T3	Con 60 74	track vehicles
+T4	Con 76 95	extract information
+T5	Com 105 108	app
+T6	Con 118 124	unlock
+T7	Com 136 152	User credentials
+T8	Com 174 188	Tesla REST API
+T9	Con 208 240	User credentials can be acquired
+T10	AP 242 250	Spoofing
+T11	Com 251 275	remote vehicle functions
+T12	Com 309 333	Remote vehicle functions
+T13	Con 341 350	triggered
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	hasImpact Arg1:T1 Arg2:T6	
+R5	hasImpact Arg1:T1 Arg2:T9	
+R6	targets Arg1:T10 Arg2:T11	
+R7	hasImpact Arg1:T10 Arg2:T13	

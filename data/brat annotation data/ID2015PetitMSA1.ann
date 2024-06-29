@@ -1,0 +1,25 @@
+T1	AP 0 8	Relaying
+T2	Com 31 36	lidar
+T3	AP 71 78	falsify
+T4	Con 89 123	Influence of the driving behaviour
+T5	AP 127 133	replay
+T6	Com 141 146	lidar
+T7	AP 164 172	Relaying
+T8	Com 195 200	lidar
+T9	AP 235 239	fake
+T10	Con 271 307	disturb autonomous driving functions
+T11	AP 309 317	Spoofing
+T12	Tool 321 344	fake echo lidar signals
+T13	Con 346 376	The generation of fake objects
+T14	AP 401 416	spoofing attack
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T5 Arg2:T4	
+R4	targets Arg1:T5 Arg2:T6	
+R5	targets Arg1:T7 Arg2:T8	
+R6	targets Arg1:T9 Arg2:T8	
+R7	hasImpact Arg1:T7 Arg2:T10	
+R8	hasImpact Arg1:T9 Arg2:T10	
+R9	uses Arg1:T11 Arg2:T12	
+R10	hasImpact Arg1:T11 Arg2:T13	
+R11	hasImpact Arg1:T14 Arg2:T13	

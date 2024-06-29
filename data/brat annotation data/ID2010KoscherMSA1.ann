@@ -1,0 +1,40 @@
+T1	Con 0 23	Reading memory contents
+T2	Com 33 47	telematics ECU
+T3	Con 116 140	reading sensitive memory
+T4	Com 154 157	ECU
+T5	AV 162 165	OBD
+T6	Com 198 206	Firmware
+T7	Vul 212 226	hardcoded keys
+T8	AP 274 293	Reverse Engineering
+T9	Com 301 309	firmware
+T10	Com 319 333	telematics ECU
+T11	AP 335 354	Reverse Engineering
+T12	Com 362 381	telematics firmware
+T13	Com 383 391	Firmware
+T14	AP 401 419	reverse engineered
+T15	Com 421 429	Firmware
+T16	AP 461 482	Firmware Modification
+T17	AP 484 493	Modifying
+T18	Com 494 502	firmware
+T19	Tool 504 529	Maclicious firmware image
+T20	Com 555 558	CAN
+T21	AP 571 597	flashing modified firmware
+T22	Com 605 619	telematics ECU
+T23	AP 621 648	Uploading modified firmware
+T24	Com 656 659	ECU
+T25	Com 711 714	ECU
+T26	AV 719 722	OBD
+T27	Com 741 744	CAN
+T28	AP 762 789	injection of malicious code
+T29	Com 799 815	telematic module
+R1	hasInterface Arg1:T2 Arg2:T5	
+R2	hasVulnerability Arg1:T6 Arg2:T7	
+R3	targets Arg1:T8 Arg2:T9	
+R4	consists-of Arg1:T9 Arg2:T10	
+R5	targets Arg1:T11 Arg2:T12	
+R6	targets Arg1:T14 Arg2:T13	
+R7	targets Arg1:T17 Arg2:T18	
+R8	targets Arg1:T21 Arg2:T22	
+R9	targets Arg1:T23 Arg2:T24	
+R10	based-on Arg1:T23 Arg2:T26	
+R11	targets Arg1:T28 Arg2:T29	

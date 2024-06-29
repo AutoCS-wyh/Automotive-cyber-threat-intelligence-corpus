@@ -1,0 +1,9 @@
+T1	Con 0 15	Engine shutdown
+T2	AP 24 55	setting the ECU into flash mode
+T3	Com 119 122	CAN
+T4	AP 157 175	reflashing the ECU
+T5	AV 180 183	OBD
+T6	Con 185 200	Engine shutdown
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	based-on Arg1:T4 Arg2:T5	
+R3	hasImpact Arg1:T4 Arg2:T6	

@@ -1,0 +1,13 @@
+T1	Con 0 17	Denial of Service
+T2	Com 25 43	WiFi communication
+T3	Veh 47 65	Ford Edge vehicles
+T4	Com 92 147	Broadcom's BCM4325 and BCM4329 combo solutions firmware
+T5	AP 149 180	Sending RSN information element
+T6	Con 192 209	denial of service
+T7	Com 213 231	WiFi communication
+T8	Con 233 258	WiFi NIC stops responding
+R1	consists-of Arg1:T2 Arg2:T3	
+R2	consists-of Arg1:T4 Arg2:T3	
+R3	hasImpact Arg1:T5 Arg2:T6	
+R4	targets Arg1:T5 Arg2:T7	
+R5	hasImpact Arg1:T5 Arg2:T8	

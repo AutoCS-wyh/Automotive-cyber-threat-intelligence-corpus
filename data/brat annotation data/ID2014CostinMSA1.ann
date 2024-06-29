@@ -1,0 +1,35 @@
+T1	AP 0 20	Large scale analysis
+T2	Com 24 42	embedded firmwares
+T3	Com 55 63	firmware
+T4	Com 100 108	firmware
+T5	AP 146 154	Breaking
+T6	Com 155 170	Password Hashes
+T7	Com 172 185	Password Hash
+T8	AP 186 194	Cracking
+T9	Vul 204 230	hard-coded password hashes
+T10	Con 253 282	deduce the original passwords
+T11	AP 284 291	Fuzzing
+T12	Com 292 300	Firmware
+T13	AP 345 352	Fuzzing
+T14	Com 411 427	Private RSA keys
+T15	Com 432 456	self-signed certificates
+T16	Vul 510 536	hard-coded password hashes
+T17	Con 559 588	deduce the original passwords
+T18	Vul 599 608	Backdoors
+T19	Vul 611 631	Authorized Key Files
+T20	Vul 633 661	hardcoded telnet credentials
+T21	Vul 663 685	hardcoded admin logins
+T22	Vul 687 703	backdoor daemons
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T5 Arg2:T6	
+R3	targets Arg1:T8 Arg2:T7	
+R4	targets Arg1:T8 Arg2:T9	
+R5	hasImpact Arg1:T9 Arg2:T10	
+R6	targets Arg1:T11 Arg2:T12	
+R7	hasImpact Arg1:T16 Arg2:T17	
+R8	hasVulnerability Arg1:T12 Arg2:T16	
+R9	hasVulnerability Arg1:T12 Arg2:T18	
+R10	hasVulnerability Arg1:T12 Arg2:T19	
+R11	hasVulnerability Arg1:T12 Arg2:T20	
+R12	hasVulnerability Arg1:T12 Arg2:T21	
+R13	hasVulnerability Arg1:T12 Arg2:T22	

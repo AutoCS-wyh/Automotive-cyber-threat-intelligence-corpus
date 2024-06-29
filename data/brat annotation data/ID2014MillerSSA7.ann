@@ -1,0 +1,27 @@
+T1	Con 0 35	Control over many vehicle functions
+T2	AP 64 72	spoofing
+T3	Com 76 79	CAN
+T4	Com 90 94	ECUs
+T5	Com 123 126	ECU
+T6	Com 143 148	power
+T7	Com 168 175	sensors
+T8	Com 180 189	actuators
+T9	AP 191 201	simulating
+T10	Com 206 209	CAN
+T11	Com 238 242	ECUs
+T12	Com 254 257	CAN
+T13	AP 267 283	Spoofing Attacks
+T14	AP 300 313	CAN Injection
+T15	Com 316 319	ECU
+T16	Con 336 355	Control of steering
+T17	Com 357 368	speedometer
+T18	Com 370 380	navigation
+T19	Com 382 389	mileage
+T20	Com 449 453	ECUs
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T9 Arg2:T10	
+R4	targets Arg1:T13 Arg2:T15	
+R5	targets Arg1:T14 Arg2:T15	
+R6	hasImpact Arg1:T13 Arg2:T16	
+R7	hasImpact Arg1:T14 Arg2:T16	

@@ -1,0 +1,16 @@
+T1	Con 0 12	Acceleration
+T2	AP 31 39	spoofing
+T3	Com 44 47	CAN
+T4	Com 63 72	gas pedal
+T5	Com 84 87	CAN
+T6	Com 92 95	PMC
+T7	Com 97 100	ECM
+T8	Com 108 119	CAN bridges
+T9	AP 132 140	spoofing
+T10	Com 158 161	CAN
+T11	Con 171 183	Acceleration
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T2 Arg2:T4	
+R4	targets Arg1:T9 Arg2:T10	
+R5	hasImpact Arg1:T9 Arg2:T11	

@@ -1,0 +1,26 @@
+T1	Com 26 36	OBD Dongle
+T2	Vul 47 65	missing encryption
+T3	Com 69 84	http connection
+T4	Com 90 104	backend server
+T5	AP 106 123	Injecting malware
+T6	Com 127 137	OBD device
+T7	Tool 139 146	Malware
+T8	Com 168 185	remote OBD device
+T9	AP 187 195	Spoofing
+T10	Con 208 233	trigger vehicle functions
+T11	Tool 251 270	infected OBD Dongle
+T12	Con 283 291	unlocked
+T13	Con 293 330	manipulation of displayed information
+T14	Com 338 348	dash board
+T15	AP 350 358	Tracking
+T16	Con 398 447	Vehicle location and driving behavior was tracked
+R1	consists-of Arg1:T3 Arg2:T1	
+R2	hasVulnerability Arg1:T3 Arg2:T2	
+R3	targets Arg1:T5 Arg2:T6	
+R4	uses Arg1:T5 Arg2:T7	
+R5	targets Arg1:T5 Arg2:T8	
+R6	uses Arg1:T9 Arg2:T11	
+R7	hasImpact Arg1:T9 Arg2:T10	
+R8	hasImpact Arg1:T9 Arg2:T12	
+R9	hasImpact Arg1:T9 Arg2:T13	
+R10	hasImpact Arg1:T15 Arg2:T16	

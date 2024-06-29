@@ -1,0 +1,17 @@
+T1	Con 0 24	Bypassing TPM protection
+T2	AP 38 58	side channel attacks
+T3	Com 62 65	TPM
+T4	AP 67 79	Reset Attack
+T5	Com 98 115	LRESET connection
+T6	Com 177 180	TPM
+T7	Com 198 208	TPM module
+T8	Com 297 300	TPM
+T9	Com 399 402	TPM
+T10	Com 499 502	TPM
+T11	Con 650 683	Execute an insecure configuration
+T12	Con 693 730	control over all available operations
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T4 Arg2:T11	
+R5	hasImpact Arg1:T4 Arg2:T12	

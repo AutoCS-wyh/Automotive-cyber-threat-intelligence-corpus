@@ -1,0 +1,4 @@
+T1	AP 0 14	Cryptoanalysis
+T2	Con 18 46	reduce encryption complexity
+T3	Com 198 208	Secret key
+R1	hasImpact Arg1:T1 Arg2:T2	

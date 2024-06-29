@@ -1,0 +1,13 @@
+T1	AP 0 24	Denial of service attack
+T2	Con 28 67	prevent the start of the vehicle engine
+T3	Com 92 95	CAN
+T4	Com 130 133	CAN
+T5	Com 156 159	CAN
+T6	AV 164 167	OBD
+T7	AP 169 202	Continuously sending CAN messages
+T8	Con 223 243	Engine doesn't start
+R1	hasImpact Arg1:T1 Arg2:T2	
+R2	targets Arg1:T1 Arg2:T3	
+R3	based-on Arg1:T1 Arg2:T6	
+R4	based-on Arg1:T7 Arg2:T6	
+R5	hasImpact Arg1:T7 Arg2:T8	

@@ -1,0 +1,31 @@
+T1	AP 0 24	Man-in-the-Middle attack
+T2	Veh 28 37	GM OnStar
+T3	Com 38 52	RemoteLink App
+T4	Con 64 79	remote conttrol
+T5	Com 108 118	door locks
+T6	Com 123 131	ignition
+T7	Tool 143 159	malicious device
+T8	Com 213 218	Wi-Fi
+T9	Con 237 248	interferred
+T10	AP 250 262	Intercepting
+T11	Com 263 282	Wi-Fi communication
+T12	Con 309 341	User credentials can be acquired
+T13	AP 343 351	Tracking
+T14	Con 378 397	location is tracked
+T15	Con 412 449	personal information can be retrieved
+T16	AP 459 467	spoofing
+T17	Con 498 513	Unlocking doors
+T18	Con 515 530	activating horn
+T19	Con 532 551	starting the engine
+R1	targets Arg1:T1 Arg2:T3	
+R2	consists-of Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T1 Arg2:T4	
+R4	consists-of Arg1:T5 Arg2:T2	
+R5	consists-of Arg1:T6 Arg2:T2	
+R6	targets Arg1:T10 Arg2:T11	
+R7	hasImpact Arg1:T10 Arg2:T12	
+R8	hasImpact Arg1:T13 Arg2:T14	
+R9	hasImpact Arg1:T13 Arg2:T15	
+R10	hasImpact Arg1:T16 Arg2:T17	
+R11	hasImpact Arg1:T16 Arg2:T18	
+R12	hasImpact Arg1:T16 Arg2:T19	

@@ -1,0 +1,38 @@
+T1	AP 0 19	Firmware Extraction
+T2	Com 35 38	CAN
+T3	AV 43 46	OBD
+T4	AP 48 67	Firmware extraction
+T5	Com 75 87	media player
+T6	Com 89 97	Firmware
+T7	AP 118 137	Reverse Engineering
+T8	Com 138 146	Firmware
+T9	AP 148 167	Reverse Engineering
+T10	Com 175 187	media player
+T11	Com 188 196	firmware
+T12	Con 198 214	Information Gain
+T13	Com 218 240	Firmware Functionality
+T14	Tool 352 371	in-circuit debugger
+T15	Com 430 436	memory
+T16	Com 454 473	functional pointers
+T17	Com 506 522	funtion pointers
+T18	Com 550 558	Firmware
+T19	Com 569 572	ECU
+T20	Tool 578 606	custom ISO 9660 formatted CD
+T21	Con 611 641	Execution of any code function
+T22	Vul 658 687	buffer overflow vulnerability
+T23	Com 695 705	WMA parser
+T24	Tool 726 750	malicious WMA audio file
+T25	Com 769 779	WMA parser
+T26	AP 798 825	sends malicous CAN messages
+T27	AP 827 853	Sending of any CAN message
+R1	based-on Arg1:T1 Arg2:T3	
+R2	targets Arg1:T4 Arg2:T5	
+R3	hasInterface Arg1:T5 Arg2:T3	
+R4	consists-of Arg1:T6 Arg2:T5	
+R5	targets Arg1:T7 Arg2:T8	
+R6	targets Arg1:T9 Arg2:T11	
+R7	consists-of Arg1:T11 Arg2:T10	
+R8	hasImpact Arg1:T9 Arg2:T12	
+R9	targets Arg1:T20 Arg2:T22	
+R10	hasImpact Arg1:T22 Arg2:T21	
+R11	hasVulnerability Arg1:T23 Arg2:T22	

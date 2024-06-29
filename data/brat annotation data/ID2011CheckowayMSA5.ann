@@ -1,0 +1,41 @@
+T1	AP 0 19	Firmware Extraction
+T2	AP 21 40	Firmware extraction
+T3	Com 48 62	telematics ECU
+T4	AV 76 79	OBD
+T5	Con 81 113	Obtainment of Telematic Firmware
+T6	AP 115 134	Reverse Engineering
+T7	Com 135 143	Firmware
+T8	AP 145 164	Reverse Engineering
+T9	Com 172 187	aqLink protocol
+T10	Tool 207 239	aqLink-compatible software modem
+T11	AP 246 265	Reverse Engineering
+T12	Com 273 280	Gateway
+T13	Com 285 302	Command programms
+T14	Com 310 319	telematic
+T15	Con 321 337	Information Gain
+T16	Com 341 356	aqLink-Function
+T17	Com 358 365	Gateway
+T18	Com 370 377	Command
+T19	Vul 397 426	buffer overflow vulnerability
+T20	Com 432 444	3G interface
+T21	Com 467 481	telematics ECU
+T22	Con 485 517	download additional payload code
+T23	AP 537 554	end-to-end attack
+T24	Vul 726 755	buffer overflow vulnerability
+T25	Con 757 772	Buffer Overflow
+T26	Com 776 786	Telematics
+R1	targets Arg1:T2 Arg2:T3	
+R2	based-on Arg1:T2 Arg2:T4	
+R3	hasInterface Arg1:T3 Arg2:T4	
+R4	hasImpact Arg1:T2 Arg2:T5	
+R5	targets Arg1:T6 Arg2:T7	
+R6	consists-of Arg1:T7 Arg2:T3	
+R7	targets Arg1:T8 Arg2:T9	
+R8	targets Arg1:T11 Arg2:T12	
+R9	targets Arg1:T11 Arg2:T13	
+R10	consists-of Arg1:T13 Arg2:T14	
+R11	hasImpact Arg1:T11 Arg2:T15	
+R12	hasVulnerability Arg1:T20 Arg2:T19	
+R13	hasImpact Arg1:T19 Arg2:T22	
+R14	targets Arg1:T23 Arg2:T24	
+R15	hasImpact Arg1:T24 Arg2:T25	

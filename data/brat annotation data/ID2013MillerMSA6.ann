@@ -1,0 +1,51 @@
+T1	AP 0 10	Extraction
+T2	Com 18 52	Parking Assistance Module firmware
+T3	AV 72 103	Background Debug Mode interface
+T4	Com 105 113	Firmware
+T5	Com 137 140	ECU
+T6	Tool 146 154	debugger
+T7	Con 156 178	Obtainment of Firmware
+T8	AP 180 199	Reverse Engineering
+T9	Com 200 208	Firmware
+T10	AP 210 229	Reverse Engineering
+T11	Com 237 245	firmware
+T12	Con 247 263	Information Gain
+T13	Com 267 275	Firmware
+T14	Com 291 299	Firmware
+T15	AP 300 312	Modification
+T16	Com 320 342	Park Assistance Module
+T17	AP 344 353	Modifying
+T18	Com 354 362	firmware
+T19	AP 364 377	Injected code
+T20	Com 381 384	ECU
+T21	Con 392 418	sending of any CAN message
+T22	AP 435 461	Updating modified firmware
+T23	Com 469 491	Park Assistance Module
+T24	Con 504 520	execute any code
+T25	Com 528 531	ECU
+T26	AP 554 577	Uploading modified code
+T27	Com 596 600	code
+T28	Com 616 624	firmware
+T29	Com 633 636	ECU
+T30	AP 638 651	Injected code
+T31	Com 655 658	ECU
+T32	Con 666 692	sending of any CAN message
+R1	targets Arg1:T1 Arg2:T2	
+R2	based-on Arg1:T1 Arg2:T3	
+R3	targets Arg1:T1 Arg2:T4	
+R4	uses Arg1:T1 Arg2:T6	
+R5	consists-of Arg1:T4 Arg2:T5	
+R6	hasImpact Arg1:T1 Arg2:T7	
+R7	targets Arg1:T8 Arg2:T9	
+R8	targets Arg1:T10 Arg2:T11	
+R9	hasImpact Arg1:T10 Arg2:T12	
+R10	targets Arg1:T15 Arg2:T14	
+R11	consists-of Arg1:T14 Arg2:T16	
+R12	targets Arg1:T17 Arg2:T18	
+R13	targets Arg1:T19 Arg2:T20	
+R14	hasImpact Arg1:T19 Arg2:T21	
+R15	targets Arg1:T22 Arg2:T23	
+R16	hasImpact Arg1:T22 Arg2:T24	
+R17	targets Arg1:T26 Arg2:T29	
+R18	targets Arg1:T30 Arg2:T31	
+R19	hasImpact Arg1:T30 Arg2:T32	

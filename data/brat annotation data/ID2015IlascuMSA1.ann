@@ -1,0 +1,26 @@
+T1	AP 0 24	Man-in-the-Middle attack
+T2	AP 37 46	replaying
+T3	Com 53 56	key
+T4	Con 69 75	unlock
+T5	Con 80 85	start
+T6	Veh 88 101	Tesla Model S
+T7	AP 103 127	Man-in-the-Middle Attack
+T8	AP 131 140	intercept
+T9	Com 157 164	key fob
+T10	AP 210 216	Replay
+T11	Com 217 224	key fob
+T12	Con 268 276	unlocked
+T13	Con 281 288	started
+R1	targets Arg1:T1 Arg2:T3	
+R2	targets Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T3 Arg2:T6	
+R4	hasImpact Arg1:T1 Arg2:T4	
+R5	hasImpact Arg1:T1 Arg2:T5	
+R6	hasImpact Arg1:T2 Arg2:T4	
+R7	hasImpact Arg1:T2 Arg2:T5	
+R8	targets Arg1:T7 Arg2:T9	
+R9	targets Arg1:T8 Arg2:T9	
+R10	consists-of Arg1:T9 Arg2:T6	
+R11	targets Arg1:T10 Arg2:T11	
+R12	hasImpact Arg1:T10 Arg2:T12	
+R13	hasImpact Arg1:T10 Arg2:T13	

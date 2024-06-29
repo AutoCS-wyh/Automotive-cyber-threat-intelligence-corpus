@@ -1,0 +1,34 @@
+T1	AP 0 16	Position Forging
+T2	AP 74 97	Position Forging Attack
+T3	Con 137 155	Jamming of signals
+T4	Con 157 181	DoS of V2X Communication
+T5	Con 183 210	DoS of ECUs and bus systems
+T6	Con 212 248	Infection of the system with malware
+T7	Con 250 280	Manipulation of Routing Tables
+T8	Con 282 312	Manipulation of forwarded data
+T9	Con 314 333	Sensor manipulation
+T10	Con 335 354	Malware Integration
+T11	Con 356 391	Access to cryptographic secret keys
+T12	Con 410 447	Manipulation of communication logging
+T13	Con 449 482	Manipulation of backend databases
+T14	Con 484 510	Eavesdropping private data
+T15	Con 512 544	Eavesdropping of confidential SW
+T16	Con 546 569	Collecting private data
+T17	Con 571 596	Dissolution of pseudonyms
+T18	Con 598 646	Rejection of message transmissions and reception
+R1	hasImpact Arg1:T2 Arg2:T3	
+R2	hasImpact Arg1:T2 Arg2:T4	
+R3	hasImpact Arg1:T2 Arg2:T5	
+R4	hasImpact Arg1:T2 Arg2:T6	
+R5	hasImpact Arg1:T2 Arg2:T7	
+R6	hasImpact Arg1:T2 Arg2:T8	
+R7	hasImpact Arg1:T2 Arg2:T9	
+R8	hasImpact Arg1:T2 Arg2:T10	
+R9	hasImpact Arg1:T2 Arg2:T11	
+R10	hasImpact Arg1:T2 Arg2:T12	
+R11	hasImpact Arg1:T2 Arg2:T13	
+R12	hasImpact Arg1:T2 Arg2:T14	
+R13	hasImpact Arg1:T2 Arg2:T15	
+R14	hasImpact Arg1:T2 Arg2:T16	
+R15	hasImpact Arg1:T2 Arg2:T17	
+R16	hasImpact Arg1:T2 Arg2:T18	

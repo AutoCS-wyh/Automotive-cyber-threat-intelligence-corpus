@@ -1,0 +1,38 @@
+T1	AP 0 19	Reverse Engineering
+T2	Com 20 34	GSM connection
+T3	Com 49 60	GSM network
+T4	AP 65 84	Reverse Engineering
+T5	Com 92 110	data transmissions
+T6	Con 112 128	Information Gain
+T7	Com 132 150	Data Transmissions
+T8	Com 158 169	GSM network
+T9	AP 171 197	Sending malicious messages
+T10	Com 218 232	board computer
+T11	AP 234 242	Spoofing
+T12	Com 307 321	board computer
+T13	Com 342 356	Board Computer
+T14	Con 358 392	Unlocking and starting of vehicles
+T15	Tool 404 417	malicious SMS
+T16	Com 475 480	alarm
+T17	Con 482 500	Unlocking the door
+T18	Con 502 527	Deactivation of the alarm
+T19	AP 529 538	Capturing
+T20	Com 539 554	GPS coordinates
+T21	Tool 572 590	ad-hoc GSM network
+T22	AP 595 603	catching
+T23	Com 604 607	SMS
+T24	AP 641 650	Capturing
+T25	Com 651 666	GPS coordinates
+T26	Con 668 688	Locating the vehicle
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T4 Arg2:T5	
+R3	consists-of Arg1:T5 Arg2:T3	
+R4	hasImpact Arg1:T4 Arg2:T6	
+R5	consists-of Arg1:T7 Arg2:T8	
+R6	targets Arg1:T9 Arg2:T10	
+R7	targets Arg1:T11 Arg2:T12	
+R8	targets Arg1:T19 Arg2:T20	
+R9	uses Arg1:T19 Arg2:T21	
+R10	targets Arg1:T22 Arg2:T23	
+R11	targets Arg1:T24 Arg2:T25	
+R12	hasImpact Arg1:T24 Arg2:T26	

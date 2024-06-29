@@ -1,0 +1,46 @@
+T1	AP 16 35	Reverse Engineering
+T2	Com 36 44	Firmware
+T3	Com 64 90	calibration update for ECU
+T4	AP 110 129	Reverse Engineering
+T5	Veh 137 143	Toyota
+T6	Com 144 169	Update Calibration Wizard
+T7	Com 172 175	CUW
+T8	Con 178 194	Information Gain
+T9	Com 249 257	Firmware
+T10	Con 297 313	Information Gain
+T11	Com 336 355	calibration updates
+T12	AP 357 376	Reverse Engineering
+T13	Com 377 393	Update Algorithm
+T14	AP 395 414	Reverse Engineering
+T15	Com 415 431	update algorithm
+T16	Com 436 455	calibration updates
+T17	Con 457 473	Information Gain
+T18	Com 477 493	Update Algorithm
+T19	Com 498 517	calibration updates
+T20	AP 519 531	Modification
+T21	Com 535 553	Calibration Update
+T22	Tool 555 583	Malicious Calibration Update
+T23	Com 607 610	ECU
+T24	AP 612 633	Unauthorized flashing
+T25	Com 659 669	engine ECU
+T26	Tool 683 715	diagnostic reprogramming routine
+T27	AP 717 749	Reflashing of malicious firmware
+T28	Con 751 777	Flashing of malicious code
+T29	Com 781 784	ECU
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T4 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T6	
+R4	consists-of Arg1:T6 Arg2:T5	
+R5	targets Arg1:T4 Arg2:T7	
+R6	hasImpact Arg1:T4 Arg2:T8	
+R7	targets Arg1:T12 Arg2:T13	
+R8	targets Arg1:T14 Arg2:T15	
+R9	consists-of Arg1:T15 Arg2:T16	
+R10	hasImpact Arg1:T14 Arg2:T17	
+R11	consists-of Arg1:T18 Arg2:T19	
+R12	targets Arg1:T20 Arg2:T21	
+R13	uses Arg1:T24 Arg2:T22	
+R14	targets Arg1:T24 Arg2:T25	
+R15	uses Arg1:T24 Arg2:T26	
+R16	hasImpact Arg1:T27 Arg2:T28	
+R17	targets Arg1:T27 Arg2:T29	

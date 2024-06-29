@@ -1,0 +1,21 @@
+T1	Con 0 9	Unlocking
+T2	Con 14 22	stealing
+T3	AP 34 41	jamming
+T4	AP 46 55	replaying
+T5	Com 56 63	key fob
+T6	AP 73 80	Jamming
+T7	Com 81 88	Key fob
+T8	AP 204 215	intercepted
+T9	AP 402 408	Replay
+T10	Com 418 425	key fob
+T11	Con 471 479	unlocked
+R1	hasImpact Arg1:T3 Arg2:T1	
+R2	hasImpact Arg1:T3 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T1	
+R4	hasImpact Arg1:T4 Arg2:T2	
+R5	targets Arg1:T3 Arg2:T5	
+R6	targets Arg1:T4 Arg2:T5	
+R7	targets Arg1:T6 Arg2:T7	
+R8	targets Arg1:T8 Arg2:T7	
+R9	targets Arg1:T9 Arg2:T10	
+R10	hasImpact Arg1:T9 Arg2:T11	

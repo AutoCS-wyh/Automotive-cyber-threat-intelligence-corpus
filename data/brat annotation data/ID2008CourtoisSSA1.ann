@@ -1,0 +1,10 @@
+T1	Con 0 20	Overcome immobilizer
+T2	AP 24 38	cryptoanalysis
+T3	Com 46 59	Keeloq cipher
+T4	AP 61 83	Slide-Algebraic Attack
+T5	AP 119 148	Second Slide Algebraic Attack
+T6	Com 159 165	KeeLoq
+R1	hasImpact Arg1:T2 Arg2:T1	
+R2	targets Arg1:T2 Arg2:T3	
+R3	targets Arg1:T4 Arg2:T6	
+R4	targets Arg1:T5 Arg2:T6	

@@ -1,0 +1,35 @@
+T1	Com 62 79	internal networks
+T2	Com 118 121	CID
+T3	Com 142 155	Ethernet port
+T4	Com 215 231	internal network
+T5	Vul 253 276	browser vulnerabilities
+T6	AV 281 294	Ethernet port
+T7	Con 296 309	Browser crash
+T8	AP 311 330	Reverse Engineering
+T9	Com 331 339	Firmware
+T10	AP 341 360	Reverse Engineering
+T11	Com 368 371	CID
+T12	Com 372 380	Firmware
+T13	Com 395 406	shadow file
+T14	Con 419 450	get user accounts and passwords
+T15	Con 500 519	Getting root access
+T16	AP 521 541	Privilege Escalation
+T17	Com 620 636	internal network
+T18	Con 638 649	Root access
+T19	Com 657 676	infotainment system
+T20	Con 678 685	Control
+T21	Com 711 719	lighting
+T22	Com 721 728	chassis
+T23	Com 730 746	air conditioning
+T24	Com 748 752	horn
+T25	Con 754 782	switch vehicle off and start
+T26	Con 847 872	trigger vehicle functions
+T27	Con 874 895	Opening/closing doors
+T28	Con 906 938	Starting and stopping the engine
+R1	hasImpact Arg1:T5 Arg2:T7	
+R2	targets Arg1:T8 Arg2:T9	
+R3	targets Arg1:T10 Arg2:T12	
+R4	consists-of Arg1:T12 Arg2:T11	
+R5	hasImpact Arg1:T16 Arg2:T18	
+R6	targets Arg1:T16 Arg2:T19	
+R7	hasImpact Arg1:T16 Arg2:T20	

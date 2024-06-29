@@ -1,0 +1,22 @@
+T1	Con 1 15	revent locking
+T2	Con 20 29	unlocking
+T3	Con 46 61	starting egnine
+T4	AP 65 73	spoofing
+T5	AV 87 106	wireless connection
+T6	AP 108 116	Spoofing
+T7	Con 149 171	trigger the door locks
+T8	Con 179 195	start the engine
+T9	Con 197 218	Prevention of locking
+T10	Con 223 232	unlocking
+T11	Con 234 256	Starting of the engine
+T12	Con 286 307	Remote Code Execution
+R1	hasImpact Arg1:T4 Arg2:T1	
+R2	hasImpact Arg1:T4 Arg2:T2	
+R3	hasImpact Arg1:T4 Arg2:T3	
+R4	based-on Arg1:T4 Arg2:T5	
+R5	hasImpact Arg1:T6 Arg2:T7	
+R6	hasImpact Arg1:T6 Arg2:T8	
+R7	hasImpact Arg1:T6 Arg2:T9	
+R8	hasImpact Arg1:T6 Arg2:T10	
+R9	hasImpact Arg1:T6 Arg2:T11	
+R10	hasImpact Arg1:T6 Arg2:T12	

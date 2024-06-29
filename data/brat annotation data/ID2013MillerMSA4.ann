@@ -1,0 +1,20 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 23	CAN messages
+T3	Com 25 37	CAN messages
+T4	AP 42 50	captured
+T5	AV 69 72	OBD
+T6	Com 123 126	CAN
+T7	Con 137 152	Engine shutdown
+T8	AP 156 164	spoofing
+T9	Com 176 194	diagnostic message
+T10	Com 213 224	CAN message
+T11	Com 232 235	bus
+T12	Con 237 252	Engine shutdown
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T4 Arg2:T3	
+R3	based-on Arg1:T4 Arg2:T5	
+R4	hasImpact Arg1:T8 Arg2:T7	
+R5	targets Arg1:T8 Arg2:T9	
+R6	targets Arg1:T8 Arg2:T10	
+R7	targets Arg1:T8 Arg2:T11	
+R8	hasImpact Arg1:T8 Arg2:T12	

@@ -1,0 +1,39 @@
+T1	AP 0 19	Reverse Engineering
+T2	Com 24 39	Security Access
+T3	Com 47 69	Park Assistence Module
+T4	Com 72 75	PAM
+T5	AP 78 97	Reverse Engineering
+T6	Com 102 117	Security Access
+T7	Com 121 124	PAM
+T8	Tool 130 154	diagnostic tool software
+T9	Con 156 172	Information Gain
+T10	Com 176 191	Security Access
+T11	Com 193 201	Firmware
+T12	AP 202 212	Extraction
+T13	Com 226 238	PAM firmware
+T14	Tool 243 258	diagnostic tool
+T15	Con 260 282	Obtainment of Firmware
+T16	AP 284 303	Reverse Engineering
+T17	Com 304 312	Firmware
+T18	AP 314 333	Reverse Engineering
+T19	Com 341 349	PAM Chip
+T20	Com 352 364	Renesas V850
+T21	Com 366 374	firmware
+T22	Con 376 392	Information Gain
+T23	Com 396 404	Firmware
+R1	targets Arg1:T1 Arg2:T2	
+R2	consists-of Arg1:T2 Arg2:T3	
+R3	consists-of Arg1:T2 Arg2:T4	
+R4	targets Arg1:T5 Arg2:T6	
+R5	consists-of Arg1:T6 Arg2:T7	
+R6	uses Arg1:T5 Arg2:T8	
+R7	hasImpact Arg1:T5 Arg2:T9	
+R8	targets Arg1:T12 Arg2:T11	
+R9	targets Arg1:T12 Arg2:T13	
+R10	uses Arg1:T12 Arg2:T14	
+R11	hasImpact Arg1:T12 Arg2:T15	
+R12	targets Arg1:T16 Arg2:T17	
+R13	targets Arg1:T18 Arg2:T21	
+R14	consists-of Arg1:T21 Arg2:T19	
+R15	consists-of Arg1:T21 Arg2:T20	
+R16	hasImpact Arg1:T18 Arg2:T22	

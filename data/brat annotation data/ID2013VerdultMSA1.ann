@@ -1,0 +1,60 @@
+T1	AP 0 10	Monitoring
+T2	Com 11 15	RFID
+T3	AP 31 44	Eavesdropping
+T4	Com 78 89	transponder
+T5	Com 98 105	antenna
+T6	Com 108 119	immobilizer
+T7	Con 121 137	Information Gain
+T8	Com 163 174	Transponder
+T9	Com 179 190	Immobilizer
+T10	AP 192 211	Reverse Engineering
+T11	Com 212 218	Cipher
+T12	AP 220 239	Reverse Engineering
+T13	Com 247 253	Cipher
+T14	Con 255 271	Information Gain
+T15	Com 279 285	Cipher
+T16	AP 287 301	Cryptoanalysis
+T17	Com 305 311	Cipher
+T18	AP 313 327	Cryptoanalysis
+T19	Com 335 341	cipher
+T20	Con 354 379	recover of the secret key
+T21	Con 381 414	Cipher Vulnerabilities identified
+T22	Vul 427 457	Megamos Crypto Cipher weakness
+T23	Vul 475 530	weaknesses in cipher design and authentication protocol
+T24	Con 532 551	Secret key obtained
+T25	Con 604 607	DoS
+T26	Vul 629 661	immobilzer's Key Update weakness
+T27	Vul 674 712	weaknesses in the key update mechanism
+T28	Con 714 733	Secret key obtained
+T29	Con 786 789	DoS
+T30	Vul 816 832	weak secret keys
+T31	AP 836 850	cryptoanalysis
+T32	Com 858 872	Megamos cipher
+T33	Vul 890 906	weak crypto-keys
+T34	Con 908 927	Secret key obtained
+T35	Con 980 983	DoS
+R1	targets Arg1:T1 Arg2:T2	
+R2	targets Arg1:T3 Arg2:T4	
+R3	targets Arg1:T3 Arg2:T5	
+R4	targets Arg1:T3 Arg2:T6	
+R5	hasImpact Arg1:T3 Arg2:T7	
+R6	targets Arg1:T10 Arg2:T11	
+R7	targets Arg1:T12 Arg2:T13	
+R8	hasImpact Arg1:T12 Arg2:T14	
+R9	targets Arg1:T16 Arg2:T17	
+R10	targets Arg1:T18 Arg2:T19	
+R11	hasImpact Arg1:T18 Arg2:T20	
+R12	hasImpact Arg1:T18 Arg2:T21	
+R13	hasImpact Arg1:T22 Arg2:T24	
+R14	hasImpact Arg1:T22 Arg2:T25	
+R15	hasImpact Arg1:T23 Arg2:T24	
+R16	hasImpact Arg1:T23 Arg2:T25	
+R17	hasImpact Arg1:T26 Arg2:T28	
+R18	hasImpact Arg1:T26 Arg2:T28	
+R19	hasImpact Arg1:T27 Arg2:T29	
+R20	hasImpact Arg1:T27 Arg2:T29	
+R21	targets Arg1:T31 Arg2:T32	
+R22	hasImpact Arg1:T30 Arg2:T34	
+R23	hasImpact Arg1:T30 Arg2:T35	
+R24	hasImpact Arg1:T33 Arg2:T34	
+R25	hasImpact Arg1:T33 Arg2:T35	

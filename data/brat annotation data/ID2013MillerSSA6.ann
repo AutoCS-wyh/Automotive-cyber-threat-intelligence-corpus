@@ -1,0 +1,16 @@
+T1	Con 0 12	Deactivation
+T2	Com 20 42	outer vehicle lighting
+T3	Com 72 86	inner lighting
+T4	Com 102 120	Smart Junction Box
+T5	AP 166 179	reprogramming
+T6	Com 195 211	Junction Box Ecu
+T7	Com 260 263	ECU
+T8	Con 264 294	switches into programming mode
+T9	Con 296 327	Failure of the vehicle lightnin
+T10	Con 345 384	Blinking of the inner vehicle lightning
+R1	hasImpact Arg1:T5 Arg2:T1	
+R2	targets Arg1:T5 Arg2:T4	
+R3	targets Arg1:T5 Arg2:T6	
+R4	hasImpact Arg1:T5 Arg2:T8	
+R5	hasImpact Arg1:T5 Arg2:T9	
+R6	hasImpact Arg1:T5 Arg2:T10	

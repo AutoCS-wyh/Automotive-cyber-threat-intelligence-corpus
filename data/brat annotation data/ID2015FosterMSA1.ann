@@ -1,0 +1,27 @@
+T1	Com 26 44	Web/telnet Console
+T2	AP 59 78	Reverse Engineering
+T3	Com 79 83	Chip
+T4	Com 91 106	NAND flash chip
+T5	Com 133 148	NAND flash chip
+T6	Com 180 188	SMS chip
+T7	Com 190 199	log files
+T8	Com 228 249	telematics components
+T9	Com 403 421	Web/telnet console
+T10	Com 463 491	SMS Administration Interface
+T11	Com 548 576	SMS Administration Interface
+T12	Con 578 595	Root Shell Access
+T13	Com 599 619	Web/telnet Interface
+T14	AP 621 631	Monitoring
+T15	Com 632 644	IP addresses
+T16	Com 786 792	brakes
+T17	Com 797 814	windscreen wipers
+T18	AP 818 848	sending malicious CAN messages
+T19	Com 850 853	TCU
+T20	Com 858 867	SocketCAN
+T21	Com 899 906	CAN bus
+R1	targets Arg1:T2 Arg2:T3	
+R2	targets Arg1:T2 Arg2:T4	
+R3	targets Arg1:T14 Arg2:T15	
+R4	targets Arg1:T18 Arg2:T16	
+R5	targets Arg1:T18 Arg2:T17	
+R6	consists-of Arg1:T20 Arg2:T19	

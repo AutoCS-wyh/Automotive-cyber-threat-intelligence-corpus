@@ -1,0 +1,20 @@
+T1	AP 0 18	Brute force attack
+T2	Com 22 37	security access
+T3	Con 46 67	extraction of the key
+T4	Com 100 103	ECU
+T5	Com 131 134	ECU
+T6	Tool 136 156	CAN-to-USB-Converter
+T7	Tool 161 173	oscilloscope
+T8	Com 187 190	ECU
+T9	AP 192 205	Brute forcing
+T10	Com 210 215	seeds
+T11	Com 225 240	security access
+T12	AP 307 318	brute force
+T13	Com 340 343	ECU
+T14	AP 358 369	brute force
+T15	Con 405 423	Key could be found
+R1	targets Arg1:T1 Arg2:T2	
+R2	hasImpact Arg1:T1 Arg2:T3	
+R3	targets Arg1:T9 Arg2:T10	
+R4	consists-of Arg1:T10 Arg2:T11	
+R5	hasImpact Arg1:T12 Arg2:T15	

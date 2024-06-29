@@ -1,0 +1,20 @@
+T1	Con 0 41	Saftey-critical systems can be controlled
+T2	AV 50 66	diagnostic ports
+T3	Com 67 70	CAN
+T4	Com 95 98	CAN
+T5	Com 109 112	CAN
+T6	AP 178 185	Fuzzing
+T7	Com 186 189	CAN
+T8	Con 202 227	trigger vehicle functions
+T9	Con 229 252	Car speed was decreased
+T10	Con 254 269	car made noises
+T11	Con 271 291	lights were blinking
+T12	Con 293 313	odometer was changed
+R1	targets Arg1:T6 Arg2:T7	
+R2	hasImpact Arg1:T6 Arg2:T8	
+R3	hasImpact Arg1:T6 Arg2:T9	
+R4	hasImpact Arg1:T6 Arg2:T10	
+R5	hasImpact Arg1:T6 Arg2:T11	
+R6	hasImpact Arg1:T6 Arg2:T12	
+R7	hasImpact Arg1:T6 Arg2:T1	
+R8	based-on Arg1:T6 Arg2:T2	
