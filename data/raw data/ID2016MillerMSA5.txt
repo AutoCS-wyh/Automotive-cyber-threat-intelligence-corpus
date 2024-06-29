@@ -1,0 +1,1 @@
+Preventing vehicle from moving by spoofing CAN message of the electronic parking brake while vehicle stands still. Spoofing message for activating the parking brake. Parking brake prevents vehicle from moving. Sending malicious CAN messages to activate bootrom mode. Setting EBP into Bootrom Mode. Parking brake prevents vehicle from moving.

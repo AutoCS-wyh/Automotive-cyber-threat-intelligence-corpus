@@ -1,0 +1,1 @@
+Adversarial Examples with Dense Adversary Generation ( DAG) Algorithm  to attack semantic segmentation and object detection. Cross-Training Transfer: Pertubations learned in one network are transferred to another network of the same architecture, but trained with a different data set. Cross-Training Transfer: Significant performance loss of up to 40%.

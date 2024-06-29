@@ -1,0 +1,2 @@
+Analysis of ECU and Chip. Analysis of the Chip and the ECU. Information Gain of Chip and ECU. Extraction of the Firmware. Access to Firmware. Extracting the global master key by Reverse Engineering of the Firmware. Reverse Engineering of the Firmware. Reading the Master Key. Reverse engineering of the algorithm for unlocking the vehicle. Unlocking the car.
+

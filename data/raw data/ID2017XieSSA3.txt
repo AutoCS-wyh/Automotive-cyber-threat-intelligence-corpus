@@ -1,0 +1,1 @@
+Adversarial Examples with Dense Adversary Generation ( DAG) Algorithm  to attack semantic segmentation and object detection. Cross-task transfer: For example, pertubations generated in a detection network are used for attacks on a segmentation network. Cross-task transfer: Performance drops by approx.  11%.

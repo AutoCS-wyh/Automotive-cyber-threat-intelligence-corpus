@@ -1,0 +1,1 @@
+Compromising the head unit by spoofing of diagnostic CAN messages. Required exploitation of former vulnerabilities. Communication with hu-jacinto chip. Hooking CAN drivers functions dynamically in order to send CAN messages on K-CAN. Compromise the head unit via remote. Sending diagnostic messages to the CAN.

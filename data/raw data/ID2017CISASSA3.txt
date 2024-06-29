@@ -1,0 +1,1 @@
+Man-in-the-Middle attack on telematics communication of Hyundai exploits hard-coded keys in Hyundai Motor America Blue Link 3.9.5 and 3.9.4. Man-in-the-Middle attack on telematics communication channel. Accces and influence on remote communication between vehicle and external endpoint possible.

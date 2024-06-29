@@ -1,0 +1,1 @@
+Reverse Engineering Firmware. Information about diagnostic mode can be extracted. Activation of diagnostic mode while driving ( violation of diagnostic standard). Sending of false speed and rotational speed messages via CAN to fool the ECU that the engine is not running.

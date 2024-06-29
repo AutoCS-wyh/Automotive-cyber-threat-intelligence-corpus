@@ -1,0 +1,1 @@
+Extracting sensitive information like vehicle location can lead to vehicle theft. Extraction of sensitive user data. Accces on sensitive user data.

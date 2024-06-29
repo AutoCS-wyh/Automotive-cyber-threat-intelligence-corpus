@@ -1,0 +1,1 @@
+Malware attack on diagnostic tool can lead to a distribution of the malware on attached vehicles. Fuzzing random data to vehicle diagnostics tool. Vehicle diagnostics tool can be compromized in such a way that it can infect multiple vehicles to which the tool is connected.

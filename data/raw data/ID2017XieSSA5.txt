@@ -1,0 +1,1 @@
+Adversarial Examples with Dense Adversary Generation ( DAG) Algorithm  to attack semantic segmentation and object detection. Black box attack: Combination of pertubations enables black box attacks on different, unknown networks. Black box attack: Performance drops by 15%.

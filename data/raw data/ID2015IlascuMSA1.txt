@@ -1,0 +1,1 @@
+Man-in-the-Middle attack is used for replaying valid key commands to unlock and start a Tesla Model S. Man-in-the-Middle Attack to intercept radio frequency key fob traffic. Authentication secret was acquired. Replay key fob commands with key duplication. Vehicle was unlocked and started.

@@ -1,0 +1,1 @@
+Bluetooth stack vulnerability on BMW Infotainment ECU leads to crash of CD/Multimedia software. Crashing Bluetooth stack by format string specifiers in device name. CD/Multimedia system crashed.

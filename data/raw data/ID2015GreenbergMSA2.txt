@@ -1,0 +1,2 @@
+SMS messages can be used in insecure OBD Dongle to send malicious CAN commands to the vehicle.  Thus, several car components can be controlled. Reverse Engineering OBD-Dongle.
+Several Vulnerabilities were found: Developer mode is enabled, so remote device access is possible. The same private key is stored on every device. No authentication for commands via SMS. Spoofing commands remotely to the CAN bus to execute vehicle functions. Windshield wipers were activated. Brakes were activated and also disabled.

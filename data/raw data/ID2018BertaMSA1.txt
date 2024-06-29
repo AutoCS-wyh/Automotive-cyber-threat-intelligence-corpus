@@ -1,0 +1,1 @@
+SMS messages sent to an OBD device transmit malicious CAN commands to the vehicle. Thus, several car components can be controlled. Installing custom cellular device in the vehicle. CAN-Bus commands can be sent to the vehicle network via installed cellular device by sending SMS. Sending malicious CAN commands via SMS. Safety-critical functions can be controlled remotely.

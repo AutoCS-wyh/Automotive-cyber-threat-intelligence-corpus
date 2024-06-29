@@ -1,0 +1,1 @@
+Spoofing CAN messages to internal networks by spoofing commands via RDS connection. Spoofing Messages to CAN network. Wireless access of vehicle possible -> ECUs which are connected to bus system can be used for sending CAN messages.

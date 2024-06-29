@@ -1,0 +1,1 @@
+Prevent locking and unlocking of the vehicle, starting egnine by spoofing commands via wireless connection. Spoofing Messages to internal network to trigger the door locks and to start the engine. Prevention of locking and unlocking. Starting of the engine ( even without a valid key). Remote Code Execution.

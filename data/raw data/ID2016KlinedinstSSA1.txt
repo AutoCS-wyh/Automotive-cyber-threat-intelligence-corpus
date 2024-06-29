@@ -1,0 +1,1 @@
+Investigation of vulnerabilities in connected cars. Theoretical consideration of possible weak points of Connected Cars. Analysis of various aftersales OBD devices for vulnerabilities. These vulnerabilities were examined for their exploitability on the real vehicle and classified using STRIDE. Inject arbitrary CAN packets.

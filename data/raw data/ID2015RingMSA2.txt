@@ -1,0 +1,1 @@
+Monitoring CAN messages. Capturing the CAN data traffic. Obtainment of CAN messages. Reverse Engineering Diagnostic Functions. Information Gain of Diagnostic Functions and Protocols. Activation of the chassis rodeo diagnostic function by replaying the captured diagnostic routine. Replay of the captured rodeo routine. Execution of rodeo routine  by any speed.

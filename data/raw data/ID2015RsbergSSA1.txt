@@ -1,0 +1,1 @@
+Relay attack on keyless entry system of a vehicle. Attackers relay radio transmits low frequency 125 kHz signal from car antenna to a second relay which radiates it unchanged. This activates the key that sends the release signal to unlock ( 433 MHz). Unlocking cars via bigger distances.

@@ -1,0 +1,1 @@
+Denial of service attack on the CAN network by spoofing CAN messages with high priority which leads to failure of different displays and the infotainment system. Connecting to different CAN networks in the vehicle and sending messages with high priority in parallel ( Forcing a Denial of Service). Suppression of messages. Failure of different functions like Infotainment.

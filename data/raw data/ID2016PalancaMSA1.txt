@@ -1,0 +1,1 @@
+Monitoring CAN messages. Eavesdropping the bus for target frame of the Parking Sensors Module. Obtainment of CAN messages. Denial-of-Service Attack between physical and data link layer of the CAN protocol. Spoofing messages to overwrite ECU frame to get Node into bus-off state. Deactivation of the parking assistance.

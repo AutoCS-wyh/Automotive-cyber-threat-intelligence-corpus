@@ -1,0 +1,1 @@
+Information Gathering by monitoring the CAN traffic. Scanning for diagnostic messages, diagnostic-Ids, services and parameters. Eavesdropping of messages and vehicle information.

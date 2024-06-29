@@ -1,0 +1,1 @@
+Voice recording and remote code execution by injecting commands via WLAN connection. Spoofing Messages to internal network for remote code exploitation and to record voices via microphone. Voices can be recorded via microphone. Remote Exploit without user interaction.

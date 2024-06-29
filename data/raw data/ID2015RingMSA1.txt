@@ -1,0 +1,1 @@
+Monitoring CAN messages. Capturing the CAN data traffic. Obtainment of CAN messages. Reverse Engineering Diagnostic Functions. Information Gain of Diagnostic Functions and Protocols. Deactivating single engine cylinders by spoofing diagnostic CAN messages. Spoofing of diagnostic CAN messages to activate actuators. Engine shutdown by any speed.

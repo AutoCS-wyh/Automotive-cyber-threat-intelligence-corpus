@@ -1,0 +1,1 @@
+Exploiting buffer overflow vulnerability in command processing of telematics control modules ( TCUs) leading to arbitrary code execution on baseband radio processor. Exploiting buffer overflow vulnerability in command processing. Arbitrary code execution on baseband radio processor possible.

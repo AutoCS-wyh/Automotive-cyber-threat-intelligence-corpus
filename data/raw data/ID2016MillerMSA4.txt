@@ -1,0 +1,1 @@
+Sending malicious CAN messages to activate bootrom mode. Setting EBP into Bootrom Mode. Sending malicious CAN messages to activate bootrom mode. Deceleration of the vehicle by spoofing CAN message that contains the signal of the electronic parking brake. Spoofing regular EBP message for applying the parking brake. Strong braking of the vehicle.

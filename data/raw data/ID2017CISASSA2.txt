@@ -1,0 +1,1 @@
+Exploiting vulnerability in Temporary Mobile Subscriber Identity ( TMSI) in telematics control modules ( TCUs). Exploiting vulnerability in Temporary Mobile Subscriber Identity ( TMSI). Memory access and control possible.

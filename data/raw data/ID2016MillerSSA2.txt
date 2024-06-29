@@ -1,0 +1,2 @@
+Deceleration of the vehicle by injecting CAN messages from Pre-Collision System and ACC. Spoofing messages to disable FFCM, SSCM and ABS and manipulated ACC, FFCM and SSCM  messages. Strong braking of the vehicle.
+

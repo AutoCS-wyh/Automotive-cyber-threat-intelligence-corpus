@@ -1,0 +1,1 @@
+Tracking of vehicle locations on the website www.wigle.net. Due to the unique SSID the attacker could locate other Outlander PHEVs. Sensing of messages via mobile phone app. Switching the light on and off. Changing of the charging rate. Activation of the vntilation and heating. Draining the battery. Deactivation of the alarm.

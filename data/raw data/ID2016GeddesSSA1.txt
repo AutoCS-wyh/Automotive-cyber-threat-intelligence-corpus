@@ -1,0 +1,1 @@
+Blocking door lock signals of several vehicles to steal objects from the vehicles. Signal jamming of locking commands from key fobs. Vehicles were prevented from door locking. Items like laptops were stolen from the cars.

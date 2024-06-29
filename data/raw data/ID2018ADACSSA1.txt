@@ -1,0 +1,1 @@
+Relay attack on keyless entry system of several vehicles. Thief 1 pulls door handle. Signal chain between vehicle, thief1, thief 2 and driver ( key) is created. Thief 1 receives forwarded signal from key. Unlocking vehicles and starting the engine.

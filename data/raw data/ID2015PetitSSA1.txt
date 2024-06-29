@@ -1,0 +1,1 @@
+Blinding camera and lidar by laser attack. Shuttering of the camera by laser irradiation ( constant beam of light). Shuttering the camera with laser works largely as front/rear/side attack. Camera could not be completely dazzled, but sufficient to influence function.

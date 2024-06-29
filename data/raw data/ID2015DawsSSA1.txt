@@ -1,0 +1,1 @@
+Vehicle location tracking by intercepting the communication between vehicles and roadside units. Tracking vehicle location based on location broadcast of connected vehicles. Vehicle location can be tracked.

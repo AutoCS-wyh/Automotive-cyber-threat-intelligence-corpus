@@ -1,0 +1,1 @@
+Acceleration and deceleration of the vehicle by sending valid ACC CAN messages. Spoofing von CAN messages with regular ACC message that the increase speed-button or the decrease speed-button is pressed. Acceleration and deceleration of the vehicle.

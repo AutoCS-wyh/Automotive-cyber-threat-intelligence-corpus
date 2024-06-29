@@ -1,0 +1,1 @@
+Adversarial Examples with Dense Adversary Generation ( DAG) Algorithm  to attack semantic segmentation and object detection. Combination of heterogeneous pertubations: Combination of pertubations to increase adversarial performance. Combination of heterogeneous pertubations: Different but statistically significant loss of performance.
