@@ -1,0 +1,1 @@
+Two vulnerabilities ( Cross Site Scripting ( XSS) and SQL Injection) were found in automotive shop management system.

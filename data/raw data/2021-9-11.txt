@@ -1,0 +1,1 @@
+The Daily Mail indicated that there were some models of cars with a keyless entry system that were most vulnerable to theft, such as Nissan, Ford Focus, Nissan Qashqai, and Volkswagen Golf. Attacks are carried out using two devices: the first device monitors the signals from the remote control key assigned to the car, and a second sends identical signals to the car. 

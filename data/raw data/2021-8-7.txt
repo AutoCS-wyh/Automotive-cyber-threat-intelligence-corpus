@@ -1,0 +1,1 @@
+Researcher HackingIntoYourHeart uncovered that many modern Honda and Acura vehicles can be accessed with a simple replay attack using cheap hardware. The main allegations were that simply recording signals from a Honda or Acura keyfob was enough to compromise the vehicle. Reportedly, no rolling code system was implemented and commands could easily be replayed.

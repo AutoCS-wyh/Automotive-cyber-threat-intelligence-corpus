@@ -1,0 +1,1 @@
+A vulnerability ( CVE-2021-45105) was disclosed in Apache Log4j, a Java-based logging utility. The vulnerability allows an attacker with control over Thread Context Map data to cause a denial of service when a crafted string is interpreted. In addition, potential attackers might exploit this vulnerability to gain better access to chargers and cars using the V2G stack in Java.

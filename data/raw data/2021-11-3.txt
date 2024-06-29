@@ -1,0 +1,1 @@
+Researchers found a vulnerability in Intel Processors that could affect cars and embedded systems. The flaw enabled testing or debugging modes that can allow an unauthorized user with physical access to obtain enhanced privileges on the system. The threat affected a wide range of Intel-based IoT systems including those in vehicles.

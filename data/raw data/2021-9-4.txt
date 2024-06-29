@@ -1,0 +1,1 @@
+Four vulnerabilities were found on Qualcomm Snapdragon chips. The vulnerabilities were on different chips, such as the Snapdragon Auto, Snapdragon Consumer IoT, and Snapdragon Industrial IoT. The vulnerabilities varied around integer overflow and heap overflow, as well as improper validations, some of which of P2P device address.

@@ -1,0 +1,1 @@
+A vulnerability was found in the Bluetooth pairing dialog within the Android Automotive Operating System ( AAOS), allowing a hacker to enable Bluetooth without user consent. The vulnerability can potentially lead to local escalation of privilege where user execution privileges are usually needed.

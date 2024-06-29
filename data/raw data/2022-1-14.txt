@@ -1,0 +1,1 @@
+A script published on Github by a security researcher ‘d-Rickyy-b’, enables controlling functions of Ford vehicles via FordPass API. The script’s features enable controlling the vehicle locking functions and engine ignition.

@@ -1,0 +1,1 @@
+3 vulnerabilities were found in the Android Automotive OS ( AAOS ). The vulnerabilities were assigned with CVE-2021-1038, CVE-2021-1039, CVE-2021-1040. These new CVEs could enable a local malicious application to bypass user interaction requirements to gain access to additional permissions.

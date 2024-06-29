@@ -1,0 +1,1 @@
+A vulnerability in Pod Point, UK’s largest domestic car charging provider’s electric car charging app led to exposure of full names, addresses, and charge history of thousands of consumers.

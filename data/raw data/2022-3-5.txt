@@ -1,0 +1,1 @@
+A vulnerability was found in Tesla vehicles allowing attackers to open the charging port via a 315MHz RF signal containing a fixed sequence of approximately one hundred symbols.

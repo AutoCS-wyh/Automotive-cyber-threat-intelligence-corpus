@@ -1,0 +1,1 @@
+ A team of hackers with offensive security company Synacktiv found two unique bugs in the Tesla Model 3 Infotainment System. The bugs allowed the hackers to take over some of the car’s systems. The Zero Day Initiative also purchased a vulnerability in the Tesla Model 3 Diagnostic Ethernet and disclosed it to the car manufacturer.

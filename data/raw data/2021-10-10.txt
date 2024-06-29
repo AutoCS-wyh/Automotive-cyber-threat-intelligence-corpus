@@ -1,0 +1,1 @@
+Two vulnerabilities were found on a Vehicle Parking Management System. The vulnerabilities were around SQL injection, which makes the system vulnerable to time-based SQL injection on multiple endpoints, and a stored cross site scripting ( XSS) in the sourcecodester Vehicle Parking Management System.

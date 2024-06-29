@@ -1,0 +1,1 @@
+A vulnerability was found in Teslamate, allowing attackers to open doors of Tesla vehicles, start keyless driving, and interfere with vehicle operation en route. This occurs because an attacker can leverage Grafana login access to obtain a token for Tesla API calls.

@@ -1,0 +1,1 @@
+Three vulnerabilities were found in the oretnom23 automotive shop management system v1.0, allowing attackers to change the admin password, dump all database credentials and gain admin access and view internal data. The vulnerabilities exploited XSS injection, blind SQL Injection Vulnerability, and Broken Access Control.
