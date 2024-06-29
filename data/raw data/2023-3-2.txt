@@ -1,0 +1,1 @@
+A memory corruption vulnerability known as CVE-2022-40539, impacting Automotive Android OS, was discovered by a security researcher on 10.3.23. By exploiting the vulnerability, an attacker can cause the affected systems to crash.

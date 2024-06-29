@@ -1,0 +1,1 @@
+CVE-2022-22083, affecting the Qualcomm mdm9250 chip, a component found in infotainment systems in various OEMs, was detected by security researchers. The vulnerability was found on the Snapdragon platform, including Snapdragon Auto. Exploiting the vulnerability might lead to the Denial of services and crash of the affected infotainment system.

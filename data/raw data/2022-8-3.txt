@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-37305, impacting various Honda vehicles through 2018, was detected by security researchers. The vulnerability was detected on the remote keyless entry system of the vehicles. By exploiting this vulnerability, an attacker is able to permanently unlock the affected vehicles.

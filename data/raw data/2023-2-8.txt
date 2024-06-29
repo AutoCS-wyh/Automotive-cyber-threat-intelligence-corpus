@@ -1,0 +1,1 @@
+A new method utilizing a CAN bus hack to gain access to the car's systems and steal it is gaining traction. In this new method of theft, thieves use a device that sends a high-voltage surge through the CAN bus, causing the network to crash and disabling vehicle systems. Once disabled, the thieves can easily gain access, unlock doors, start the engine, and steal it.

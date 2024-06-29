@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-38766, impacting the remote keyless system on Renault ZOE 2021 vehicles, was discovered by a security researcher. An attacker can conduct a reply attack by exploiting the vulnerability and eventually stealing the compromised vehicle.

@@ -1,0 +1,1 @@
+A new study revealed two new vulnerabilities in several electric vehicle charging stations. The vulnerabilities could be exploited to remotely shut down charging stations and expose them to energy and data theft, enable unauthorized access to charging stations, and manipulate charging costs.

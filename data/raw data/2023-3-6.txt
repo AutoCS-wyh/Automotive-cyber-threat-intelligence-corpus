@@ -1,0 +1,1 @@
+A critical memory corruption vulnerability known as CVE-2022-40515, affecting the Qualcomm MDM9250 chip, a component found in infotainment systems in various OEMs, was detected by security researchers on 16.3.23. Exploiting the vulnerability might lead to buffer overflow and crash of the affected infotainment system.

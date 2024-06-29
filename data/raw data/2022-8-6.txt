@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-36945, impacting various Mazda vehicles, was detected by security researchers. By exploiting this vulnerability, an attacker is able to permanently unlock the affected vehicle.

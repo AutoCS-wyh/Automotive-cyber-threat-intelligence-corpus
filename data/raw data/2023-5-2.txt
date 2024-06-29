@@ -1,0 +1,1 @@
+A security researcher discovered a memory corruption vulnerability named CVE-2023-21642 on 9.5.23. This vulnerability specifically impacts the Qualcomm QCA574AU chip, a crucial component found in infotainment systems of various OEMs. Exploiting this vulnerability can potentially cause memory corruption and result in the infotainment system crashing.

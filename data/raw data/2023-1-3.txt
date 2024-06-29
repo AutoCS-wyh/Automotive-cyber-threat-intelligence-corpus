@@ -1,0 +1,1 @@
+Security researchers discovered a critical vulnerability, CVE-2022-32635, impacting MediaTek GPS microchips. A remote attacker could exploit this vulnerability to achieve local escalation of privileges with no additional execution privileges needed.

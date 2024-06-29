@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-32475 impacting Linux kernel 5.0 through 5.5, a software component used in the infotainment system of various OEMs, was detected by a security researcher on 15.2.23. By Exploiting the vulnerability, an unauthorized threat actor might escalate privileges on the affected machines.

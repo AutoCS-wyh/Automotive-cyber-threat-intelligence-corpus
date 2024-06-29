@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-3093, impacting Tesla model 3, was detected by security researchers. By exploiting it, an attacker can execute arbitrary code on the affected Tesla vehicles and any command on the targeted system. Authentication is not required to exploit this vulnerability. According to Tesla, the issue was fixed in Tesla’s 16.0.3 software update release.

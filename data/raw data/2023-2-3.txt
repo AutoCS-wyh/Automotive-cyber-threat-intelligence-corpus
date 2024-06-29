@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-33216, affecting the Qualcomm QCA6595AU chip, a component found in infotainment systems in various OEMs, was detected by security researchers on 14.2.23. Exploiting the vulnerability might lead to the denial of services and crash the affected infotainment system.

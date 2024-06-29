@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-48363 impacts Automotive Grade Linux, an open-source operating system and framework for automotive applications. The vulnerability was detected by a security researcher on 26.2.23; by exploiting the vulnerability, an unauthorized threat actor might cause denial of services and crash of the affected system.

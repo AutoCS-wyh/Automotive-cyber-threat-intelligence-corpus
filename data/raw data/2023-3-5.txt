@@ -1,0 +1,1 @@
+A vulnerability, known as CVE-2022-33213, affecting the Qualcomm MDM9250 chip a component found in infotainment systems of various OEMs, was detected by security researchers. Exploiting the vulnerability might lead to buffer overflow and crash the affected infotainment system.

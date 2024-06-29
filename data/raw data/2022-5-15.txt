@@ -1,0 +1,1 @@
+A vulnerability ( CVE-2022-29318) was found in a car rental management system, in which an arbitrary file could be uploaded in the New Entry module of Car Rental Management System v1.0 which would allow attackers to execute arbitrary code via a crafted PHP file.

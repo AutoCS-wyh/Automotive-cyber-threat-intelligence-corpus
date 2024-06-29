@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-37418, impacting various Nissan, Honda and Kia vehicles through 2017, was detected by security researchers. The vulnerability was detected on the remote keyless entry system of the vehicles. By exploiting this vulnerability, an attacker is able to permanently unlock the affected vehicles.

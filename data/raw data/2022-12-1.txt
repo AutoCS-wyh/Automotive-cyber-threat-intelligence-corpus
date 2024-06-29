@@ -1,0 +1,1 @@
+A critical zero-day vulnerability impacting all versions of Linux released in the last nine years was discovered by security researchers. The vulnerability allows attackers to gain root access to servers running Samba, a popular open-source implementation of the SMB protocol. The flaw can be exploited remotely and does not require authentication, making it particularly dangerous.

@@ -1,0 +1,1 @@
+A vulnerability known as CVE-2022-42430, impacting Tesla model 3, was detected by security researchers. The affected vehicle part is unknown. By exploiting it, an attacker can execute code and gain root privileges to the affected vehicles. Upgrading to the latest version of Model 3, 2022.28 eliminates this vulnerability

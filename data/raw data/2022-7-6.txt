@@ -1,0 +1,1 @@
+Teenagers used small handheld radios to wirelessly open the doors to Tesla charging ports, using a device called Flipper Zero. Despite its small size and low price, this device includes a sub-gigahertz radio that can receive and transmit messages at close range, just like key fobs and other close-range hacking gadgets.
