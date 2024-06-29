@@ -1,0 +1,1 @@
+Monitoring CAN messages. Establish connection to OBD with USB-to-CAN adapter and associated software. Reading the CAN data traffic. Internal bus information can be read. Sending malicious CAN messages. Spoofing of CAN messages. Malicious messages can be sent to the bus, actuators can be controlled.

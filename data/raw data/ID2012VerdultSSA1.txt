@@ -1,0 +1,1 @@
+Extraction of secret keys and plaintexts by cryptoanalysis of the Hitag2 cipher ( engine start possible ). Keystreamshifting attack that exploits the absence of a pseudorandom generator. Provides first attempt at authentication that can be recorded and used later. Plain text and even secret keys can be read ( if not read protected ).

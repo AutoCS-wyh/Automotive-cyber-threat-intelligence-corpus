@@ -1,0 +1,1 @@
+Cryptoanalysis to reduce encryption complexity. Time/Memory Tradeoff, Uses linear properties of LFSR based ciphers. The result is a lookup table that reduces complexity from 248 to 237 encryptions. Secret key independent of read protection.

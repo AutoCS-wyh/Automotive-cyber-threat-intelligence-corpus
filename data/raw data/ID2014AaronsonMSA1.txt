@@ -1,0 +1,1 @@
+Installing cellular device to the telematics ECU leads to remote access to the attached CAN network. Safety-critical systems can be controlled. Installing GSM device. Remote connection to control the car can be established. Spoofing remote commands whcih are forwarded to the CAN bus. Engine and brakes could be disabled.

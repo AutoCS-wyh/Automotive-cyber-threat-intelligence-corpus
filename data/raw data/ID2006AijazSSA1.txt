@@ -1,0 +1,1 @@
+Getting an identifier in order to become a part of an inter-vehicle communication network. General attack, to get access to a network. Bypassing cryptographic measures to obtain, create, or monitor an identifier which leads to network access. The attacker becomes part of the network. Thus, the attacker is able to send malicious messages or compromize the network.

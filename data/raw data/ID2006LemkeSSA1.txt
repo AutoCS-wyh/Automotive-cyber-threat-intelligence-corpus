@@ -1,0 +1,1 @@
+Extraction of secret keys by executing side channel attacks. Timing analysis: The attacker must simulate or predict the timing behavior of the attacked device. The execution time of the square-and-multiply algorithm must be data dependent. The result is the hypothesis with the smaller variance of the data sets based on n time measurements. Secret Keys were extracted.

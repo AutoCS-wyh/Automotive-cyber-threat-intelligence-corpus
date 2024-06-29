@@ -1,0 +1,8 @@
+LF Relay attack on keyless entry system of several vehicles.
+Low Frequency Relay Attack: Triggering door handle, LF signal from car to attacker device 1. Relayed RF signal to attacker device 2. LF signal to driver ( key fob ). RF signal to car.
+Passive Entry possible on all vehicles except that one vehicle that did not support this feature.
+Passive Start possible on all vehicles.
+RF Relay attack on keyless entry system of several vehicles.
+Radio Frequency Relay Attack: Triggering door handle, LF signal from car to attacker device 1. Relayed RF signal to attacker device 2. LF signal to driver ( key fob ). RF signal to device 2. Relayed RF signal to device 1. RF signal to car.
+Passive Entry possible on all vehicles except that one vehicle that did not support this feature.
+Passive Start possible on all vehicles.

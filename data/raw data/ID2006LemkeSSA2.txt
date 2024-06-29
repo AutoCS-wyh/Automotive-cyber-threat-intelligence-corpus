@@ -1,0 +1,1 @@
+Side Channel Attack through Simple Power Analysis. Simple Power Analysis Side Channel Attacks: SPAs are very implementation-dependent. The attacker needs complete knowledge of the energy consumption of the hardware and the exact details of the implementation. Secret Keys were extracted.

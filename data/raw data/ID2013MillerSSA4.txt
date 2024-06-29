@@ -1,0 +1,2 @@
+Deceleration of the vehicle until standstill by spoofing of a valid pre-collision CAN message. Access to CAN via OBD. Monitoring the CAN traffic to identify the relevant messages.
+Sending false message on the CAN. Deceleration of the vehicle until the vehicle stops.

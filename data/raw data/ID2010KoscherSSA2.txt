@@ -1,0 +1,1 @@
+Deactivation of the ECU communication over CAN by using a standard diagnostic function. Sending the standard command for disabling the CAN communication via OBD. ECU communication disabled while driving.

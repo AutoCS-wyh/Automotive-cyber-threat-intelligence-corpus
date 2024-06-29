@@ -1,0 +1,1 @@
+Cryptoanalysis of KeeLoq Cipher to calculate pair lists. Calculates a list of pairs containing Fixed Points for 64 rounds of KeeLoq for each possible value of the first 16 bits of the key. Second Slide Algebraic Attack can break KeeLoq within 2^64 CPU-Clocks with 2^16 known plaintexts.

@@ -1,0 +1,1 @@
+Manipulating a car by compromizing component connections. General attack, to manipulate an On-Board-Unit input. Manipulating connection between components. Component connection is compromized.

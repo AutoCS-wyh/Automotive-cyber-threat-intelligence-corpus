@@ -1,0 +1,1 @@
+Linking a person and an identifier by observing behavior on a side channel. General attack to violate privacy. Observing node behavior by a side-channel. Privacy is violated and a link between a person and an identifier can be observed.

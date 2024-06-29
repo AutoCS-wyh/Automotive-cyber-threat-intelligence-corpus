@@ -1,0 +1,1 @@
+Gaining access to vehicle by Challenge Forward Prediction Attack. Challenge Forward Prediction Attack: Prediction of the next challenge by observing previous challenges. Challenge Forward Prediction Attack: The attacker must be close to the vehicle owner and cannot therefore remain on the vehicle indefinitely.

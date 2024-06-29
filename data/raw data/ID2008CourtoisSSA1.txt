@@ -1,0 +1,1 @@
+Overcome immobilizer by cryptoanalysis of the Keeloq cipher. Slide-Algebraic Attack with guessing of the last 16 bits. Second Slide Algebraic Attack can break KeeLoq within 2^64 CPU-Clocks with 2^16 known plaintexts.

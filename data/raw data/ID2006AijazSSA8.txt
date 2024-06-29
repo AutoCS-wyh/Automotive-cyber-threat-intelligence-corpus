@@ -1,0 +1,1 @@
+Tracking a specific node by monitoring messages of a known node. General attack to violate privacy. Obtaining messages of a specific network node. Network node can be tracked and messages can be observed.

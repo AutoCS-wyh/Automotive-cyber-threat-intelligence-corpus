@@ -1,0 +1,1 @@
+Monitoring of FlexRay messages by eavesdropping of the channel. Simulation model of a FlexRay network. Reading of the data traffic. Messages can be read. Spoofing of FlexRay messages. Spoofing of messages on the bus. Messages can be spoofed onto the bus. Example: Activating the rear brake lights.

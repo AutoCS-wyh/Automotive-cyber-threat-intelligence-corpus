@@ -1,0 +1,1 @@
+Denial of Service on the WiFi communication of Ford Edge vehicles due to a vulnerability in Broadcom's BCM4325 and BCM4329 combo solutions firmware. Sending RSN information element to cause a denial of service in WiFi communication. WiFi NIC stops responding.

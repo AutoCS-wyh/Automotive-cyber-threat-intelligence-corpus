@@ -1,0 +1,1 @@
+Relay attack on keyless entry system of a vehicle. Relay over Cable attack: two loop antennas connected together with a cable that relays the LF signal between those two antennas. The antennas relay the trigger signal from the door handle to the drivers key and the open command from the key back to the car. Access to the vehicle. Starting of the engine.

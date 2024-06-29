@@ -1,0 +1,1 @@
+Manipulating a car by setting component to service mode. General attack, to manipulate an On-Board-Unit input. Setting component to service mode. Implemented test functions can be executed.

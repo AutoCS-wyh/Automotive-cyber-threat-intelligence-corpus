@@ -1,0 +1,1 @@
+Gaining access to vehicle by Playback Attack. Playback Attack:Recording transmitted messages and playback of recorded messages. Playback Attack: Attack not possible if the transmitted code on both sides of the communication link changes every time the system becomes triggering.

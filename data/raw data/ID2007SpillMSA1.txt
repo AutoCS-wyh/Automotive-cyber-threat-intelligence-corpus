@@ -1,0 +1,1 @@
+Monitoring Bluetooth traffic. Eavesdropping. Obtainment of the Bluetooth MAC. Monitoring MAC. Obtaining the MAC. Obtainment of the Bluetooth MAC. Reverse Engineering Bluetooth Hopping Scheme. Determining the Hopping pattern. Hopping sequence can be determined, the correct channel can be detected and thus a whitented packet can be read.

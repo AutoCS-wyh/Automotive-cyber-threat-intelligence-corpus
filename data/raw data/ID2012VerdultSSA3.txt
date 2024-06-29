@@ -1,0 +1,1 @@
+Using dependency between different sessions and a low degree determination of the filter function of the cipher. Secret key can be obtained with only a few authentication attempts. Engine start possible.

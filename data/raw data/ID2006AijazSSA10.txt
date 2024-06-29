@@ -1,0 +1,1 @@
+Linking a person and an identifier by obtaining access to a trusted entity. General attack to violate privacy.  Getting access to a trusted entity of the network. Access to a trusted entity. Privacy is violated by a link between a person and an identifier.

@@ -1,0 +1,1 @@
+Eavesdropping attack on the TPM communication. Building a custom LPC Bus Analyzer that is used to monitor and process the data traffic between the Host PC and the TPM. Setting up the LPC Bus Analyzer Between the PC and the TPM. Eavesdropping of the data traffic. Eavesdropping and monitoring the traffic of the platforms LPC bus.

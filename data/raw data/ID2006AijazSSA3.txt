@@ -1,0 +1,1 @@
+Manipulating a car by replacing an On-Board Unit. General attack, to manipulate an On-Board-Unit input. Replacing On-Board Unit with fake system. Custom malicious node is a part of the network.

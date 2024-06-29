@@ -1,0 +1,1 @@
+Denial of service attack to prevent the start of the vehicle engine by continous sending of CAN messages with ID 0 ( violation of CAN standard).  Access to CAN via OBD. Continuously sending CAN messages with high priority. Engine doesn't start.

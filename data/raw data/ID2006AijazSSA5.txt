@@ -1,0 +1,1 @@
+Manipulating a car by executing malicious code. General attack, to manipulate an On-Board-Unit input. Execution of malicious code. Malicious code can be executed.

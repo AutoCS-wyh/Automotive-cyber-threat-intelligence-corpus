@@ -1,0 +1,1 @@
+Engine shutdown through setting the ECU into flash mode while the vehicle is driving by sending a standard command via CAN. Sending the standard command for reflashing the ECU via OBD. Engine shutdown during change to flash mode.

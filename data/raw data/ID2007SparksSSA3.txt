@@ -1,0 +1,1 @@
+Getting the RSA key by side channel attacks on TPM. Timing Attack: Based on CRT for RSA decryption.  Execution of TPM Seal operations for different input strings to capture time differences between the operations to be able to deduce the key used. Conclusions on the RSA key.

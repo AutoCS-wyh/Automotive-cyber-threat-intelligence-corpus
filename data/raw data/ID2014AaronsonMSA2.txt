@@ -1,0 +1,1 @@
+Installing cellular device to the telematics ECU leads to remote access to the attached CAN network. Remote connection to the CAN bus possible. Safety-critical systems can be controlled. Installing CHT device ( device for GSM and Bluetooth connection) to the CAN bus wires. Spoofing CAN bus commands remotely. Changing radio songs, activating hand brake, disabling headlights.

@@ -1,0 +1,1 @@
+Disabling alarm and opening doors. Disabling the theft intrusion alarm by decoding and hacking the door locks. Access to the car. Extraction of secret keys via OBD after breaking into vehicles. Accessing the OBD and Information gathering via OBD  ( reading keys from ECU ). Keys and other information could be read.

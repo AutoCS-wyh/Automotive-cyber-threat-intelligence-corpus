@@ -1,0 +1,1 @@
+Cryptoanalysis of KeeLoq Cipher to distinguish rounds. Distinguishes 512 KeeLoq rounds from a random permutation -> 16 bits of the key can be found. For the remaining key bits, a system of equations is solved algebraically. Second Slide Algebraic Attack can break KeeLoq within 2^64 CPU-Clocks with 2^16 known plaintexts.

@@ -1,0 +1,1 @@
+Unsafe activation of different vehicle functions by sending DeviceControl messages to different ECUs via CAN. Sending DeviceControl messages via OBD to the CAN bus in order to activate the functions of different ECUs.

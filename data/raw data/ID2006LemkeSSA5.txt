@@ -1,0 +1,1 @@
+Side Channel Attack through Template Attack. Template Attacks: Profiling phase and key extraction phase, based on multivariate analysis of side channel traces. Secret Keys were extracted.

@@ -1,0 +1,1 @@
+Monitoring CAN messages. CAN messages was captured via connection to OBD. Identification of accurate packet. Obtainment of CAN messages. Deactivating the lighting of the vehicle by spoofing a diagnostic message after overcoming the security access. Sending modified CAN message on the bus. Failure of the vehicle lightning.

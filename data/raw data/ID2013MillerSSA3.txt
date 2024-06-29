@@ -1,0 +1,1 @@
+Steering intervention by spoofing of a valid CAN message of the parking assistance system. Access to CAN via OBD. Continuously sending CAN messages with small changes to the values of the steering position. Collision with already parking vehicle during automatic parking.

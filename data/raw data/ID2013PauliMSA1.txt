@@ -1,0 +1,1 @@
+Saftey-critical systems can be controlled via the diagnostic ports CAN connection. Identifying CAN messages. CAN packets, which can influence vehicle functions, were identified. Fuzzing CAN messages to trigger vehicle functions. Car speed was decreased, car made noises, lights were blinking, odometer was changed.

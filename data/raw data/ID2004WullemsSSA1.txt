@@ -1,0 +1,1 @@
+Denial of service attack on WLAN communication channel occupying the channel. Analysis of the IEEE 802.11 protocols. Exploit of the Clear Channel Assessment procedure: attack uses the PLME ( PHY Layer Management Entity ) service, which puts the network card into a test mode in which special bit patterns are continuously sent to the channel. Data flows are prevented. 

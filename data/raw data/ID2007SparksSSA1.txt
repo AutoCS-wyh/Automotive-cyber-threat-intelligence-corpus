@@ -1,0 +1,1 @@
+Bypassing TPM protection by executing software attacks. Software attack: Attack on the insmod program that loads the data into the kernel by copying the paging table entry responsible for mapping the virtual target address to the kernel paging table to a specific location. The copied entry is then modified. TPM measurement can be bypassed.

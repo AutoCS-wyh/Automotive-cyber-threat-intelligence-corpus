@@ -1,0 +1,1 @@
+Manipulating of traffic light devices by spoofing false messages from a MIRT device. Installation of MIRT in the vehicle.  Spoofing of false messages. Accidents through influenceing the devices.

@@ -1,0 +1,1 @@
+Gaining access to vehicle by Dictionary Attack. Dictionary Attack: Electronic dictionary with valid entries of cahllenge-response pairs. Dictionary Attack: Effort and probability for a successful attack depend strongly on the number of attempts.

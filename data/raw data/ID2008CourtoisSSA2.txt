@@ -1,0 +1,1 @@
+Cryptoanalysis of KeeLoq Cipher. Slide Algebraic Attack where the remaining bits are determined later. Second Slide Algebraic Attack can break KeeLoq within 2^64 CPU-Clocks with 2^16 known plaintexts.

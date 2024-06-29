@@ -1,0 +1,1 @@
+Manipulating vehicle sensors. General attack, to manipulate an On-Board-Unit input. Manipulating sensor inputs. Sensor inputs are manipulated.

@@ -1,0 +1,1 @@
+Brute force attack on Tesla mobile app enables attackers to track vehicles, extract information from the app and even unlock the doors. User credentials can be read by using Tesla REST API by 3rd party apps. User credentials can be acquired. Spoofing remote vehicle functions using acquired user credentials. Remote vehicle functions can be triggered by attacker.

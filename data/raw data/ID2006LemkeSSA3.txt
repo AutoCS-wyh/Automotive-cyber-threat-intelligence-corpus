@@ -1,0 +1,1 @@
+Side Channel Attack through Differential Power Analysis. Differential Power Analysis: An attacker sets up a hypothesis with reduced key space and calculates the cross correlation of each side-channel measurement with a selection function and combines the input data with the key hypothesis. Secret Keys were extracted.

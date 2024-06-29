@@ -1,0 +1,1 @@
+Manipulating a car by stressing a component. General attack, to manipulate an On-Board-Unit input.  Stressing component. Wrong outputs can be forced temporarily.

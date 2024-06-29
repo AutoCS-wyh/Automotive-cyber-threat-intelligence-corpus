@@ -1,0 +1,1 @@
+Brute force attack on Tesla mobile app enables attackers to track vehicles, extract information from the app and even unlock the doors. Creating weak user password. Since user password only requires six characters, several attacks, such as brute force, are possible. Using smart phone track or unlock vehicle. Car can be unlocked, location and charge status can be monitored.

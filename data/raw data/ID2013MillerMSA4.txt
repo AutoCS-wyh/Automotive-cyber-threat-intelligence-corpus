@@ -1,0 +1,1 @@
+Monitoring CAN messages. CAN messages was captured via connection to OBD. Identification of accurate packet. Obtainment of CAN messages. Engine shutdown by spoofing a modified diagnostic message. Sending modified CAN message on the bus. Engine shutdown by any speed.

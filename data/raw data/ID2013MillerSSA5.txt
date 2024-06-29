@@ -1,0 +1,1 @@
+Acceleration of the vehicle by spoofing the CAN message of the gas pedal. Access to CAN via PMC, ECM or the CAN bridges. Continuous spoofing of the malicious CAN message. Acceleration of the vehicle for a few seconds.

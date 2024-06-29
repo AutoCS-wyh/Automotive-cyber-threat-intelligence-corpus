@@ -1,0 +1,1 @@
+Side Channel Attack through Internal Collision Attack. Internal Collision Attacks: Find internal collisions in a cipher by analyzing energy absorption or electromagnetic radiation. Secret Keys were extracted.
