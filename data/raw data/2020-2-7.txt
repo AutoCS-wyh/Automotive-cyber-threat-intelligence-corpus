@@ -1,0 +1,1 @@
+Two hackers connected a USB Ethernet adapter with a built-in backdoor to access Kenya’s NTSA network and databases. Since the hackers possessed a compressor machine used for painting number plates, the hackers most likely used NTSA’s portal to illegally register stolen vehicles.

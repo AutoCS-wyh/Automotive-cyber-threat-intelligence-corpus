@@ -1,0 +1,1 @@
+Researchers observed APT41 exploiting vulnerabilities in Citrix NetScaler/ADC, Cisco routers, and Zoho ManageEngine Desktop Central as part of a widespread espionage campaign. The campaign targeted companies from varying industries, including worldwide manufacturing and transportation companies.

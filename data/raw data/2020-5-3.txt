@@ -1,0 +1,1 @@
+B-H Transfer, a US-based trucking company, was targeted by ransomware in February, just as COVID-19 spread across the US. The attackers penetrated the company's backup files, deleted, and encrypted them. It took the company almost two weeks to restore its systems to the original state.

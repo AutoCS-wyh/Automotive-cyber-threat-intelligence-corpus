@@ -1,0 +1,1 @@
+A researcher created a tool that faked the RPM displayed in the dashboard of his old Mercedes to make the gear transmission seem quicker than it was. The tool crafted CAN BUS messages according to the target gear and changed the value displayed RPM according to the target gear.

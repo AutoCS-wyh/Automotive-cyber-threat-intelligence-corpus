@@ -1,0 +1,1 @@
+Visser Precision, a parts contractor for Tesla was hit by a “cybersecurity incident,” which led to exposure of confidential documents belonging to the OEM. Visser Precision’s incident was likely caused by the information stealing ransomware “DoppelPaymer”.

@@ -1,0 +1,1 @@
+Honda's networks in Europe and Japan were affected by issues reportedly related to a Snake Ransomware cyber-attack. Unlike the typical ransomware, Snake is designed to attack industrial control systems and targets entire networks rather than individual workstations. Honda stopped production in some of its plants for a few days due to the ransomware.

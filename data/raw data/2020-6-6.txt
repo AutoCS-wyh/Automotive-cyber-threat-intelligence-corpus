@@ -1,0 +1,1 @@
+A researcher modified his motorcycle dashboard and added a custom shift notification by sending CAN-BUS messages. The tool reacts to the RPM and causes the dashboard to flash yellow when the time comes to shift the gears.

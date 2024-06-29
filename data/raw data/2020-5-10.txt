@@ -1,0 +1,1 @@
+The Texas Department of Transportation’s network was hacked in a “ransomware event". Upon detecting the hack, staff at the transportation department immediately isolated the affected parts of the network. The department’s website says some features are unavailable due to technical difficulties, but it is not clear what functions were affected by the attack.

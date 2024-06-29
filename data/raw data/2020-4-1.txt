@@ -1,0 +1,1 @@
+The My Renault app had an unsecured S3 bucket that exposed the activity and private information of the app's hundreds of thousand users in India. The information included personal details of the customers such as: name, email, phone, address, login details and all of the recorded user interactions with the app and its services.

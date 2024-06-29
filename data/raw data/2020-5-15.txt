@@ -1,0 +1,3 @@
+A tool created by researchers enables steering control for Tesla models that were built without the Autopilot feature. The self-driving capabilities in these earlier Tesla models are limited by the gateway, and typically a message is sent indicating that steering over CAN is disabled. The newly created tool patches the firmware and alters the message to allow steering over CAN and connection to a Comma.ai device.
+
+

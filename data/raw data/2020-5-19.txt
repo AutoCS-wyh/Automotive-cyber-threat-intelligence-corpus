@@ -1,0 +1,1 @@
+A researcher discovered a vulnerability in the ‘Car Rental System’ plugin for WordPress. Persistent XSS can occur in most of the fields in the booking form. XSS can lead to an administrator’s session hijacking, and if used with a social engineering attack, it can also lead to disclosure of sensitive data, CSRF attacks, and other critical attacks.

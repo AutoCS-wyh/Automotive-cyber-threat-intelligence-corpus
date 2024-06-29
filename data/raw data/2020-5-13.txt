@@ -1,0 +1,1 @@
+A researcher used open-sourced hardware and software to build an OBD-II device to intercept CAN messages and send the information to the cloud. The tool used a cellular modem to transmit a vehicle's GPS coordinates, RPM, speed, and temperature in real-time allowing the owner to monitor the vehicle remotely.

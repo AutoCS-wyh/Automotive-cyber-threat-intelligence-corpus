@@ -1,0 +1,3 @@
+Tesla’s " Traffic Light and Stop Sign Control " feature confuses Burger King signs for stop signs, causing the vehicle to slow down when capturing the sign from a distance. While this event was not an intentional cyber manipulation, black hat actors might try to re-use this technique and create malicious signs that will disrupt vehicles on the road.
+
+

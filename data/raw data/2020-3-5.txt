@@ -1,0 +1,1 @@
+Unauthenticated users were able to execute code on remote servers of fleet management and maintenance software, Fleetco. The original exploit demonstrated how an attacker could create new accident records.

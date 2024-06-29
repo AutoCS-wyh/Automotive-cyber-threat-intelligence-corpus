@@ -1,0 +1,1 @@
+A family-owned Massachusetts trucking company was a victim of a ransomware attack by the malware Maze. The carrier’s system was locked down for more than a week and more than 781 megabytes of the company’s data was released on publicly accessible web pages.
