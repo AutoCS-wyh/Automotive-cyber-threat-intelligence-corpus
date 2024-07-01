@@ -1,9 +1,9 @@
 import os
 
 # 指定目标文件夹路径
-folder_path = "jieguo"
+folder_path = "BIOES"
 # 指定输出文件名
-output_file_name = "003.txt"
+output_file_name = "BIOES.txt"
 
 # 获取文件夹中所有.txt文件的列表
 txt_files = [f for f in os.listdir(folder_path) if f.endswith('.txt')]
