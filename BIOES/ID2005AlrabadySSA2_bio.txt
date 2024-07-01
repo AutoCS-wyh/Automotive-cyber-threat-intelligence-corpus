@@ -1,0 +1,45 @@
+Gaining B_Con_hasImpact_1
+access E_Con_hasImpact_1
+to O
+vehicle O
+by O
+Playback B_AP_hasImpact_1
+Attack E_AP_hasImpact_1
+. O
+
+Playback B_AP
+Attack:Recording O
+transmitted O
+messages O
+and O
+playback O
+of O
+recorded O
+messages O
+. O
+
+Playback B_AP
+Attack: O
+Attack O
+not O
+possible O
+if O
+the O
+transmitted O
+code O
+on O
+both O
+sides O
+of O
+the O
+communication O
+link O
+changes O
+every O
+time O
+the O
+system O
+becomes O
+triggering O
+. O
+

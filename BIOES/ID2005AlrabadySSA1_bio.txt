@@ -1,0 +1,44 @@
+Gaining B_Con_hasImpact_1
+access E_Con_hasImpact_1
+to O
+vehicle O
+by O
+Scan B_AP_hasImpact_1
+Attack E_AP_hasImpact_1
+. O
+
+Scan B_AP
+Attack: O
+Pulling O
+the O
+door O
+handle O
+many O
+times O
+and O
+sending O
+code O
+back O
+to O
+vehicle O
+until O
+it O
+opens O
+. O
+
+Scan B_AP
+attack: O
+Attacks O
+are O
+possible O
+. O
+
+Measures O
+to O
+increase O
+security O
+have O
+other O
+disadvantages O
+. O
+

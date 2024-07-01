@@ -1,0 +1,41 @@
+Tracking B_Con_hasImpact_1
+a I_Con_hasImpact_1
+specific I_Con_hasImpact_1
+node E_Con_hasImpact_1
+by O
+monitoring S_AP_hasImpact_m
+messages O
+of O
+a O
+known O
+node O
+. O
+
+General O
+attack O
+to O
+violate B_Con_hasImpact_1
+privacy E_Con_hasImpact_1
+. O
+
+Obtaining O
+messages O
+of O
+a O
+specific O
+network O
+node O
+. O
+
+Network B_Con_hasImpact_1
+node I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+tracked E_Con_hasImpact_1
+and O
+messages B_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+observed E_Con_hasImpact_1
+. O
+

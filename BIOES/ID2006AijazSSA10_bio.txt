@@ -1,0 +1,54 @@
+Linking B_AP_hasImpact_1
+a I_AP_hasImpact_1
+person I_AP_hasImpact_1
+and I_AP_hasImpact_1
+an I_AP_hasImpact_1
+identifier E_AP_hasImpact_1
+by O
+obtaining O
+access O
+to O
+a O
+trusted O
+entity O
+. O
+
+General O
+attack O
+to O
+violate B_Con_hasImpact_1
+privacy E_Con_hasImpact_1
+. O
+
+Getting O
+access O
+to O
+a O
+trusted O
+entity O
+of O
+the O
+network O
+. O
+
+Access O
+to O
+a O
+trusted O
+entity O
+. O
+
+Privacy O
+is O
+violated O
+by O
+a O
+link O
+between O
+a O
+person O
+and O
+an O
+identifier O
+. O
+

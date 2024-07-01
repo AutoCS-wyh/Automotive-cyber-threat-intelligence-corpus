@@ -1,0 +1,73 @@
+Denial B_Con_hasImpact_1
+of I_Con_hasImpact_1
+service E_Con_hasImpact_1
+on O
+WLAN B_Com_targets_1
+communication E_Com_targets_1
+by O
+jamming B_AP_M_1
+attacks E_AP_M_1
+. O
+
+Conventional O
+network O
+traffic: O
+email S_Com
+, O
+web B_Com
+browsing E_Com
+, O
+file B_Com
+transfer E_Com
+and O
+telnet B_Com
+traffic E_Com
+. O
+
+All O
+nodes O
+are O
+static O
+and O
+transmitted O
+with O
+a O
+power O
+of O
+0.001 O
+watts O
+. O
+
+All O
+simulations O
+have O
+a O
+runtime O
+of O
+600 O
+seconds O
+. O
+
+Execution O
+of O
+Trivial B_AP_hasImpact_1
+Jamming I_AP_hasImpact_1
+Attack E_AP_hasImpact_1
+. O
+
+The O
+network O
+nodes O
+interpret O
+the O
+network O
+as O
+occupied O
+and O
+therefore O
+cannot B_Con_hasImpact_1
+send I_Con_hasImpact_1
+any I_Con_hasImpact_1
+data E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,67 @@
+Extraction B_Con_hasImpact_1
+of I_Con_hasImpact_1
+secret I_Con_hasImpact_1
+keys E_Con_hasImpact_1
+by O
+executing O
+side B_AP_hasImpact_1
+channel I_AP_hasImpact_1
+attacks E_AP_hasImpact_1
+. O
+
+Timing B_AP_hasImpact_1
+analysis: O
+The O
+attacker O
+must O
+simulate O
+or O
+predict O
+the O
+timing O
+behavior O
+of O
+the O
+attacked O
+device O
+. O
+
+The O
+execution O
+time O
+of O
+the O
+square-and-multiply O
+algorithm O
+must O
+be O
+data O
+dependent O
+. O
+
+The O
+result O
+is O
+the O
+hypothesis O
+with O
+the O
+smaller O
+variance O
+of O
+the O
+data O
+sets O
+based O
+on O
+n O
+time O
+measurements O
+. O
+
+Secret B_Con_hasImpact_1
+Keys I_Con_hasImpact_1
+were I_Con_hasImpact_1
+extracted E_Con_hasImpact_1
+. O
+

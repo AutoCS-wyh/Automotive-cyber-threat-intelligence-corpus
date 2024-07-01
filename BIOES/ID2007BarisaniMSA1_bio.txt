@@ -1,0 +1,79 @@
+Monitoring S_AP_M_1
+Radio B_Com_targets_1
+Data I_Com_targets_1
+System E_Com_targets_1
+. O
+
+Eavesdropping S_AP_M_1
+RDS S_Com_targets_1
+. O
+
+Information B_Con_hasImpact_m
+Gain E_Con_hasImpact_m
+on O
+RDS B_Com
+Data I_Com
+Transmissions E_Com
+. O
+
+Hijacking S_AP_M_1
+of O
+the O
+communication B_Com_targets_1
+channels E_Com_targets_1
+. O
+
+Access B_Con_hasImpact_1
+to I_Con_hasImpact_1
+Communication I_Con_hasImpact_1
+Channel E_Con_hasImpact_1
+. O
+
+Sending B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+RDS-TMC I_AP_hasImpact_1
+messages E_AP_hasImpact_1
+. O
+
+Injecting S_AP_hasImpact_1
+RDS-TMC O
+messages O
+. O
+
+Incorrect O
+information O
+is O
+being O
+channelled O
+into O
+the O
+vehicle: O
+traffic O
+jam O
+, O
+bad O
+weather O
+, O
+full O
+parking O
+garages O
+, O
+overcrowded O
+workshop O
+, O
+casualties O
+, O
+road O
+works O
+. O
+
+Diversion B_Con_M_m
+of I_Con_M_m
+the I_Con_M_m
+vehicle E_Con_M_m
+due O
+to O
+incorrect O
+information O
+. O
+
