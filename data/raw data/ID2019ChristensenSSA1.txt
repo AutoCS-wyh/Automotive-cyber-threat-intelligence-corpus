@@ -1,0 +1,1 @@
+ELM327 OBD2 Bluetooth device misused to send malicious messages via OBD to trigger vehicle functions. Sending arbitrary CAN messages via OBD-Bluetooth-Dongle. Messages can be sent to the CAN-Bus by using the Bluetooth-OBD-Dongle.

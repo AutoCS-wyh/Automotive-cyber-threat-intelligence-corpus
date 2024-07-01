@@ -1,0 +1,1 @@
+Sniffing CAN messages with information ( speed) for cruise control. Spoofing CAN messages with false speed, gear and steering. Disabling park assistance.

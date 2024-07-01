@@ -1,0 +1,1 @@
+Access and control over components like dash cameras and in-vehicle computers of police cars, ambulances, and other emergency vehicles due to vulnerable wireless gateways. Portscanning webpages which store gateway data which is tranfered by default. Random gateways ( some of them installed in cars) can be located.

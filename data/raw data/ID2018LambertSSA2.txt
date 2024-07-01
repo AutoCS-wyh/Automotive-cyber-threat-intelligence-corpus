@@ -1,0 +1,1 @@
+Setting ECU of Tesla Model 3 into factory mode which reveals information about the powertrain of the vehicle. Hacking into the factory mode. Getting entry to the factory mode, which exposes information about the vehicle's powertrain.

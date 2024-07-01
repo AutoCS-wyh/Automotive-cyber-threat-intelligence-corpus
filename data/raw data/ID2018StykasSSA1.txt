@@ -1,0 +1,1 @@
+Vehicle tracking and disabling engine via backend server misusing telematic services. SQL Injection to create new full privilege account on car alarm web application. Access to user and product data bases, control over cars which use that service, information about vehicle location history.

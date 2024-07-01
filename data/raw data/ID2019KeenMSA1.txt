@@ -1,0 +1,1 @@
+Manipulation of AUTOPILOT ECU Firmware. Exploit the WebKit Browser. Send arbitrary steering control messages from our remote mobile device to the cantx service in Autopilot ECU. Tampering with the DSCM CAN message to control the electric steering.

@@ -1,0 +1,1 @@
+Monitoring CAN traffic of a Cadillac ELR via its OBD port. Accessing the CAN-Bus via OBD port, then decoding the data. Driving data like speed, state-of-charge, consumption, GPS position, and milage was decoded and exported.

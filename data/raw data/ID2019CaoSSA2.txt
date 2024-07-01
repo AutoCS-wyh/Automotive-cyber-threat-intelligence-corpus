@@ -1,0 +1,1 @@
+Attacking a LiDAR based autonomous driving detection system by using adversarial examples. Applying white box LiDAR-Adv algorithm. Road objects are hidden with 51 % to 71 % success rate.

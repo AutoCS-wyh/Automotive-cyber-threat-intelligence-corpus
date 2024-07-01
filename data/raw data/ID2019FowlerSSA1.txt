@@ -1,0 +1,2 @@
+Data, such as call logs, emails, photos, etc. can be extracted from the Infotainment system of a Chevrolet Volt. Reverse engineering of Infotainment ECU. Data breach/ Privacy.
+

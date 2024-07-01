@@ -1,0 +1,1 @@
+Monitoring and sending CAN messages by using a custom Arduino tool. Sniffing CAN traffic. CAN messages can be read. However, since there is a physical connection to the CAN bus, CAN message injection is possible.

@@ -1,0 +1,1 @@
+Vehicle theft by jamming valid GPRS signals and getting access to vehicle with magnetic key. Jamming GPRS signal. Vehicle's security system was disabled.

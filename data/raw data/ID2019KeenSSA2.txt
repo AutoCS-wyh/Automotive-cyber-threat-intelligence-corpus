@@ -1,0 +1,1 @@
+False stickers on the street mislead lane detection mechanism in a Telsa. Place stickers on the road to mislead lane detection algorithm. AI-based lane detection function detects wrong lane which leads to a safety-critical maneuver into the reverse lane.

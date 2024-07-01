@@ -1,0 +1,1 @@
+Controlling and adapting music to driving behavior by misusing CAN bus traffic. Connecting Rasperry Pi to OBD and to touchscreen. Vehicle data can be read from CAN, so relevant signals can be sniffed. Reading data from CAN. Using vehicle data from CAN to control custom features of a custom Infotainment system.

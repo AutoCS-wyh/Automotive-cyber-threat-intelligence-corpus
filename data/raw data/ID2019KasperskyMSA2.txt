@@ -1,0 +1,1 @@
+During a security investigation of different third party tool like OBD Dongle, alarm systems, etc. several vulnerabilities were found. Eavesdropping TPMS sensor data. TPMS sensor signals can be read and analysed. Sending malicious TPMS signals. False pressure and temperature values are displayed in monitoring device.

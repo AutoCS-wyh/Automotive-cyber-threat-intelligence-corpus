@@ -1,0 +1,1 @@
+Cross-Site-Scripting attack to acquire and manipulate a Tesla's data, such as speed, temperature, version numbers, etc. Setting up an XSS string as vehicle name. Access to website for Tesla's vehicle management. Information like  car and software versions as well as access to different over the air functions possible.

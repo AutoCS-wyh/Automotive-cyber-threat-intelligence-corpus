@@ -1,0 +1,1 @@
+Volkswagen Customer-Link App and HTC Customer-Link Bridge can be exploitet in order to send malicious messages to the CAN bus of vehicles. Injecting arbitrary CAN messages over the Customer-Link App and HTC Customer-Link Bridge. An attacker can leverage this vulnerability to inject CAN messages.

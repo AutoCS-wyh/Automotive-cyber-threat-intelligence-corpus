@@ -1,0 +1,1 @@
+Daimler Mercedes-Benz Me app 2.11.0-846 for iOS vulnerable for traffic interception which can lead to acquiring private data or controlling vehicle functions. Data exchange can be interrupted, read, and manipulated. Control car systems, Location tracking.

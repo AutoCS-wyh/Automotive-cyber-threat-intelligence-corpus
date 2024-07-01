@@ -1,0 +1,1 @@
+Vehicle theft by capture-replay attack of valid key fob signals. Capturing and analyzing key fob traffic. Transmission frequency and communication of the vehicle key fob can be gathered. Spoofing cloned key signals to unlock and start the vehicle. Car can be accessed and stolen.

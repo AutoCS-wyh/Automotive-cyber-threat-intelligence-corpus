@@ -1,0 +1,1 @@
+Spoofing control commands to the ethernet channel of the rear camera to start and stop video streams. Triggering start and stop commands of rear camera. Unauthorized start/stop video stream of rear camera. False video stream can be injected to the ADAS camera's ethernet connection. Injecting malicious video stream.

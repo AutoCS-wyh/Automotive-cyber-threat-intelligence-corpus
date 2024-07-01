@@ -1,0 +1,1 @@
+Improper user management leads to access and control of vehicle data by previous owners. Private data and vehicel locations can by observed. Triggering vehicle services. Several vehicle functions, such as car access, breakdown services, climate control, etc. can be triggered.

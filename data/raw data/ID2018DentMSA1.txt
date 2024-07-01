@@ -1,0 +1,1 @@
+Vehicle theft of a Tesla  by capture-replay attack of valid key fob signals. Capturing key fob data. Acquiring key fob data to open the car. Replaying valid key fob data to open the car. Unauthorized car access.

@@ -1,0 +1,2 @@
+Remote access to Multimedia system of Toyota and Lexus models by brute force attack on the authentication of the Telenav Scout GPS Link app for iOS. Scanning port 7050 via cellular connection. Connection interface is found. Changing hash values for authentication by exploiting design flaw in brute force protection. Telenav Scout GPS Link app can be controlled remotely.
+

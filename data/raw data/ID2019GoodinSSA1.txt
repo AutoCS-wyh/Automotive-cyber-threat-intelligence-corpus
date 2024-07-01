@@ -1,0 +1,1 @@
+Tracking and access over vehicle of rental Ford cars even after five months due to improper account management in the FordPass mobile app. Using authenticated mobile app to read/write info. Location tracking, start/stop of engine.

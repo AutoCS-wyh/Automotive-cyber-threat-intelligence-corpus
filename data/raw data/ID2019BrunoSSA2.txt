@@ -1,0 +1,1 @@
+Analysing CAN traffic to add functionalities to the vehicle. Replay CAN signals. Adding new features.

@@ -1,0 +1,1 @@
+Attacking a LiDAR based autonomous driving detection system by using adversarial examples. 3D printing of adversarial object and placing it on the street. Potentially sensor invisible object on the street leads to misdetection in some cases.

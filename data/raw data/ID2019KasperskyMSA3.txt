@@ -1,0 +1,1 @@
+During a security investigation of different third party tool like OBD Dongle, alarm systems, etc. several vulnerabilities were found. Accessing Smart Alarm system with user smartphone. Access to Security System application without login. Spoofing command to open the vehicle doors. Vehicle doors were opened.

@@ -1,0 +1,1 @@
+Tesla Model 3 manipulalted to host an Ubuntu OS on the Infotainment System and playing Youtube videos. Resetting Infotainment ECU in order to run a root shell. Running Ubuntu and playing YouTube videos.

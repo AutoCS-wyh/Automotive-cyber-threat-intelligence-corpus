@@ -1,0 +1,1 @@
+Displaying false information in Infotainment unit in Telsa Model 3. Trigger firmware code execution by exploiting render process bug of infotainment system. Display a crafted message to vehicle occupants via the infotainment system.
