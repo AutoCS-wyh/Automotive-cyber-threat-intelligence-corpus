@@ -209,7 +209,7 @@ if __name__ == '__main__':
                                         word_index_dict[id] = '_'.join(['I', value[1]])
                                     num = num + len(word) + 1
             word_index = 0
-            bio_file = open(os.path.join('jieguo',file_name.replace('.ann','_bio.txt')),'w',encoding='utf-8')
+            bio_file = open(os.path.join('BIOES',file_name.replace('.ann','_bio.txt')),'w',encoding='utf-8')
             for word in [i for i in txt_content[0].split()]:
                 # 用单词名称以及单词下标来标识一个单词
                 #word_id = word.replace(',', '').replace('.', '') + '_' + str(word_index)
