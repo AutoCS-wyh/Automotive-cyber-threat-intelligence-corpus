@@ -1,0 +1,26 @@
+Key B_Com_targets_1
+fob E_Com_targets_1
+spoofing B_AP_M_1
+attack E_AP_M_1
+unlocks B_Con_hasImpact_1
+car E_Con_hasImpact_1
+. O
+
+Record O
+and O
+jam S_AP_targets_1
+key B_Com_targets_1
+fob E_Com_targets_1
+frequency O
+. O
+
+Replay S_AP_M_1
+key B_Com_targets_1
+fob E_Com_targets_1
+signal O
+. O
+
+Unlock B_Con_hasImpact_1
+cars E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,26 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_M_1
+entry I_Com_M_1
+system E_Com_M_1
+of O
+a O
+Mini B_Veh_consists-of_1
+Cooper E_Veh_consists-of_1
+. O
+
+Thieves O
+hacked O
+into O
+wireless O
+network O
+to O
+open O
+car O
+. O
+
+Car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+or O
+break-ins. O

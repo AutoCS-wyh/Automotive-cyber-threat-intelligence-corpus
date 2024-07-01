@@ -1,0 +1,58 @@
+During O
+a O
+security O
+investigation O
+of O
+different O
+third B_Com
+party I_Com
+tool E_Com
+like O
+OBD B_Com
+Dongle E_Com
+, O
+alarm B_Com
+systems E_Com
+, O
+etc O
+. O
+
+several O
+vulnerabilities O
+were O
+found O
+. O
+
+Accessing O
+Smart B_Com
+Alarm I_Com
+system E_Com
+with O
+user B_Com
+smartphone E_Com
+. O
+
+Access B_Con
+to I_Con
+Security I_Con
+System I_Con
+application E_Con
+without O
+login O
+. O
+
+Spoofing S_AP_hasImpact_1
+command O
+to O
+open O
+the O
+vehicle O
+doors O
+. O
+
+Vehicle B_Con_hasImpact_1
+doors I_Con_hasImpact_1
+were I_Con_hasImpact_1
+opened E_Con_hasImpact_1
+. O
+

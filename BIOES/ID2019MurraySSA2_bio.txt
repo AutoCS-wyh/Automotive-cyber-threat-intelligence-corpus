@@ -1,0 +1,34 @@
+Influencing B_Con_hasImpact_1
+the I_Con_hasImpact_1
+driving I_Con_hasImpact_1
+behavior E_Con_hasImpact_1
+of O
+an O
+autonomous O
+car O
+by O
+manipulating B_AP_hasImpact_1
+navigation I_AP_hasImpact_1
+signals E_AP_hasImpact_1
+. O
+
+Spoofing S_AP_M_1
+wrong O
+GNSS B_Com_targets_1
+signals E_Com_targets_1
+for O
+vehicle O
+velocity O
+. O
+
+Vehicle B_Con_hasImpact_1
+missed I_Con_hasImpact_1
+a I_Con_hasImpact_1
+turn E_Con_hasImpact_1
+and O
+drove B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+streets E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,37 @@
+Spoofing S_AP_M_1
+GPS B_Com_M_1
+data E_Com_M_1
+to O
+Tesla B_Veh_consists-of_1
+Model I_Veh_consists-of_1
+3 E_Veh_consists-of_1
+and O
+Tesla B_Veh_consists-of_1
+Model I_Veh_consists-of_1
+S E_Veh_consists-of_1
+to O
+influence B_Con_hasImpact_1
+the I_Con_hasImpact_1
+driving I_Con_hasImpact_1
+behavior E_Con_hasImpact_1
+of O
+the O
+vehicles O
+. O
+
+Wrong O
+GPS S_Com_targets_1
+signal O
+is O
+spoofed S_AP_M_1
+. O
+
+Vehicle B_Con_hasImpact_1
+was I_Con_hasImpact_1
+braking E_Con_hasImpact_1
+and O
+took B_Con_hasImpact_1
+another I_Con_hasImpact_1
+road E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,18 @@
+Spoofing S_AP_M_1
+position O
+signal O
+via O
+GPS S_Com_targets_1
+leads O
+to O
+display B_Con_hasImpact_1
+of I_Con_hasImpact_1
+false I_Con_hasImpact_1
+positions E_Con_hasImpact_1
+. O
+
+Spoofing S_AP_targets_1
+GPS S_Com_targets_1
+signal O
+. O
+

@@ -1,0 +1,29 @@
+Influencing B_Con_hasImpact_1
+LiDAR I_Con_hasImpact_1
+sensors E_Con_hasImpact_1
+by O
+throwing B_AP_M_1
+powder E_AP_M_1
+in O
+front O
+of O
+the O
+LiDAR B_Com_targets_1
+sensor E_Com_targets_1
+. O
+
+LiDAR B_Com
+sensor E_Com
+detected O
+a O
+wall O
+which O
+led O
+to O
+the O
+car O
+to O
+a O
+stop S_Con_hasImpact_1
+. O
+

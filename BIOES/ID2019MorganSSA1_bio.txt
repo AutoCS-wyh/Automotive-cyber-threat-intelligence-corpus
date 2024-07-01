@@ -1,0 +1,23 @@
+Relay B_AP_targets_1
+attack E_AP_targets_1
+on O
+keyless O
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+six O
+vehicles O
+. O
+
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_targets_1
+go I_Com_targets_1
+system E_Com_targets_1
+. O
+
+Car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+. O
+

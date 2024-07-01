@@ -1,0 +1,45 @@
+Manipulating S_Con_hasImpact_1
+and O
+tuning B_Con_hasImpact_1
+of I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+using O
+an O
+OBD-CAN B_Tool_uses_1
+device E_Tool_uses_1
+. O
+
+CAN B_Com_targets_1
+bus E_Com_targets_1
+recording O
+and O
+reverse B_AP_M_1
+engineering E_AP_M_1
+. O
+
+Reverse B_AP_targets_1
+engineer E_AP_targets_1
+CAN B_Com_targets_1
+Bus E_Com_targets_1
+signals O
+for O
+control B_Com
+panel E_Com
+. O
+
+Replay S_AP_hasImpact_1
+of O
+reverse B_AP_hasImpact_1
+engineered E_AP_hasImpact_1
+CAN O
+messages O
+. O
+
+Control B_Con_M_m
+of I_Con_M_m
+car's I_Con_M_m
+control I_Con_M_m
+panel E_Con_M_m
+. O
+

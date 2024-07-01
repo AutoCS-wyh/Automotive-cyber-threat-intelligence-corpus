@@ -1,0 +1,19 @@
+Unlocking S_Con_hasImpact_1
+and O
+starting B_Con_hasImpact_1
+a I_Con_hasImpact_1
+vehicle E_Con_hasImpact_1
+. O
+
+Spoofing S_AP_M_m
+car B_Com_targets_1
+keys E_Com_targets_1
+with O
+key B_Tool_uses_1
+programmer E_Tool_uses_1
+. O
+
+Car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+. O
+

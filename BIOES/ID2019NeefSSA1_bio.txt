@@ -1,0 +1,28 @@
+Influencing B_Con_hasImpact_1
+LiDAR I_Con_hasImpact_1
+sensors E_Con_hasImpact_1
+by O
+hiding B_AP_M_1
+road I_AP_M_1
+objects E_AP_M_1
+with O
+black B_Tool_uses_1
+trash I_Tool_uses_1
+bag E_Tool_uses_1
+which O
+absorbs O
+LiDAR S_Com_targets_1
+signals O
+. O
+
+Road B_Con_hasImpact_1
+objects I_Con_hasImpact_1
+could I_Con_hasImpact_1
+not I_Con_hasImpact_1
+be I_Con_hasImpact_1
+detected E_Con_hasImpact_1
+by O
+the O
+LiDAR S_Com
+. O
+

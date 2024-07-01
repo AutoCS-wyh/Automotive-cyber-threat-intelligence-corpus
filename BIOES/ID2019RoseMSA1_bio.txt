@@ -1,0 +1,59 @@
+Different O
+capture-replay B_AP_M_1
+attacks E_AP_M_1
+of O
+key B_Com_targets_1
+fob E_Com_targets_1
+signals O
+enable O
+attackers O
+to O
+unlock S_Con_hasImpact_1
+and O
+start B_Con_hasImpact_1
+the I_Con_hasImpact_1
+vehicle E_Con_hasImpact_1
+. O
+
+Eavesdropping S_AP_targets_1
+Key B_Com_targets_m
+Fob E_Com_targets_m
+commands O
+. O
+
+Unlock O
+command O
+could O
+be O
+gathered O
+. O
+
+Replay S_AP_targets_1
+of O
+the O
+unlock O
+command O
+. O
+
+Unlock O
+command O
+could O
+be O
+used O
+two O
+times O
+to O
+open O
+the O
+car O
+what O
+should O
+be O
+prohibitted O
+by O
+the O
+rolling B_Com
+code I_Com
+scheme E_Com
+. O
+

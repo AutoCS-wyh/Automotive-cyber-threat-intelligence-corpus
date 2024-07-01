@@ -1,0 +1,80 @@
+Vgate B_Com
+iCar I_Com
+2 I_Com
+WiFi I_Com
+OBD2 I_Com
+Dongles E_Com
+contain O
+vulnerabilities O
+which O
+enable O
+attackers O
+to O
+control B_Con
+safety-critical I_Con
+functions E_Con
+of O
+a O
+vehicle O
+. O
+
+Connecting O
+to O
+local O
+OBD B_Com
+Dongle I_Com
+WLAN I_Com
+network E_Com
+. O
+
+Data O
+traffic O
+of O
+the O
+OBD B_Com
+Dongle's I_Com
+WLAN E_Com
+connection O
+can O
+be O
+read O
+. O
+
+Read O
+WLAN O
+data O
+traffic O
+from O
+OBD B_Com
+Dongle E_Com
+. O
+
+All O
+data O
+sent O
+through O
+WLAN S_Com
+can O
+be O
+read O
+. O
+
+Sensing O
+malicious O
+messages O
+to O
+the O
+vehicle O
+remotely O
+. O
+
+Malicous O
+messages O
+can O
+be O
+sent O
+to O
+the O
+vehicle O
+. O
+

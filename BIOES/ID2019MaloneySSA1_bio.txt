@@ -1,0 +1,32 @@
+Installing O
+a O
+hidden B_Tool_uses_1
+dongle E_Tool_uses_1
+leads O
+to O
+manipulation S_AP_M_1
+of O
+the O
+displayed O
+odometer B_Com_targets_1
+values E_Com_targets_1
+. O
+
+Spoof S_AP_M_1
+odometer B_Com_targets_1
+values E_Com_targets_1
+with O
+hardware B_Tool_uses_1
+dongle E_Tool_uses_1
+. O
+
+Hidden B_Tool_uses_1
+dongle E_Tool_uses_1
+reduces B_Con_hasImpact_1
+odometer I_Con_hasImpact_1
+mileage E_Con_hasImpact_1
+through O
+CAN S_Com
+connection O
+. O
+

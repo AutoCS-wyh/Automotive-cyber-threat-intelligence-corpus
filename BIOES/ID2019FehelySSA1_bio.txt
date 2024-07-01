@@ -1,0 +1,25 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_targets_1
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+several O
+vehicles O
+. O
+
+Vehicles O
+were O
+opened S_Con_hasImpact_1
+, O
+so O
+thieves O
+could O
+steal B_Con_hasImpact_1
+items E_Con_hasImpact_1
+from O
+the O
+inside O
+. O
+

@@ -1,0 +1,39 @@
+Displaying B_Con_hasImpact_1
+false I_Con_hasImpact_1
+information E_Con_hasImpact_1
+in O
+Infotainment B_Com_consists-of_1
+unit E_Com_consists-of_1
+in O
+Telsa B_Veh_consists-of_m
+Model I_Veh_consists-of_m
+3 E_Veh_consists-of_m
+. O
+
+Trigger O
+firmware B_Con_hasImpact_1
+code I_Con_hasImpact_1
+execution E_Con_hasImpact_1
+by O
+exploiting O
+render B_Vul_M_1
+process I_Vul_M_1
+bug E_Vul_M_1
+of O
+infotainment B_Com_M_1
+system E_Com_M_1
+. O
+
+Display B_Con_hasImpact_1
+a I_Con_hasImpact_1
+crafted I_Con_hasImpact_1
+message E_Con_hasImpact_1
+to O
+vehicle O
+occupants O
+via O
+the O
+infotainment B_Com
+system E_Com
+. O
+

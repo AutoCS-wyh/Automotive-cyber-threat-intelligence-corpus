@@ -1,0 +1,45 @@
+Monitoring O
+and O
+sending O
+CAN O
+messages O
+by O
+using O
+a O
+custom B_Tool_uses_m
+Arduino I_Tool_uses_m
+tool E_Tool_uses_m
+. O
+
+Sniffing B_AP_M_1
+CAN I_AP_M_1
+traffic E_AP_M_1
+. O
+
+CAN O
+messages O
+can O
+be O
+read O
+. O
+
+However O
+, O
+since O
+there O
+is O
+a O
+physical O
+connection O
+to O
+the O
+CAN B_Com_targets_m
+bus E_Com_targets_m
+, O
+CAN B_AP_M_1
+message I_AP_M_1
+injection E_AP_M_1
+is O
+possible O
+. O
+

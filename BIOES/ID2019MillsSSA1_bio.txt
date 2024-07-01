@@ -1,0 +1,18 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_M_1
+entry I_Com_M_1
+system E_Com_M_1
+of O
+100 O
+Toyota S_Veh_consists-of_1
+and O
+Lexus S_Veh_consists-of_1
+vehicles O
+. O
+
+Car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+. O
+

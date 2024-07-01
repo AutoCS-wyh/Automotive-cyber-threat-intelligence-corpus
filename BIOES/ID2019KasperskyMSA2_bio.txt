@@ -1,0 +1,59 @@
+During O
+a O
+security O
+investigation O
+of O
+different O
+third B_Com
+party I_Com
+tool E_Com
+like O
+OBD B_Com
+Dongle E_Com
+, O
+alarm B_Com
+systems E_Com
+, O
+etc O
+. O
+
+several O
+vulnerabilities O
+were O
+found O
+. O
+
+Eavesdropping S_AP_targets_1
+TPMS B_Com_targets_1
+sensor E_Com_targets_1
+data O
+. O
+
+TPMS B_Com
+sensor E_Com
+signals O
+can O
+be O
+read O
+and O
+analysed O
+. O
+
+Sending B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+TPMS I_AP_hasImpact_1
+signals O
+. O
+
+False B_Con_hasImpact_1
+pressure I_Con_hasImpact_1
+and I_Con_hasImpact_1
+temperature I_Con_hasImpact_1
+values I_Con_hasImpact_1
+are I_Con_hasImpact_1
+displayed E_Con_hasImpact_1
+in O
+monitoring O
+device O
+. O
+

@@ -1,0 +1,31 @@
+Attacking O
+a O
+LiDAR S_Com_consists-of_1
+based O
+autonomous B_Com_M_m
+driving I_Com_M_m
+detection I_Com_M_m
+system E_Com_M_m
+by O
+using O
+adversarial B_Tool_uses_1
+examples E_Tool_uses_1
+. O
+
+Applying O
+white B_AP_M_1
+box I_AP_M_1
+LiDAR-Adv I_AP_M_1
+algorithm E_AP_M_1
+. O
+
+Adversarial O
+mesh O
+is O
+falsely B_Con_hasImpact_1
+classified I_Con_hasImpact_1
+as I_Con_hasImpact_1
+a I_Con_hasImpact_1
+pedestrian E_Con_hasImpact_1
+. O
+

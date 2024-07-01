@@ -1,0 +1,38 @@
+Tire B_Com_targets_m
+Pressure I_Com_targets_m
+Monitoring I_Com_targets_m
+System E_Com_targets_m
+( O
+TPMS S_Com_targets_m
+) O
+signals O
+can O
+be O
+intercepted S_AP_targets_m
+and O
+spoofed S_AP_targets_m
+. O
+
+Reverse B_AP_targets_1
+engineer E_AP_targets_1
+TPMS S_Com_targets_1
+signal O
+. O
+
+Replay S_AP_M_1
+TPMS B_Com_targets_1
+signal E_Com_targets_1
+with O
+critical O
+values O
+. O
+
+Driver B_Con_hasImpact_1
+distraction E_Con_hasImpact_1
+due O
+to O
+tire O
+pressure O
+warning O
+. O
+

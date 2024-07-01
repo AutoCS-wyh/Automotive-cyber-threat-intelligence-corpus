@@ -1,0 +1,42 @@
+Attacking O
+a O
+LiDAR S_Com_consists-of_1
+based O
+autonomous B_Com_consists-of_1
+driving I_Com_consists-of_1
+detection I_Com_consists-of_1
+system E_Com_consists-of_1
+by O
+using O
+adversarial B_Tool
+examples E_Tool
+. O
+
+3D O
+printing O
+of O
+adversarial B_Tool
+object E_Tool
+and O
+placing O
+it O
+on O
+the O
+street O
+. O
+
+Potentially O
+sensor O
+invisible O
+object O
+on O
+the O
+street O
+leads O
+to O
+misdetection S_Con
+in O
+some O
+cases O
+. O
+

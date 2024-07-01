@@ -1,0 +1,37 @@
+Spoofing S_AP_targets_1
+of O
+the O
+key B_Com_M_1
+fob E_Com_M_1
+of O
+a O
+Ford S_Com_consists-of_1
+. O
+
+Replay S_AP_M_1
+key B_Com_targets_1
+fob E_Com_targets_1
+signal O
+to O
+reset O
+rolling B_Com_consists-of_1
+code I_Com_consists-of_1
+counter E_Com_consists-of_1
+on O
+body B_Com_consists-of_1
+control I_Com_consists-of_1
+unit O
+. O
+
+Reset B_Con_hasImpact_1
+rolling I_Con_hasImpact_1
+key I_Con_hasImpact_1
+table E_Con_hasImpact_1
+at O
+the O
+vehicle O
+, O
+unlock B_Con_hasImpact_1
+car E_Con_hasImpact_1
+. O
+

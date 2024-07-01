@@ -1,0 +1,42 @@
+Tracking B_Con_hasImpact_1
+and I_Con_hasImpact_1
+access E_Con_hasImpact_1
+over O
+vehicle O
+of O
+rental O
+Ford B_Veh_consists-of_1
+cars E_Veh_consists-of_1
+even O
+after O
+five O
+months O
+due O
+to O
+improper B_Vul_M_1
+account I_Vul_M_1
+management E_Vul_M_1
+in O
+the O
+FordPass B_Com_M_1
+mobile I_Com_M_1
+app E_Com_M_1
+. O
+
+Using O
+authenticated O
+mobile B_Com
+app E_Com
+to O
+read/write O
+info O
+. O
+
+Location B_Con_hasImpact_1
+tracking E_Con_hasImpact_1
+, O
+start/stop B_Con_hasImpact_1
+of I_Con_hasImpact_1
+engine E_Con_hasImpact_1
+. O
+

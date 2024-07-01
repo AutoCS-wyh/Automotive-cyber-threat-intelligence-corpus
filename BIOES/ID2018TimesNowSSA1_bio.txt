@@ -1,0 +1,25 @@
+Relay B_AP_M_m
+attack E_AP_M_m
+on O
+keyless B_Com_targets_1
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+a O
+SUV O
+. O
+
+Thieves O
+hacked O
+into O
+wireless B_Com_targets_1
+network E_Com_targets_1
+to O
+open O
+car O
+. O
+
+Car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+or O
+break-ins. O

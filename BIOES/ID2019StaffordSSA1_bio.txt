@@ -1,0 +1,31 @@
+Controlling B_Con_hasImpact_1
+several I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+of O
+a O
+Chevrolet B_Veh_consists-of_1
+Volt E_Veh_consists-of_1
+using O
+a O
+custom B_Tool_uses_1
+Raspberry I_Tool_uses_1
+Pi E_Tool_uses_1
+and O
+a O
+modem S_Tool_uses_1
+. O
+
+Spoofing S_AP_M_1
+CAN B_Com_M_1
+Bus E_Com_M_1
+signals O
+. O
+
+Control B_Con_hasImpact_1
+of I_Con_hasImpact_1
+different I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+. O
+

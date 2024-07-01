@@ -1,0 +1,39 @@
+Investigation O
+of O
+security O
+issues O
+on O
+several O
+third B_Com
+party I_Com
+devices E_Com
+uncovers O
+several O
+vulnerabilities O
+. O
+
+Firmware S_Com_consists-of_1
+extraction O
+from O
+OBD-Dongle B_Com_consists-of_m
+device E_Com_consists-of_m
+( O
+external O
+flash O
+) O
+. O
+Decrypted O
+firmware S_Com_M_m
+was O
+extracted O
+. O
+
+Thus O
+, O
+arbitrary B_AP_targets_1
+code I_AP_targets_1
+could I_AP_targets_1
+be I_AP_targets_1
+injected E_AP_targets_1
+. O
+

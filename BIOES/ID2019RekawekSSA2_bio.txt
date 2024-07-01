@@ -1,0 +1,46 @@
+During O
+a O
+security O
+investigation O
+of O
+Skoda S_Veh_consists-of_1
+mobile B_Com_consists-of_m
+app I_Com_consists-of_m
+API E_Com_consists-of_m
+, O
+the O
+health B_Com_M_m
+report I_Com_M_m
+generation I_Com_M_m
+function E_Com_M_m
+can O
+be O
+attacked O
+by O
+a O
+denial B_AP_targets_1
+of I_AP_targets_1
+service I_AP_targets_1
+attack E_AP_targets_1
+. O
+
+Jam S_AP_M_1
+HTTP B_Com_M_1
+request E_Com_M_1
+to O
+get O
+vehicle O
+health O
+reports O
+. O
+
+Globally B_Con_hasImpact_1
+block I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+health I_Con_hasImpact_1
+reports E_Con_hasImpact_1
+for O
+any O
+car O
+. O
+

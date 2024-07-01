@@ -1,0 +1,21 @@
+Relay B_AP_M_m
+attack E_AP_M_m
+on O
+keyless B_Com_targets_m
+entry I_Com_targets_m
+system E_Com_targets_m
+of O
+several O
+vehicles O
+. O
+
+Key B_Com_targets_m
+fob E_Com_targets_m
+signal O
+amplified S_AP_M_m
+. O
+
+Car B_Con_hasImpact_m
+theft E_Con_hasImpact_m
+or O
+break-ins. O

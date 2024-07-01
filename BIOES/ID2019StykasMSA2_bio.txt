@@ -1,0 +1,106 @@
+Security O
+investigation O
+of O
+three O
+vehicle O
+tracking B_Com
+app I_Com
+APIs E_Com
+uncovered O
+several O
+vulnerabilities O
+. O
+
+Thus O
+, O
+vehicles O
+can O
+be O
+tracked S_Con
+and O
+immobilized S_Con
+by O
+an O
+attacker O
+. O
+
+Adding B_AP_hasImpact_m
+malicious I_AP_hasImpact_m
+device E_AP_hasImpact_m
+. O
+
+All O
+listed O
+devices B_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+deleted E_Con_hasImpact_1
+. O
+
+Logins O
+and O
+phone O
+numbers O
+of O
+all O
+users O
+available O
+. O
+
+Password O
+for O
+mobile O
+app O
+is O
+available O
+. O
+
+This O
+results O
+in O
+access B_Con_hasImpact_1
+to I_Con_hasImpact_1
+the I_Con_hasImpact_1
+mobiel I_Con_hasImpact_1
+apps E_Con_hasImpact_1
+of O
+all O
+cars O
+. O
+
+Tracking B_AP_hasImpact_1
+the I_AP_hasImpact_1
+location E_AP_hasImpact_1
+of O
+the O
+device O
+( O
+vehicle). O
+Real-Time B_Con_hasImpact_1
+tracking E_Con_hasImpact_1
+of O
+vehicle O
+. O
+
+Deleting B_AP_hasImpact_1
+theft I_AP_hasImpact_1
+alert I_AP_hasImpact_1
+subscription E_AP_hasImpact_1
+( O
+geofence O
+) O
+from O
+app O
+. O
+
+Vehicle O
+can O
+be O
+stolen S_Con_hasImpact_1
+without O
+any O
+alert O
+to O
+police O
+. O
+

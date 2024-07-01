@@ -1,0 +1,45 @@
+Custom B_Tool_uses_1
+Android I_Tool_uses_1
+app E_Tool_uses_1
+and O
+an O
+Arduino S_Tool_uses_1
+is O
+used O
+to O
+send B_AP_M_m
+malicious I_AP_M_m
+messages E_AP_M_m
+over O
+the O
+CAN B_AV_based-on_1
+bus E_AV_based-on_1
+to O
+control B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+features E_Con_hasImpact_1
+like O
+ESP S_Com_targets_1
+or O
+hazard B_Com_targets_1
+lights E_Com_targets_1
+. O
+
+Spoof S_AP_M_1
+reverse B_AP_targets_1
+engineered E_AP_targets_1
+CAN B_Com_M_m
+Bus E_Com_M_m
+signals O
+. O
+
+Control B_Con_hasImpact_1
+lights I_Con_hasImpact_1
+of I_Con_hasImpact_1
+car I_Con_hasImpact_1
+system E_Con_hasImpact_1
+via O
+Android B_Tool_uses_1
+app E_Tool_uses_1
+. O
+

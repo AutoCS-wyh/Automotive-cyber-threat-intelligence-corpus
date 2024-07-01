@@ -1,0 +1,32 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_targets_1
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+several O
+vehicles O
+like O
+vans O
+, O
+taxis O
+, O
+minibuses O
+and O
+others O
+. O
+
+Relay B_AP_M_1
+Attack E_AP_M_1
+on O
+Keyless B_Com_targets_1
+Entry I_Com_targets_1
+System E_Com_targets_1
+. O
+
+Vehicle B_Con_hasImpact_m
+was I_Con_hasImpact_m
+stolen E_Con_hasImpact_m
+. O
+

@@ -1,0 +1,21 @@
+Analysing O
+CAN O
+traffic O
+to O
+add B_Con_hasImpact_1
+functionalities E_Con_hasImpact_1
+to O
+the O
+vehicle O
+. O
+
+Replay B_AP_hasImpact_m
+CAN I_AP_hasImpact_m
+signals E_AP_hasImpact_m
+. O
+
+Adding B_Con_hasImpact_1
+new I_Con_hasImpact_1
+features E_Con_hasImpact_1
+. O
+

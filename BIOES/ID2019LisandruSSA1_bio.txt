@@ -1,0 +1,32 @@
+Modification B_Con_hasImpact_1
+of I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+such O
+as O
+hill-start B_Com_M_m
+assistance E_Com_M_m
+in O
+Dacia S_Veh_consists-of_1
+vehciles O
+by O
+misusing O
+the O
+CAN B_Tool_uses_1
+programming I_Tool_uses_1
+tool I_Tool_uses_1
+ddt4all E_Tool_uses_1
+. O
+
+CAN B_AP_M_1
+message I_AP_M_1
+injection E_AP_M_1
+. O
+
+Activate/Deactivate B_Con_hasImpact_1
+car I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+or O
+display O
+elements O
+. O
+

@@ -1,0 +1,33 @@
+Adversarial B_Tool_uses_1
+examples E_Tool_uses_1
+are O
+used O
+to O
+trigger S_AP_M_1
+the O
+Autowiper B_Com_M_1
+function E_Com_M_1
+in O
+a O
+Tesla S_Veh_consists-of_1
+. O
+
+Display O
+adverserial B_Tool_uses_1
+pictures E_Tool_uses_1
+to O
+trigger S_AP_M_1
+autowipers S_Com_targets_1
+. O
+
+AI-based O
+Autowiper B_Com_targets_1
+function E_Com_targets_1
+doesn't B_Con_hasImpact_1
+correct I_Con_hasImpact_1
+rain I_Con_hasImpact_1
+or I_Con_hasImpact_1
+moisture I_Con_hasImpact_1
+correctly E_Con_hasImpact_1
+. O
+

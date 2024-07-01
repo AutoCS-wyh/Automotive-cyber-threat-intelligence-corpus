@@ -1,0 +1,37 @@
+Modifying B_AP_M_1
+vehicle I_AP_M_1
+functions E_AP_M_1
+like O
+seatbelt B_Com_M_1
+warning E_Com_M_1
+on O
+a O
+Dacia B_Veh_consists-of_1
+Duster E_Veh_consists-of_1
+by O
+using O
+the O
+CAN B_Tool_uses_1
+programming I_Tool_uses_1
+tool I_Tool_uses_1
+DDT4ALL E_Tool_uses_1
+. O
+
+Enable B_Con_hasImpact_1
+functions E_Con_hasImpact_1
+or O
+features O
+that O
+are O
+actually O
+withheld O
+from O
+other O
+models O
+. O
+
+Adjust B_Con_hasImpact_1
+media I_Con_hasImpact_1
+skin E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,39 @@
+Data O
+, O
+such O
+as O
+call O
+logs O
+, O
+emails O
+, O
+photos O
+, O
+etc O
+. O
+
+can O
+be O
+extracted O
+from O
+the O
+Infotainment B_Com_consists-of_1
+system E_Com_consists-of_1
+of O
+a O
+Chevrolet B_Veh_consists-of_m
+Volt E_Veh_consists-of_m
+. O
+
+Reverse B_AP_M_1
+engineering E_AP_M_1
+of O
+Infotainment B_Com_M_1
+ECU E_Com_M_1
+. O
+
+Data B_Con_hasImpact_1
+breach/ I_Con_hasImpact_1
+Privacy E_Con_hasImpact_1
+. O
+

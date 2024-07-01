@@ -1,0 +1,34 @@
+Tracking S_Con_hasImpact_1
+, O
+starting S_Con_hasImpact_1
+, O
+and O
+stopping B_Con_hasImpact_1
+a I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+remotely E_Con_hasImpact_1
+of O
+ex-girlfriends O
+car O
+. O
+
+Unauthorized B_AP_M_m
+use E_AP_M_m
+of O
+mobile B_Com_targets_1
+app E_Com_targets_1
+to O
+track S_Con_hasImpact_1
+and O
+start B_Con_hasImpact_1
+engine E_Con_hasImpact_1
+. O
+
+Location B_Con_hasImpact_1
+tracking E_Con_hasImpact_1
+, O
+Control B_Con_hasImpact_1
+car I_Con_hasImpact_1
+systems E_Con_hasImpact_1
+. O
+

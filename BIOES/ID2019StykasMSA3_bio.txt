@@ -1,0 +1,85 @@
+Security O
+investigation O
+of O
+three O
+vehicle O
+tracking B_Com
+app I_Com
+APIs E_Com
+uncovered O
+several O
+vulnerabilities O
+. O
+
+Thus O
+, O
+vehicles O
+can O
+be O
+tracked S_Con
+and O
+immobilized S_Con
+by O
+an O
+attacker O
+. O
+
+Deleting B_AP_hasImpact_1
+theft I_AP_hasImpact_1
+alert I_AP_hasImpact_1
+subscription E_AP_hasImpact_1
+( O
+geofence O
+) O
+from O
+app O
+. O
+
+Vehicle O
+can O
+be O
+stolen S_Con_hasImpact_1
+without O
+any O
+alert O
+to O
+police O
+. O
+
+Sending B_AP_hasImpact_1
+immobilizing I_AP_hasImpact_1
+command E_AP_hasImpact_1
+. O
+
+Vehicle B_Con_hasImpact_1
+could I_Con_hasImpact_1
+not I_Con_hasImpact_1
+be I_Con_hasImpact_1
+started E_Con_hasImpact_1
+. O
+
+Potential O
+saftey O
+issues O
+if O
+that O
+command O
+is O
+triggered O
+while O
+driving O
+. O
+
+This O
+could O
+be O
+triggered O
+for O
+all O
+vehicles O
+connected O
+to O
+the O
+server O
+. O
+

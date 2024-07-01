@@ -1,0 +1,35 @@
+Attacking O
+a O
+LiDAR S_Com_consists-of_1
+based O
+autonomous B_Com_M_m
+driving I_Com_M_m
+detection I_Com_M_m
+system E_Com_M_m
+by O
+using O
+adversarial B_Tool_uses_1
+examples E_Tool_uses_1
+. O
+
+Applying O
+evolution-based B_AP_M_1
+black I_AP_M_1
+box I_AP_M_1
+algorithm E_AP_M_1
+. O
+
+Road B_Con_hasImpact_1
+objects I_Con_hasImpact_1
+are I_Con_hasImpact_1
+hidden E_Con_hasImpact_1
+with O
+36 O
+% O
+to O
+62 O
+% O
+success O
+rate O
+. O
+

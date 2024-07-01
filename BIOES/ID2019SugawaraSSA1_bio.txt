@@ -1,0 +1,36 @@
+Injecting B_AP_hasImpact_m
+voice I_AP_hasImpact_m
+commands E_AP_hasImpact_m
+in O
+Tesla S_Veh
+and O
+Ford S_Veh
+vehicles O
+can O
+unlock S_Con_hasImpact_1
+the O
+and O
+start B_Con_hasImpact_1
+the I_Con_hasImpact_1
+cars E_Con_hasImpact_1
+. O
+
+Inject B_AP_hasImpact_m
+modulated I_AP_hasImpact_m
+laser I_AP_hasImpact_m
+signals E_AP_hasImpact_m
+instead O
+of O
+voice O
+commands O
+. O
+
+Unlock S_Con_hasImpact_1
+voice O
+controlled O
+cars O
+and O
+start B_Con_hasImpact_1
+engine E_Con_hasImpact_1
+. O
+

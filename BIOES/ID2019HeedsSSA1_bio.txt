@@ -1,0 +1,21 @@
+Key B_Com_M_1
+fob E_Com_M_1
+spoofing S_AP_M_1
+leads O
+to O
+theft S_Con_hasImpact_1
+of O
+a O
+Fiat B_Veh_consists-of_m
+Abarth E_Veh_consists-of_m
+. O
+
+Reprogrammed S_AP_M_1
+key B_Com_M_1
+fob E_Com_M_1
+. O
+
+Car B_Con_hasImpact_m
+theft E_Con_hasImpact_m
+. O
+

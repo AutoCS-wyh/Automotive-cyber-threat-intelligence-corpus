@@ -1,0 +1,45 @@
+False B_Tool_uses_1
+stickers E_Tool_uses_1
+on O
+the O
+street O
+mislead O
+lane B_Com_M_m
+detection I_Com_M_m
+mechanism E_Com_M_m
+in O
+a O
+Telsa S_Veh_consists-of_1
+. O
+
+Place O
+stickers S_Tool_uses_1
+on O
+the O
+road O
+to O
+mislead S_AP_M_m
+lane B_Com_targets_1
+detection I_Com_targets_1
+algorithm E_Com_targets_1
+. O
+
+AI-based O
+lane B_Com_targets_1
+detection I_Com_targets_1
+function E_Com_targets_1
+detects O
+wrong O
+lane O
+which O
+leads O
+to O
+a O
+safety-critical O
+maneuver O
+into B_Con_hasImpact_1
+the I_Con_hasImpact_1
+reverse I_Con_hasImpact_1
+lane E_Con_hasImpact_1
+. O
+

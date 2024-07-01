@@ -1,0 +1,28 @@
+A O
+keyless B_Com_targets_1
+entry E_Com_targets_1
+car O
+was O
+immobilised B_Con_hasImpact_1
+remotely E_Con_hasImpact_1
+in O
+a O
+car O
+park O
+in O
+Australia S_Loc_located-at_1
+. O
+
+Police O
+assumes O
+jamming S_AP_M_1
+of O
+car B_Com_targets_1
+keys E_Com_targets_1
+. O
+
+Car B_Con_hasImpact_1
+was I_Con_hasImpact_1
+immobilised E_Con_hasImpact_1
+. O
+

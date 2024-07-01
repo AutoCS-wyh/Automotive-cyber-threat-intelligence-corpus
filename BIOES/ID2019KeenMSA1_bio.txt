@@ -1,0 +1,45 @@
+Manipulation S_AP_targets_1
+of O
+AUTOPILOT B_Com_consists-of_1
+ECU E_Com_consists-of_1
+Firmware S_Com_M_1
+. O
+
+Exploit O
+the O
+WebKit B_Com
+Browser E_Com
+. O
+
+Send O
+arbitrary O
+steering O
+control O
+messages O
+from O
+our O
+remote B_Com
+mobile I_Com
+device E_Com
+to O
+the O
+cantx B_Com_consists-of_1
+service E_Com_consists-of_1
+in O
+Autopilot B_Com_consists-of_1
+ECU E_Com_consists-of_1
+. O
+
+Tampering S_AP_M_1
+with O
+the O
+DSCM B_Com_targets_1
+CAN I_Com_targets_1
+message E_Com_targets_1
+to O
+control B_Con_hasImpact_1
+the I_Con_hasImpact_1
+electric I_Con_hasImpact_1
+steering E_Con_hasImpact_1
+. O
+

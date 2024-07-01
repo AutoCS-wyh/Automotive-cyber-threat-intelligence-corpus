@@ -1,0 +1,86 @@
+Access O
+to O
+GPS B_Com_targets_1
+tracking I_Com_targets_1
+app E_Com_targets_1
+enables O
+attacker O
+to O
+disable B_Con_hasImpact_1
+a I_Con_hasImpact_1
+vehicle's I_Con_hasImpact_1
+engine I_Con_hasImpact_1
+remotely E_Con_hasImpact_1
+. O
+
+Reverse B_AP_M_m
+engineering E_AP_M_m
+GPS B_Com_targets_1
+tracking I_Com_targets_1
+device I_Com_targets_1
+software E_Com_targets_1
+. O
+
+Default O
+password O
+123456 O
+was O
+found O
+which O
+is O
+assigned O
+for O
+all O
+users O
+. O
+
+Brute B_AP_hasImpact_m
+forcing E_AP_hasImpact_m
+app O
+account O
+usernames O
+. O
+
+User B_Con_hasImpact_1
+accounts I_Con_hasImpact_1
+were I_Con_hasImpact_1
+acquired E_Con_hasImpact_1
+. O
+
+Extraction B_Con_hasImpact_1
+of I_Con_hasImpact_1
+user I_Con_hasImpact_1
+data E_Con_hasImpact_1
+from O
+app O
+account O
+. O
+
+User O
+information O
+, O
+such O
+as O
+names O
+, O
+phone O
+numbers O
+, O
+email O
+addresses O
+, O
+etc., O
+were O
+extracted O
+. O
+
+Deactivation B_Con_hasImpact_m
+of I_Con_hasImpact_m
+the I_Con_hasImpact_m
+vehicle I_Con_hasImpact_m
+engines E_Con_hasImpact_m
+possible O
+from O
+app S_Com
+. O
+

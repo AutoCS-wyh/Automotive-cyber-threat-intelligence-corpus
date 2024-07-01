@@ -1,0 +1,29 @@
+Vehicle B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+by O
+jamming S_AP_M_1
+valid O
+GPRS S_Com_targets_1
+signals O
+and O
+getting B_Con_hasImpact_1
+access E_Con_hasImpact_1
+to O
+vehicle O
+with O
+magnetic B_Com
+key E_Com
+. O
+
+Jamming S_AP_M_1
+GPRS S_Com_targets_1
+signal O
+. O
+
+Vehicle's B_Con_hasImpact_1
+security I_Con_hasImpact_1
+system I_Con_hasImpact_1
+was I_Con_hasImpact_1
+disabled E_Con_hasImpact_1
+. O
+

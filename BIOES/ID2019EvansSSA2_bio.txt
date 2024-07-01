@@ -1,0 +1,36 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_M_1
+entry I_Com_M_1
+system E_Com_M_1
+of O
+seven O
+vehicles O
+. O
+
+6 O
+of O
+7 O
+vehicles O
+were O
+opened S_Con_hasImpact_1
+and O
+could O
+be O
+stolen S_Con_hasImpact_1
+. O
+
+Land B_Veh_consists-of_1
+Rover I_Veh_consists-of_1
+Discovery E_Veh_consists-of_1
+could O
+be O
+opened S_Con_hasImpact_1
+, O
+but O
+not O
+be O
+stolen O
+. O
+

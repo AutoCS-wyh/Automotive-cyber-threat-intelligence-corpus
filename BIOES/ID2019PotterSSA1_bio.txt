@@ -1,0 +1,18 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_targets_1
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+a O
+vehicle O
+. O
+
+Vehicle B_Con_hasImpact_1
+was I_Con_hasImpact_1
+opened E_Con_hasImpact_1
+and O
+searched O
+. O
+

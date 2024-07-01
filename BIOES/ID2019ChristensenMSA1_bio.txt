@@ -1,0 +1,105 @@
+Man-in-the-Middle B_AP_targets_1
+Attack E_AP_targets_1
+on O
+AutoPi S_Com_consists-of_1
+Wi-Fi S_Com_M_1
+network O
+. O
+
+Communication S_Com_targets_1
+between O
+AutoPi S_Com_consists-of_1
+OBD B_Com_consists-of_1
+Dongle E_Com_consists-of_1
+and O
+the O
+related O
+Cloud B_Com
+server E_Com
+can O
+be O
+intercepted S_AP_targets_1
+. O
+
+Thus O
+, O
+account O
+information O
+, O
+credentials O
+, O
+user O
+data O
+, O
+etc O
+. O
+
+can O
+be O
+compromised O
+. O
+
+Man-in-the-Middle S_AP_targets_1
+on O
+remote B_Com_targets_1
+interface E_Com_targets_1
+. O
+
+Open O
+Ports O
+on O
+the O
+OBD-Dongle. O
+Sensitive O
+information O
+of O
+firmware S_Com
+. O
+
+Attacks O
+on O
+WiFi S_Com
+connection O
+. O
+
+Attacks O
+on O
+internal B_Com_consists-of_1
+network E_Com_consists-of_1
+of O
+the O
+OBD-Dongle S_Com_consists-of_1
+( O
+Firewall). O
+Man-in-the-Middle B_AP_M_1
+attack E_AP_M_1
+on O
+AutoPi B_Com_targets_1
+remote I_Com_targets_1
+connection E_Com_targets_1
+. O
+
+Access B_Con_hasImpact_1
+to I_Con_hasImpact_1
+data E_Con_hasImpact_1
+the O
+user O
+entered O
+to O
+the O
+AutoPi B_Com
+cloud O
+. O
+
+Code O
+review O
+of O
+firmware S_Com
+. O
+
+Denial-of B_Con
+Service E_Con
+is O
+possible O
+. O
+
