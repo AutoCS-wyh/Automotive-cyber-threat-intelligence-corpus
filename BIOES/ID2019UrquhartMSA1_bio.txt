@@ -1,0 +1,67 @@
+Several O
+vulnerbailities O
+found O
+in O
+a O
+Skoda B_Veh_consists-of_1
+Octavia I_Veh_consists-of_1
+vRS I_Veh_consists-of_1
+2017 E_Veh_consists-of_1
+during O
+a O
+security O
+investigation O
+. O
+
+Noise/jamming B_AP_M_1
+signal E_AP_M_1
+is O
+applied O
+to O
+disturb O
+opening O
+command O
+from O
+key B_Com_M_1
+fob E_Com_M_1
+. O
+
+Opening O
+signal O
+is O
+blocked O
+. O
+
+Recording O
+communication O
+between O
+vehicle O
+and O
+key B_Com
+fob E_Com
+. O
+
+Key B_Com
+fob E_Com
+commands O
+can O
+be O
+read O
+and O
+analyzed O
+. O
+
+Filtering O
+and O
+retransmitting S_AP_M_1
+captured O
+key B_Com_targets_1
+fob E_Com_targets_1
+command O
+. O
+
+Access B_Con_hasImpact_m
+to I_Con_hasImpact_m
+vehicle E_Con_hasImpact_m
+. O
+

@@ -1,0 +1,40 @@
+Activating B_Con
+vehicle I_Con
+functions E_Con
+, O
+configuring S_Con
+or O
+enabling B_Con
+additional I_Con
+functions E_Con
+of O
+a O
+Skoda B_Veh_related-to_1
+Octavia I_Veh_related-to_1
+vRS I_Veh_related-to_1
+2017 E_Veh_related-to_1
+. O
+
+Activating B_Con
+reverse I_Con
+mirror I_Con
+dip E_Con
+possible O
+. O
+
+Enabling B_Con
+high I_Con
+beam I_Con
+assist E_Con
+which O
+is O
+a O
+feature O
+that O
+can O
+be O
+bought O
+from O
+Skoda S_Ide_related-to_1
+. O
+

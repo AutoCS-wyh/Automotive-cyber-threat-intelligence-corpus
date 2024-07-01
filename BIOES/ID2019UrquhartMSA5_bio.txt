@@ -1,0 +1,67 @@
+Several O
+vulnerbailities O
+found O
+in O
+a O
+Skoda B_Veh_consists-of_1
+Octavia I_Veh_consists-of_1
+vRS I_Veh_consists-of_1
+2017 E_Veh_consists-of_1
+during O
+a O
+security O
+investigation O
+. O
+
+Firmware S_Com_consists-of_1
+download O
+from O
+Engine B_Com_consists-of_m
+ECU E_Com_consists-of_m
+. O
+
+Firmware S_Com
+available O
+for O
+modifications O
+. O
+
+Chip B_AP_targets_1
+tuning E_AP_targets_1
+on O
+Engine B_Com_consists-of_1
+ECU E_Com_consists-of_1
+firmware S_Com_M_1
+. O
+
+Flashing O
+modified B_Tool
+firmware E_Tool
+on O
+Engine B_Com
+ECU E_Com
+. O
+
+Break O
+Horsepower O
+was O
+in O
+increased O
+by O
+32 O
+. O
+
+Torque O
+was O
+increased O
+by O
+45 O
+Nm O
+. O
+
+Savings O
+of O
+7 O
+mpg O
+. O
+

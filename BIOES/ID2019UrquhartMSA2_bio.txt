@@ -1,0 +1,62 @@
+Several O
+vulnerbailities O
+found O
+in O
+a O
+Skoda B_Veh_consists-of_1
+Octavia I_Veh_consists-of_1
+vRS I_Veh_consists-of_1
+2017 E_Veh_consists-of_1
+during O
+a O
+security O
+investigation O
+. O
+
+Portscanning S_AP_targets_1
+of O
+the O
+Infotainment B_Com_M_m
+system E_Com_M_m
+. O
+
+Port O
+15361 O
+responded O
+with O
+vehicle O
+speed O
+, O
+GPS O
+location O
+, O
+telephone O
+information O
+, O
+and O
+other O
+privacy-related O
+information O
+. O
+
+Scanning S_AP_M_1
+with O
+Metasploit S_Tool_uses_1
+. O
+
+Meterpreter S_Tool_uses_1
+command O
+shell O
+could O
+be O
+opened O
+. O
+
+Scanning S_AP_uses_1
+with O
+Metasploit S_Tool_uses_1
+on O
+port O
+49101 O
+. O
+

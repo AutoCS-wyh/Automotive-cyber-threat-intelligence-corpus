@@ -1,0 +1,66 @@
+Several O
+vulnerbailities O
+found O
+in O
+a O
+Skoda B_Veh_consists-of_m
+Octavia I_Veh_consists-of_m
+vRS I_Veh_consists-of_m
+2017 E_Veh_consists-of_m
+during O
+a O
+security O
+investigation O
+. O
+
+Reverse B_AP_targets_1
+engineering E_AP_targets_1
+VW-TP B_Com_M_1
+2.0 I_Com_M_1
+protocol E_Com_M_1
+for O
+communcation O
+with O
+internal B_Com_consists-of_1
+CAN E_Com_consists-of_1
+. O
+
+Protocol O
+was O
+identified O
+, O
+sniffing S_AP
+and O
+sending O
+messages O
+possible O
+. O
+
+Capturing S_AP
+vehicle O
+data O
+. O
+
+Data O
+like O
+diagnostic O
+information O
+could O
+be O
+captured O
+. O
+
+Changing B_AP_hasImpact_1
+parameters E_AP_hasImpact_1
+of O
+Start/Stop O
+system O
+. O
+
+Start/Stop B_Con_hasImpact_1
+system I_Con_hasImpact_1
+could I_Con_hasImpact_1
+be I_Con_hasImpact_1
+disabled E_Con_hasImpact_1
+. O
+
