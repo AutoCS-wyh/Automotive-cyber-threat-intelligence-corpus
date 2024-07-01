@@ -1,0 +1,2 @@
+Several vulnerbailities found in a Skoda Octavia vRS 2017 during a security investigation. Portscanning of the Infotainment system. Port 15361 responded with vehicle speed, GPS location, telephone information, and other privacy-related information. Scanning with Metasploit. Meterpreter command shell could be opened. Scanning with Metasploit on port 49101.
+Web-Server pages could be accessed on port 49101 which contained information like GPS location, spedd, etc.

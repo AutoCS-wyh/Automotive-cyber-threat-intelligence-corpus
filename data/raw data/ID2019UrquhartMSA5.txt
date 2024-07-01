@@ -1,0 +1,2 @@
+Several vulnerbailities found in a Skoda Octavia vRS 2017 during a security investigation. Firmware download from Engine ECU. Firmware available for modifications. Chip tuning on Engine ECU firmware. Flashing modified firmware on Engine ECU. Break Horsepower was in increased by 32. Torque was increased by 45 Nm. Savings of 7 mpg.
+

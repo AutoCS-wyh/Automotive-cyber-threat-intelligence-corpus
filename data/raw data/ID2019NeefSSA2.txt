@@ -1,0 +1,1 @@
+Influencing LiDAR sensors by throwing powder in front of the LiDAR sensor. LiDAR sensor detected a wall which led to the car to a stop.

@@ -1,0 +1,1 @@
+Influencing the driving behavior of an autonomous car by manipulating navigation signals. Spoofing wrong GNSS signals for vehicle velocity. Vehicle missed a turn and drove of the streets.

@@ -1,0 +1,1 @@
+Installing a hidden dongle leads to manipulation of the displayed odometer values. Spoof odometer values with hardware dongle. Hidden dongle reduces odometer mileage through CAN connection.

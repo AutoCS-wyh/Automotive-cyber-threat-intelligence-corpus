@@ -1,0 +1,1 @@
+Modification of functions such as hill-start assistance in Dacia vehciles by misusing the CAN programming tool ddt4all. CAN message injection. Activate/Deactivate car functions or display elements.

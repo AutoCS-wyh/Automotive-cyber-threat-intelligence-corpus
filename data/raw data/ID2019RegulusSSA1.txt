@@ -1,0 +1,1 @@
+Spoofing GPS data to Tesla Model 3 and Tesla Model S to influence the driving behavior of the vehicles. Wrong GPS signal is spoofed. Vehicle was braking and took another road.

@@ -1,0 +1,1 @@
+Vulnerablities in SmartAlarm Systems lead to control over engine start and stop functions as well as the car alarm. Send update request or password change request. Activation or deactivation of car alarms remotely, stop engine ( also while vehicle is in motion) .

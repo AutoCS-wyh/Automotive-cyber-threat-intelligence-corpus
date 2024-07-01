@@ -1,0 +1,1 @@
+Custom Android app and an Arduino is used to send malicious messages over the CAN bus to control vehicle features like ESP or hazard lights. Spoof reverse engineered CAN Bus signals. Control lights of car system via Android app.

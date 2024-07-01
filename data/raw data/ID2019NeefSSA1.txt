@@ -1,0 +1,2 @@
+Influencing LiDAR sensors by hiding road objects with black trash bag which absorbs LiDAR signals. Road objects could not be detected by the LiDAR.
+

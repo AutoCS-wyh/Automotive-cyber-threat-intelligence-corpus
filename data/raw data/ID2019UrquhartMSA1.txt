@@ -1,0 +1,1 @@
+Several vulnerbailities found in a Skoda Octavia vRS 2017 during a security investigation. Noise/jamming signal is applied to disturb opening command from key fob. Opening signal is blocked. Recording communication between vehicle and key fob. Key fob commands can be read and analyzed. Filtering and retransmitting captured key fob command. Access to vehicle.

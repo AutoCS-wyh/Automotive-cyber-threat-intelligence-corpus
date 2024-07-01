@@ -1,0 +1,1 @@
+Spoofing of the key fob of a Ford. Replay key fob signal to reset rolling code counter on body control unit. Reset rolling key table at the vehicle, unlock car.

@@ -1,0 +1,2 @@
+During a security investigation of Skoda mobile app API, a researcher establishes a connection and opens a new account. Reroute HTTP traffic to access unauthorized data. Obtain any car's vehicleHealthReports list, get access to vehicleHealthReport details of any car ( date of the report, mileage, full diagnostics details of the car and more) .
+

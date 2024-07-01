@@ -1,0 +1,1 @@
+During a security investigation of Skoda mobile app API, the health report generation function can be attacked by a denial of service attack. Jam HTTP request to get vehicle health reports. Globally block vehicle health reports for any car.

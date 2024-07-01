@@ -1,0 +1,1 @@
+Spoofing position signal via GPS leads to display of false positions. Spoofing GPS signal.

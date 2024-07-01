@@ -1,0 +1,1 @@
+Tire Pressure Monitoring System ( TPMS) signals can be intercepted and spoofed. Reverse engineer TPMS signal. Replay TPMS signal with critical values. Driver distraction due to tire pressure warning.

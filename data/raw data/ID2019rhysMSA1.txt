@@ -1,0 +1,1 @@
+Manipulating and tuning of vehicle functions using an OBD-CAN device. CAN bus recording and reverse engineering. Reverse engineer CAN Bus signals for control panel. Replay of reverse engineered CAN messages. Control of car's control panel.

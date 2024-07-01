@@ -1,0 +1,2 @@
+Influencing the driving behavior of an autonomous car by manipulating navigation signals. Spoofing GNSS signal for deceleration of the vehicle to zero and then stopping the signal. During signal spoofing no effect visible, but as soon as the signal stops, the vehicle becomes unstable.
+

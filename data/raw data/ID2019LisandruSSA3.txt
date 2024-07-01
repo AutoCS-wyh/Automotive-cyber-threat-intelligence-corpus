@@ -1,0 +1,1 @@
+Modifying vehicle functions like seatbelt warning on a Dacia Duster by using the CAN programming tool DDT4ALL. Enable functions or features that are actually withheld from other models. Adjust media skin.

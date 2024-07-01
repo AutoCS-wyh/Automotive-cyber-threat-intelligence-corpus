@@ -1,0 +1,1 @@
+Controlling several vehicle functions of a Chevrolet Volt using a custom Raspberry Pi and a modem. Spoofing CAN Bus signals. Control of different vehicle functions.
