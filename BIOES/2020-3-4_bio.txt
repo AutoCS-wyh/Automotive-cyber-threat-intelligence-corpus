@@ -1,0 +1,25 @@
+Using O
+a O
+relay B_Tool
+device E_Tool
+, O
+thieves O
+unlocked S_Con
+and O
+stole S_Con
+a O
+Range B_Veh
+Rover E_Veh
+parking O
+outside O
+its O
+owner's O
+home O
+in O
+the O
+West B_Loc
+Midlands E_Loc
+, O
+UK S_Loc
+. O
+

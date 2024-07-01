@@ -1,0 +1,45 @@
+Aebi B_Ide_related-to_1
+Schmidt E_Ide_related-to_1
+announced O
+that O
+its O
+systems S_Com_M_m
+were O
+hit O
+by O
+a O
+malware-based B_AP_M_1
+cyber I_AP_M_1
+attack E_AP_M_1
+. O
+
+The O
+malware S_Tool_uses_1
+infected O
+Windows B_Com
+systems E_Com
+and O
+disrupted O
+some O
+of O
+the O
+company's O
+operations O
+, O
+such O
+as O
+email O
+management O
+. O
+
+They O
+had O
+to O
+temporarily O
+switch B_Con_hasImpact_1
+off I_Con_hasImpact_1
+the I_Con_hasImpact_1
+affected I_Con_hasImpact_1
+systems E_Con_hasImpact_1
+. O
+

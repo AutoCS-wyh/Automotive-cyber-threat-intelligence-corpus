@@ -1,0 +1,19 @@
+The O
+West B_Loc
+Midlands E_Loc
+police O
+reported O
+that O
+they O
+recovered O
+a O
+Ford B_Veh
+Fiesta E_Veh
+stolen S_Con
+using O
+a O
+keyless B_Tool
+theft I_Tool
+device E_Tool
+. O
+

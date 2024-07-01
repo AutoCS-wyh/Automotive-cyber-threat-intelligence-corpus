@@ -1,0 +1,32 @@
+Car O
+thieves O
+have O
+made O
+off O
+with O
+five O
+expensive O
+motors O
+- O
+using O
+a O
+device O
+that O
+mimics B_AP_M_1
+a I_AP_M_1
+keyless I_AP_M_1
+fob E_AP_M_1
+. O
+
+The O
+cars O
+were O
+stolen S_Con_hasImpact_1
+from O
+multiple O
+driveways O
+in O
+the O
+UK S_Loc_located-at_1
+. O
+

@@ -1,0 +1,34 @@
+Unauthenticated O
+users O
+were O
+able O
+to O
+execute B_AP_M_1
+code E_AP_M_1
+on O
+remote B_Com_M_m
+servers E_Com_M_m
+of O
+fleet B_Com_consists-of_1
+management I_Com_consists-of_1
+and I_Com_consists-of_1
+maintenance I_Com_consists-of_1
+software E_Com_consists-of_1
+, O
+Fleetco S_Com_consists-of_1
+. O
+
+The O
+original O
+exploit O
+demonstrated O
+how O
+an O
+attacker O
+could O
+create B_Con_hasImpact_1
+new I_Con_hasImpact_1
+accident I_Con_hasImpact_1
+records E_Con_hasImpact_1
+. O
+

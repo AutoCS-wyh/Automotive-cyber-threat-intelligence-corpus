@@ -1,0 +1,18 @@
+London's O
+Metropolitan S_Ide
+Police O
+reported O
+that O
+a O
+Ford B_Veh
+S I_Veh
+Max E_Veh
+was O
+stolen S_Con
+with O
+a O
+keyless B_Tool
+hacking I_Tool
+device E_Tool
+. O
+
