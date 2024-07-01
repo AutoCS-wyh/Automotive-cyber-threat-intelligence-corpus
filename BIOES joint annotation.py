@@ -17,7 +17,7 @@ def process(word_index_dict,id,key,entity,entity_type,entity_postion):
 
 if __name__ == '__main__':
     # 读取data下的文件
-    files = os.listdir('mydata')
+    files = os.listdir('data')
     for file_name in files:
         # 跳过配置文件
         if file_name.endswith('conf'):
@@ -28,7 +28,7 @@ if __name__ == '__main__':
             txt_file_name = file_name.replace('.ann','.txt')
             if txt_file_name not in files:
                 continue
-            txt_content = [ i for i in open(os.path.join('mydata',txt_file_name),'r',encoding='utf-8').readlines()]
+            txt_content = [ i for i in open(os.path.join('data',txt_file_name),'r',encoding='utf-8').readlines()]
             # 如果txt中内容为空，则跳过
             if len(txt_content)==0:
                 continue
@@ -38,7 +38,7 @@ if __name__ == '__main__':
                 relation_dict = {}
                 word_index_dict = {}
                 # 读取ann
-                ann_content = [i.strip('\n') for i in open(os.path.join('mydata',file_name),'r',encoding='utf-8').readlines()]
+                ann_content = [i.strip('\n') for i in open(os.path.join('data',file_name),'r',encoding='utf-8').readlines()]
                 for line in ann_content:
                     # 解析关系
                     if line.startswith('R'):
