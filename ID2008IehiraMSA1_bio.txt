@@ -1,0 +1,87 @@
+Forcing B_AP_targets_1
+Bit I_AP_targets_1
+Error E_AP_targets_1
+in O
+CAN B_Com_targets_1
+communication E_Com_targets_1
+. O
+
+Inducing B_AP_targets_1
+a I_AP_targets_1
+bit I_AP_targets_1
+error E_AP_targets_1
+into O
+the O
+target O
+ECU S_Com_targets_1
+to O
+increase O
+the O
+error O
+counter O
+until O
+the O
+ECU S_Com
+goes O
+into O
+a O
+bus-off O
+state O
+. O
+
+Error O
+Frames O
+on O
+CAN S_Com
+. O
+
+Spoofing B_AP_targets_1
+Attack E_AP_targets_1
+Using O
+Bus-off B_AP_targets_1
+Attacks E_AP_targets_1
+against O
+a O
+Specific O
+ECU S_Com_targets_m
+of O
+the O
+CAN B_Com
+Bus E_Com
+. O
+
+Spoofing B_AP
+messages E_AP
+in O
+the O
+same O
+cycle O
+as O
+the O
+regular O
+message O
+. O
+
+As O
+a O
+result O
+, O
+the O
+receiving O
+ECU O
+cannot O
+detect O
+the O
+spoofing O
+. O
+
+Changing O
+the O
+displayed O
+speed O
+in O
+the O
+instrument O
+cluster O
+. O
+

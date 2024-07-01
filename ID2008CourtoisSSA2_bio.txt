@@ -1,0 +1,34 @@
+Cryptoanalysis S_AP_targets_1
+of O
+KeeLoq B_Com_targets_1
+Cipher E_Com_targets_1
+. O
+
+Slide B_AP_targets_1
+Algebraic I_AP_targets_1
+Attack E_AP_targets_1
+where O
+the O
+remaining O
+bits O
+are O
+determined O
+later O
+. O
+
+Second B_AP_targets_1
+Slide I_AP_targets_1
+Algebraic I_AP_targets_1
+Attack E_AP_targets_1
+can O
+break O
+KeeLoq S_Com_targets_m
+within O
+2^64 O
+CPU-Clocks O
+with O
+2^16 O
+known O
+plaintexts O
+. O
+

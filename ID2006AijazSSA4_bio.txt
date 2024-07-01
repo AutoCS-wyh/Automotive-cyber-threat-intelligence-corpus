@@ -1,0 +1,36 @@
+Manipulating B_Con_hasImpact_1
+a I_Con_hasImpact_1
+car O
+by O
+setting B_AP_hasImpact_1
+component I_AP_hasImpact_1
+to I_AP_hasImpact_1
+service I_AP_hasImpact_1
+mode E_AP_hasImpact_1
+. O
+
+General O
+attack O
+, O
+to O
+manipulate S_AP_targets_1
+an O
+On-Board-Unit B_Com_targets_1
+input E_Com_targets_1
+. O
+
+Setting B_AP_hasImpact_1
+component I_AP_hasImpact_1
+to I_AP_hasImpact_1
+service I_AP_hasImpact_1
+mode E_AP_hasImpact_1
+. O
+
+Implemented O
+test B_Con_hasImpact_1
+functions I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+executed E_Con_hasImpact_1
+. O
+

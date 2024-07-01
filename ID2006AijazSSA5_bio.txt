@@ -1,0 +1,32 @@
+Manipulating B_Con_hasImpact_1
+a I_Con_hasImpact_1
+car E_Con_hasImpact_1
+by O
+executing B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+code E_AP_hasImpact_1
+. O
+
+General O
+attack O
+, O
+to O
+manipulate S_AP_targets_1
+an O
+On-Board-Unit B_Com_targets_1
+input E_Com_targets_1
+. O
+
+Execution B_AP_hasImpact_1
+of I_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+code E_AP_hasImpact_1
+. O
+
+Malicious B_Con_hasImpact_1
+code I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+executed E_Con_hasImpact_1
+. O
+

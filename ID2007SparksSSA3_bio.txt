@@ -1,0 +1,55 @@
+Getting B_Con_hasImpact_1
+the I_Con_hasImpact_1
+RSA I_Con_hasImpact_1
+key E_Con_hasImpact_1
+by O
+side B_AP_M_1
+channel I_AP_M_1
+attacks E_AP_M_1
+on O
+TPM S_Com_targets_1
+. O
+
+Timing B_AP_M_1
+Attack: O
+Based O
+on O
+CRT S_Tool_uses_1
+for O
+RSA B_Con_hasImpact_1
+decryption E_Con_hasImpact_1
+. O
+
+Execution O
+of O
+TPM O
+Seal O
+operations O
+for O
+different O
+input O
+strings O
+to O
+capture O
+time O
+differences O
+between O
+the O
+operations O
+to O
+be O
+able O
+to O
+deduce O
+the O
+key O
+used O
+. O
+
+Conclusions O
+on O
+the O
+RSA O
+key O
+. O
+

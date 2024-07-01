@@ -1,0 +1,45 @@
+Linking O
+a O
+person O
+and O
+an O
+identifier O
+by O
+observing O
+behavior O
+on O
+a O
+side B_Com
+channel E_Com
+. O
+
+General O
+attack O
+to O
+violate B_Con
+privacy E_Con
+. O
+
+Observing O
+node O
+behavior O
+by O
+a O
+side-channel. O
+Privacy B_Con
+is I_Con
+violated E_Con
+and O
+a O
+link O
+between O
+a O
+person O
+and O
+an O
+identifier O
+can O
+be O
+observed O
+. O
+
