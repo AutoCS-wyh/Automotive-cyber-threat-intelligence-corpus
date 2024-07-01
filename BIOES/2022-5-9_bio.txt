@@ -1,0 +1,22 @@
+Two O
+vulnerabilities O
+( O
+Cross B_Vul_hasVulnerability_1
+Site I_Vul_hasVulnerability_1
+Scripting E_Vul_hasVulnerability_1
+( O
+XSS S_Vul_hasVulnerability_1
+) O
+and O
+SQL B_Vul_hasVulnerability_1
+Injection E_Vul_hasVulnerability_1
+) O
+were O
+found O
+in O
+automotive B_Com_hasVulnerability_m
+shop I_Com_hasVulnerability_m
+management I_Com_hasVulnerability_m
+system E_Com_hasVulnerability_m
+. O
+

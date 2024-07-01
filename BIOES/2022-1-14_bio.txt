@@ -1,0 +1,35 @@
+A O
+script O
+published O
+on O
+Github O
+by O
+a O
+security O
+researcher O
+‘d-Rickyy-b’, O
+enables O
+controlling B_Con
+functions E_Con
+of O
+Ford S_Veh
+vehicles O
+via O
+FordPass B_Tool
+API E_Tool
+. O
+
+The O
+script’s O
+features O
+enable O
+controlling B_Con
+the I_Con
+vehicle I_Con
+locking E_Con
+functions O
+and O
+engine B_Con
+ignition E_Con
+. O
+
