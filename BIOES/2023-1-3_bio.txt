@@ -1,0 +1,35 @@
+Security O
+researchers O
+discovered O
+a O
+critical O
+vulnerability O
+, O
+CVE-2022-32635, O
+impacting O
+MediaTek S_Ide_related-to_1
+GPS B_Com_M_1
+microchips E_Com_M_1
+. O
+
+A O
+remote O
+attacker O
+could O
+exploit O
+this O
+vulnerability O
+to O
+achieve O
+local B_Con_hasImpact_1
+escalation I_Con_hasImpact_1
+of I_Con_hasImpact_1
+privileges E_Con_hasImpact_1
+with O
+no O
+additional O
+execution O
+privileges O
+needed O
+. O
+

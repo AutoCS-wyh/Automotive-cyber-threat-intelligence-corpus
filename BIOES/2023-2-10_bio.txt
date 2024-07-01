@@ -1,0 +1,43 @@
+Police O
+in O
+Glasgow S_Loc
+, O
+Scotland S_Loc
+, O
+reported O
+a O
+spike O
+in O
+keyless B_Con
+car I_Con
+thefts E_Con
+. O
+
+Among O
+the O
+most O
+stolen O
+vehicles O
+are O
+Land B_Veh
+Rovers E_Veh
+and O
+Range B_Veh
+Rovers E_Veh
+. O
+
+The O
+police O
+provided O
+advice O
+on O
+how O
+to O
+avoid O
+future O
+thefts B_Con
+of I_Con
+keyless I_Con
+cars E_Con
+. O
+

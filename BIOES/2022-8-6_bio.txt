@@ -1,0 +1,34 @@
+A O
+vulnerability O
+known O
+as O
+CVE-2022-36945, O
+impacting O
+various O
+Mazda S_Veh
+vehicles O
+, O
+was O
+detected O
+by O
+security O
+researchers O
+. O
+
+By O
+exploiting O
+this O
+vulnerability O
+, O
+an O
+attacker O
+is O
+able O
+to O
+permanently B_Con_hasImpact_1
+unlock E_Con_hasImpact_1
+the O
+affected O
+vehicle O
+. O
+
