@@ -1,0 +1,47 @@
+Acceleration S_Con_hasImpact_1
+of O
+the O
+vehicle O
+by O
+spoofing S_AP_M_1
+the O
+CAN S_Com_targets_1
+message O
+of O
+the O
+gas B_Com_targets_1
+pedal E_Com_targets_1
+. O
+
+Access O
+to O
+CAN S_Com
+via O
+PMC S_Com
+, O
+ECM S_Com
+or O
+the O
+CAN B_Com
+bridges E_Com
+. O
+
+Continuous O
+spoofing S_AP_M_1
+of O
+the O
+malicious O
+CAN S_Com_targets_1
+message O
+. O
+
+Acceleration S_Con_hasImpact_1
+of O
+the O
+vehicle O
+for O
+a O
+few O
+seconds O
+. O
+

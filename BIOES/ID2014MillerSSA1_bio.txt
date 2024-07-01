@@ -1,0 +1,31 @@
+Prevent B_Con_hasImpact_1
+engine I_Con_hasImpact_1
+start E_Con_hasImpact_1
+by O
+spoofing S_AP_M_1
+commands O
+via O
+wireless B_AV_based-on_1
+connection E_AV_based-on_1
+. O
+
+Spoofing S_AP_M_1
+Messages O
+to O
+internal B_Com_targets_1
+network E_Com_targets_1
+in O
+order O
+to O
+prevent B_Con_hasImpact_1
+an I_Con_hasImpact_1
+engine I_Con_hasImpact_1
+start E_Con_hasImpact_1
+. O
+
+Engine B_Con_hasImpact_1
+can't I_Con_hasImpact_1
+be I_Con_hasImpact_1
+started E_Con_hasImpact_1
+. O
+

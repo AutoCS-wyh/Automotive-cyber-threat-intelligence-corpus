@@ -1,0 +1,58 @@
+Saftey-critical B_Con_hasImpact_1
+systems I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+controlled E_Con_hasImpact_1
+via O
+the O
+diagnostic B_AV_based-on_1
+ports E_AV_based-on_1
+CAN S_Com
+connection O
+. O
+
+Identifying O
+CAN S_Com
+messages O
+. O
+
+CAN S_Com
+packets O
+, O
+which O
+can O
+influence O
+vehicle O
+functions O
+, O
+were O
+identified O
+. O
+
+Fuzzing S_AP_M_1
+CAN S_Com_targets_1
+messages O
+to O
+trigger B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+. O
+
+Car B_Con_hasImpact_1
+speed I_Con_hasImpact_1
+was I_Con_hasImpact_1
+decreased E_Con_hasImpact_1
+, O
+car B_Con_hasImpact_1
+made I_Con_hasImpact_1
+noises E_Con_hasImpact_1
+, O
+lights B_Con_hasImpact_1
+were I_Con_hasImpact_1
+blinking E_Con_hasImpact_1
+, O
+odometer B_Con_hasImpact_1
+was I_Con_hasImpact_1
+changed E_Con_hasImpact_1
+. O
+

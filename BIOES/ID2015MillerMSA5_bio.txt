@@ -1,0 +1,93 @@
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+message B_Com_targets_1
+protocol E_Com_targets_1
+. O
+
+Reverser B_AP_M_1
+Engineering E_AP_M_1
+the O
+message B_Com_targets_1
+protocol E_Com_targets_1
+between O
+OMAP B_Com
+chip E_Com
+and O
+SPI S_Com
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+message B_Com
+protocol E_Com
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+parts O
+of O
+the O
+V850 B_Com_targets_1
+firmware E_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Firmware B_Com
+Functionality E_Com
+. O
+
+Manipulating S_Con_hasImpact_1
+the O
+turning B_Com_targets_1
+signals E_Com_targets_1
+, O
+door O
+locks E_Com_targets_1
+and O
+the O
+speedometer S_Com_targets_1
+by O
+spoofing S_AP_M_1
+of O
+standard O
+CAN B_Tool_uses_1
+messages E_Tool_uses_1
+. O
+
+Sending O
+CAN O
+data O
+via O
+SPI S_Com
+to O
+V850 B_Com
+firmware I_Com
+functions E_Com
+. O
+
+Activation B_Con
+of I_Con
+actuators E_Con
+( O
+Door B_Com
+locks E_Com
+, O
+turning B_Com
+signals E_Com
+, O
+speedometer S_Com
+) O
+via O
+standard O
+messages O
+. O
+

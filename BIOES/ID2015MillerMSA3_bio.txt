@@ -1,0 +1,96 @@
+Firmware S_Com_targets_1
+Extraction S_AP_M_1
+. O
+
+Getting O
+firmware S_Com_consists-of_1
+from O
+the O
+ECU S_Com_consists-of_1
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Firmware E_Con_hasImpact_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+firmware S_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Firmware B_Com
+Functionality E_Com
+. O
+
+Firmware S_Com_targets_1
+Modification S_AP_targets_1
+. O
+
+Firmware S_Com_targets_1
+modification S_AP_targets_1
+for O
+CAN O
+access O
+. O
+
+Sending O
+of O
+any O
+CAN O
+messages O
+possible O
+due O
+to O
+full O
+control O
+over O
+ECU S_Com
+. O
+
+Flashing O
+of O
+the O
+IOC B_Com_consists-of_1
+chip E_Com_consists-of_1
+which O
+is O
+reponsible O
+for O
+CAN O
+communication O
+with O
+modified O
+firmware S_Com_consists-of_1
+. O
+
+Flashing B_AP
+of I_AP
+modified I_AP
+Firmware E_AP
+. O
+
+Sending O
+of O
+any O
+CAN O
+messages O
+possible O
+due O
+to O
+full O
+control O
+over O
+ECU S_Com
+. O
+

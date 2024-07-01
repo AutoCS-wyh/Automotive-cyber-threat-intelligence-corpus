@@ -1,0 +1,49 @@
+Relay B_AP_targets_1
+attack E_AP_targets_1
+on O
+keyless B_Com_targets_1
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+a O
+vehicle O
+. O
+
+Relay B_AP_M_m
+over I_AP_M_m
+the I_AP_M_m
+air I_AP_M_m
+attack: O
+Same O
+concept O
+as O
+over O
+cable O
+but O
+here O
+the O
+attacker O
+uses O
+an O
+emitter S_Tool_uses_m
+and O
+a O
+transceiver S_Tool_uses_m
+to O
+relay B_AP_M_m
+the I_AP_M_m
+signals E_AP_M_m
+. O
+
+Access B_Con_hasImpact_m
+to I_Con_hasImpact_m
+the I_Con_hasImpact_m
+vehicle E_Con_hasImpact_m
+. O
+
+Starting B_Con_hasImpact_m
+of I_Con_hasImpact_m
+the I_Con_hasImpact_m
+engine E_Con_hasImpact_m
+. O
+

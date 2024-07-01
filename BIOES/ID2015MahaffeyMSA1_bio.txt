@@ -1,0 +1,172 @@
+Information O
+Gathering O
+about O
+the O
+vehicle O
+. O
+
+Analysis O
+of O
+vehicles O
+internal B_Com
+networks E_Com
+and O
+systems O
+. O
+
+Unknown O
+connector O
+on O
+the O
+CID S_Com
+turned O
+out O
+to O
+be O
+an O
+Ethernet B_Com
+port E_Com
+, O
+with O
+non-standardized O
+interface O
+-> O
+communication O
+with O
+the O
+internal B_Com
+network E_Com
+possible O
+. O
+
+Exploiting O
+browser B_Vul_hasImpact_1
+vulnerabilities E_Vul_hasImpact_1
+via O
+Ethernet B_AV
+port E_AV
+. O
+
+Browser B_Con_hasImpact_1
+crash E_Con_hasImpact_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+of O
+the O
+CID S_Com_consists-of_1
+Firmware S_Com_M_1
+. O
+
+Cracking O
+the O
+shadow B_Com
+file E_Com
+in O
+order O
+to O
+get B_Con
+user I_Con
+accounts I_Con
+and I_Con
+passwords E_Con
+. O
+
+User O
+Accounts O
+and O
+Passwords O
+could O
+be O
+extracted O
+. O
+
+Getting B_Con
+root I_Con
+access E_Con
+. O
+
+Privilege B_AP_M_1
+Escalation E_AP_M_1
+to O
+root O
+access O
+with O
+valid O
+credentials O
+. O
+
+30 O
+services O
+could O
+be O
+addressed O
+via O
+the O
+internal B_Com
+network E_Com
+. O
+
+Root B_Con_hasImpact_1
+access E_Con_hasImpact_1
+to O
+the O
+infotainment B_Com_targets_1
+system E_Com_targets_1
+. O
+
+Control S_Con_hasImpact_1
+of O
+interior O
+and O
+exterior O
+lighting S_Com
+, O
+chassis S_Com
+, O
+air B_Com
+conditioning E_Com
+, O
+horn S_Com
+, O
+switch B_Con
+vehicle I_Con
+off I_Con
+and I_Con
+start E_Con
+by O
+sending O
+CAN O
+messages O
+. O
+
+Sending O
+malicious O
+commands O
+in O
+order O
+to O
+trigger B_Con
+vehicle I_Con
+functions E_Con
+. O
+
+Opening/closing B_Con
+doors E_Con
+and O
+boot O
+. O
+
+Starting B_Con
+and I_Con
+stopping I_Con
+the I_Con
+engine E_Con
+. O
+

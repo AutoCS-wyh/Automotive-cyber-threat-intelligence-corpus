@@ -1,0 +1,168 @@
+Monitoring S_AP_targets_1
+RFID S_Com_targets_1
+communication O
+. O
+
+Eavesdropping S_AP_M_m
+of O
+the O
+communication O
+between O
+the O
+transponder S_Com_targets_1
+and O
+the O
+antenna S_Com_targets_1
+/ O
+immobilizer S_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Communication O
+between O
+Transponder S_Com
+and O
+Immobilizer S_Com
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Cipher S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+Cipher S_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+the O
+Cipher S_Com
+. O
+
+Cryptoanalysis S_AP_targets_1
+of O
+Cipher S_Com_targets_1
+. O
+
+Cryptoanalysis S_AP_M_1
+of O
+the O
+cipher S_Com_targets_1
+in O
+order O
+to O
+recover B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+secret I_Con_hasImpact_1
+key E_Con_hasImpact_1
+. O
+
+Cipher B_Con_hasImpact_1
+Vulnerabilities I_Con_hasImpact_1
+identified E_Con_hasImpact_1
+. O
+
+Exploiting O
+Megamos B_Vul_M_1
+Crypto I_Vul_M_1
+Cipher I_Vul_M_1
+weakness E_Vul_M_1
+. O
+
+Exploitation O
+of O
+weaknesses B_Vul_M_1
+in I_Vul_M_1
+cipher I_Vul_M_1
+design I_Vul_M_1
+and I_Vul_M_1
+authentication I_Vul_M_1
+protocol E_Vul_M_1
+. O
+
+Secret B_Con_M_m
+key I_Con_M_m
+obtained E_Con_M_m
+after O
+3x216 O
+attempts O
+to O
+authenticate O
+( O
+30 O
+minutes). O
+DoS S_Con_M_m
+possible O
+. O
+
+Exploiting O
+immobilzer's B_Vul_hasImpact_1
+Key I_Vul_hasImpact_1
+Update I_Vul_hasImpact_1
+weakness E_Vul_hasImpact_1
+. O
+
+Exploiting O
+weaknesses B_Vul_hasImpact_1
+in I_Vul_hasImpact_1
+the I_Vul_hasImpact_1
+key I_Vul_hasImpact_1
+update I_Vul_hasImpact_1
+mechanism E_Vul_hasImpact_1
+. O
+
+Secret B_Con_hasImpact_1
+key I_Con_hasImpact_1
+obtained E_Con_hasImpact_1
+after O
+3x216 O
+attempts O
+to O
+authenticate O
+( O
+30 O
+minutes). O
+DoS S_Con_hasImpact_1
+possible O
+. O
+
+Exploitation O
+of O
+weak B_Vul_M_1
+secret I_Vul_M_1
+keys E_Vul_M_1
+by O
+cryptoanalysis S_AP_targets_1
+of O
+the O
+Megamos B_Com_targets_1
+cipher E_Com_targets_1
+. O
+
+Exploitation O
+of O
+weak B_Vul_M_1
+crypto-keys. O
+Secret B_Con_M_m
+key I_Con_M_m
+obtained E_Con_M_m
+after O
+3x216 O
+attempts O
+to O
+authenticate O
+( O
+30 O
+minutes). O
+DoS S_Con_M_m
+possible O
+. O
+

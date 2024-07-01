@@ -1,0 +1,62 @@
+Disabling B_Con_hasImpact_1
+alarm E_Con_hasImpact_1
+and O
+opening B_Con_hasImpact_1
+doors E_Con_hasImpact_1
+. O
+
+Disabling B_Con_hasImpact_1
+the I_Con_hasImpact_1
+theft I_Con_hasImpact_1
+intrusion I_Con_hasImpact_1
+alarm E_Con_hasImpact_1
+by O
+decoding S_AP_hasImpact_m
+and O
+hacking B_AP_hasImpact_m
+the I_AP_hasImpact_m
+door I_AP_hasImpact_m
+locks E_AP_hasImpact_m
+. O
+
+Access B_Con_hasImpact_1
+to I_Con_hasImpact_1
+the I_Con_hasImpact_1
+car E_Con_hasImpact_1
+. O
+
+Extraction B_AP_based-on_1
+of I_AP_based-on_1
+secret I_AP_based-on_1
+keys E_AP_based-on_1
+via O
+OBD S_AV_based-on_1
+after O
+breaking O
+into O
+vehicles O
+. O
+
+Accessing O
+the O
+OBD S_AV
+and O
+Information B_AP_M_1
+gathering E_AP_M_1
+via O
+OBD S_AV_based-on_1
+( O
+reading O
+keys O
+from O
+ECU O
+). O
+Keys O
+and O
+other O
+information O
+could O
+be O
+read O
+. O
+

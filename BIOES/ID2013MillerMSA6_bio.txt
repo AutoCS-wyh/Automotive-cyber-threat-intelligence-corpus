@@ -1,0 +1,63 @@
+Extraction S_AP_M_1
+of O
+the O
+Parking B_Com_targets_1
+Assistance I_Com_targets_1
+Module I_Com_targets_1
+firmware E_Com_targets_1
+over O
+an O
+integrated O
+Background B_AV_based-on_1
+Debug I_AV_based-on_1
+Mode I_AV_based-on_1
+interface E_AV_based-on_1
+. O
+
+Firmware S_Com_M_1
+download O
+by O
+connecting O
+ECU S_Com_consists-of_1
+to O
+a O
+debugger S_Tool_uses_1
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Firmware E_Con_hasImpact_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+firmware S_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Firmware S_Com
+Functionality O
+. O
+
+Firmware S_Com_M_1
+Modification S_AP_targets_1
+of O
+the O
+Park B_Com_consists-of_1
+Assistance I_Com_consists-of_1
+Module E_Com_consists-of_1
+. O
+
+Modifying S_AP_targets_1
+firmware S_Com_targets_1
+. O
+

@@ -1,0 +1,47 @@
+Denial B_AP_M_1
+of I_AP_M_1
+service I_AP_M_1
+attack E_AP_M_1
+to O
+prevent B_Con_hasImpact_1
+the I_Con_hasImpact_1
+start I_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+engine E_Con_hasImpact_1
+by O
+continous O
+sending O
+of O
+CAN S_Com_targets_1
+messages O
+with O
+ID O
+0 O
+( O
+violation O
+of O
+CAN S_Com
+standard). O
+Access O
+to O
+CAN O
+via O
+OBD O
+. O
+
+Continuously O
+sending O
+CAN O
+messages O
+with O
+high O
+priority O
+. O
+
+Engine O
+doesn't O
+start O
+. O
+

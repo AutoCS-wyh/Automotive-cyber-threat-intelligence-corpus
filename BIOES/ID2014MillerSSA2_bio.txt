@@ -1,0 +1,35 @@
+Deactivation S_Con_hasImpact_1
+of O
+Smart B_Com_targets_1
+Junction I_Com_targets_1
+Box E_Com_targets_1
+by O
+spoofing S_AP_M_1
+commands O
+via O
+wireless B_AV_based-on_1
+connection E_AV_based-on_1
+. O
+
+Spoofing S_AP_M_1
+Messages O
+to O
+internal B_Com_targets_1
+network E_Com_targets_1
+to O
+shut B_Con_hasImpact_1
+down I_Con_hasImpact_1
+the I_Con_hasImpact_1
+ECU E_Con_hasImpact_1
+. O
+
+Shutdown B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+ECU E_Con_hasImpact_1
+. O
+
+Error B_Con_hasImpact_1
+messages E_Con_hasImpact_1
+. O
+

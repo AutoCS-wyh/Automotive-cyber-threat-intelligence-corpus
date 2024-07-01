@@ -1,0 +1,28 @@
+Information O
+Gathering O
+by O
+monitoring S_AP_targets_1
+the O
+CAN B_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Scanning S_AP_targets_m
+for O
+diagnostic B_Com_targets_1
+messages E_Com_targets_1
+, O
+diagnostic-Ids, O
+services S_Com_targets_1
+and O
+parameters O
+. O
+
+Eavesdropping S_AP_targets_m
+of O
+messages S_Com_targets_1
+and O
+vehicle B_Com_targets_1
+information E_Com_targets_1
+. O
+

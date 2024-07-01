@@ -1,0 +1,43 @@
+Spoofing S_AP_targets_m
+CAN S_Com_targets_1
+messages O
+to O
+internal B_Com_targets_1
+networks E_Com_targets_1
+by O
+spoofing S_AP_based-on_1
+commands O
+via O
+RDS B_AV_based-on_1
+connection E_AV_based-on_1
+. O
+
+Spoofing S_AP_M_1
+Messages O
+to O
+CAN S_Com_targets_1
+network O
+. O
+
+Wireless B_Con_hasImpact_1
+access I_Con_hasImpact_1
+of I_Con_hasImpact_1
+vehicle E_Con_hasImpact_1
+possible O
+-> O
+ECUs S_Com
+which O
+are O
+connected O
+to O
+bus B_Com
+system E_Com
+can O
+be O
+used O
+for O
+sending O
+CAN S_Com
+messages O
+. O
+

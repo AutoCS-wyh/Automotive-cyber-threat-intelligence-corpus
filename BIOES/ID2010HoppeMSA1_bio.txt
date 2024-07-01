@@ -1,0 +1,166 @@
+Monitoring S_AP_targets_1
+CAN B_Com_targets_1
+messages E_Com_targets_1
+. O
+
+Capturing S_AP_targets_1
+real O
+CAN B_Com_targets_1
+data I_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Obtainment O
+of O
+CAN B_Com
+messages E_Com
+. O
+
+Sending B_AP
+malicious I_AP
+CAN I_AP
+messages E_AP
+. O
+
+Spoofing S_AP_M_m
+false O
+messages O
+to O
+open B_Con_hasImpact_1
+the I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+window E_Con_hasImpact_1
+, O
+Verification O
+with O
+real O
+window O
+lift O
+. O
+
+Opening B_Con_hasImpact_1
+the I_Con_hasImpact_1
+window E_Con_hasImpact_1
+by O
+activation O
+of O
+the O
+window B_Com_targets_1
+lift E_Com_targets_1
+. O
+
+Replay S_AP_M_1
+of O
+a O
+valid O
+CAN B_Com_targets_1
+message E_Com_targets_1
+in O
+order O
+to O
+open B_Con_hasImpact_1
+and I_Con_hasImpact_1
+close I_Con_hasImpact_1
+the I_Con_hasImpact_1
+window E_Con_hasImpact_1
+. O
+
+Spoofing S_AP_M_1
+false O
+messages O
+to O
+surpress B_Con_hasImpact_1
+the I_Con_hasImpact_1
+blinking I_Con_hasImpact_1
+lights E_Con_hasImpact_1
+of O
+the O
+car O
+. O
+
+Turning B_Con_hasImpact_1
+signal I_Con_hasImpact_1
+could I_Con_hasImpact_1
+be I_Con_hasImpact_1
+suppressed E_Con_hasImpact_1
+. O
+
+Activation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+control I_Con_hasImpact_1
+light E_Con_hasImpact_1
+in O
+the O
+instrument B_Com
+cluster E_Com
+by O
+spoofing S_AP_hasImpact_1
+CAN B_Com
+messages E_Com
+from O
+an O
+emulated O
+airbag B_Com
+ECU E_Com
+. O
+
+Spoofing S_AP_hasImpact_1
+false O
+messages O
+to O
+activate B_Con_hasImpact_1
+the I_Con_hasImpact_1
+control I_Con_hasImpact_1
+light E_Con_hasImpact_1
+in O
+the O
+instrument B_Com
+cluster E_Com
+. O
+
+Airbag B_Com_consists-of_1
+control I_Com_consists-of_1
+light E_Com_consists-of_1
+in O
+the O
+instrument B_Com_consists-of_1
+cluster E_Com_consists-of_1
+could O
+be O
+activated O
+. O
+
+Information B_AP
+gathering E_AP
+by O
+capturing S_AP_targets_1
+the O
+CAN B_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Reading O
+and O
+Spoofing S_AP
+of O
+CAN B_Com
+messages E_Com
+in O
+order O
+to O
+get O
+knowledge O
+about O
+the O
+Gateway B_Com
+ECU E_Com
+functionality O
+. O
+
+Reverse B_AP_targets_1
+Engineered E_AP_targets_1
+Gateway B_Com_targets_1
+functionality E_Com_targets_1
+. O
+

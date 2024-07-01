@@ -1,0 +1,35 @@
+Deactivation B_Con
+of I_Con
+the I_Con
+ECU I_Con
+communication E_Con
+over O
+CAN S_Com
+by O
+using O
+a O
+standard O
+diagnostic B_Tool
+function E_Tool
+. O
+
+Sending O
+the O
+standard O
+command O
+for O
+disabling B_Con
+the I_Con
+CAN I_Con
+communication E_Con
+via O
+OBD S_AV
+. O
+
+ECU B_Con
+communication I_Con
+disabled E_Con
+while O
+driving O
+. O
+

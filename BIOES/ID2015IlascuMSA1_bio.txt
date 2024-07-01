@@ -1,0 +1,52 @@
+Man-in-the-Middle B_AP_M_1
+attack E_AP_M_1
+is O
+used O
+for O
+replaying S_AP_M_1
+valid O
+key S_Com_M_m
+commands O
+to O
+unlock S_Con_hasImpact_m
+and O
+start S_Con_hasImpact_m
+a O
+Tesla B_Veh_consists-of_m
+Model I_Veh_consists-of_m
+S E_Veh_consists-of_m
+. O
+
+Man-in-the-Middle B_AP_targets_1
+Attack E_AP_targets_1
+to O
+intercept S_AP_targets_1
+radio O
+frequency O
+key B_Com_M_m
+fob E_Com_M_m
+traffic O
+. O
+
+Authentication O
+secret O
+was O
+acquired O
+. O
+
+Replay S_AP_M_1
+key B_Com_targets_1
+fob E_Com_targets_1
+commands O
+with O
+key O
+duplication O
+. O
+
+Vehicle O
+was O
+unlocked S_Con_hasImpact_1
+and O
+started S_Con_hasImpact_1
+. O
+

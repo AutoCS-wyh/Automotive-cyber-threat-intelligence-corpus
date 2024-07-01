@@ -1,0 +1,156 @@
+Firmware B_AP_based-on_1
+Extraction E_AP_based-on_1
+. O
+
+Connection O
+to O
+CAN S_Com
+via O
+OBD S_AV_M_m
+. O
+
+Firmware B_AP_targets_1
+extraction E_AP_targets_1
+of O
+the O
+media B_Com_M_m
+player E_Com_M_m
+. O
+
+Firmware S_Com_consists-of_1
+could O
+be O
+extracted O
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+media B_Com_consists-of_1
+player E_Com_consists-of_1
+firmware S_Com_M_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Firmware B_Com
+Functionality E_Com
+. O
+
+Memory O
+Dump O
+and O
+identification O
+of O
+exploitable O
+funtion O
+pointers O
+. O
+
+Because O
+of O
+restriction O
+attackers O
+developed O
+an O
+in-circuit B_Tool
+debugger E_Tool
+that O
+communicates O
+over O
+an O
+unused O
+serial O
+port O
+. O
+
+Dumping O
+of O
+memory O
+possible O
+. O
+
+Found O
+functional O
+pointers O
+to O
+overwrite O
+. O
+
+Identification O
+of O
+funtion O
+pointers O
+that O
+could O
+be O
+overwritten O
+. O
+
+Firmware O
+update O
+on O
+ECU O
+by O
+a O
+custom O
+ISO O
+9660 O
+formatted O
+CD O
+and O
+Execution O
+of O
+any O
+code O
+function O
+by O
+exploiting O
+a O
+buffer O
+overflow O
+vulnerability O
+in O
+the O
+WMA O
+parser O
+. O
+
+Creating O
+a O
+CD O
+with O
+malicious O
+WMA O
+audio O
+file O
+that O
+exploits O
+the O
+WMA O
+parser O
+vulnerability O
+and O
+sends O
+malicous O
+CAN O
+messages O
+. O
+
+Sending O
+of O
+any O
+CAN O
+message O
+to O
+the O
+network O
+. O
+

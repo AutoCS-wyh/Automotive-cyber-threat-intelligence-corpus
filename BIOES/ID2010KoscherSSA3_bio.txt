@@ -1,0 +1,44 @@
+Engine B_Con_hasImpact_1
+shutdown E_Con_hasImpact_1
+through O
+setting B_AP_hasImpact_1
+the I_AP_hasImpact_1
+ECU I_AP_hasImpact_1
+into I_AP_hasImpact_1
+flash I_AP_hasImpact_1
+mode E_AP_hasImpact_1
+while O
+the O
+vehicle O
+is O
+driving O
+by O
+sending O
+a O
+standard O
+command O
+via O
+CAN S_Com
+. O
+
+Sending O
+the O
+standard O
+command O
+for O
+reflashing B_AP_M_1
+the I_AP_M_1
+ECU E_AP_M_1
+via O
+OBD S_AV_based-on_1
+. O
+
+Engine B_Con_hasImpact_1
+shutdown E_Con_hasImpact_1
+during O
+change O
+to O
+flash O
+mode O
+. O
+

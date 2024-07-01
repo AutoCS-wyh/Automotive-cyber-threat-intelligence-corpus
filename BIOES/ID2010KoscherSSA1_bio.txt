@@ -1,0 +1,85 @@
+Brute B_AP_M_1
+force I_AP_M_1
+attack E_AP_M_1
+on O
+security B_Com_targets_1
+access E_Com_targets_1
+lead O
+to O
+extraction B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+key E_Con_hasImpact_1
+in O
+1.5 O
+days O
+. O
+
+Physical O
+access O
+to O
+ECU S_Com
+. O
+
+Supply O
+Voltage O
+applied O
+to O
+ECU S_Com
+. O
+
+CAN-to-USB-Converter S_Tool
+and O
+oscilloscope S_Tool
+connected O
+to O
+ECU S_Com
+. O
+
+Brute B_AP_targets_1
+forcing E_AP_targets_1
+the O
+seeds S_Com_M_1
+from O
+the O
+security B_Com_consists-of_1
+access E_Com_consists-of_1
+by O
+sending O
+of O
+CAN O
+diagnostic O
+messages O
+with O
+varrying O
+seeds O
+. O
+
+During O
+brute B_AP_hasImpact_1
+force: O
+powercycling O
+of O
+the O
+ECU S_Com
+to O
+reduce O
+the O
+brute B_AP
+force E_AP
+time O
+because O
+of O
+sending O
+intervall O
+. O
+
+Key B_Con_hasImpact_1
+could I_Con_hasImpact_1
+be I_Con_hasImpact_1
+found E_Con_hasImpact_1
+in O
+1.5 O
+days O
+. O
+

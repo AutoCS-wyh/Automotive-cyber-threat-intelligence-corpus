@@ -1,0 +1,64 @@
+Monitoring S_AP_targets_1
+CAN S_Com_targets_1
+messages O
+. O
+
+CAN S_Com_targets_1
+messages O
+was O
+captured S_AP_M_1
+via O
+connection O
+to O
+OBD S_AV_based-on_1
+. O
+
+Identification O
+of O
+accurate O
+packet O
+. O
+
+Obtainment O
+of O
+CAN S_Com
+messages O
+. O
+
+Replay S_AP_M_1
+of O
+a O
+valid O
+CAN S_Com_targets_1
+message O
+to O
+manipulate B_Con_hasImpact_1
+the I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+speed I_Con_hasImpact_1
+displayed E_Con_hasImpact_1
+in O
+the O
+instrument B_Com
+cluster E_Com
+. O
+
+Replay S_AP_targets_1
+CAN O
+message O
+on O
+the O
+bus S_Com_targets_1
+. O
+
+Any O
+speed O
+can O
+be O
+displayed O
+on O
+the O
+instrument B_Com
+cluster E_Com
+. O
+

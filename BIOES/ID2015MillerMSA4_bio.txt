@@ -1,0 +1,109 @@
+Sending O
+CAN O
+messages O
+to O
+activate B_Con
+update I_Con
+mode E_Con
+. O
+
+Bringing O
+the O
+V850 S_Com
+into O
+update O
+mode O
+via O
+CAN O
+message O
+. O
+
+V850 S_Com
+is O
+in O
+Update O
+Mode O
+. O
+
+Sending O
+CAN O
+messages O
+to O
+activate B_Con
+bootrom I_Con
+mode E_Con
+. O
+
+Bringing O
+OMAP B_Com
+chip E_Com
+in O
+bootrom O
+mode O
+via O
+CAN O
+message O
+. O
+
+OMAP B_Com
+chip E_Com
+is O
+in O
+Bootrom O
+Mode O
+. O
+
+Firmware S_Com_targets_1
+Modification S_AP_targets_1
+. O
+
+Mounting O
+the O
+/fs/mmc0 O
+partition O
+and O
+setting O
+it O
+writeable O
+. O
+
+Modification S_AP_targets_1
+of O
+ECU B_Com_targets_1
+firmware E_Com_targets_1
+. O
+
+Mounting O
+the O
+/fs/mmc0 O
+Partition O
+of O
+the O
+Infotainment B_Com
+ECU E_Com
+and O
+setting O
+it O
+writeable O
+in O
+order O
+to O
+flash O
+malicious O
+. O
+
+Replacing O
+application O
+code O
+by O
+uploading O
+malicious O
+code O
+. O
+
+Update O
+without O
+USB O
+possible O
+. O
+

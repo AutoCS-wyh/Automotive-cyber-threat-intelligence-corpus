@@ -1,0 +1,66 @@
+Eavesdropping B_AP_targets_1
+attack E_AP_targets_1
+on O
+the O
+TPM B_Com_targets_1
+communication E_Com_targets_1
+. O
+
+Building O
+a O
+custom O
+LPC B_Tool_uses_1
+Bus I_Tool_uses_1
+Analyzer E_Tool_uses_1
+that O
+is O
+used O
+to O
+monitor S_AP_M_1
+and O
+process O
+the O
+data B_Com_targets_1
+traffic E_Com_targets_1
+between O
+the O
+Host B_Com
+PC E_Com
+and O
+the O
+TPM S_Com
+. O
+
+Setting O
+up O
+the O
+LPC B_Tool_uses_1
+Bus I_Tool_uses_1
+Analyzer E_Tool_uses_1
+Between O
+the O
+PC S_Com
+and O
+the O
+TPM S_Com
+. O
+
+Eavesdropping S_AP_M_1
+of O
+the O
+data B_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Eavesdropping S_AP_targets_1
+and O
+monitoring S_AP_targets_1
+the O
+traffic O
+of O
+the O
+platforms B_Com_M_m
+LPC I_Com_M_m
+bus E_Com_M_m
+. O
+

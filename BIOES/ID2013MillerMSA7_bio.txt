@@ -1,0 +1,132 @@
+Downloading O
+and O
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Downloading O
+a O
+new O
+calibration B_Com_targets_1
+update I_Com_targets_1
+for I_Com_targets_1
+ECU E_Com_targets_1
+from O
+manufacturer O
+. O
+
+Reverse B_AP_M_m
+Engineering E_AP_M_m
+of O
+the O
+Toyota S_Veh_consists-of_1
+Update B_Com_M_1
+Calibration I_Com_M_1
+Wizard E_Com_M_1
+( O
+CUW). O
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+on O
+various O
+Functionalities O
+of O
+the O
+vehicle O
+. O
+
+Monitoring O
+Firmware S_Com
+Update O
+. O
+
+Monitoring O
+the O
+update O
+process O
+. O
+
+Information B_Con
+Gain E_Con
+of O
+update O
+process O
+for O
+calibration B_Com
+updates E_Com
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Update B_Com_targets_1
+Algorithm E_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+update B_Com_M_1
+algorithm E_Com_M_1
+for O
+calibration B_Com_consists-of_1
+updates E_Com_consists-of_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Update B_Com_consists-of_1
+Algorithm E_Com_consists-of_1
+for O
+calibration B_Com_consists-of_1
+updates E_Com_consists-of_1
+. O
+
+Modification S_AP_targets_1
+of O
+Calibration B_Com_targets_1
+Update E_Com_targets_1
+. O
+
+Malicious B_Tool_uses_1
+Calibration I_Tool_uses_1
+Update E_Tool_uses_1
+that O
+can O
+be O
+flashed O
+on O
+ECU S_Com
+. O
+
+Unauthorized B_AP_M_1
+flashing E_AP_M_1
+of O
+malicious O
+code O
+on O
+the O
+engine B_Com_targets_1
+ECU E_Com_targets_1
+by O
+using O
+the O
+diagnostic B_Tool_uses_1
+reprogramming I_Tool_uses_1
+routine E_Tool_uses_1
+. O
+
+Reflashing B_AP_M_1
+of I_AP_M_1
+malicious I_AP_M_1
+firmware E_AP_M_1
+. O
+
+Flashing B_Con_hasImpact_1
+of I_Con_hasImpact_1
+malicious I_Con_hasImpact_1
+code E_Con_hasImpact_1
+on O
+ECU S_Com_targets_1
+. O
+

@@ -1,0 +1,95 @@
+By O
+installing O
+a O
+GPS B_Tool
+tracker E_Tool
+in O
+vehicles O
+, O
+thieves O
+were O
+able O
+to O
+track B_Con
+the I_Con
+vehicles E_Con
+and O
+copy B_AP_hasImpact_1
+the I_AP_hasImpact_1
+keys E_AP_hasImpact_1
+in O
+order O
+to O
+steal B_Con_hasImpact_1
+the I_Con_hasImpact_1
+cars E_Con_hasImpact_1
+. O
+
+Jamming S_AP_M_1
+door B_Com_targets_1
+lock I_Com_targets_1
+signal E_Com_targets_1
+. O
+
+Car B_Con_hasImpact_1
+doors I_Con_hasImpact_1
+did I_Con_hasImpact_1
+not I_Con_hasImpact_1
+lock E_Con_hasImpact_1
+. O
+
+Key O
+data O
+extraction O
+. O
+
+Key O
+information O
+available O
+for O
+cloning O
+. O
+
+Installing O
+hidden O
+GPS O
+tracking O
+device O
+. O
+
+Vehicle O
+can O
+be O
+tracked O
+. O
+
+Tracking O
+vehicle O
+location O
+. O
+
+Vehicle O
+location O
+is O
+tracked O
+. O
+
+Key O
+is O
+spoofed O
+with O
+acquired O
+key O
+data O
+. O
+
+Doors O
+were O
+unlocked O
+. O
+
+Vehicle O
+was O
+stolen O
+. O
+

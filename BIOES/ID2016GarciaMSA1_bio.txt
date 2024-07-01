@@ -1,0 +1,77 @@
+Analysis O
+of O
+ECU S_Com
+and O
+Chip S_Com
+. O
+
+Analysis O
+of O
+the O
+Chip S_Com
+and O
+the O
+ECU S_Com
+. O
+
+Information B_Con
+Gain E_Con
+of O
+Chip S_Com
+and O
+ECU S_Com
+. O
+
+Extraction O
+of O
+the O
+Firmware S_Com
+. O
+
+Access O
+to O
+Firmware S_Com
+. O
+
+Extracting O
+the O
+global B_Com
+master I_Com
+key E_Com
+by O
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+of O
+the O
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+Firmware S_Com_targets_1
+. O
+
+Reading B_Con_hasImpact_1
+the I_Con_hasImpact_1
+Master I_Con_hasImpact_1
+Key E_Con_hasImpact_1
+. O
+
+Reverse B_AP_M_1
+engineering E_AP_M_1
+of O
+the O
+algorithm B_Com_targets_1
+for I_Com_targets_1
+unlocking E_Com_targets_1
+the O
+vehicle O
+. O
+
+Unlocking B_Con_hasImpact_1
+the I_Con_hasImpact_1
+car E_Con_hasImpact_1
+. O
+

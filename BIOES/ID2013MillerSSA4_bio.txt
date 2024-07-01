@@ -1,0 +1,34 @@
+Deceleration S_Con_hasImpact_1
+of O
+the O
+vehicle O
+until O
+standstill O
+by O
+spoofing S_AP_M_1
+of O
+a O
+valid O
+pre-collision B_Com_targets_1
+CAN E_Com_targets_1
+message O
+. O
+
+Access O
+to O
+CAN S_Com_targets_1
+via O
+OBD S_AV_based-on_1
+. O
+
+Monitoring S_AP_targets_1
+the O
+CAN S_Com_targets_1
+traffic O
+to O
+identify O
+the O
+relevant O
+messages O
+. O
+

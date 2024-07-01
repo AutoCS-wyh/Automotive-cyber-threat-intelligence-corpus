@@ -1,0 +1,81 @@
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+the O
+Security B_Com_M_1
+Access E_Com_M_1
+of O
+the O
+Park B_Com_consists-of_1
+Assistence I_Com_consists-of_1
+Module E_Com_consists-of_1
+( O
+PAM). O
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+the O
+Security B_Com_M_1
+Access E_Com_M_1
+of O
+PAM S_Com_consists-of_1
+with O
+diagnostic B_Tool_uses_1
+tool I_Tool_uses_1
+software E_Tool_uses_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Security B_Com
+Access E_Com
+. O
+
+Firmware S_Com_targets_1
+Extraction S_AP_M_1
+. O
+
+Download O
+of O
+PAM B_Com_targets_1
+firmware E_Com_targets_1
+via O
+diagnostic B_Tool_uses_1
+tool E_Tool_uses_1
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Firmware E_Con_hasImpact_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+PAM B_Com_consists-of_1
+Chip E_Com_consists-of_1
+( O
+Renesas B_Com_consists-of_1
+V850 E_Com_consists-of_1
+) O
+firmware S_Com_M_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Firmware S_Com
+. O
+
+Sending O
+of O
+CAN O
+messages O
+possible O
+. O
+

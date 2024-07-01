@@ -1,0 +1,49 @@
+Steering B_Con_hasImpact_1
+intervention E_Con_hasImpact_1
+by O
+spoofing S_AP_M_1
+of O
+a O
+valid O
+CAN S_Com_targets_1
+message O
+of O
+the O
+parking B_Com_targets_1
+assistance I_Com_targets_1
+system E_Com_targets_1
+. O
+
+Access O
+to O
+CAN S_Com
+via O
+OBD S_AV_based-on_m
+. O
+
+Continuously O
+sending B_AP_M_1
+CAN I_AP_M_1
+messages E_AP_M_1
+with O
+small O
+changes O
+to O
+the O
+values O
+of O
+the O
+steering O
+position O
+. O
+
+Collision S_Con_hasImpact_m
+with O
+already O
+parking O
+vehicle O
+during O
+automatic O
+parking O
+. O
+

@@ -1,0 +1,32 @@
+SMS B_Com
+messages E_Com
+can O
+be O
+used O
+in O
+insecure O
+OBD B_Com
+Dongle E_Com
+to O
+send B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+CAN I_AP_hasImpact_1
+commands E_AP_hasImpact_1
+to O
+the O
+vehicle O
+. O
+
+Thus O
+, O
+several O
+car O
+components O
+can O
+be O
+controlled O
+. O
+
+Reverse O
+Engineering O
+OBD-Dongle. O

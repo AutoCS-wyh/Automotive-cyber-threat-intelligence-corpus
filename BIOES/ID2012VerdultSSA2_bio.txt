@@ -1,0 +1,43 @@
+Cryptoanalysis S_AP_hasImpact_1
+to O
+reduce B_Con_hasImpact_1
+encryption I_Con_hasImpact_1
+complexity E_Con_hasImpact_1
+. O
+
+Time/Memory O
+Tradeoff O
+, O
+Uses O
+linear O
+properties O
+of O
+LFSR O
+based O
+ciphers O
+. O
+
+The O
+result O
+is O
+a O
+lookup O
+table O
+that O
+reduces O
+complexity O
+from O
+248 O
+to O
+237 O
+encryptions O
+. O
+
+Secret B_Com
+key E_Com
+independent O
+of O
+read O
+protection O
+. O
+

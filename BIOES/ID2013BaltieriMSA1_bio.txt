@@ -1,0 +1,59 @@
+Monitoring S_AP_M_1
+CAN B_Com_M_1
+messages E_Com_M_1
+. O
+
+Establish O
+connection O
+to O
+OBD S_AV_M_m
+with O
+USB-to-CAN B_Tool_uses_1
+adapter E_Tool_uses_1
+and O
+associated O
+software O
+. O
+
+Reading O
+the O
+CAN O
+data O
+traffic O
+. O
+
+Internal B_Con_hasImpact_1
+bus I_Con_hasImpact_1
+information I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+read E_Con_hasImpact_1
+. O
+
+Sending B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+CAN I_AP_hasImpact_1
+messages E_AP_hasImpact_1
+. O
+
+Spoofing S_AP_M_1
+of O
+CAN B_Com_targets_1
+messages E_Com_targets_1
+. O
+
+Malicious O
+messages O
+can O
+be O
+sent O
+to O
+the O
+bus O
+, O
+actuators B_Con_M_m
+can I_Con_M_m
+be I_Con_M_m
+controlled E_Con_M_m
+. O
+

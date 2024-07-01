@@ -1,0 +1,93 @@
+Man-in-the-Middle B_AP_M_1
+attack E_AP_M_1
+on O
+GM B_Veh_consists-of_m
+OnStar E_Veh_consists-of_m
+RemoteLink B_Com_M_1
+App E_Com_M_1
+results O
+in O
+remote B_Con_hasImpact_1
+conttrol E_Con_hasImpact_1
+over O
+vehicle O
+functions O
+like O
+door B_Com_consists-of_1
+locks E_Com_consists-of_1
+and O
+ignition S_Com_consists-of_1
+. O
+
+Attaching O
+malicious B_Tool
+device E_Tool
+to O
+target O
+vehicle O
+( O
+under O
+chassis O
+or O
+bumper). O
+Remote O
+Wi-Fi S_Com
+connection O
+can O
+be O
+interferred S_Con
+. O
+
+Intercepting S_AP_M_1
+Wi-Fi B_Com_targets_1
+communication E_Com_targets_1
+between O
+user O
+and O
+vehicle O
+. O
+
+User B_Con_hasImpact_1
+credentials I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+acquired E_Con_hasImpact_1
+. O
+
+Tracking S_AP_M_1
+vehicle O
+location O
+. O
+
+Vehicle O
+location B_Con_hasImpact_1
+is I_Con_hasImpact_1
+tracked E_Con_hasImpact_1
+, O
+additionally O
+personal B_Con_hasImpact_1
+information I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+retrieved E_Con_hasImpact_1
+. O
+
+Command O
+spoofing S_AP_M_1
+to O
+trigger O
+vehicle O
+functions O
+. O
+
+Unlocking B_Con_hasImpact_1
+doors E_Con_hasImpact_1
+, O
+activating B_Con_hasImpact_1
+horn E_Con_hasImpact_1
+, O
+starting B_Con_hasImpact_1
+the I_Con_hasImpact_1
+engine E_Con_hasImpact_1
+. O
+

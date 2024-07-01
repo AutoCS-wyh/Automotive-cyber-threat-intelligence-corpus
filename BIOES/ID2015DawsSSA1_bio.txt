@@ -1,0 +1,33 @@
+Vehicle B_Con_hasImpact_1
+location I_Con_hasImpact_1
+tracking E_Con_hasImpact_1
+by O
+intercepting S_AP_M_1
+the O
+communication S_Com_targets_1
+between O
+vehicles O
+and O
+roadside B_Com
+units E_Com
+. O
+
+Tracking B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+location E_Con_hasImpact_1
+based O
+on O
+location B_AV_based-on_1
+broadcast E_AV_based-on_1
+of O
+connected O
+vehicles O
+. O
+
+Vehicle O
+location B_Con
+can I_Con
+be I_Con
+tracked E_Con
+. O
+

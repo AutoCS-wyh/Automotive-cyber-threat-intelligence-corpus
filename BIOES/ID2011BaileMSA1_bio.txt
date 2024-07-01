@@ -1,0 +1,130 @@
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+GSM B_Com_targets_1
+connection E_Com_targets_1
+. O
+
+Setting O
+up O
+a O
+GSM B_Com_consists-of_1
+network E_Com_consists-of_1
+and O
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+data B_Com_M_1
+transmissions E_Com_M_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Data B_Com_consists-of_1
+Transmissions E_Com_consists-of_1
+of O
+the O
+GSM B_Com_consists-of_1
+network E_Com_consists-of_1
+. O
+
+Sending B_AP_targets_1
+malicious I_AP_targets_1
+messages E_AP_targets_1
+to O
+communicate O
+with O
+board B_Com_targets_1
+computer E_Com_targets_1
+. O
+
+Spoofing S_AP_targets_1
+of O
+Server O
+identity O
+in O
+order O
+to O
+communicate O
+directly O
+with O
+the O
+on O
+board B_Com_targets_1
+computer E_Com_targets_1
+. O
+
+Communication O
+with O
+Board B_Com
+Computer E_Com
+. O
+
+Unlocking B_Con
+and I_Con
+starting I_Con
+of I_Con
+vehicles E_Con
+by O
+using O
+a O
+malicious B_Tool
+SMS E_Tool
+. O
+
+Sending O
+commands O
+to O
+unlock O
+the O
+doors O
+and O
+deactivate O
+the O
+alarm S_Com
+. O
+
+Unlocking B_Con
+the I_Con
+door E_Con
+. O
+
+Deactivation B_Con
+of I_Con
+the I_Con
+alarm E_Con
+. O
+
+Capturing S_AP_M_1
+GPS B_Com_targets_1
+coordinates E_Com_targets_1
+by O
+setting O
+um O
+an O
+ad-hoc B_Tool_uses_1
+GSM I_Tool_uses_1
+network E_Tool_uses_1
+and O
+catching S_AP_targets_1
+SMS S_Com_targets_1
+that O
+is O
+sent O
+from O
+car O
+to O
+server O
+. O
+
+Capturing S_AP_M_1
+GPS B_Com_targets_1
+coordinates E_Com_targets_1
+. O
+
+Locating B_Con_hasImpact_1
+the I_Con_hasImpact_1
+vehicle E_Con_hasImpact_1
+. O
+

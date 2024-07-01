@@ -1,0 +1,37 @@
+Using O
+dependency O
+between O
+different O
+sessions O
+and O
+a O
+low B_Com_targets_1
+degree I_Com_targets_1
+determination I_Com_targets_1
+of I_Com_targets_1
+the I_Com_targets_1
+filter I_Com_targets_1
+function E_Com_targets_1
+of O
+the O
+cipher O
+. O
+
+Secret B_Con_hasImpact_1
+key I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+obtained E_Con_hasImpact_1
+with O
+only O
+a O
+few O
+authentication B_AP_M_1
+attempts E_AP_M_1
+. O
+
+Engine B_Con_hasImpact_1
+start E_Con_hasImpact_1
+possible O
+. O
+

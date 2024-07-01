@@ -1,0 +1,142 @@
+Reading B_Con
+memory I_Con
+contents E_Con
+from O
+the O
+telematics B_Com_hasInterface_1
+ECU E_Com_hasInterface_1
+without O
+sufficient O
+authentication O
+. O
+
+Sending O
+the O
+standard O
+command O
+for O
+reading B_Con
+sensitive I_Con
+memory E_Con
+areas O
+of O
+the O
+ECU S_Com
+via O
+OBD S_AV_hasInterface_1
+. O
+
+Authentication O
+not O
+neccessary O
+. O
+
+Firmware S_Com_hasVulnerability_1
+with O
+hardcoded B_Vul_hasVulnerability_1
+keys E_Vul_hasVulnerability_1
+could O
+be O
+extracted O
+without O
+any O
+authentication O
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+of O
+the O
+firmware S_Com_M_1
+from O
+the O
+telematics B_Com_consists-of_1
+ECU E_Com_consists-of_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+of O
+the O
+telematics B_Com_targets_1
+firmware E_Com_targets_1
+. O
+
+Firmware S_Com_targets_1
+could O
+be O
+reverse B_AP_targets_1
+engineered E_AP_targets_1
+. O
+
+Firmware S_Com
+functions O
+could O
+be O
+identified O
+. O
+
+Firmware B_AP
+Modification E_AP
+. O
+
+Modifying S_AP_targets_1
+firmware S_Com_targets_1
+. O
+
+Maclicious B_Tool
+firmware I_Tool
+image E_Tool
+created O
+. O
+
+Bridging O
+of O
+two O
+CAN S_Com
+networks O
+by O
+flashing B_AP_targets_1
+modified I_AP_targets_1
+firmware E_AP_targets_1
+on O
+the O
+telematics B_Com_targets_1
+ECU E_Com_targets_1
+. O
+
+Uploading B_AP_M_1
+modified I_AP_M_1
+firmware E_AP_M_1
+on O
+the O
+ECU S_Com_targets_1
+by O
+sending O
+the O
+standard O
+command O
+for O
+reflashing O
+the O
+ECU S_Com
+via O
+OBD S_AV_based-on_1
+. O
+
+Bridging O
+of O
+both O
+CAN S_Com
+networks O
+through O
+injection B_AP_targets_1
+of I_AP_targets_1
+malicious I_AP_targets_1
+code E_AP_targets_1
+into O
+the O
+telematic B_Com_targets_1
+module E_Com_targets_1
+. O
+

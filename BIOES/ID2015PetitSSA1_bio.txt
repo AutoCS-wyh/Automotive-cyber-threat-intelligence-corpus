@@ -1,0 +1,47 @@
+Blinding S_Con_hasImpact_1
+camera S_Com_targets_1
+and O
+lidar S_Com_targets_1
+by O
+laser B_AP_M_1
+attack E_AP_M_1
+. O
+
+Shuttering S_Con_hasImpact_1
+of O
+the O
+camera S_Com_targets_1
+by O
+laser B_AP_M_1
+irradiation E_AP_M_1
+( O
+constant O
+beam O
+of O
+light). O
+Shuttering S_Con_hasImpact_1
+the O
+camera S_Com_targets_1
+with O
+laser B_AP_M_1
+works E_AP_M_1
+largely O
+as O
+front/rear/side O
+attack O
+. O
+
+Camera O
+could O
+not O
+be O
+completely O
+dazzled O
+, O
+but O
+sufficient O
+to O
+influence B_Con_hasImpact_1
+function E_Con_hasImpact_1
+. O
+

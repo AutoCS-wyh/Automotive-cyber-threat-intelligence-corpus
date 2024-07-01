@@ -1,0 +1,80 @@
+Monitoring S_AP_targets_1
+CAN S_Com_targets_1
+messages O
+. O
+
+Capturing S_AP_targets_1
+the O
+CAN B_Com_targets_1
+data I_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Obtainment O
+of O
+CAN O
+messages O
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+Diagnostic B_Com_targets_1
+Functions E_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Diagnostic B_Com
+Functions E_Com
+and O
+Protocols S_Com
+. O
+
+Deactivation S_Con_hasImpact_1
+of O
+the O
+powertrain S_Com_targets_1
+during O
+driving O
+by O
+spoofing S_AP_M_1
+a O
+CAN B_Com_targets_1
+diagnostic I_Com_targets_1
+message E_Com_targets_1
+which O
+leads O
+to O
+decelerate B_Con_hasImpact_1
+the I_Con_hasImpact_1
+vehicle E_Con_hasImpact_1
+until O
+standstill O
+. O
+
+Spoofing S_AP_M_1
+of O
+diagnostic B_Com_targets_1
+CAN I_Com_targets_1
+message E_Com_targets_1
+to O
+execute O
+an O
+ECU B_Con_hasImpact_1
+reset E_Con_hasImpact_1
+. O
+
+Deactivation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+electric I_Con_hasImpact_1
+motors E_Con_hasImpact_1
+. O
+
+Vehicle B_Con_hasImpact_1
+stops E_Con_hasImpact_1
+by O
+any O
+speed O
+. O
+

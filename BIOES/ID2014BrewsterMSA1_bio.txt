@@ -1,0 +1,78 @@
+Security O
+investigation O
+of O
+OBD B_Com_consists-of_1
+Dongle E_Com_consists-of_1
+uncovered O
+missing B_Vul_hasVulnerability_1
+encryption E_Vul_hasVulnerability_1
+of O
+http B_Com_M_1
+connection E_Com_M_1
+with O
+backend B_Com
+server E_Com
+. O
+
+Injecting B_AP_M_1
+malware E_AP_M_1
+on O
+OBD B_Com_targets_1
+device E_Com_targets_1
+. O
+
+Malware S_Tool_uses_1
+was O
+installed O
+on O
+the O
+remote B_Com_targets_1
+OBD I_Com_targets_1
+device E_Com_targets_1
+. O
+
+Spoofing S_AP_M_1
+commands O
+to O
+trigger B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+via O
+the O
+attached O
+infected B_Tool_uses_1
+OBD I_Tool_uses_1
+Dongle E_Tool_uses_1
+. O
+
+Doors O
+were O
+unlocked S_Con_hasImpact_1
+, O
+manipulation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+displayed I_Con_hasImpact_1
+information E_Con_hasImpact_1
+on O
+the O
+dash B_Com
+board E_Com
+. O
+
+Tracking S_AP_hasImpact_1
+vehicle O
+location O
+and O
+driving O
+behavior O
+. O
+
+Vehicle B_Con_hasImpact_1
+location I_Con_hasImpact_1
+and I_Con_hasImpact_1
+driving I_Con_hasImpact_1
+behavior I_Con_hasImpact_1
+was I_Con_hasImpact_1
+tracked E_Con_hasImpact_1
+. O
+

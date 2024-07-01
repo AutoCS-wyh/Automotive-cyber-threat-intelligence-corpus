@@ -1,0 +1,65 @@
+Monitoring S_AP_targets_1
+CAN S_Com_targets_1
+messages O
+. O
+
+Capturing S_AP_targets_1
+the O
+CAN B_Com_targets_1
+data I_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Obtainment O
+of O
+CAN O
+messages O
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+Diagnostic B_Com_targets_1
+Functions E_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Diagnostic B_Com
+Functions E_Com
+and O
+Protocols S_Com
+. O
+
+Activation S_Con_hasImpact_1
+of O
+the O
+chassis B_Com_targets_1
+rodeo I_Com_targets_1
+diagnostic I_Com_targets_1
+function E_Com_targets_1
+by O
+replaying S_AP_M_1
+the O
+captured O
+diagnostic O
+routine O
+. O
+
+Replay S_AP_hasImpact_1
+of O
+the O
+captured O
+rodeo O
+routine O
+. O
+
+Execution B_Con_hasImpact_1
+of I_Con_hasImpact_1
+rodeo I_Con_hasImpact_1
+routine E_Con_hasImpact_1
+by O
+any O
+speed O
+. O
+

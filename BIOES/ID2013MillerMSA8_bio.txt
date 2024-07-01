@@ -1,0 +1,61 @@
+Monitoring S_AP_targets_1
+CAN S_Com_targets_1
+messages O
+. O
+
+CAN S_Com_M_1
+messages O
+was O
+captured S_AP_M_1
+via O
+connection O
+to O
+OBD S_AV_M_m
+. O
+
+Identification O
+of O
+accurate O
+packet O
+. O
+
+Obtainment O
+of O
+CAN S_Com
+messages O
+. O
+
+Replay S_AP_M_1
+of O
+a O
+valid O
+CAN S_Com_targets_1
+message O
+to O
+activate B_Con_hasImpact_1
+the I_Con_hasImpact_1
+open I_Con_hasImpact_1
+door I_Con_hasImpact_1
+control I_Con_hasImpact_1
+light E_Con_hasImpact_1
+in O
+the O
+instrument B_Com
+cluster E_Com
+. O
+
+Replay S_AP_M_1
+CAN S_Com
+message O
+on O
+the O
+bus S_Com_targets_1
+. O
+
+Display B_Con_hasImpact_1
+shows I_Con_hasImpact_1
+open I_Con_hasImpact_1
+driver I_Con_hasImpact_1
+door E_Con_hasImpact_1
+. O
+

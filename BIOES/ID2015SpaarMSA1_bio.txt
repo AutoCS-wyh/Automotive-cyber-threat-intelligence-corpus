@@ -1,0 +1,102 @@
+Monitoring S_AP_targets_1
+Backend S_Com_targets_1
+communication O
+. O
+
+Recording O
+the O
+backend S_Com
+communication O
+. O
+
+Unlocking B_Com
+Communicating I_Com
+Routine E_Com
+could O
+be O
+recorded O
+. O
+
+Unlocking B_Con_hasImpact_1
+the I_Con_hasImpact_1
+door I_Con_hasImpact_1
+locks E_Con_hasImpact_1
+by O
+replaying S_AP_M_1
+the O
+unlocking B_Com_targets_1
+routine E_Com_targets_1
+between O
+the O
+smartphone B_Com
+app E_Com
+and O
+the O
+backend B_Com
+server O
+of O
+the O
+vehicle O
+manufacturer O
+. O
+
+Performing O
+a O
+replay B_AP_targets_1
+attack: O
+Owner O
+gives O
+command O
+in O
+BMW S_Veh_consists-of_1
+Remote B_Com_M_1
+App E_Com_M_1
+to O
+unlock O
+the O
+door O
+. O
+
+SMS O
+from O
+backend S_Com
+to O
+vehicle O
+. O
+
+Modem S_Com_consists-of_1
+in O
+ECU B_Com_consists-of_1
+boots I_Com_consists-of_1
+system E_Com_consists-of_1
+. O
+
+Unencrypted B_Vul_M_1
+data I_Vul_M_1
+connection I_Vul_M_1
+request E_Vul_M_1
+from O
+vehicle O
+to O
+backend S_Com
+. O
+
+Backend S_Com
+sends O
+command O
+for O
+door O
+release O
+. O
+
+Door O
+is O
+unlocked S_Con_hasImpact_1
+. O
+
+Unlocking S_Con_hasImpact_1
+the O
+driver O
+door O
+. O
+

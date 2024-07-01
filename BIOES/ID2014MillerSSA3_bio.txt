@@ -1,0 +1,57 @@
+Prevent O
+locking E_Con_hasImpact_1
+and O
+unlocking S_Con_hasImpact_1
+of O
+the O
+vehicle O
+, O
+starting B_Con_hasImpact_1
+egnine E_Con_hasImpact_1
+by O
+spoofing S_AP_M_m
+commands O
+via O
+wireless B_AV_based-on_1
+connection E_AV_based-on_1
+. O
+
+Spoofing S_AP_M_m
+Messages O
+to O
+internal O
+network O
+to O
+trigger B_Con_hasImpact_1
+the I_Con_hasImpact_1
+door I_Con_hasImpact_1
+locks E_Con_hasImpact_1
+and O
+to O
+start B_Con_hasImpact_1
+the I_Con_hasImpact_1
+engine E_Con_hasImpact_1
+. O
+
+Prevention B_Con_hasImpact_1
+of I_Con_hasImpact_1
+locking E_Con_hasImpact_1
+and O
+unlocking S_Con_hasImpact_1
+. O
+
+Starting B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+engine E_Con_hasImpact_1
+( O
+even O
+without O
+a O
+valid O
+key). O
+Remote B_Con_hasImpact_1
+Code I_Con_hasImpact_1
+Execution E_Con_hasImpact_1
+. O
+

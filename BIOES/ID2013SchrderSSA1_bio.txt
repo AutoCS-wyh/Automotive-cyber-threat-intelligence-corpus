@@ -1,0 +1,117 @@
+Position B_AP
+Forging E_AP
+in O
+order O
+to O
+pretend O
+false O
+single O
+vehicle O
+position O
+. O
+
+Position B_AP_M_m
+Forging I_AP_M_m
+Attack: O
+Forge O
+single O
+positions O
+. O
+
+Jamming B_Con_hasImpact_1
+of I_Con_hasImpact_1
+signals E_Con_hasImpact_1
+. O
+
+DoS B_Con_hasImpact_1
+of I_Con_hasImpact_1
+V2X I_Con_hasImpact_1
+Communication E_Con_hasImpact_1
+. O
+
+DoS B_Con_hasImpact_1
+of I_Con_hasImpact_1
+ECUs I_Con_hasImpact_1
+and I_Con_hasImpact_1
+bus I_Con_hasImpact_1
+systems E_Con_hasImpact_1
+. O
+
+Infection B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+system I_Con_hasImpact_1
+with I_Con_hasImpact_1
+malware E_Con_hasImpact_1
+. O
+
+Manipulation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Routing I_Con_hasImpact_1
+Tables E_Con_hasImpact_1
+. O
+
+Manipulation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+forwarded I_Con_hasImpact_1
+data E_Con_hasImpact_1
+. O
+
+Sensor B_Con_hasImpact_1
+manipulation E_Con_hasImpact_1
+. O
+
+Malware B_Con_hasImpact_1
+Integration E_Con_hasImpact_1
+. O
+
+Access B_Con_hasImpact_1
+to I_Con_hasImpact_1
+cryptographic I_Con_hasImpact_1
+secret I_Con_hasImpact_1
+keys E_Con_hasImpact_1
+and O
+certificates O
+. O
+
+Manipulation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+communication I_Con_hasImpact_1
+logging E_Con_hasImpact_1
+. O
+
+Manipulation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+backend I_Con_hasImpact_1
+databases E_Con_hasImpact_1
+. O
+
+Eavesdropping B_Con_hasImpact_1
+private I_Con_hasImpact_1
+data E_Con_hasImpact_1
+. O
+
+Eavesdropping B_Con_hasImpact_1
+of I_Con_hasImpact_1
+confidential I_Con_hasImpact_1
+SW E_Con_hasImpact_1
+. O
+
+Collecting B_Con_hasImpact_1
+private I_Con_hasImpact_1
+data E_Con_hasImpact_1
+. O
+
+Dissolution B_Con_hasImpact_1
+of I_Con_hasImpact_1
+pseudonyms E_Con_hasImpact_1
+. O
+
+Rejection B_Con_hasImpact_1
+of I_Con_hasImpact_1
+message I_Con_hasImpact_1
+transmissions I_Con_hasImpact_1
+and I_Con_hasImpact_1
+reception E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,116 @@
+Monitoring S_AP_targets_1
+CAN S_Com_targets_1
+messages O
+. O
+
+Capturing O
+CAN S_Com_targets_1
+data O
+traffic O
+while O
+a O
+diagnostic O
+tester O
+is O
+doing O
+the O
+security B_Com_consists-of_1
+access I_Com_consists-of_1
+routine E_Com_consists-of_1
+with O
+a O
+vehicles O
+ECU S_Com_consists-of_1
+. O
+
+Obtainment O
+of O
+CAN S_Com
+messages O
+. O
+
+Monitoring S_AP_targets_1
+Security B_Com_targets_1
+Access E_Com_targets_1
+. O
+
+Sending O
+different O
+seeds O
+to O
+the O
+diagnostic O
+tester O
+in O
+order O
+to O
+capture S_AP_M_1
+the O
+relating O
+keys S_Com_targets_1
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Seed I_Con_hasImpact_1
+and I_Con_hasImpact_1
+Key I_Con_hasImpact_1
+Pairs E_Con_hasImpact_1
+. O
+
+Breaking B_Con_M_m
+the I_Con_M_m
+security I_Con_M_m
+access E_Con_M_m
+by O
+reverse B_AP_M_1
+engineering E_AP_M_1
+the O
+data B_Com_targets_1
+traffic E_Com_targets_1
+and O
+reverse B_AP_M_1
+engineering E_AP_M_1
+the O
+security B_Com_targets_1
+access I_Com_targets_1
+algorithm E_Com_targets_1
+with O
+extracted O
+seed B_Com
+and I_Com
+key I_Com
+pairs E_Com
+. O
+
+Manual O
+reverse B_AP_M_1
+engineering E_AP_M_1
+of O
+the O
+security B_Com_targets_1
+access I_Com_targets_1
+algorithm E_Com_targets_1
+. O
+
+Seeds B_Con_hasImpact_1
+and I_Con_hasImpact_1
+keys I_Con_hasImpact_1
+could I_Con_hasImpact_1
+be I_Con_hasImpact_1
+read E_Con_hasImpact_1
+. O
+
+Security B_Com_M_1
+access I_Com_M_1
+algorithm E_Com_M_1
+could O
+be O
+reverse B_AP_targets_1
+engineered E_AP_targets_1
+for O
+the O
+airbag B_Com_consists-of_1
+ECU E_Com_consists-of_1
+. O
+

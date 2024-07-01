@@ -1,0 +1,53 @@
+Monitoring S_AP_targets_1
+CAN B_Com_targets_1
+messages E_Com_targets_1
+. O
+
+CAN B_Com_targets_1
+messages E_Com_targets_1
+was O
+captured S_AP_M_1
+via O
+connection O
+to O
+OBD S_AV_based-on_1
+. O
+
+Identification O
+of O
+accurate O
+packet O
+. O
+
+Obtainment O
+of O
+CAN S_Com
+messages O
+. O
+
+Engine B_Con_hasImpact_1
+shutdown E_Con_hasImpact_1
+by O
+spoofing S_AP_M_1
+a O
+modified O
+diagnostic B_Com_targets_1
+message E_Com_targets_1
+. O
+
+Sending O
+modified O
+CAN B_Com_targets_1
+message E_Com_targets_1
+on O
+the O
+bus S_Com_targets_1
+. O
+
+Engine B_Con_hasImpact_1
+shutdown E_Con_hasImpact_1
+by O
+any O
+speed O
+. O
+

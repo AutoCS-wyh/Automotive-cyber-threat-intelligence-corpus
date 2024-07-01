@@ -1,0 +1,61 @@
+Installing O
+cellular B_Tool_uses_1
+device E_Tool_uses_1
+to O
+the O
+telematics B_Com
+ECU E_Com
+leads O
+to O
+remote B_Con_hasImpact_1
+access E_Con_hasImpact_1
+to O
+the O
+attached O
+CAN S_Com
+network O
+. O
+
+Safety-critical B_Con_hasImpact_1
+systems I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+controlled E_Con_hasImpact_1
+. O
+
+Installing O
+GSM B_Tool_uses_1
+device E_Tool_uses_1
+. O
+
+Remote B_AP_M_1
+connection E_AP_M_1
+to O
+control B_Con_hasImpact_1
+the I_Con_hasImpact_1
+car E_Con_hasImpact_1
+can O
+be O
+established O
+. O
+
+Spoofing S_AP_M_1
+remote O
+commands O
+whcih O
+are O
+forwarded O
+to O
+the O
+CAN B_Com_targets_1
+bus E_Com_targets_1
+. O
+
+Engine B_Con_hasImpact_1
+and I_Con_hasImpact_1
+brakes I_Con_hasImpact_1
+could I_Con_hasImpact_1
+be I_Con_hasImpact_1
+disabled E_Con_hasImpact_1
+. O
+

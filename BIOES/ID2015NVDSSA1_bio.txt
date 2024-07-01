@@ -1,0 +1,32 @@
+Bluetooth B_Vul_M_m
+stack I_Vul_M_m
+vulnerability E_Vul_M_m
+on O
+BMW S_Veh_consists-of_1
+Infotainment B_Com_M_m
+ECU E_Com_M_m
+leads O
+to O
+crash S_Con_hasImpact_1
+of O
+CD/Multimedia B_Com_consists-of_1
+software E_Com_consists-of_1
+. O
+
+Crashing B_Con_hasImpact_1
+Bluetooth I_Con_hasImpact_1
+stack E_Con_hasImpact_1
+by O
+format B_Tool_targets_1
+string I_Tool_targets_1
+specifiers E_Tool_targets_1
+in O
+device O
+name O
+. O
+
+CD/Multimedia B_Com
+system E_Com
+crashed S_Con
+. O
+

@@ -1,0 +1,46 @@
+Voice B_Con_hasImpact_1
+recording E_Con_hasImpact_1
+and O
+remote B_Con_hasImpact_1
+code I_Con_hasImpact_1
+execution E_Con_hasImpact_1
+by O
+injecting B_AP_M_m
+commands E_AP_M_m
+via O
+WLAN B_AV_based-on_1
+connection E_AV_based-on_1
+. O
+
+Spoofing S_AP_M_1
+Messages O
+to O
+internal B_Com_targets_1
+network E_Com_targets_1
+for O
+remote B_Con_hasImpact_1
+code I_Con_hasImpact_1
+exploitation E_Con_hasImpact_1
+and O
+to O
+record B_Con_hasImpact_1
+voices E_Con_hasImpact_1
+via O
+microphone S_Com
+. O
+
+Voices B_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+recorded E_Con_hasImpact_1
+via O
+microphone S_Com
+. O
+
+Remote B_Con_hasImpact_1
+Exploit E_Con_hasImpact_1
+without O
+user O
+interaction O
+. O
+

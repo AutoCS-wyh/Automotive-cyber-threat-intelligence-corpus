@@ -1,0 +1,102 @@
+Firmware B_AP
+Extraction E_AP
+. O
+
+Firmware B_AP_M_1
+extraction E_AP_M_1
+of O
+the O
+telematics B_Com_M_m
+ECU E_Com_M_m
+by O
+CAN B_Tool_uses_1
+diagnostic I_Tool_uses_1
+function E_Tool_uses_1
+via O
+OBD S_AV_M_m
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Telematic I_Con_hasImpact_1
+Firmware E_Con_hasImpact_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+Firmware S_Com_M_m
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Firmware B_Com_consists-of_1
+Functionality E_Com_consists-of_1
+. O
+
+Development O
+of O
+malicious B_Tool_uses_1
+smartphone I_Tool_uses_1
+application E_Tool_uses_1
+for O
+authorized O
+user O
+smartphone O
+that O
+checks O
+for O
+new O
+Bluetooth S_Com
+connections O
+. O
+
+If O
+a O
+telematic O
+device O
+is O
+in O
+range O
+the O
+app O
+connects O
+to O
+it O
+. O
+
+Authorized B_Con
+communication I_Con
+with I_Con
+telematic I_Con
+device E_Con
+possible O
+. O
+
+Sending B_AP_M_1
+malicious I_AP_M_1
+Payload E_AP_M_1
+. O
+
+App O
+sends O
+malicious O
+payload O
+for O
+buffer B_Con_hasImpact_1
+overflow E_Con_hasImpact_1
+via O
+Bluetooth S_AV_based-on_1
+. O
+
+Buffer B_Con
+overflow E_Con
+with O
+paired O
+Android O
+phone O
+and O
+Trojan B_Con_hasImpact_1
+app E_Con_hasImpact_1
+. O
+

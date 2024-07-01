@@ -1,0 +1,80 @@
+Monitoring S_AP_targets_1
+CAN B_Com_targets_1
+messages E_Com_targets_1
+. O
+
+CAN B_Com_M_1
+messages E_Com_M_1
+was O
+captured S_AP_M_1
+via O
+connection O
+to O
+OBD S_AV_M_m
+. O
+
+Identification O
+of O
+accurate O
+packet O
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+CAN I_Con_hasImpact_1
+messages E_Con_hasImpact_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Lane B_Com_consists-of_1
+Keeping I_Com_consists-of_1
+System E_Com_consists-of_1
+CAN B_Com_M_1
+messages E_Com_M_1
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+the O
+logic O
+behind O
+the O
+Lane B_Com_targets_1
+Keep I_Com_targets_1
+Assistant E_Com_targets_1
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Lane B_Com
+Keeping I_Com
+Functionality E_Com
+. O
+
+Steering B_Con_M_m
+intervention E_Con_M_m
+by O
+replay S_AP_M_1
+of O
+valid O
+CAN B_Com_M_1
+messages E_Com_M_1
+of O
+the O
+Lane B_Com_consists-of_1
+Keeping I_Com_consists-of_1
+Assistant E_Com_consists-of_1
+. O
+
+Sending B_AP_hasImpact_1
+modified I_AP_hasImpact_1
+CAN I_AP_hasImpact_1
+message E_AP_hasImpact_1
+on O
+the O
+bus O
+. O
+

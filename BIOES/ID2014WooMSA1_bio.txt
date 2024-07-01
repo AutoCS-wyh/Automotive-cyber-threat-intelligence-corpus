@@ -1,0 +1,96 @@
+Monitoring S_AP_targets_1
+CAN S_Com_targets_1
+messages O
+. O
+
+Capturing S_AP_targets_1
+CAN S_Com_targets_1
+data O
+traffic O
+. O
+
+Obtainment O
+of O
+CAN S_Com
+messages O
+. O
+
+Development O
+of O
+malicious B_Tool
+smartphone I_Tool
+app E_Tool
+. O
+
+Installation O
+of O
+App S_Tool
+on O
+smartphone S_Com
+. O
+
+Connection O
+Smartphone S_Com
+and O
+target O
+vehicle O
+. O
+
+Development O
+of O
+malicious B_Tool
+smartphone I_Tool
+app E_Tool
+. O
+
+Installation O
+of O
+App S_Tool
+on O
+smartphone S_Com
+. O
+
+Connection O
+Smartphone S_Com
+and O
+target O
+vehicle O
+. O
+
+Communication O
+between O
+Remote O
+Gateway S_Com
+and O
+Smartphone S_Com
+. O
+
+Control B_Con_hasImpact_1
+of I_Con_hasImpact_1
+different I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+by O
+spoofing S_AP_M_1
+of O
+CAN S_Com_targets_1
+messages O
+via O
+Wireless B_AV_based-on_1
+connection O
+. O
+
+App S_Tool_uses_1
+transmitts O
+malicious B_Tool
+data E_Tool
+frames O
+. O
+
+Physical B_Con_hasImpact_1
+Malfunction E_Con_hasImpact_1
+of O
+the O
+vehicle O
+. O
+

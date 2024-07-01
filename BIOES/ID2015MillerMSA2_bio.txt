@@ -1,0 +1,96 @@
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+D-Bus. O
+Analyzing O
+the O
+D-Bus S_Com
+by O
+communication O
+via O
+pre-programmed O
+python O
+scripts O
+. O
+
+Found O
+several O
+services O
+for O
+direct O
+interaction O
+with O
+the O
+head B_Com
+unit E_Com
+. O
+
+Information B_Con
+Gain E_Con
+of O
+D-Bus S_Com
+Communication O
+. O
+
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+D-Bus B_Com_targets_1
+Services E_Com_targets_1
+. O
+
+Analyzing O
+the O
+D-Bus B_Com
+services E_Com
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+D-Bus B_Com
+Servcies E_Com
+. O
+
+Shell-command B_AP_M_1
+injection E_AP_M_1
+over O
+D-Bus S_Com
+in O
+order O
+to O
+execute B_Con_hasImpact_1
+commands E_Con_hasImpact_1
+on O
+the O
+head B_Com_targets_1
+unit E_Com_targets_1
+with O
+custom O
+Python O
+scripts O
+. O
+
+Running B_Con_hasImpact_1
+arbitrary I_Con_hasImpact_1
+command I_Con_hasImpact_1
+shell E_Con_hasImpact_1
+. O
+
+Command B_AP_M_1
+Injection E_AP_M_1
+possible O
+. O
+
+Running B_Con_hasImpact_1
+arbitrary I_Con_hasImpact_1
+shell I_Con_hasImpact_1
+commands E_Con_hasImpact_1
+. O
+
+Executing B_Con_hasImpact_1
+commands E_Con_hasImpact_1
+on O
+the O
+head B_Com_targets_1
+unit E_Com_targets_1
+. O
+

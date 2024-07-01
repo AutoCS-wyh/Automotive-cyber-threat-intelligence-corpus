@@ -1,0 +1,80 @@
+Monitoring S_AP_targets_1
+Data B_Com_targets_1
+Traffic E_Com_targets_1
+. O
+
+Sniffing S_AP_M_1
+of O
+the O
+Bluetooth B_Com_targets_1
+MAC I_Com_targets_1
+address E_Com_targets_1
+by O
+monitoring S_AP_targets_1
+the O
+data B_Com_targets_1
+traffic E_Com_targets_1
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Bluetooth I_Con_hasImpact_1
+MAC I_Con_hasImpact_1
+address E_Con_hasImpact_1
+. O
+
+Brute B_AP_targets_1
+Forcing E_AP_targets_1
+PIN S_Com_targets_1
+. O
+
+Brute B_AP_M_1
+Force I_AP_M_1
+Attack E_AP_M_1
+to O
+get B_Con_hasImpact_1
+the I_Con_hasImpact_1
+Bluetooth I_Con_hasImpact_1
+PIN E_Con_hasImpact_1
+and O
+pairing O
+of O
+the O
+Bluetooth O
+devices O
+. O
+
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Bluetooth I_Con_hasImpact_1
+PIN E_Con_hasImpact_1
+. O
+
+Execution B_AP_targets_1
+of I_AP_targets_1
+malicious I_AP_targets_1
+code E_AP_targets_1
+by O
+every O
+connected O
+Bluetooth B_Com_targets_1
+device E_Com_targets_1
+. O
+
+Sending B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+messages E_AP_hasImpact_1
+. O
+
+Injection B_AP_hasImpact_1
+of I_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+messages E_AP_hasImpact_1
+. O
+
+Compromising B_Con_M_m
+of I_Con_M_m
+vehicle E_Con_M_m
+possible O
+. O
+
