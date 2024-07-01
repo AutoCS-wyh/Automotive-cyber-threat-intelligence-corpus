@@ -1,0 +1,46 @@
+Two O
+vulnerabilities O
+were O
+found O
+on O
+Qualcomm S_Ide_related-to_m
+Snapdragon B_Com_M_m
+chips E_Com_M_m
+. O
+
+The O
+vulnerabilities O
+were O
+on O
+different O
+chips O
+, O
+such O
+as O
+the O
+Snapdragon B_Com_M_m
+Auto E_Com_M_m
+, O
+Snapdragon B_Com_M_m
+Consumer I_Com_M_m
+IoT E_Com_M_m
+, O
+and O
+Snapdragon B_Com_M_m
+Industrial I_Com_M_m
+IoT E_Com_M_m
+. O
+
+The O
+vulnerabilities O
+create O
+multiple O
+avenues O
+for O
+data B_AP_targets_m
+manipulation E_AP_targets_m
+, O
+and O
+extraction S_AP_targets_m
+. O
+

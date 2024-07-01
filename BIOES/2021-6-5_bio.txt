@@ -1,0 +1,19 @@
+A O
+Keyless O
+Ford B_Veh
+Fiesta I_Veh
+Titanium E_Veh
+was O
+stolen S_Con
+by O
+hackers O
+at O
+Sainsbury's O
+car O
+park O
+in O
+Birmingham O
+, O
+UK S_Loc
+. O
+
