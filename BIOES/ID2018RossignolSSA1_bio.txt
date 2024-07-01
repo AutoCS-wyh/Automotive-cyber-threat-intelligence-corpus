@@ -1,0 +1,45 @@
+Monitoring B_AP_M_1
+CAN I_AP_M_1
+traffic E_AP_M_1
+of O
+a O
+Cadillac B_Veh_consists-of_m
+ELR E_Veh_consists-of_m
+via O
+its O
+OBD B_AV_based-on_1
+port E_AV_based-on_1
+. O
+
+Accessing O
+the O
+CAN-Bus S_Com_M_m
+via O
+OBD B_AV_hasInterface_1
+port E_AV_hasInterface_1
+, O
+then O
+decoding O
+the O
+data O
+. O
+
+Driving O
+data O
+like O
+speed O
+, O
+state-of-charge, O
+consumption O
+, O
+GPS S_Com_consists-of_1
+position O
+, O
+and O
+milage O
+was O
+decoded O
+and O
+exported O
+. O
+

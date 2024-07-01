@@ -1,0 +1,54 @@
+Improper B_Vul_hasImpact_m
+user I_Vul_hasImpact_m
+management E_Vul_hasImpact_m
+leads O
+to O
+access S_Con_hasImpact_1
+and O
+control B_Con_hasImpact_1
+of I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+data E_Con_hasImpact_1
+by O
+previous O
+owners O
+. O
+
+Private O
+data O
+and O
+vehicel O
+locations O
+can O
+by O
+observed O
+. O
+
+Triggering O
+vehicle O
+services O
+. O
+
+Several O
+vehicle O
+functions O
+, O
+such O
+as O
+car O
+access O
+, O
+breakdown O
+services O
+, O
+climate O
+control O
+, O
+etc O
+. O
+
+can O
+be O
+triggered O
+. O
+

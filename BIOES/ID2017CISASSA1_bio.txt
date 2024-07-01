@@ -1,0 +1,44 @@
+Exploiting O
+buffer B_Vul_M_1
+overflow I_Vul_M_1
+vulnerability E_Vul_M_1
+in O
+command B_Com_M_1
+processing E_Com_M_1
+of O
+telematics B_Com_consists-of_1
+control I_Com_consists-of_1
+modules E_Com_consists-of_1
+( O
+TCUs S_Com_consists-of_1
+) O
+leading O
+to O
+arbitrary B_Con_hasImpact_1
+code I_Con_hasImpact_1
+execution E_Con_hasImpact_1
+on O
+baseband B_Com
+radio I_Com
+processor E_Com
+. O
+
+Exploiting O
+buffer B_Vul_hasVulnerability_1
+overflow I_Vul_hasVulnerability_1
+vulnerability I_Vul_hasVulnerability_1
+in O
+command B_Com_hasVulnerability_1
+processing E_Com_hasVulnerability_1
+. O
+
+Arbitrary B_Con_hasImpact_1
+code I_Con_hasImpact_1
+execution E_Con_hasImpact_1
+on O
+baseband B_Com
+radio I_Com
+processor E_Com
+possible O
+. O
+

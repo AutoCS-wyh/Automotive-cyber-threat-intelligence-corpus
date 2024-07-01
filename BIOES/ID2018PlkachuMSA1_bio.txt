@@ -1,0 +1,62 @@
+Controlling B_Con
+and I_Con
+adapting I_Con
+music E_Con
+to O
+driving O
+behavior O
+by O
+misusing O
+CAN B_Com
+bus E_Com
+traffic O
+. O
+
+Connecting O
+Rasperry B_Tool
+Pi E_Tool
+to O
+OBD S_Com
+and O
+to O
+touchscreen O
+. O
+
+Vehicle O
+data O
+can O
+be O
+read O
+from O
+CAN S_Com_targets_1
+, O
+so O
+relevant O
+signals O
+can O
+be O
+sniffed S_AP_targets_m
+. O
+
+Reading O
+data O
+from O
+CAN S_Com_targets_1
+. O
+
+Using O
+vehicle O
+data O
+from O
+CAN S_Com
+to O
+control B_Con
+custom I_Con
+features E_Con
+of O
+a O
+custom O
+Infotainment B_Com
+system E_Com
+. O
+

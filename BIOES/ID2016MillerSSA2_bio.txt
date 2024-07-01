@@ -1,0 +1,41 @@
+Deceleration S_Con_hasImpact_1
+of O
+the O
+vehicle O
+by O
+injecting S_AP_M_1
+CAN S_AV_based-on_1
+messages O
+from O
+Pre-Collision B_Com_targets_1
+System E_Com_targets_1
+and O
+ACC S_Com_targets_1
+. O
+
+Spoofing S_AP_M_1
+messages O
+to O
+disable B_Con_hasImpact_1
+FFCM E_Con_hasImpact_1
+, O
+SSCM S_Com
+and O
+ABS S_Com
+and O
+manipulated B_Con_hasImpact_1
+ACC E_Con_hasImpact_1
+, O
+FFCM S_Com
+and O
+SSCM S_Com
+messages O
+. O
+
+Strong O
+braking O
+of O
+the O
+vehicle O
+. O
+

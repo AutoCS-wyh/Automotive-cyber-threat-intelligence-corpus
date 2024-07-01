@@ -1,0 +1,42 @@
+Acceleration S_Con
+and O
+deceleration S_Con
+of O
+the O
+vehicle O
+by O
+sending O
+valid O
+ACC S_Com
+CAN S_Com
+messages O
+. O
+
+Spoofing S_AP_M_1
+von O
+CAN S_Com_targets_1
+messages O
+with O
+regular O
+ACC S_Com
+message O
+that O
+the O
+increase O
+speed-button O
+or O
+the O
+decrease O
+speed-button O
+is O
+pressed O
+. O
+
+Acceleration S_Con_hasImpact_1
+and O
+deceleration S_Con_hasImpact_1
+of O
+the O
+vehicle O
+. O
+

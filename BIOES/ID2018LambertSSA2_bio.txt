@@ -1,0 +1,43 @@
+Setting O
+ECU S_Com_consists-of_1
+of O
+Tesla B_Veh_consists-of_m
+Model I_Veh_consists-of_m
+3 E_Veh_consists-of_m
+into O
+factory O
+mode O
+which O
+reveals O
+information O
+about O
+the O
+powertrain S_Com_consists-of_1
+of O
+the O
+vehicle O
+. O
+
+Hacking O
+into O
+the O
+factory O
+mode O
+. O
+
+Getting O
+entry O
+to O
+the O
+factory O
+mode O
+, O
+which O
+exposes B_Con
+information E_Con
+about O
+the O
+vehicle's O
+powertrain S_Com
+. O
+

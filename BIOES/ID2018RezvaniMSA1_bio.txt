@@ -1,0 +1,58 @@
+Spoofing S_AP_M_1
+control O
+commands O
+to O
+the O
+ethernet S_Com
+channel O
+of O
+the O
+rear B_Com_targets_1
+camera E_Com_targets_1
+to O
+start B_Con_hasImpact_1
+and I_Con_hasImpact_1
+stop I_Con_hasImpact_1
+video I_Con_hasImpact_1
+streams E_Con_hasImpact_1
+. O
+
+Triggering O
+start O
+and O
+stop O
+commands O
+of O
+rear B_Com
+camera E_Com
+. O
+
+Unauthorized B_Con_hasImpact_1
+start/stop I_Con_hasImpact_1
+video I_Con_hasImpact_1
+stream E_Con_hasImpact_1
+of O
+rear O
+camera O
+. O
+
+False B_Tool_uses_1
+video I_Tool_uses_1
+stream E_Tool_uses_1
+can O
+be O
+injected S_AP_M_1
+to O
+the O
+ADAS S_Com_M_m
+camera's S_Com_consists-of_1
+ethernet S_Com
+connection O
+. O
+
+Injecting B_AP_targets_1
+malicious I_AP_targets_1
+video I_AP_targets_1
+stream E_AP_targets_1
+. O
+

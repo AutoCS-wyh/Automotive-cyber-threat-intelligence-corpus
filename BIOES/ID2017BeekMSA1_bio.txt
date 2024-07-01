@@ -1,0 +1,80 @@
+Telematic S_Com_consists-of_1
+and O
+Infotainment B_Com_consists-of_1
+unit E_Com_consists-of_1
+of O
+Nissan B_Veh_consists-of_m
+Leaf E_Veh_consists-of_m
+compromised O
+to O
+establish O
+a O
+honeypot S_Tool_uses_1
+via O
+its O
+backend B_Com_consists-of_1
+server E_Com_consists-of_1
+to O
+intercept S_AP_M_1
+connection O
+attempts O
+and O
+GPS S_Com_consists-of_1
+locations O
+. O
+
+Extracting S_AP_M_1
+SRAM S_Com_targets_1
+and O
+Flash B_Com_targets_1
+data E_Com_targets_1
+. O
+
+Car O
+manufacturer O
+domain O
+URL O
+was O
+found O
+. O
+
+Credentials O
+of O
+this O
+domain O
+were O
+not O
+owned O
+any O
+longer O
+. O
+
+Setting O
+up O
+a O
+honeypot S_Tool
+with O
+the O
+acquired O
+domain O
+credentials O
+. O
+
+Connections O
+requests O
+to O
+domain O
+were O
+noticed O
+. O
+
+Car B_Con_hasImpact_1
+locations I_Con_hasImpact_1
+and I_Con_hasImpact_1
+GPS I_Con_hasImpact_1
+coordinates I_Con_hasImpact_1
+could I_Con_hasImpact_1
+be I_Con_hasImpact_1
+monitored E_Con_hasImpact_1
+. O
+

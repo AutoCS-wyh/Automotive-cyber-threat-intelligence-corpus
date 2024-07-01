@@ -1,0 +1,57 @@
+Investigation O
+of O
+vulnerabilities O
+in O
+connected O
+cars O
+. O
+
+Theoretical O
+consideration O
+of O
+possible O
+weak O
+points O
+of O
+Connected O
+Cars O
+. O
+
+Analysis O
+of O
+various O
+aftersales O
+OBD B_Com_targets_1
+devices E_Com_targets_1
+for O
+vulnerabilities O
+. O
+
+These O
+vulnerabilities O
+were O
+examined O
+for O
+their O
+exploitability O
+on O
+the O
+real O
+vehicle O
+and O
+classified O
+using O
+STRIDE O
+. O
+
+Inject B_AP_M_1
+arbitrary I_AP_M_1
+CAN I_AP_M_1
+packets E_AP_M_1
+. O
+
+Turn B_Con_hasImpact_1
+on/off I_Con_hasImpact_1
+vehicle E_Con_hasImpact_1
+. O
+

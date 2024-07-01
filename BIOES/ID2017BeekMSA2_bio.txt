@@ -1,0 +1,92 @@
+Telematic S_Com_consists-of_1
+and O
+Infotainment B_Com_consists-of_1
+unit E_Com_consists-of_1
+of O
+Nissan B_Veh_consists-of_m
+Leaf E_Veh_consists-of_m
+compromised O
+to O
+establish O
+a O
+honeypot S_Tool_uses_1
+via O
+its O
+backend B_Com_consists-of_1
+server E_Com_consists-of_1
+to O
+intercept S_AP_uses_1
+connection O
+attempts O
+and O
+GPS O
+locations O
+. O
+
+Monitoring S_AP_M_m
+USB S_Com_targets_1
+traffic O
+of O
+Telematic S_Com_targets_1
+components O
+. O
+
+Data B_Con_hasImpact_1
+traffic I_Con_hasImpact_1
+was I_Con_hasImpact_1
+monitored E_Con_hasImpact_1
+which O
+was O
+being O
+sent O
+and O
+received O
+by O
+outside O
+components O
+. O
+
+Reverse B_AP_targets_1
+engineering E_AP_targets_1
+Telematics S_Com_M_1
+functionality O
+. O
+
+Buffer B_Vul_hasVulnerability_1
+Overflow I_Vul_hasVulnerability_1
+vulnerability E_Vul_hasVulnerability_1
+was O
+identified O
+. O
+
+Exploiting O
+buffer B_Vul_hasVulnerability_1
+overflow I_Vul_hasVulnerability_1
+vulnerability E_Vul_hasVulnerability_1
+. O
+
+Telematics B_Com_hasVulnerability_1
+firmware E_Com_hasVulnerability_1
+was O
+extracted O
+. O
+
+Reverse B_AP_targets_1
+engineering E_AP_targets_1
+the O
+Telematics B_Com_targets_1
+firmware E_Com_targets_1
+. O
+
+CAN O
+messages O
+can O
+potentially O
+be O
+sent O
+over O
+the O
+Telematics B_Com
+unit E_Com
+. O
+

@@ -1,0 +1,69 @@
+SMS O
+messages O
+sent O
+to O
+an O
+OBD B_Com
+device E_Com
+transmit O
+malicious O
+CAN S_Com
+commands O
+to O
+the O
+vehicle O
+. O
+
+Thus O
+, O
+several O
+car O
+components O
+can O
+be O
+controlled O
+. O
+
+Installing O
+custom B_Tool
+cellular I_Tool
+device E_Tool
+in O
+the O
+vehicle O
+. O
+
+CAN-Bus S_Com_targets_1
+commands O
+can O
+be O
+sent O
+to O
+the O
+vehicle O
+network O
+via O
+installed O
+cellular B_Tool_uses_1
+device E_Tool_uses_1
+by O
+sending O
+SMS O
+. O
+
+Sending B_AP_M_1
+malicious I_AP_M_1
+CAN I_AP_M_1
+commands E_AP_M_1
+via O
+SMS S_AV_based-on_1
+. O
+
+Safety-critical B_Con_hasImpact_1
+functions I_Con_hasImpact_1
+can I_Con_hasImpact_1
+be I_Con_hasImpact_1
+controlled E_Con_hasImpact_1
+remotely O
+. O
+

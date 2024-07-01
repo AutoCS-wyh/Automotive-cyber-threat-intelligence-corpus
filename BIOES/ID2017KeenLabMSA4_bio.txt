@@ -1,0 +1,86 @@
+Monitoring B_Con
+GSM I_Con
+traffic E_Con
+. O
+
+Implementing O
+a O
+stable O
+GSM S_Com
+network O
+. O
+
+Traffic O
+capturing O
+from O
+ConnectedDrive B_Com
+service E_Com
+. O
+
+Identified O
+browser S_Com
+vulnerability O
+. O
+
+Exploting O
+Browser S_Com
+Vulnerability O
+. O
+
+Identified O
+browser S_Com_hasVulnerability_1
+vulnerability O
+was O
+exploited O
+by O
+a O
+memory B_Vul_M_1
+corruption I_Vul_M_1
+bug E_Vul_M_1
+. O
+
+Browser S_Com
+privileges O
+. O
+
+Remote B_Con_hasImpact_1
+Code I_Con_hasImpact_1
+Execution E_Con_hasImpact_1
+in O
+the O
+browser S_Com_M_1
+of O
+the O
+head B_Com_consists-of_1
+unit E_Com_consists-of_1
+by O
+exploiting O
+memory B_Vul_M_1
+bug E_Vul_M_1
+. O
+
+Remote B_Con_hasImpact_1
+code I_Con_hasImpact_1
+execution E_Con_hasImpact_1
+with O
+browser S_Com_consists-of_1
+privilege O
+that O
+lead O
+to O
+root B_Con_hasImpact_1
+privileges E_Con_hasImpact_1
+in O
+the O
+head B_Com_consists-of_1
+unit E_Com_consists-of_1
+. O
+
+Remote B_Con
+Code I_Con
+Execution E_Con
+with O
+root O
+privileges O
+. O
+

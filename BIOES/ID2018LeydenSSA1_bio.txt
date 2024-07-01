@@ -1,0 +1,47 @@
+Improper B_Vul_hasImpact_m
+account I_Vul_hasImpact_m
+management E_Vul_hasImpact_m
+leads O
+to O
+manipulations S_Con_hasImpact_1
+and O
+information B_Con_hasImpact_1
+gain E_Con_hasImpact_1
+by O
+previous O
+vehicle O
+owners O
+. O
+
+Previous O
+owner O
+retains O
+access O
+to O
+vehicle O
+and O
+is O
+able O
+to O
+flash B_Con_hasImpact_1
+lights E_Con_hasImpact_1
+, O
+start B_Con_hasImpact_1
+ventialation E_Con_hasImpact_1
+and O
+sees B_Con_hasImpact_1
+park I_Con_hasImpact_1
+position E_Con_hasImpact_1
+. O
+
+Control B_Con_hasImpact_1
+car I_Con_hasImpact_1
+systems E_Con_hasImpact_1
+, O
+Data/Privacy B_Con_hasImpact_1
+breach E_Con_hasImpact_1
+, O
+Location B_Con_hasImpact_1
+tracking E_Con_hasImpact_1
+. O
+

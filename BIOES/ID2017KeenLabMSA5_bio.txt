@@ -1,0 +1,94 @@
+Firmware B_AP_targets_1
+Extraction E_AP_targets_1
+of O
+the O
+Infotainment B_Com_M_m
+ECU E_Com_M_m
+. O
+
+Telematic-Firmware S_Com_consists-of_1
+dump O
+. O
+
+Obtainment O
+of O
+Firmware S_Com_consists-of_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Firmware S_Com_targets_1
+. O
+
+Reverse B_AP_M_m
+Engineering E_AP_M_m
+of O
+the O
+telematics B_Com_targets_1
+firmware E_Com_targets_1
+( O
+NGTP S_Com_targets_1
+, O
+Next B_Com_targets_1
+Generation I_Com_targets_1
+Telematic I_Com_targets_1
+Pattern). O
+NGTP S_Com_targets_1
+could O
+be O
+completely O
+reverse B_AP_targets_1
+engineered E_AP_targets_1
+. O
+
+Forcing O
+GSM S_Com
+communication O
+with O
+Vehicle O
+. O
+
+Surpessing B_AP_targets_1
+the I_AP_targets_1
+TSP I_AP_targets_1
+signal E_AP_targets_1
+to O
+make O
+the O
+vehicle O
+serviced O
+by O
+attackers O
+base O
+station O
+. O
+
+TSP S_Com_targets_1
+signal O
+could O
+be O
+suppressed O
+. O
+
+Sending O
+malicious O
+messages O
+via O
+GSM S_Com
+. O
+
+Sending O
+arbitrary O
+NGTP S_Com
+messages O
+to O
+the O
+vehicle O
+directly O
+to O
+trigger O
+BMW S_Veh_consists-of_1
+Remote B_Com_consists-of_1
+Services E_Com_consists-of_1
+. O
+

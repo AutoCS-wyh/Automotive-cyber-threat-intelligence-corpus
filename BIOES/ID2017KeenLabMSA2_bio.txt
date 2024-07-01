@@ -1,0 +1,103 @@
+Portscan S_AP_targets_1
+of O
+Services O
+in O
+Head B_Com_M_1
+Unit E_Com_M_1
+. O
+
+Critical O
+Security O
+Information O
+could O
+be O
+read O
+. O
+
+Portscanning S_AP_based-on_1
+via O
+USB-Ethernet-Interface S_AV_based-on_1
+due O
+to O
+non B_Vul_hasVulnerability_1
+existing I_Vul_hasVulnerability_1
+security I_Vul_hasVulnerability_1
+mechanisms E_Vul_hasVulnerability_1
+. O
+
+Services O
+Identified O
+. O
+
+In O
+the O
+update B_Com_consists-of_1
+service E_Com_consists-of_1
+the O
+Head B_Com_consists-of_1
+Unit E_Com_consists-of_1
+falls O
+into O
+update O
+stage O
+. O
+
+Some O
+content O
+of O
+the O
+USB S_Com_hasVulnerability_1
+has O
+no B_Vul_M_m
+signature E_Vul_M_m
+. O
+
+Getting B_Con_hasImpact_1
+root I_Con_hasImpact_1
+privilege E_Con_hasImpact_1
+by O
+connecting O
+malicious B_Tool_targets_1
+USB I_Tool_targets_1
+stick E_Tool_targets_1
+. O
+
+Malformed B_Tool
+USB I_Tool
+stick E_Tool
+plugged O
+in O
+to O
+gain B_Con
+root I_Con
+privileges E_Con
+on O
+the O
+head B_Com
+unit E_Com
+. O
+
+Acquired B_Con_hasImpact_1
+Root I_Con_hasImpact_1
+privileges E_Con_hasImpact_1
+in O
+the O
+Head B_Com
+Unit E_Com
+. O
+
+Executing B_AP_hasImpact_1
+a I_AP_hasImpact_1
+root I_AP_hasImpact_1
+shell E_AP_hasImpact_1
+. O
+
+Acquired B_Con_hasImpact_1
+Root I_Con_hasImpact_1
+privileges E_Con_hasImpact_1
+in O
+the O
+Head B_Com
+Unit E_Com
+. O
+

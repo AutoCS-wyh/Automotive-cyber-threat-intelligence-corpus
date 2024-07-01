@@ -1,0 +1,167 @@
+Monitoring S_AP_M_1
+Bluetooth S_Com_targets_1
+traffic O
+. O
+
+Proxying O
+smartphone S_Com
+with O
+debugging B_Tool_uses_1
+proxy E_Tool_uses_1
+. O
+
+Connection O
+between O
+smartphone B_Com
+app E_Com
+and O
+telematics B_Com
+ECU E_Com
+. O
+
+Monitoring S_AP_targets_m
+of O
+data O
+traffic O
+. O
+
+Personal B_Com_targets_1
+Information E_Com_targets_1
+and O
+vehicle B_Com_targets_1
+information E_Com_targets_1
+could O
+be O
+read O
+. O
+
+Activation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+different I_Con_hasImpact_1
+services E_Con_hasImpact_1
+( O
+Start/Stop B_Con_hasImpact_1
+of I_Con_hasImpact_1
+charging E_Con_hasImpact_1
+, O
+air B_Com
+conditioning E_Com
+, O
+...) O
+by O
+spoofing S_AP_M_1
+of O
+messages O
+. O
+
+Spoofing S_AP_M_1
+of O
+messages O
+to O
+activate B_Con_hasImpact_1
+different I_Con_hasImpact_1
+components E_Con_hasImpact_1
+. O
+
+Activation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+air I_Con_hasImpact_1
+conditioner E_Con_hasImpact_1
+. O
+
+Starting B_Con_hasImpact_1
+and I_Con_hasImpact_1
+stopping I_Con_hasImpact_1
+of I_Con_hasImpact_1
+charging E_Con_hasImpact_1
+. O
+
+Connection O
+to O
+random O
+Nissan S_Veh
+Vehicle O
+. O
+
+Proxying O
+Chrome S_Com
+with O
+Burp B_Tool
+Suite E_Tool
+. O
+
+Communication O
+with O
+vehicle O
+possible O
+. O
+
+Connection O
+to O
+random O
+vehicles O
+by O
+brute B_AP_targets_1
+forcing E_AP_targets_1
+the O
+Vehicle B_Com_targets_1
+Identification I_Com_targets_1
+Number E_Com_targets_1
+in O
+order O
+to O
+connect O
+the O
+smartphone B_Com
+app E_Com
+with O
+the O
+vehicle O
+. O
+
+Brute B_AP_M_1
+Forcing E_AP_M_1
+Vehicle B_Com_targets_1
+Identification I_Com_targets_1
+Numbers E_Com_targets_1
+in O
+order O
+to O
+communicate O
+with O
+these O
+vehicles O
+. O
+
+Personal B_Com
+Information E_Com
+and O
+vehicle B_Com
+information E_Com
+could O
+be O
+read O
+. O
+
+Activation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+the I_Con_hasImpact_1
+air I_Con_hasImpact_1
+conditioner E_Con_hasImpact_1
+. O
+
+Starting B_Con_hasImpact_1
+and I_Con_hasImpact_1
+stopping I_Con_hasImpact_1
+of I_Con_hasImpact_1
+charging E_Con_hasImpact_1
+. O
+
+Connection O
+to O
+random O
+Nissan S_Veh
+Vehicle O
+. O
+

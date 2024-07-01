@@ -1,0 +1,61 @@
+Investigation O
+of O
+vulnerabilities O
+in O
+connected O
+cars O
+. O
+
+Theoretical O
+consideration O
+of O
+possible O
+weak O
+points O
+of O
+Connected O
+Cars O
+. O
+
+Analysis O
+of O
+various O
+aftersales O
+OBD B_Com
+devices E_Com
+for O
+vulnerabilities O
+. O
+
+These O
+vulnerabilities O
+were O
+examined O
+for O
+their O
+exploitability O
+on O
+the O
+real O
+vehicle O
+and O
+classified O
+using O
+STRIDE O
+. O
+
+Lock/unlock B_Con
+doors E_Con
+. O
+
+Turn B_Con
+on/off I_Con
+vehicle E_Con
+. O
+
+Inject B_Con
+arbitrary I_Con
+CAN I_Con
+packets E_Con
+. O
+

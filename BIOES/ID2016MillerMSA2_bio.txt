@@ -1,0 +1,139 @@
+Monitoring S_AP_targets_1
+Flash B_Com_targets_1
+Process E_Com_targets_1
+. O
+
+Monitoring S_AP_M_1
+flashing B_Com_M_1
+process E_Com_M_1
+of O
+a O
+diagnostic B_Com_consists-of_1
+tool E_Com_consists-of_1
+. O
+
+Flashing B_Con_hasImpact_1
+information I_Con_hasImpact_1
+avilable E_Con_hasImpact_1
+for O
+further O
+steps O
+. O
+
+Getting O
+Security O
+Access O
+. O
+
+Getting O
+into O
+diagnostic O
+session O
+and O
+getting O
+Security O
+Access O
+. O
+
+Authorized B_Con
+access E_Con
+for O
+executing O
+diagnostic O
+functions O
+. O
+
+Modifying S_AP_targets_1
+firmware S_Com_targets_1
+. O
+
+Executing O
+flashing O
+routine O
+controls O
+and O
+loading O
+new O
+firmware S_Com_consists-of_1
+on O
+ECU S_Com_consists-of_1
+. O
+
+Modified S_AP_targets_1
+firmware S_Com_targets_1
+image O
+. O
+
+Control B_Con_hasImpact_1
+over I_Con_hasImpact_1
+steering E_Con_hasImpact_1
+by O
+flashing O
+of O
+modified S_AP_M_1
+firmware S_Com_M_1
+on O
+ECU S_Com_consists-of_1
+. O
+
+Executing O
+flashing O
+routine O
+controls O
+and O
+loading O
+new O
+firmware S_Com_consists-of_1
+on O
+ECU S_Com_consists-of_1
+. O
+
+Modified S_AP_targets_1
+firmware S_Com_M_1
+on O
+ECU S_Com_consists-of_1
+. O
+
+Brute B_AP_targets_1
+Forcing E_AP_targets_1
+Firmware B_Com_targets_1
+Checksum E_Com_targets_1
+during O
+update O
+. O
+
+Breaking B_Con_hasImpact_1
+checksum I_Con_hasImpact_1
+validation E_Con_hasImpact_1
+by O
+sending O
+the O
+firmware B_Com_targets_1
+checksum E_Com_targets_1
+via O
+brute B_AP_M_1
+force E_AP_M_1
+( O
+success O
+possible O
+in O
+9 O
+hours O
+because O
+if O
+checksum O
+fails O
+the O
+attacker O
+could O
+simply O
+try O
+again). O
+Malicious B_Con_hasImpact_1
+firmware I_Con_hasImpact_1
+is I_Con_hasImpact_1
+accepted E_Con_hasImpact_1
+by O
+ECU S_Com
+. O
+

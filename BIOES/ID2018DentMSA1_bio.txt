@@ -1,0 +1,47 @@
+Vehicle B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+of O
+a O
+Tesla S_Veh_consists-of_1
+by O
+capture-replay O
+attack O
+of O
+valid O
+key O
+fob O
+signals O
+. O
+
+Capturing O
+key O
+fob O
+data O
+. O
+
+Acquiring O
+key O
+fob O
+data O
+to O
+open O
+the O
+car O
+. O
+
+Replaying O
+valid O
+key O
+fob O
+data O
+to O
+open O
+the O
+car O
+. O
+
+Unauthorized O
+car O
+access O
+. O
+

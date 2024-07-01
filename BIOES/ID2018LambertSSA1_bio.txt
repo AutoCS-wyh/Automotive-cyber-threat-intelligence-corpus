@@ -1,0 +1,39 @@
+Tesla B_Veh_consists-of_m
+Model I_Veh_consists-of_m
+3 E_Veh_consists-of_m
+manipulalted O
+to O
+host O
+an O
+Ubuntu O
+OS O
+on O
+the O
+Infotainment B_Com_consists-of_1
+System E_Com_consists-of_1
+and O
+playing B_Con
+Youtube I_Con
+videos E_Con
+. O
+
+Resetting O
+Infotainment B_Com_consists-of_1
+ECU E_Com_consists-of_1
+in O
+order O
+to O
+run B_Con
+a I_Con
+root I_Con
+shell E_Con
+. O
+
+Running B_Con
+Ubuntu E_Con
+and O
+playing B_Con
+YouTube I_Con
+videos E_Con
+. O
+

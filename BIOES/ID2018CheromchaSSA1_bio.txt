@@ -1,0 +1,21 @@
+Relay B_AP_targets_1
+attack E_AP_targets_1
+on O
+keyless B_Com_M_1
+entry I_Com_M_1
+system E_Com_M_1
+of O
+a O
+Mercedes-Benz B_Veh_consists-of_1
+C-Class. O
+Performing O
+relay B_AP_hasImpact_1
+attack E_AP_hasImpact_1
+. O
+
+Car O
+has O
+been O
+stolen S_Con_hasImpact_1
+. O
+

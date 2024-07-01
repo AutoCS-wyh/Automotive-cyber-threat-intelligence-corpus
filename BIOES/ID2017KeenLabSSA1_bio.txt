@@ -1,0 +1,58 @@
+Compromising O
+the O
+head B_Com_M_m
+unit E_Com_M_m
+by O
+spoofing S_AP_M_1
+of O
+diagnostic B_AV_M_m
+CAN E_AV_M_m
+messages O
+. O
+
+Required O
+exploitation O
+of O
+former O
+vulnerabilities O
+. O
+
+Communication O
+with O
+hu-jacinto B_Com_consists-of_1
+chip E_Com_consists-of_1
+. O
+
+Using O
+proprietary O
+data O
+to O
+execute O
+CAN B_Com
+driver E_Com
+code O
+in O
+order O
+to O
+send O
+CAN O
+messages O
+on O
+the O
+K-CAN. O
+Compromise O
+the O
+head B_Com
+unit E_Com
+via O
+remote O
+. O
+
+Sending O
+diagnostic O
+messages O
+to O
+the O
+CAN S_Com
+. O
+

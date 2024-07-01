@@ -1,0 +1,65 @@
+Tracking B_Con_hasImpact_1
+of I_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+locations E_Con_hasImpact_1
+on O
+the O
+website O
+www.wigle.net. O
+Due O
+to O
+the O
+unique B_Vul_hasImpact_m
+SSID E_Vul_hasImpact_m
+the O
+attacker O
+could O
+locate B_Con_hasImpact_1
+other I_Con_hasImpact_1
+Outlander I_Con_hasImpact_1
+PHEVs E_Con_hasImpact_1
+. O
+
+Sensing O
+of O
+messages O
+via O
+mobile B_Com
+phone I_Com
+app E_Com
+. O
+
+Switching B_Con
+the I_Con
+light E_Con
+on O
+and O
+off O
+. O
+
+Changing B_Con
+of I_Con
+the I_Con
+charging I_Con
+rate E_Con
+. O
+
+Activation B_Con
+of I_Con
+the I_Con
+vntilation E_Con
+and O
+heating O
+. O
+
+Draining B_Con
+the I_Con
+battery E_Con
+. O
+
+Deactivation B_Con
+of I_Con
+the I_Con
+alarm E_Con
+. O
+

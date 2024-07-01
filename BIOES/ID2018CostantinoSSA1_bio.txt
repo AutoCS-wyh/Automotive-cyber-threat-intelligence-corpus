@@ -1,0 +1,76 @@
+Obtainment B_Con_hasImpact_1
+of I_Con_hasImpact_1
+private I_Con_hasImpact_1
+data E_Con_hasImpact_1
+and O
+vehicle O
+data O
+by O
+eavesdropping S_AP_M_1
+via O
+malicious B_Tool_uses_1
+app E_Tool_uses_1
+which O
+is O
+distributed O
+by O
+social B_AP
+engineering E_AP
+. O
+
+Establishing O
+connection O
+to O
+the O
+Infotainment O
+System O
+. O
+
+Obtaining O
+data O
+that O
+is O
+eavesdropped O
+by O
+the O
+malicious O
+app O
+and O
+sent O
+to O
+the O
+attacker O
+. O
+
+Remote O
+Shell O
+is O
+opened O
+. O
+
+Infotainment O
+Microphone O
+is O
+activated O
+to O
+record O
+conversations O
+. O
+
+Retrieving O
+recordings O
+, O
+GPS O
+coordinates O
+, O
+images O
+. O
+
+Drivers O
+private O
+data O
+can O
+be O
+obtained O
+. O
+

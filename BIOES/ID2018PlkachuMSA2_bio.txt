@@ -1,0 +1,82 @@
+Spoofing S_AP
+malicious O
+speed O
+value O
+messages O
+of O
+a O
+Subaru B_Veh_consists-of_1
+Impreza E_Veh_consists-of_1
+by O
+extracting O
+and O
+reverse B_AP_M_1
+engineering E_AP_M_1
+an O
+ECU's B_Com_M_m
+firmware E_Com_M_m
+via O
+diagnostic B_AV_M_m
+interface E_AV_M_m
+. O
+
+Extracting O
+firmware S_Com_consists-of_1
+of O
+Engine B_Com_consists-of_m
+ECU E_Com_consists-of_m
+. O
+
+Engine B_Com_consists-of_1
+frimware E_Com_consists-of_1
+available O
+for O
+analysis O
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+and O
+Disassembling O
+Engine B_Com_consists-of_1
+ECU E_Com_consists-of_1
+firmware S_Com_M_1
+. O
+
+Firmware S_Com
+data O
+like O
+fuel O
+, O
+ignition O
+timing O
+and O
+avance O
+maps O
+and O
+especially O
+the O
+functions O
+for O
+speed O
+limiting O
+were O
+identified O
+. O
+
+Spoofing S_AP_hasImpact_1
+false O
+speed O
+signals O
+. O
+
+Car O
+can O
+be O
+tricked S_Con_hasImpact_1
+with O
+false O
+speed O
+values O
+. O
+

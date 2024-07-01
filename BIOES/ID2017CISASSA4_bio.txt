@@ -1,0 +1,27 @@
+Extracting B_AP_hasImpact_1
+sensitive I_AP_hasImpact_1
+information E_AP_hasImpact_1
+like O
+vehicle O
+location O
+can O
+lead O
+to O
+vehicle B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+. O
+
+Extraction B_AP_hasImpact_1
+of I_AP_hasImpact_1
+sensitive I_AP_hasImpact_1
+user I_AP_hasImpact_1
+data E_AP_hasImpact_1
+. O
+
+Accces B_Con_hasImpact_1
+on I_Con_hasImpact_1
+sensitive I_Con_hasImpact_1
+user I_Con_hasImpact_1
+data E_Con_hasImpact_1
+. O
+

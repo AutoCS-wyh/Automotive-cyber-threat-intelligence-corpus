@@ -1,0 +1,61 @@
+Preventing B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+from I_Con_hasImpact_1
+moving E_Con_hasImpact_1
+by O
+spoofing S_AP_M_1
+CAN S_AV_based-on_1
+message O
+of O
+the O
+electronic B_Com_targets_1
+parking I_Com_targets_1
+brake E_Com_targets_1
+while O
+vehicle O
+stands O
+still O
+. O
+
+Spoofing S_AP_M_1
+message O
+for O
+activating B_Con_hasImpact_1
+the I_Con_hasImpact_1
+parking I_Con_hasImpact_1
+brake E_Con_hasImpact_1
+. O
+
+Parking B_Com_targets_1
+brake E_Com_targets_1
+prevents B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+from I_Con_hasImpact_1
+moving E_Con_hasImpact_1
+. O
+
+Sending B_AP_M_1
+malicious I_AP_M_1
+CAN I_AP_M_1
+messages E_AP_M_1
+to O
+activate B_Con_hasImpact_1
+bootrom I_Con_hasImpact_1
+mode E_Con_hasImpact_1
+. O
+
+Setting O
+EBP S_Com_targets_1
+into O
+Bootrom O
+Mode O
+. O
+
+Parking B_Com
+brake E_Com
+prevents B_Con
+vehicle I_Con
+from I_Con
+moving E_Con
+. O
+

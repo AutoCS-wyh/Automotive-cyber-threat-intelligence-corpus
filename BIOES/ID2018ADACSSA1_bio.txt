@@ -1,0 +1,53 @@
+Relay B_AP_M_1
+attack E_AP_M_1
+on O
+keyless B_Com_targets_1
+entry I_Com_targets_1
+system E_Com_targets_1
+of O
+several O
+vehicles O
+. O
+
+Thief O
+1 O
+pulls O
+door O
+handle O
+. O
+
+Signal O
+chain O
+between O
+vehicle O
+, O
+thief1 O
+, O
+thief O
+2 O
+and O
+driver O
+( O
+key O
+) O
+is O
+created O
+. O
+
+Thief O
+1 O
+receives O
+forwarded O
+signal O
+from O
+key O
+. O
+
+Unlocking B_Con_hasImpact_1
+vehicles E_Con_hasImpact_1
+and O
+starting B_Con_hasImpact_1
+the I_Con_hasImpact_1
+engine E_Con_hasImpact_1
+. O
+

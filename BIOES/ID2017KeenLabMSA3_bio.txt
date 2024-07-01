@@ -1,0 +1,90 @@
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Bluetooth B_Com_targets_1
+Stack E_Com_targets_1
+. O
+
+Required O
+root O
+access O
+on O
+hu-intel. O
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+of O
+Bluetooth B_Com_targets_1
+stack E_Com_targets_1
+implementation O
+. O
+
+Information B_Con_hasImpact_1
+Gain E_Con_hasImpact_1
+of O
+Bluetooth B_Com
+Stack E_Com
+Implementation O
+. O
+
+Fuzzing S_AP_targets_1
+Bluetooth S_Com_targets_1
+messages O
+. O
+
+Fuzzing S_AP_M_1
+by O
+sending O
+malformed B_Tool_uses_1
+packets E_Tool_uses_1
+which O
+lead O
+to O
+memory B_Vul_M_1
+corruption E_Vul_M_1
+in O
+the O
+stack S_Com_hasVulnerability_1
+. O
+
+Head B_Con_M_m
+unit I_Con_M_m
+reboots E_Con_M_m
+. O
+
+Reboot B_Con_hasImpact_1
+of I_Con_hasImpact_1
+Head I_Con_hasImpact_1
+Unit E_Con_hasImpact_1
+by O
+setting O
+it O
+in O
+pairing O
+mode O
+and O
+utilizing O
+the O
+stack B_Vul_hasImpact_1
+crash E_Vul_hasImpact_1
+( O
+without O
+PIN). O
+Setting O
+head B_Com
+unit E_Com
+in O
+pairing O
+mode O
+. O
+
+Utilizing O
+the O
+stack B_Vul_hasImpact_1
+crash E_Vul_hasImpact_1
+( O
+without O
+PIN). O
+Head B_Con_hasImpact_1
+unit I_Con_hasImpact_1
+reboots E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,76 @@
+USB B_AP_M_1
+Malware I_AP_M_1
+attack E_AP_M_1
+enables O
+attackers O
+to O
+extract B_Con_hasImpact_1
+private I_Con_hasImpact_1
+data E_Con_hasImpact_1
+from O
+the O
+Infotainment B_Com_targets_1
+system E_Com_targets_1
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+Infotainment S_Com_targets_1
+. O
+
+Acquiring O
+information O
+about O
+Infotainment S_Com
+functions O
+. O
+
+A O
+maliciously B_Tool_uses_1
+crafted I_Tool_uses_1
+USB I_Tool_uses_1
+device I_Tool_uses_1
+plugged E_Tool_uses_1
+into O
+a O
+vehicle O
+can O
+infect S_AP_M_1
+the O
+infotainment B_Com_targets_1
+system E_Com_targets_1
+with O
+malware O
+. O
+
+Misusing S_AP_M_1
+SMS B_Com_targets_1
+service E_Com_targets_1
+to O
+extract B_Con_hasImpact_1
+information E_Con_hasImpact_1
+. O
+
+When O
+a O
+phone O
+is O
+connected O
+to O
+the O
+infotainment B_Com
+system E_Com
+, O
+the O
+virus O
+can O
+read O
+the O
+phone's O
+SMS O
+and O
+other O
+private O
+data O
+. O
+

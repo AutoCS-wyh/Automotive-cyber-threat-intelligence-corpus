@@ -1,0 +1,43 @@
+Blocking B_AP_targets_1
+door I_AP_targets_1
+lock I_AP_targets_1
+signals E_AP_targets_1
+of O
+several O
+vehicles O
+to O
+steal B_Com_targets_1
+objects E_Com_targets_1
+from O
+the O
+vehicles O
+. O
+
+Signal B_AP_M_1
+jamming E_AP_M_1
+of O
+locking O
+commands O
+from O
+key B_Com_targets_1
+fobs E_Com_targets_1
+. O
+
+Vehicles O
+were O
+prevented O
+from O
+door O
+locking O
+. O
+
+Items O
+like O
+laptops O
+were O
+stolen S_Con_hasImpact_1
+from O
+the O
+cars O
+. O
+

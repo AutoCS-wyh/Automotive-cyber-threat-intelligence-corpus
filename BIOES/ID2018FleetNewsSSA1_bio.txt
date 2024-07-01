@@ -1,0 +1,41 @@
+Accident O
+replacement O
+hire O
+cars O
+Mercedes B_Veh
+S-Class E_Veh
+and O
+Range B_Veh
+Rover I_Veh
+Evoque E_Veh
+were O
+stolen S_Con
+by O
+using O
+fake O
+identified O
+from O
+the O
+dark O
+web O
+. O
+
+Stolen O
+identities O
+were O
+used O
+to O
+rent O
+accident O
+replacement O
+hire O
+cars O
+. O
+
+Car B_Con
+theft E_Con
+or O
+break-ins, O
+Fraud S_Con
+. O
+

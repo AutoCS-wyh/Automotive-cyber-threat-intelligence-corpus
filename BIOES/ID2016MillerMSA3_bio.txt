@@ -1,0 +1,47 @@
+Reverse B_AP_M_1
+Engineering E_AP_M_1
+Firmware S_Com_targets_1
+. O
+
+Information O
+about O
+diagnostic O
+mode O
+can O
+be O
+extracted S_Con_hasImpact_1
+. O
+
+Activation B_Con_hasImpact_1
+of I_Con_hasImpact_1
+diagnostic I_Con_hasImpact_1
+mode E_Con_hasImpact_1
+while O
+driving O
+( O
+violation O
+of O
+diagnostic O
+standard). O
+Sending O
+of O
+false O
+speed O
+and O
+rotational O
+speed O
+messages O
+via O
+CAN S_AV_based-on_1
+to O
+fool S_AP_M_1
+the O
+ECU S_Com_targets_1
+that O
+the O
+engine O
+is O
+not O
+running O
+. O
+

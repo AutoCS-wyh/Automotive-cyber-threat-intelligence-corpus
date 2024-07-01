@@ -1,0 +1,82 @@
+Stealing B_Con
+the I_Con
+car E_Con
+by O
+overcoming O
+the O
+weak O
+key B_Com
+fob I_Com
+encryption E_Com
+. O
+
+Eavesdropping S_AP_targets_1
+of O
+transmitted O
+key B_Com_targets_1
+fob E_Com_targets_1
+codes O
+( O
+only O
+2 O
+codes O
+necessary). O
+Radio O
+ID O
+of O
+locking B_Com
+system E_Com
+and O
+response O
+codes O
+are O
+obtained O
+. O
+
+Brute B_AP_targets_1
+Forcing E_AP_targets_1
+the O
+cryptographic B_Com_targets_1
+key E_Com_targets_1
+. O
+
+Table O
+of O
+challenge-response O
+codes O
+with O
+the O
+relating O
+secret O
+key O
+. O
+
+Spoofing S_AP_M_1
+of O
+any O
+key B_Com_targets_1
+fob E_Com_targets_1
+( O
+just O
+1.6 O
+sec O
+) O
+by O
+looking O
+up O
+the O
+fitting O
+secret O
+key O
+. O
+
+Opening B_Con_hasImpact_1
+the I_Con_hasImpact_1
+doors E_Con_hasImpact_1
+. O
+
+Starting B_Con_hasImpact_1
+the I_Con_hasImpact_1
+Engine E_Con_hasImpact_1
+. O
+

@@ -1,0 +1,44 @@
+Daimler B_Veh_consists-of_1
+Mercedes-Benz E_Veh_consists-of_1
+Me B_Com_M_m
+app E_Com_M_m
+2.11.0-846 O
+for O
+iOS O
+vulnerable O
+for O
+traffic O
+interception S_AP_M_1
+which O
+can O
+lead O
+to O
+acquiring B_Con_hasImpact_1
+private I_Con_hasImpact_1
+data E_Con_hasImpact_1
+or O
+controlling B_Con_hasImpact_1
+vehicle I_Con_hasImpact_1
+functions E_Con_hasImpact_1
+. O
+
+Data O
+exchange O
+can O
+be O
+interrupted S_AP_M_1
+, O
+read O
+, O
+and O
+manipulated S_AP_M_1
+. O
+
+Control B_Con_hasImpact_m
+car I_Con_hasImpact_m
+systems E_Con_hasImpact_m
+, O
+Location B_Con_hasImpact_m
+tracking E_Con_hasImpact_m
+. O
+

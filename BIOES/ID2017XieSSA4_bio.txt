@@ -1,0 +1,45 @@
+Adversarial B_Tool_uses_m
+Examples E_Tool_uses_m
+with O
+Dense B_AP_M_1
+Adversary I_AP_M_1
+Generation E_AP_M_1
+( O
+DAG S_AP_M_1
+) O
+Algorithm O
+to O
+attack O
+semantic O
+segmentation O
+and O
+object O
+detection O
+. O
+
+Combination O
+of O
+heterogeneous O
+pertubations: O
+Combination O
+of O
+pertubations O
+to O
+increase O
+adversarial O
+performance O
+. O
+
+Combination O
+of O
+heterogeneous O
+pertubations: O
+Different O
+but O
+statistically O
+significant O
+loss O
+of O
+performance O
+. O
+

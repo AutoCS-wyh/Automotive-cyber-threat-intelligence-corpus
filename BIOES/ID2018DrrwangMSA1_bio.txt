@@ -1,0 +1,69 @@
+Information O
+gathering O
+on O
+the O
+basis O
+of O
+the O
+results O
+of O
+a O
+threat O
+analysis O
+. O
+
+Reverse B_AP_targets_m
+Engineering E_AP_targets_m
+. O
+
+Vulnerability O
+Analysis O
+, O
+Found O
+Weakness O
+in O
+ISO O
+Standard O
+for O
+End-of-Life O
+Pyrotechnical B_Com_M_1
+units E_Com_M_1
+( O
+Airbags), O
+weak B_Vul_hasVulnerability_m
+Security I_Vul_hasVulnerability_m
+Access I_Vul_hasVulnerability_m
+Algorithm E_Vul_hasVulnerability_m
+. O
+
+Obtaining O
+the O
+Security B_Com_targets_1
+Access I_Com_targets_1
+Algorithm E_Com_targets_1
+. O
+
+Brute B_AP_targets_m
+Forcing E_AP_targets_m
+Security B_Com_targets_1
+Access E_Com_targets_1
+. O
+
+Exploitation O
+of O
+the O
+found O
+vulnerability O
+by O
+spoofing S_AP_M_1
+the O
+command O
+for O
+airbag S_Com_targets_1
+deployment O
+. O
+
+Airbag B_Con_hasImpact_1
+Detonation E_Con_hasImpact_1
+. O
+

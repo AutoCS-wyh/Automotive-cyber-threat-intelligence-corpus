@@ -1,0 +1,64 @@
+Sending B_AP_M_1
+malicious I_AP_M_1
+CAN I_AP_M_1
+messages E_AP_M_1
+to O
+activate B_Con_hasImpact_1
+bootrom I_Con_hasImpact_1
+mode E_Con_hasImpact_1
+. O
+
+Setting O
+EBP S_Com_targets_1
+into O
+Bootrom O
+Mode O
+. O
+
+Sending B_AP_hasImpact_1
+malicious I_AP_hasImpact_1
+CAN I_AP_hasImpact_1
+messages E_AP_hasImpact_1
+to O
+activate B_Con_hasImpact_1
+bootrom I_Con_hasImpact_1
+mode E_Con_hasImpact_1
+. O
+
+Deceleration S_Con_hasImpact_1
+of O
+the O
+vehicle O
+by O
+spoofing S_AP_M_1
+CAN S_AV_based-on_1
+message O
+that O
+contains O
+the O
+signal O
+of O
+the O
+electronic B_Com_targets_1
+parking I_Com_targets_1
+brake E_Com_targets_1
+. O
+
+Spoofing S_AP_M_1
+regular O
+EBP S_Com_targets_1
+message O
+for O
+applying O
+the O
+parking B_Com_targets_1
+brake E_Com_targets_1
+. O
+
+Strong B_Con_hasImpact_1
+braking E_Con_hasImpact_1
+of O
+the O
+vehicle O
+. O
+

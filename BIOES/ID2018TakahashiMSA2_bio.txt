@@ -1,0 +1,30 @@
+Sniffing B_AP_M_1
+CAN I_AP_M_1
+messages E_AP_M_1
+with O
+information O
+( O
+speed O
+) O
+for O
+cruise B_Com_targets_m
+control E_Com_targets_m
+. O
+
+Spoofing B_AP_M_1
+CAN I_AP_M_1
+messages E_AP_M_1
+with O
+false O
+speed O
+, O
+gear O
+and O
+steering O
+. O
+
+Disabling B_Con_hasImpact_m
+park I_Con_hasImpact_m
+assistance E_Con_hasImpact_m
+. O
+

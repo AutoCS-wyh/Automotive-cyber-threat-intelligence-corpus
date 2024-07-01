@@ -1,0 +1,130 @@
+Getting B_Con_hasImpact_1
+full I_Con_hasImpact_1
+control E_Con_hasImpact_1
+( O
+root O
+) O
+on O
+StarLink B_Com_targets_1
+Head I_Com_targets_1
+Unit E_Com_targets_1
+by O
+flashing B_AP_M_1
+malicious I_AP_M_1
+firmware I_AP_M_1
+update E_AP_M_1
+via O
+USB B_AV_based-on_1
+port E_AV_based-on_1
+connection O
+. O
+
+This O
+results O
+in O
+code B_Con_hasImpact_1
+execution E_Con_hasImpact_1
+with O
+root O
+privileges O
+. O
+
+Analysis O
+of O
+physical O
+components O
+of O
+the O
+Head B_Com
+Unit E_Com
+. O
+
+Information O
+about O
+hardware O
+, O
+its O
+connectors O
+, O
+platine O
+, O
+processor O
+, O
+ports O
+could O
+be O
+gathered O
+. O
+
+Analysis O
+of O
+firmware S_Com
+ISO O
+image O
+. O
+
+Information O
+firmware O
+files O
+, O
+update O
+process O
+, O
+locations O
+could O
+be O
+gathered O
+. O
+
+Reverse B_AP_targets_1
+Engineering E_AP_targets_1
+the O
+encryption B_Com_targets_1
+algorithm E_Com_targets_1
+and O
+secret O
+keys O
+. O
+
+Enrcryption O
+algorithm E_Com
+and O
+secret O
+keys O
+could O
+be O
+gathered O
+. O
+
+Modifying B_AP_M_1
+firmware E_AP_M_1
+and O
+inserting B_AP_M_1
+sshd I_AP_M_1
+backdoor E_AP_M_1
+. O
+
+Malicious B_Con_M_m
+firmware I_Con_M_m
+file E_Con_M_m
+could O
+be O
+created O
+. O
+
+Installing O
+malicious O
+firmware O
+update O
+via O
+USB S_AV
+. O
+
+Malicious B_Con_M_m
+firmware I_Con_M_m
+update E_Con_M_m
+on O
+Head B_Com
+Unit E_Com
+. O
+

@@ -1,0 +1,134 @@
+Deactivation B_Con
+of I_Con
+park I_Con
+assistance E_Con
+by O
+setting O
+the O
+park B_Com
+assistance I_Com
+ECU E_Com
+into O
+bootrom B_Con
+mode E_Con
+by O
+sending O
+CAN O
+messages O
+. O
+
+Setting O
+PAM S_Com
+into O
+Bootrom B_Con
+Mode E_Con
+via O
+Diagnostic S_AV
+Messages O
+. O
+
+ECU S_Com
+is O
+set O
+into O
+bootrom O
+mode O
+. O
+
+Getting B_Con
+Security I_Con
+Access E_Con
+. O
+
+Security O
+Access O
+is O
+established O
+. O
+
+Deleting O
+Firmware S_Com
+. O
+
+Erasing B_AP_based-on_1
+the I_AP_based-on_1
+firmware E_AP_based-on_1
+via O
+Diagnostic S_AV_based-on_1
+messages O
+. O
+
+Diagnostic O
+messages O
+to O
+tell O
+ECU S_Com_consists-of_1
+that O
+new O
+firmware S_Com_consists-of_1
+will O
+be O
+downloaded O
+( O
+but O
+is O
+actually O
+not O
+downloaded). O
+ECU S_Com
+is O
+not O
+available O
+anymore O
+. O
+
+Sending O
+malicious O
+CAN O
+messages O
+with O
+vehicle O
+speed O
+. O
+
+Spoofing S_AP_targets_1
+of O
+false O
+speed O
+. O
+
+ECUs S_Com_targets_1
+in O
+the O
+CAN O
+network O
+read O
+false O
+speed O
+. O
+
+Steering O
+the O
+vehicle O
+by O
+spoofing S_AP_targets_1
+of O
+park B_Com_targets_1
+assistance E_Com_targets_1
+CAN O
+messages O
+. O
+
+Spoofing S_AP_hasImpact_1
+of O
+steering O
+commands O
+. O
+
+Steering B_Con_hasImpact_1
+activation E_Con_hasImpact_1
+by O
+any O
+speed O
+. O
+

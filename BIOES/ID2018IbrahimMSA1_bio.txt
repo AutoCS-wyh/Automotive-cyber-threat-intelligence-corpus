@@ -1,0 +1,47 @@
+Bypassing O
+keyless B_Com_targets_m
+entry I_Com_targets_m
+system E_Com_targets_m
+by O
+jamming S_AP_targets_m
+and O
+replaying S_AP_targets_m
+key B_Com_targets_m
+fob E_Com_targets_m
+signals O
+. O
+
+Jamming S_AP_M_1
+and O
+recording O
+communication O
+between O
+key O
+user O
+and O
+car O
+. O
+
+Read O
+key B_Com_targets_m
+fob E_Com_targets_m
+info O
+, O
+car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+or O
+break-ins. O
+Replay S_AP_M_1
+previously O
+recorded O
+code O
+sequence O
+to O
+open O
+door O
+. O
+
+Car B_Con_hasImpact_1
+theft E_Con_hasImpact_1
+or O
+break-ins. O

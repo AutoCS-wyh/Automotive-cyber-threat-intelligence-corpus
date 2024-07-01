@@ -1,0 +1,23 @@
+Relay B_AP_targets_1
+attack E_AP_targets_1
+on O
+keyless B_Com_M_1
+entry I_Com_M_1
+system E_Com_M_1
+of O
+45 O
+Ford B_Veh_consists-of_1
+Fiestas E_Veh_consists-of_1
+. O
+
+Performing O
+Relay B_AP_hasImpact_1
+Attack E_AP_hasImpact_1
+. O
+
+Cars O
+have O
+been O
+stolen S_Con_hasImpact_1
+. O
+
