@@ -25,9 +25,9 @@ BIOES："BIOES" - "entity type" - "relation type" - "entity role" joint annotati
 
 a.format conversion: BIOES joint annotation.py
 
-b.preprocessing: read.py;preprocess.py
+b.preprocessing: read.py; preprocess.py
 
-c.deep learning model training: BERT-BiLSTM-att-CRF;BiLSTM-dynamic-att-LSTM
+c.deep learning model training: BERT-BiLSTM-att-CRF; BiLSTM-dynamic-att-LSTM
 
 **4.Brat tool**
 
